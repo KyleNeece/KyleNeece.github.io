@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Kyle's Dungeons and Dragon's Wiki
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+**Note**: Potential spoilers ahead 
