@@ -8,6 +8,11 @@ Emily Sigiliph is loyal, tactical, and disciplined but perfectionist and over-cr
 ###### Adolescence
 Emily grew up in a militaristic family, along with Johnny Sigiliph. The two would train in both armed and unarmed combat as physical activity and sport. While her brother relied on brute strength to win fights, Emily relied more-so on technique to win her fights. The two were enlisted into military service at very young ages and were even deemed as squadron captains during their teenage years. With the opening of the Peacekeeper academy combined with their strong combat prowess, their father and mother urged them to enroll, in order to learn and study with similar caliber warriors. 
 ###### Twin Prodigies Arc
+``` Spoiler-Block
+
+Emily's parents being accomplished military personnel were able to enroll Emily into the academy. Before settling down, she surveyed the room, to see who looked strong so she could pick a rival. In the crowd she found [[Jackson Felwinter]] and [[Azriel Darkstar]], who through her analyzation were radiating immense strength for their age. She joined them and [[Olivia Birdsong]], at the table, introducing herself and quickly become acquaintances. Emily was sorted into House Apex
+
+```
 Emily's parents being accomplished military personnel were able to enroll Emily into the academy. Before settling down, she surveyed the room, to see who looked strong so she could pick a rival. In the crowd she found [[Jackson Felwinter]] and [[Azriel Darkstar]], who through her analyzation were radiating immense strength for their age. She joined them and [[Olivia Birdsong]], at the table, introducing herself and quickly become acquaintances. Emily was sorted into House Apex
 ###### House Tournament Arc
 During the House Tournament Arc, Emily finished in the top 20 in the Social Networking challenge due to her well balanced approach to different sets of problems thanks to her military training
