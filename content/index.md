@@ -1,5 +1,5 @@
 ---
-title: Kyle's Dungeons and Dragon's Wiki
+title: Peacekeepers of the Multiverse Wiki
 ---
 **Note**: This website is a full composition of all my notes about my DND campaign(s). 
 
