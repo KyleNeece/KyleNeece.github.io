@@ -1,4 +1,4 @@
-The Istoria Rytsarey (rough translation: Story Knights) are an organization of powerful unique Runekeeper's who merged their power with their magical bloodlines, and serve as the bane of [[The Omnipotent One]]
+The Istoria Rytsarey (istoria-root-sery - rough translation: Story Knights) are an organization of powerful unique Runekeeper's who merged their power with their magical bloodlines, and serve as the bane of [[The Omnipotent One]]
 ###### **General Information**
 The Istoria Rytsarey were created with the purpose of taking peoples Fables, which are events and occurrences that an individual holds when they accomplish something significant. These stories are then recorded by the Omnipotent One, who is the writer of stories. Each Istoria Rytsarey is assigned a Fable by Nyarlathotep (The Infinite Reader) which gives them unique abilities. These Fable are based off of a Word and the meaning of it within a Story. 
 
