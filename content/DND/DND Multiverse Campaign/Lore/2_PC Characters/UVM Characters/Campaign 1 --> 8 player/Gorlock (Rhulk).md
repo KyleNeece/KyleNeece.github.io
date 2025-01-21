@@ -6,7 +6,8 @@ Gorlock is a Path of the Ragemage Minotaur Barbarian (played by Will P) and curr
 
 ##### Brief History/Timeline  
 ###### Early Ages
- > [!Warning]- 
+ > [!Warning]- Spoilers Ahead
+ > 
  > Rhulk was originally one of [[Arangol|Arangol's]] military higher ups within the previous timeline, and specialized in brute force combat and dark magic. He partook in the assault on Sigil, and faced off against [[Ryū Hoshi|Ryū Hoshi]] during the [[2.5_Declaration of War Arc|2.5_Declaration of War Arc]]. However, Hoshi's final evolution was too much for Rhulk, as his dark magic and might was no match for Hoshi's new power, killing him in the end. After the [[2.6_Panmnesia Arc|2.6_Panmnesia Arc]], the timeline was reset, and Rhulk was created once again, but was incapacitated by [[Nathan Murgul|Nathan Murgul]] and had brain and intuition reprogrammed to have Bounty Hunter tendencies.
 ###### The Evernight Hunt Arc
 Once [[Reemus, the Inscrutable Spider]]'s defeat dispelled part of the obscuring magic, Nathan told Rhulk to help the party, not as a former peacekeeper, but as a man of his own motivations and freedom. The party then made their way through the unseen district, and defeated the [[Trapped Souls of Evernight]]. A portal then opened leading to the nightmare of Sai Mona, to which the players entered. The party made a long and difficult journey to the top of a tower, where [[Meleena's Wetnurse]] was located and a projection of [[Maren, Queen of Evernight]] stood in dispair. Uponn the Wetnurses defeat and Maren's lifted grief, the party then made it back to the workshop. 
