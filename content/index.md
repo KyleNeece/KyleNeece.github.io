@@ -3,9 +3,7 @@ title: Peacekeepers of the Multiverse Wiki
 ---
 **Note**: This website is a full composition of all my notes about my DND campaign(s). 
 
-As of 1/13/25 I have not figured out how to mark spoilers or only show specific notes, so view these entires and websites at your own risk. 
-
-I am also relearning about Plugins for stat blocks and stuff so some statblocks will not be present
+1/21/25 - Spoilers have been marked down. HowI am relearning about Plugins for stat blocks so some statblocks will not be present
 
 
 **For UVM 2024-2025 Campaign**
@@ -14,7 +12,6 @@ For those of you who missed last session or need a reminder on the new rules for
 	- Helps with people who may not participate as much due to spotlight things
 - Roll a hit die health encounters 
 	- Sometimes I'll ask you to roll your hit die for the day. The number you roll = the number of hits you can take for the day. Damage calculations work differently, but I can help you with those in session 
-
 - Stealth System 
 	- Similar to stealth video games, there will be a detection value if a character sees something suspicious. If the meter hits the max, combat will initiate if the character is hostile 
 - Timer system (Min/Hour/Days)

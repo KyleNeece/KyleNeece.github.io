@@ -2,6 +2,9 @@
 Azriel Darkstar was a [[Nephilim]] who attended [[peacekeeper academy]], who later ascended to godhood by the multiversal runes, becoming Tartarus enslaver of worlds. After his rebirth and purification, he is arguably considered the strongest peacekeeper
 ##### Appearance 
 ![[Azriel Darkstar.png]]
+![[Pasted image 20250119202954.png]]
+![[Pasted image 20250119203922.png]]
+
 **Purified Azriel**
 
 ![[Tartarus Enslaver of Worlds.jpg]]**Tartarus, Enslaver of Worlds**

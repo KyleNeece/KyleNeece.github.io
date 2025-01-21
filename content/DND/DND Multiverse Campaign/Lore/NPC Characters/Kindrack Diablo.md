@@ -1,0 +1,1 @@
+![[Kindrack Diablo.png]]
