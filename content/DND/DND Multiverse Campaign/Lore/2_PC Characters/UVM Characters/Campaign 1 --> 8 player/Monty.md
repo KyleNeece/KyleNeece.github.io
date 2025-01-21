@@ -10,6 +10,7 @@ Monty is a Jotun Dialect Stoneback Wukong Runekeeper and a [[Peacekeeper]] (play
 ###### Early Ages
 Monty originated from a pocket dimension located in an unknown world, most likely a universe or two over from universe 1. He studied runic magic with a focus on Abysal runes while keeping his physical expression style similar to that of Jotun.
  > [!Warning]- Spoilers Here Click at Own Risk 
+ > 
  > One day, the  [[Sisters of Fallen Sanctity|Sisters of Fallen Sanctity]], who were previously two separate rune keepers, where actually trying to defend Monty's planet, instead of destroying it like Monty had perceived. At this moment, The Infinite Reader, the leader of [[The Istoria Rytsarey|The Istoria Rytsarey]], a group of powerful Runekeepers, activated his Story Retainment, absorbing all life on the planet as well as all Runekeeper's powers. However, Monty was unaffected and his ignorance led him to believe that his planet was destroyed be a demonic entity, who he seeks to hunt down.
 ###### The Peacekeeper Trials Arc
 Monty participated in the peacekeeper trials in order to become enlisted within the force. He and 7 others were assigned to [[Ludwig Van Scythe]], who oversaw their trial. Completing the trials, Monty was assigned the D letter peacekeeper rank, and would eventually work his way up into the higher tiers. 
