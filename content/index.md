@@ -3,7 +3,7 @@ title: Peacekeepers of the Multiverse Wiki
 ---
 **Note**: This website is a full composition of all my notes about my DND campaign(s). 
 
-1/21/25 - Spoilers have been marked down. HowI am relearning about Plugins for stat blocks so some statblocks will not be present
+1/21/25 - Spoilers have been marked down. However am relearning about Plugins for stat blocks so some statblocks will not be present
 
 
 **For UVM 2024-2025 Campaign**
