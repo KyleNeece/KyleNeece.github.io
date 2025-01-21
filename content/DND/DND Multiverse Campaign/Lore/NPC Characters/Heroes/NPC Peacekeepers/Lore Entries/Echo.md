@@ -1,5 +1,5 @@
 ##### Brief Summary 
-Echo is a Changeling Assassin Rogue and S-Rank [[peacekeeper]]
+Echo is a Changeling Assassin Rogue and S-Rank [[Peacekeeper]]
 ##### Appearance 
 N/A
 ##### Personality 

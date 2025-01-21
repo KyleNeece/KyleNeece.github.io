@@ -1,5 +1,5 @@
 ##### Brief Summary 
-Johnny Sigiliph is a Sweet Science Human Pugilist and S-Rank [[peacekeeper]]
+Johnny Sigiliph is a Sweet Science Human Pugilist and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Johnny Sigiliph.png]]
 ##### Personality 

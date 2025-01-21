@@ -1,5 +1,5 @@
 ##### Brief Summary 
-Ryū Hoshi is a Sign of the Dragon Pandaren Zodiac from the far away land of Kara-Tur and S-Rank [[peacekeeper]] 
+Ryū Hoshi is a Sign of the Dragon Pandaren Zodiac from the far away land of Kara-Tur and S-Rank [[Peacekeeper]] 
 ##### Appearance 
 ![[Ryū Hoshi.png]]
 

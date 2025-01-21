@@ -1,5 +1,5 @@
 ##### Brief Summary 
-Hank Dreadbone is a Skeleton Curse of Possession Accursed originating from the Shadowfell and S-Rank [[peacekeeper]]
+Hank Dreadbone is a Skeleton Curse of Possession Accursed originating from the Shadowfell and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Hank Dreadbone.png]]
 ![[Ire.png]]
