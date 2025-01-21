@@ -12,9 +12,3 @@ Fists is a magical pair of brass knuckles and Paws is a magical collar
 	- Dog has not had his memories restored
 
 
-Striker abilities 
-Give extended range 
-Dog upgrades
-- grow in size 
-- smite with moxie points 
-Give a way to get back moxie 

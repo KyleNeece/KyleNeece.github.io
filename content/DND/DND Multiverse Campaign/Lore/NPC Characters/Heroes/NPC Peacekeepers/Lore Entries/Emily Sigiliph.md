@@ -8,7 +8,7 @@ Emily Sigiliph is loyal, tactical, and disciplined but perfectionist and over-cr
 ###### Adolescence
 Emily grew up in a militaristic family, along with Johnny Sigiliph. The two would train in both armed and unarmed combat as physical activity and sport. While her brother relied on brute strength to win fights, Emily relied more-so on technique to win her fights. The two were enlisted into military service at very young ages and were even deemed as squadron captains during their teenage years. With the opening of the Peacekeeper academy combined with their strong combat prowess, their father and mother urged them to enroll, in order to learn and study with similar caliber warriors. 
 ###### Twin Prodigies Arc
-Emily's parents being accomplished military personnel were able to enroll Emily into the academy. Before settling down, she surveyed the room, to see who looked strong so she could pick a rival. In the crowd she found [[Jackson Felwinter]] and [[Azriel Darkstar]], who through her analyzation were radiating immense strength for their age. She joined them and [[Olivia Birdsong]], at the table, introducing herself and quickly become acquaintances. Emily was sorted into House Apex
+Emily's parents being accomplished military personnel were able to enroll Emily into the academy. Before settling down, she surveyed the room, to see who looked strong so she could pick a rival. In the crowd she found [[(WORK IN PROGRESS) Jackson Felwinter]] and [[Azriel Darkstar]], who through her analyzation were radiating immense strength for their age. She joined them and [[Olivia Birdsong]], at the table, introducing herself and quickly become acquaintances. Emily was sorted into House Apex
 ###### House Tournament Arc
 During the House Tournament Arc, Emily finished in the top 20 in the Social Networking challenge due to her well balanced approach to different sets of problems thanks to her military training
 In the Gem Hunt Challenge, Emily finished higher up by using her tracking skills to follow other players and ultimately steal the gem from them through defeating them in combat
@@ -19,7 +19,9 @@ Emily was in the stands when [[Arangol]] and his forces invaded. The second he s
 Upon Azriel returning to Sigil, Emily was pissed. As Azriel led his forces into the capital, Emily dashed to the scene, taking out many of Azriel's forces. However, once she reached Azriel's elite forces and Azriel himself, he taunted her, leaving her to disregard all strategy and rush at him, only to be backstabbed by his personal guard, while he went off to obtain the final multiverse rune in order to complete his ascension. Though a bloody battle, Emily survived, killing Azriel's personal guard only for it to be too late and Azriel completed his ascension.
 ###### Declaration of War Arc
 Emily's wounds healed, and she called upon her family and their armies in order to protect Sigil, she was one of the main frontliners, along with [[Yasu-2]] who would clear a path for Jackson to get to Azriel
-###### Panmnesia Arc
+ > [!Warning]- Spoilers Ahead
+ > 
+ > ###### Panmnesia Arc
 After the hard fought battle, Emily's grievous wounds were being treated by medics when the Panmnesia spell was cast, losing all her memories of the events
 ###### Recruitment
 Emily was auto recruited into the Peacekeeper force and was assigned S-Rank class

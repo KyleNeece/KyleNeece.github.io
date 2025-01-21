@@ -3,7 +3,11 @@ title: Peacekeepers of the Multiverse Wiki
 ---
 **Note**: This website is a full composition of all my notes about my DND campaign(s). 
 
-1/21/25 - Spoilers have been marked down. However am relearning about Plugins for stat blocks so some statblocks will not be present
+**1/21/25** - Spoilers have been marked down. However am relearning about Plugins for stat blocks so some statblocks will not be present
+
+ > [!Important]
+ > 
+ > **1/21/25** - If you plan on viewing Cour 1 and Cour 2 (2.1 through 2.6), I'd highly advise against it until you reach a certain point in the campaign (which I will let you know) as it may contain heavy spoilers
 
 
 **For UVM 2024-2025 Campaign**

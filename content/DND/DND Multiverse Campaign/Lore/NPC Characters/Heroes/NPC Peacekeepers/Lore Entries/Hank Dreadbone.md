@@ -9,7 +9,7 @@ Hank, despite the name, is actually laidback, eccentric, and a jokester. Despite
 ###### Adolescence 
 Not much is known about Hank's adolescence, all that is known is that he died at a very young age and was magically resurrected by his curse for unknown reasons. He also bears the spirit of his dead brother from his past, who guides him throughout his life.
 ###### Twin Prodigies Arc
-Hank Dreadbone was one of the main exchange students that came for a semester abroad at [[Peacekeeper academy]], along with the rest of the party that would become rivals with [[Jackson Felwinter]]'s crew. Hank helped [[Yasu-2]] disperse the party from their pointless trash talk banter, as he was getting tired of it and he found it a drag like Yasu-2 did.
+Hank Dreadbone was one of the main exchange students that came for a semester abroad at [[Peacekeeper academy]], along with the rest of the party that would become rivals with [[(WORK IN PROGRESS) Jackson Felwinter]]'s crew. Hank helped [[Yasu-2]] disperse the party from their pointless trash talk banter, as he was getting tired of it and he found it a drag like Yasu-2 did.
 ###### House Tournament Arc
 Hank Dreadebone, like the rest of Jackson's and Johnny's group, finished very high in most of the events. He however, lost to Emily Sigiliph, as her raw fighting prowess overtook his curse and antimagic abilities.
 ###### The Illithid Mage Arc

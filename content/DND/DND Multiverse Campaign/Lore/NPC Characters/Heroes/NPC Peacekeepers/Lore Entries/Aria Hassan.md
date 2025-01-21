@@ -1,5 +1,5 @@
 ##### Brief Summary 
-Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank Peacekeeper, and engaged to [[Jackson Felwinter]]
+Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank Peacekeeper, and engaged to [[(WORK IN PROGRESS) Jackson Felwinter]]
 ##### Appearance 
 ![[Aria Hassan.png]]
 
@@ -9,7 +9,7 @@ Aria was a tsundere who slowly developed a softer, kind, and likeable side of ch
 ###### Adolescence
 Aria grew up in the Serpent hills, worshiping the Night Serpent along with the rest of her society. Since born a pureblood, Aria was at the bottom of society, and most of her people, including her mother and father, thought of her as a mistake. As a one day made a dire wish for more power, and Dendar created a pact with her due to the potential he saw in her. Dendar granted Aria power, but wanted her to cause as much carnage and manipulation as possible throughout the land. Aria used this power to fight her homeland people and flee, no longer tying herself to worship like the rest of her tribe.
 ###### Twin Prodigies Arc
-Through deception, trickery and violence, Aria was able to achieve enough money to make it into the academy. Upon arriving, [[Jackson Felwinter]], [[Azriel Darkstar]] and [[Yasu-2]] were the first ones she met, meeting [[Emily Sigiliph]] and [[Olivia Birdsong]] later. Jackson offered her to join them. Looking to fit in and take advantage of Jackson, Aria joined the three. However, Yasu-2, being a Cleric of Eldath, sensed great evil with Aria, and warned Jackson, only for Jackson to tell him he sensed it too, but he plans on helping her control it and use it for the better. Aria immediately started talking with Jackson, attempting to use deceptive charm in order to get him to like her more. Unaffected by the charm, Jackson greets her warmly as the two have conversation. Aria was sorted into house Apex.
+Through deception, trickery and violence, Aria was able to achieve enough money to make it into the academy. Upon arriving, [[(WORK IN PROGRESS) Jackson Felwinter]], [[Azriel Darkstar]] and [[Yasu-2]] were the first ones she met, meeting [[Emily Sigiliph]] and [[Olivia Birdsong]] later. Jackson offered her to join them. Looking to fit in and take advantage of Jackson, Aria joined the three. However, Yasu-2, being a Cleric of Eldath, sensed great evil with Aria, and warned Jackson, only for Jackson to tell him he sensed it too, but he plans on helping her control it and use it for the better. Aria immediately started talking with Jackson, attempting to use deceptive charm in order to get him to like her more. Unaffected by the charm, Jackson greets her warmly as the two have conversation. Aria was sorted into house Apex.
 ###### House Tournament Arc
 In the house tournament arc, Aria scored extremely high on the Social Networking challenge due to her deception and trickery skills.
 In the Gem Hunt Challenge, Aria at first struggled, but was ultimately helped out by Jackson Felwinter. Though she got mad at him for helping her, she secretly was thankful, as she would have been eliminated if not for him.

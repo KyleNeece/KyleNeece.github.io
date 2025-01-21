@@ -6,17 +6,3 @@ The Ardriti is a Weapon
 
 
 
-
-Has can turn invis when completely still
-Knuckle knives
-change apperance at will
-
-
-Scarab abilities and upgrades 
-- Sneak 
-- Spells (enchantment maybe)
-- Unique ranged weapon attack 
-- microblades all over armor 
-- Cast minor illusion using both abilities and gain minor illusion
-
-Give him harrasser playstyle to allow him to weave in and out of combat, mobile

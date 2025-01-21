@@ -15,7 +15,7 @@ Azriel was a kind, selfless, intelligent person who always would help others in 
 ###### Adolescence
 When Azriel was just a kid, his parents died at the hands of Lady Pain. They were very good friends with [[Will Felwinter]] and as such Will Felwinter took him into his care. Azriel grew up alongside Jackson, and the two were brothers to each other. When Azriel was old enough to move out, Will made sure that Azriel was well taken care of and watched, providing him the resources he needed to be successful. With the opening of the peacekeeper academy, Azriel was enrolled with Jackson.
 ###### Twin Prodigies Arc
-[[Jackson Felwinter]] and Azriel on the way to the academy intervened in a minor threat, with a few gangs causing trouble. Despite their young age, Azriel and Jackson defeated them effortlessly, after which they went to the academy. Azriel was also considered a prodigy as much as Jackson was, with the problem that others would gossip and look at Azriel like he was some sort of monster. Despite it all, Jackson still continued to hang around him and be his friend, which confused many of the students. During the house selection ceremony, Azriel was the first peacekeeper ever to cause a stall in the selection, as they were unable to put him into a house that would best fit due to being well rounded. As a result, they decided to put him into House Catalyst. 
+[[(WORK IN PROGRESS) Jackson Felwinter]] and Azriel on the way to the academy intervened in a minor threat, with a few gangs causing trouble. Despite their young age, Azriel and Jackson defeated them effortlessly, after which they went to the academy. Azriel was also considered a prodigy as much as Jackson was, with the problem that others would gossip and look at Azriel like he was some sort of monster. Despite it all, Jackson still continued to hang around him and be his friend, which confused many of the students. During the house selection ceremony, Azriel was the first peacekeeper ever to cause a stall in the selection, as they were unable to put him into a house that would best fit due to being well rounded. As a result, they decided to put him into House Catalyst. 
 ###### House Tournament Arc
 During the House Tournament Arc, everyone was eager to see Azriel's power on display, as close to no one has seen a runekeeper in actual action
 Azriel finished very high in the Social Networking challenge as well, essentially indimidating he way through 
@@ -34,8 +34,10 @@ Azriel made it to the rune, however, [[Olivia Birdsong]] stood between it, sobbi
 Azriel, now Tartarus returns to Arangol, telling him the work is done. Arangol thanks him, and tells him to prepare for the upcoming war as he suspects Sigil to launch a counter attack.
 Surely enough, Sigil launches a counter attack, where Tartarus's forces clash with the opposing Sigil and many more plane wide forces. Being the general of his army Tartarus did not engage, until Jackson along with Will Felwinter's old party, came to his throne room to stop him. 
 The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartarus summoned his 3 highest ranking generals in order to make it a 4 v 6, but it was not enough was the opposing force kept pushing him back on the defensive. Tartarus finally was pushed to release the 7 runes full power, but due to not being worthy enough to become a god, he lost control and became an monstrosity. In this state he defeated and killed everyone but Jackson. However, their sacrifices were intentional, as Jackson was able to land the killing blow, defeating Tartarus.
-###### Panmnesia Arc
-Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until a new adventurer (A Runekeeper) found the now scattered rune of the multiverse, and he was able to visit them in their mind.
+ > [!Warning]- Spoilers Ahead
+ > 
+ > ###### Panmnesia Arc
+Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until he connected with new adventurer through their soul.
 ###### Recruitment
 Azriel was never formerly inducted into the military force, but instead attended the academy 
 ##### Abilities  

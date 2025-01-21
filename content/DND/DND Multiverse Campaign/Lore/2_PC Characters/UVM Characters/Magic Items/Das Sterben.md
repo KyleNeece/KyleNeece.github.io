@@ -6,9 +6,3 @@ Das Sterben is a greatsword
 
 
 
-Melee with few complimentary spells 
-
-Pact rod upgrade
-Dark shard amulet 
-pearl of power
-ring of the ram 

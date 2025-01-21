@@ -10,7 +10,9 @@ Alder is kind, virtuous, but stoic himself, despite having an affinity to unders
 Not much is known about Alder other then the fact that he was an original resident of Evernight, and was one of the first Paladins of the Healing church when the first hunt happened. While not great friends with [[Ludwig Van Scythe]], they respected one another and considered each other work friends with regards to the yearly hunt in the [[City of Evernight]]. 
 ###### The Felwinter Saga
 Alder throughout the entirety of the Felwinter saga was trapped within the City of Evernight's Hunt, with his actions taking place way before the events. It was said that him and Ludwig Van Scythe engaged [[Lady Gabriella Alucard II]] in combat, ultimately winning and gaining her respect as she was dying, noting his unwavering resolve despite being mortal. After her resurrection, she deems him her master. 
-At somepoint during the revised timeline, Alder preformed most of his similar events. 
+ > [!Warning]- Spoilers Ahead
+ > 
+ > At somepoint during the revised timeline, Alder preformed most of his similar events. 
 ##### Abilities  
 Alder is a level 16 Devotion Paladin
 

@@ -23,8 +23,10 @@ Yasu-2 attempted to stop Azriel, who was now Tartarus, but his attempts were fut
 Jackson was able to unseal Yasu-2 and the two immediately went to old friends for help. While Jackson gathered a lot of Will's old party members, Yasu-2 using his creator's memories, began activating the various contingencies he made in case something like this had happened. 
 When war began, Yasu-2 was one of the main leaders of the main infantry force, using his god's divine power to help clear the masses. When he made it to Arangol's generals, he called upon his god directly and he answered his prayers, granting him indomitable strength and was even able to make it to Azriel.
 However, it was still not enough, as Azriel was able to take him down once again.
-###### Panmnesia Arc
-While badly damaged, Yasu-2 was able to survive once again. Before the Panmnesia spell hit, Yasu-2 made sure to activate the contingency that his father has, in order to not lose his memory. He linked his conscious with __ (the warforged), as once he would lose his memories, the warforged would reshare Yasu-2's memories back with him. 
+ > [!Warning]- Spoilers Ahead
+ > 
+ > ###### Panmnesia Arc
+While badly damaged, Yasu-2 was able to survive once again. Before the Panmnesia spell hit, Yasu-2 made sure to activate the contingency that his father has, in order to not lose his memory. He linked his conscious with [[Kabe-34]], as once he would lose his memories, the warforged would reshare Yasu-2's memories back with him. 
 ###### "Recruitment"
 Yasu-2 was auto-admitted into the Peacekeeper force, as Jackson Felwinter instantly knew their capabilities due to not losing his memory, grading them the S-class Peacekeeper title.
 ##### Abilities  

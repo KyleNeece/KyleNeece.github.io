@@ -2,7 +2,7 @@ The 12 and the King are the 12 greatest [[Peacekeeper]]s within the organization
 
 **Members of the 12** 
 - [[Twitch]] - Sovereign  
-- [[Jackson Felwinter]] - Magus
+- [[(WORK IN PROGRESS) Jackson Felwinter]] - Magus
 - [[Azriel Darkstar]] - Runekeeper
 - [[Olivia Birdsong]] - Bard
 - [[Emily Sigiliph]] - Fighter 

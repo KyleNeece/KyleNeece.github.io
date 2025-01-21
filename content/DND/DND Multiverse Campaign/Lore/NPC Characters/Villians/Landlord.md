@@ -1,5 +1,5 @@
 ##### Brief Summary 
-The Landlord is a simulacrum of _________ , who serves as [[Arangol]]'s main research and intelligence head. 
+The Landlord is a simulacrum who serves as [[Arangol]]'s main research and intelligence head. 
 ##### Appearance
 ![[The Landlord.png]]
 ##### Brief History/Timeline   
