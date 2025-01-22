@@ -12,7 +12,7 @@ title: Peacekeepers of the Multiverse Wiki
 
 
 **For UVM 2024-2025 Campaign**
-For those of you who missed last session or need a reminder on the new rules for act 2, here they are.
+For those who need a reminder on the new rules for act 2 (within Thieves Metropolis and associated plot only), here they are.
 - Out of combat initiative 
 	- Helps with people who may not participate as much due to spotlight things
 - Roll a hit die health encounters 
