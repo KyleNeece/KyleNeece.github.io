@@ -22,7 +22,7 @@ Emily's wounds healed, and she called upon her family and their armies in order 
  > [!Warning]- Spoilers Ahead
  > 
  > ###### Panmnesia Arc
-After the hard fought battle, Emily's grievous wounds were being treated by medics when the Panmnesia spell was cast, losing all her memories of the events
+ > After the hard fought battle, Emily's grievous wounds were being treated by medics when the Panmnesia spell was cast, losing all her memories of the events
 ###### Recruitment
 Emily was auto recruited into the Peacekeeper force and was assigned S-Rank class
 ##### Abilities  

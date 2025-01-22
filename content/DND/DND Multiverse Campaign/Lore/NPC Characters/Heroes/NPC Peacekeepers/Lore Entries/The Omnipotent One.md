@@ -8,4 +8,4 @@ The Omnipotent one is very calm, collected and wise, often giving the best advic
 ###### Origins
 Nothing is known about the Omnipotent one, all that is known is that he was fond Jaloops magic one day, and he granted him magical music and spells, and he has existed for eons of time
 ##### Abilities  
-The omniscient one is a level 20 divination Wizard
+The Omnipotent one is a level 20 divination Wizard

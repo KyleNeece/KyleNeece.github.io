@@ -19,7 +19,10 @@ When Azriel invaded, Lillith spent a lot of her time protecting Olivia, as she w
 ###### Declaration of War Arc
 Lillith Ashford gathered the Army of Evereska to help fight in the big battle to save the world which she also partook in
 ###### Panmnesia Arc
-Lillith Ashford was driving the enemy forces when the Panmnesia spell was cast, losing all her memories of the events
+ > [!Warning]- Spoilers Ahead
+ > 
+ > ###### Panmnesia Arc
+ > Lillith Ashford was driving the enemy forces when the Panmnesia spell was cast, losing all her memories of the events
 ###### Recruitment
 Lillith Ashford was auto admitted into the peacekeeper force due to her finesse, support and fighting capabilities and was given S-Rank
 ##### Abilities  

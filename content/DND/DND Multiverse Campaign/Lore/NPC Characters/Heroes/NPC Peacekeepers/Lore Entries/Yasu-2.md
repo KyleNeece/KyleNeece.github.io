@@ -26,7 +26,7 @@ However, it was still not enough, as Azriel was able to take him down once again
  > [!Warning]- Spoilers Ahead
  > 
  > ###### Panmnesia Arc
-While badly damaged, Yasu-2 was able to survive once again. Before the Panmnesia spell hit, Yasu-2 made sure to activate the contingency that his father has, in order to not lose his memory. He linked his conscious with [[Kabe-34]], as once he would lose his memories, the warforged would reshare Yasu-2's memories back with him. 
+ > While badly damaged, Yasu-2 was able to survive once again. Before the Panmnesia spell hit, Yasu-2 made sure to activate the contingency that his father has, in order to not lose his memory. He linked his conscious with [[Kabe-34]], as once he would lose his memories, the warforged would reshare Yasu-2's memories back with him. 
 ###### "Recruitment"
 Yasu-2 was auto-admitted into the Peacekeeper force, as Jackson Felwinter instantly knew their capabilities due to not losing his memory, grading them the S-class Peacekeeper title.
 ##### Abilities  

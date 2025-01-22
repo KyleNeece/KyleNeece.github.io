@@ -21,6 +21,9 @@ Hank gathered the dead corpses of evil beings and shared his curse with them, re
 ###### Panmnesia Arc
 Hank was in the thick of battle when the Panmenesia spell hit, losing all of his memories.
 ###### Recruitment
-Hank Dreadbone was automatically recruited into the peacekeeper force as an S-Rank
+ > [!Warning]- Spoilers Ahead
+ > 
+ > ###### Panmnesia Arc
+ > Hank Dreadbone was automatically recruited into the peacekeeper force as an S-Rank
 ##### Abilities  
 Hank Dreadbone is a level 16 Curse of Possession Accursed

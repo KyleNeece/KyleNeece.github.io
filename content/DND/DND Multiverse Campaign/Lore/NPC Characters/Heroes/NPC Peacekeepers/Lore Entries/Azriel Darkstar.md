@@ -37,7 +37,7 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
  > [!Warning]- Spoilers Ahead
  > 
  > ###### Panmnesia Arc
-Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until he connected with new adventurer through their soul.
+ > Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until he connected with new adventurer through their soul.
 ###### Recruitment
 Azriel was never formerly inducted into the military force, but instead attended the academy 
 ##### Abilities  
