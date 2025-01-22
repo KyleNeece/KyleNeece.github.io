@@ -3,6 +3,8 @@ title: Peacekeepers of the Multiverse Wiki
 ---
 **Note**: This website is a full composition of all my notes about my DND campaign(s). 
 
+**Next Session**: Next Tuesday 7-9 as of **1/21/25**
+
 **1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present. Some character pages may also not be updated as I have a life outside of this so keep that in mind. 
 - **[[Session 17]] Notes are posted**
 
