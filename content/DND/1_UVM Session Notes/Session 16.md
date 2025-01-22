@@ -1,3 +1,4 @@
+Previous: [[Session 15]]
 - The party asks a few questions to each of the aligned Peacekeeper's who share a similar goal to them 
 - The party is then deployed into the Feywild in search for the Flower of Soul's Persona 
 - The party then gets a mysterious call over their sending jewelry 

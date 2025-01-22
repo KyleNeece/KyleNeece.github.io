@@ -3,7 +3,8 @@ title: Peacekeepers of the Multiverse Wiki
 ---
 **Note**: This website is a full composition of all my notes about my DND campaign(s). 
 
-**1/21/25** - Spoilers have been marked down. However am relearning about Plugins for stat blocks so some statblocks will not be present
+**1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present
+- **[[Session 17]] Notes are posted**
 
  > [!Important]
  > 
