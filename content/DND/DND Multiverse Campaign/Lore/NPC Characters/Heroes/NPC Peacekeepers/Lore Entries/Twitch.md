@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Twitch is a Warrior Dynasty Kenku Sovereign originating from southern Faerun and S-Rank [[Peacekeeper]]
+
+update links
 ##### Appearance 
 ![[Twitch.png]]
 ##### Personality 

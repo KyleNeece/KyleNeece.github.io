@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Tokka is a Circle of Stars Druid originating from Chult and is a S-Rank [[Peacekeeper]]. 
+
+update links
 ##### Appearance 
 ![[Tokka.png]]
 

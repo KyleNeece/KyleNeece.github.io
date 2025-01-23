@@ -1,1 +1,0 @@
-![[Diablo Spyder Tank.png]]

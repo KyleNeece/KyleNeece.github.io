@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Olivia Birdsong is a half-elf bard originating from the Sword Coast and is a S-Rank [[Peacekeeper]]
+
+update links
 ##### Appearance 
 ![[Olivia Birdsong.png]]
 ##### Personality 

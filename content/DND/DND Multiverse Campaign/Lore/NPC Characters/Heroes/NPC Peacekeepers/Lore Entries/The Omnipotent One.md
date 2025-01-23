@@ -1,5 +1,7 @@
 ##### Brief Summary 
 The Omnipotent one is a Disembodied School of Chronomancy Wizard and formerly helped the [[Peacekeeper]] force
+
+update links
 ##### Appearance 
 ![[The Omnitemporal One.png]]
 ##### Personality 

@@ -1,9 +1,7 @@
-- Peacekeepers and what exactly they are, what is their purpose, who do they work for and who are their enemies
-- Who is the girl they found, what is her backstory
-- What are hostwalkers and necrowalkers (partially completed)
-- The dog 
+Review evernight 
 
-Anna Efrideet reveal post feywild 
+Review thieves metropolis 
 
+tie all of these into big bad 
 
-Next upgrade for Aeris is glimmering moonbow
+this leads to second half of camapaign 

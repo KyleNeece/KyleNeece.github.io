@@ -1,5 +1,8 @@
 ##### Brief Summary 
 Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper]]
+
+update links
+
 ##### Appearance 
 ![[Ludwig Van Scythe.png]]
 ##### Personality 

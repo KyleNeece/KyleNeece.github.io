@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Yasu-2 is a Autognome Peace Cleric, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
+
+update links
 ##### Appearance 
 ![[Yasu-2.png]]
 ##### Personality 

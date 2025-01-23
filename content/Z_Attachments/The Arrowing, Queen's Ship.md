@@ -1,1 +1,0 @@
-![[The Arrowing, Queen's Ship.png]]

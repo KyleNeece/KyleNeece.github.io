@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Lillith Ashford is a Bladed Bravado Elf Dancer originating from Evereska and S-Rank [[Peacekeeper]]
+
+update links
 ##### Appearance 
 ![[Lillith Ashford2.png]]![[Lillith Ashford.png]]
 

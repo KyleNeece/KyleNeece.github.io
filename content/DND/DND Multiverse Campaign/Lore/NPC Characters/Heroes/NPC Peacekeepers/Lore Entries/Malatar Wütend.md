@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Malatar Wütend is a Half-Orc Barbarian originating from Faerun and is a S-Rank [[Peacekeeper]]
+
+update links
 ##### Appearance 
 ![[Malatar Wütend.png]]
 

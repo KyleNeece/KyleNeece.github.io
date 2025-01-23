@@ -1,7 +1,9 @@
 ---
 title: Peacekeepers of the Multiverse Wiki
 ---
-**Note**: This website is a full composition of all my notes about my DND campaign(s). 
+ > [!Important]
+ > 
+ > **Note**: Website is currently under maintenance, poke around at your own discretion and please be patient my time is limited to work on it 
 
 **Next Session**: Next Tuesday 7-9 as of **1/21/25**
 

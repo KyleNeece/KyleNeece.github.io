@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Jotor Sparklefen is a Gnome Artificer originating from the plane of Eberron and is a S-Rank Peacekeeper
+
+update links
 ##### Appearance 
 ![[Jotor Sparklefen.png]]
 

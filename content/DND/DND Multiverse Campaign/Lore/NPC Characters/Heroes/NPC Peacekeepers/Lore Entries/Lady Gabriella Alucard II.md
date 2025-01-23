@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Lady Gabriella Alucard II is a Vampire Gunslinger originating from the Shadowfell and S-Rank [[Peacekeeper]]
+
+update links
 ##### Appearance 
 ![[Lady Gabriella Alucard II.png]]
 ##### Personality 
