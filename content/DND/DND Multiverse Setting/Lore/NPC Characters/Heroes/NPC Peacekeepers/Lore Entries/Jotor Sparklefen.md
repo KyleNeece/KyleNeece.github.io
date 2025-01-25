@@ -1,10 +1,7 @@
 ##### Brief Summary 
 Jotor Sparklefen is a Gnome Artificer originating from the plane of Eberron and is a S-Rank Peacekeeper
-
-update links
 ##### Appearance 
 ![[Jotor Sparklefen.png]]
-
 ##### Personality 
 Jotor is generally a very knowledgeable and crafty gnome who blends technology and magic at very high levels. Jotor is always thinking about his next creation, as well as new innovative ways to tackle problems. With the invention of his steel companion, who he can alter their appearance at will, Jotor found the secret to imbuing machinery with life. While Jotor is normally cool headed and calm, he instantly blows comedic fuses when he is called little and is talked to in a taunting baby voice.
 ##### Brief History/Timeline  

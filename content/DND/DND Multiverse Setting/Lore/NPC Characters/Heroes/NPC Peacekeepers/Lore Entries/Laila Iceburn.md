@@ -1,5 +1,7 @@
 ##### Personality 
 Laila is boisterous and talkative. She is interested in many other peoples cultures and enjoys learning about other's day to day lives. She shows a more fiery side when she is practicing something that she enjoys, and a more cooler side when she's with others and the vibe is less energy based. In combat, she typically resorts to massive magical explosions from her spells and blowing everything up. 
+
+Fill out
 ##### Appearance 
 ![[Laila Iceburn.png]]
 ##### Brief History/Timeline   

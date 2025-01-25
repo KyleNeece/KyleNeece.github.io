@@ -1,8 +1,5 @@
 ##### Brief Summary 
 Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper]]
-
-update links
-
 ##### Appearance 
 ![[Ludwig Van Scythe.png]]
 ##### Personality 
@@ -11,7 +8,7 @@ Ludwig Van Scythe is a calm and collected individual, and handles most situation
 ###### Adolescence
 Ludwig grew up on the plane of Ravnica, where he lived with a happy family and innocent life within the Simic Guild. However, when the guilds entered all out war, and the draft for new assets picked his name, Ludwig was enlisted, and the Simic guild ran an experiment on him against his will in order to create a monstrosity of a soldier. The result was Ludwig became somewhat of a beastly animal, which to him was a hideous fate. In the wars, Ludwig was assigned to combat the Dimir and Golgari horrors of the night. After the war and uniting of the guilds after the defeat of Nicol Bolas, Ludwig traveled to Shadowrealm, looking to continue the hunt. He came across the Draculina, and commenced battle with her, losing but gaining her respect, and was put into eternal slumber.
 ###### The Felwinter Saga
-Ludwig throughout the entirety of the Felwinter saga was in magical slumber, with his actions taking place way before the events. It was said that Ludwig Van Scythe engaged [[Lady Gabriella Alucard II]] in combat, ultimately losing but gaining her respect as despite his beastly and dark features, he maintained his humanity and wouldn't give up.
+Ludwig throughout the entirety of the Felwinter saga was in magical slumber, with his actions taking place way before the events. It was said that Ludwig Van Scythe and [[Alder]] engaged [[Lady Gabriella Alucard II]] in combat, ultimately losing but gaining her respect as despite his beastly and dark features, he maintained his humanity and wouldn't give up.
 ###### Recruitment
 Ludwig enlisted into the peacekeeper force, [[(WORK IN PROGRESS) Jackson Felwinter]] automatically gave him an S-Rank grade due to reading about the legends that turned out to be reality. 
 ##### Abilities  

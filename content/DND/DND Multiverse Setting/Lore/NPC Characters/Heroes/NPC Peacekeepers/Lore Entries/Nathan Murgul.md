@@ -1,7 +1,7 @@
 ##### Brief Summary 
 Nathan Murgul is a Umbral Human Psion originating from the Underdark and formerly a S-Rank [[Peacekeeper]]
 
-update links
+fill out
 ##### Appearance 
 ![[Nathan Murgal.png]]
 ##### Personality 

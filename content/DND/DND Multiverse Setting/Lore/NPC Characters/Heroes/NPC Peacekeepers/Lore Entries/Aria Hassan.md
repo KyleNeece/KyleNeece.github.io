@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank Peacekeeper, and engaged to [[(WORK IN PROGRESS) Jackson Felwinter]]
+
+update links and entry later
 ##### Appearance 
 ![[Aria Hassan.png]]
 

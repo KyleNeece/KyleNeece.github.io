@@ -1,5 +1,7 @@
 ##### Brief Summary 
 Sprocket McGob is a Goblin Merchant and S-Rank [[Peacekeeper]]
+
+give subclass
 ##### Appearance 
 ![[Sprocket McGob.png]]
 ##### Personality 

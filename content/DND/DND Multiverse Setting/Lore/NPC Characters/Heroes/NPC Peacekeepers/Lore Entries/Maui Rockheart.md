@@ -1,7 +1,5 @@
 ##### Brief Summary 
 Maui Rockheart is a Oath of Heroism Paladin originating from the mountains of Icewind Dale, is second in command of the Healing Church, and a S-rank [[Peacekeeper]]
-
-update links
 ##### Appearance 
 ![[Maui Rockheart.png]]
 ##### Personality 

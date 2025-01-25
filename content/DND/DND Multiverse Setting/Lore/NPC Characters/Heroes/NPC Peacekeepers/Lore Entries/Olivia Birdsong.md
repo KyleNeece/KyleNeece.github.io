@@ -1,7 +1,5 @@
 ##### Brief Summary 
 Olivia Birdsong is a half-elf bard originating from the Sword Coast and is a S-Rank [[Peacekeeper]]
-
-update links
 ##### Appearance 
 ![[Olivia Birdsong.png]]
 ##### Personality 
@@ -16,9 +14,9 @@ During the House Tournament Arc, Olivia finished number 1 in the Social Networki
 In the Gem Hunt Challenge, Olivia finished middling, she did this by charming other contestants in order to find a gem and seize it for herself
 In the Battle-Madness Challenge, Olivia lost to her first round matchup to [[Emily Sigiliph]], as Emily's indomitable will was not able to be swayed by Olivia's persuasive words.
 ###### The Illithid Mage Arc
-Olivia was in the stands when [[Arangol]] and his forces invaded, using her persuasive words and assisting Twitch in turning the disoriented peacekeepers into a capable force that preformed incredible teamwork, they were temporarily to turn the tide of the invasion and repel it back. However, Arangol saw this and attempted to target her with one of his elite soldiers. Olivia was wounded, and almost died, but Azriel came to her aid and helped heal her wounds. Olivia upon waking up saw the terrible sight of Azriel unleashing his uncontrollable power, as she cowered in fear.
+Olivia was in the stands when [[Arangol]] and his forces invaded, using her persuasive words and assisting [[Twitch]] in turning the disoriented peacekeepers into a capable force that preformed incredible teamwork, they were temporarily to turn the tide of the invasion and repel it back. However, Arangol saw this and attempted to target her with one of his elite soldiers. Olivia was wounded, and almost died, but Azriel came to her aid and helped heal her wounds. Olivia upon waking up saw the terrible sight of Azriel unleashing his uncontrollable power, as she cowered in fear.
 ###### Betrayal Arc
-Azriel eventually apologized to Olivia for unleashing his dreadful power, but she accepted it as she understood that it was necessary to use in order for Sigil to be safe. However, she noticed a change in Azriel's new mental state. Olivia would ask if Azriel was feeling ok. Azriel, who wanted her to not worry about him continued to say he was ok, until one night, he disappeared from the academy. Olivia asked and asked around Sigil, but not a single soul knew where Azriel had gone to.
+Azriel eventually apologized to Olivia for unleashing his dreadful power, but she accepted it as she understood that it was necessary to use in order for Sigil to be safe. However, she noticed a change in Azriel's mental state. Olivia would ask if Azriel was feeling ok. Azriel, who wanted her to not worry about him continued to say he was ok, until one night, he disappeared from the academy. Olivia asked and asked around Sigil, but not a single soul knew where Azriel had gone to.
 It was when Azriel returned as Tartarus, was Olivia's heart shattered. Though she fought for Sigil in the surprise attack launched by Arangol's forces, she sobbed and sobbed at the sight of Azriel destroying everything. 
 After the battle, Olivia's mental state was too shattered to the point where she needed to go to a mental facility in order to attempt to cure her shattered state, leaving Jackson Felwinter conflicted on whether to kill Azriel or try to talk sense into him
  > [!Warning]- Spoilers Ahead
