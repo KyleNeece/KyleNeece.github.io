@@ -1,13 +1,9 @@
 ---
 title: Peacekeepers of the Multiverse Wiki
 ---
- > [!Important]
- > 
- > **Note**: Website is currently under maintenance, poke around at your own discretion and please be patient my time is limited to work on it 
-
 **Next Session**: Next Tuesday 7-9 as of **1/21/25**
 
-**1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present. Some character pages may also not be updated as I have a life outside of this so keep that in mind. 
+**1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present. Most character pages are filled out I just need to rewrite some of the writing in each of them 
 - **[[Session 17]] Notes are posted**
 
  > [!Important]
