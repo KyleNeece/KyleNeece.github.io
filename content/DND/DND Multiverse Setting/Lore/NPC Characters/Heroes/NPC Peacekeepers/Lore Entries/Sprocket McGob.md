@@ -10,6 +10,6 @@ Sprocket is a character. While greedy, he loves biz, he breathes it. Sprocket is
 ###### Origins
 Sprocket actually grew up on sigil, and came from a family of high wealth that ran the best goods shop on sigil. He eventually inherited his families shop, and changed the name, become the main shop that one goes to for almost anything. His day changed when he finally decided to go out on his first and last adventure. On this adventure, he found a container that could literally create anything he wished for, but only for the purposes of selling or giving to others. After claiming such an item, Sprocket had infinite possibilities, and became a huge success on Sigil. 
 ###### Recruitment
-[[(WORK IN PROGRESS) Jackson Felwinter]] gave him the S-Rank title and made him co-run the magic item system that [[Jotor Sparklefen]] also co-runs with him, making sure the peacekeepers get the best tech and items in the multiverse.
+[[Jackson Felwinter]] gave him the S-Rank title and made him co-run the magic item system that [[Jotor Sparklefen]] also co-runs with him, making sure the peacekeepers get the best tech and items in the multiverse.
 ##### Abilities  
 Sprocket McGob is a level 16 ___ merchant

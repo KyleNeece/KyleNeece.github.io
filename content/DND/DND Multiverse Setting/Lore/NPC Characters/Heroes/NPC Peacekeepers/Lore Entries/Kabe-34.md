@@ -8,7 +8,7 @@ Kabe-34 is a warforged of few words. He has the utmost respect for his master an
 ###### Origins
 Having his memories stored and returned, Jotor created Kabe-34 as a defense mechanism as [[Yasu-2]] was not made for combat, more specifically, defense and offense through defense. Kabe-34 would normally stay at the shop with Jotor, until one day he was deemed ready to become a peacekeeper, only really taking on defensive or protective missions due to his linear and specialized purpose. 
 ###### Recruitment
-[[(WORK IN PROGRESS) Jackson Felwinter]] knowing about Jotor's machine building capabilities automatically admitted Kabe-34 into the force, giving him the S-rank title
+[[Jackson Felwinter]] knowing about Jotor's machine building capabilities automatically admitted Kabe-34 into the force, giving him the S-rank title
 ##### Abilities  
 Kabe-34 is a level 17 Juggernaut Vanguard
 

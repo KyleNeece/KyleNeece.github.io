@@ -11,7 +11,7 @@ Nothing is known about Gabriella's childhood
 Gabriella throughout the entirety of the Felwinter saga was dead, having existed way before the time of events. She was the second Dracula (but considered as Draculina), originally holding immense power, and committing heinous acts. It was said that [[Ludwig Van Scythe]] and [[Alder]] engaged in combat with her, ultimately losing but gaining her respect as despite his beastly and dark features, he maintained his humanity and will to not give up.
 Upon a group of peacekeepers stumbling upon her coffin, she awakened once again, however, not hostile towards them, as she had become more humane toward the end of her lifetime due to spending more time around humanity. While this has made her weaker, it is best not to underestimate her as she is still a very formidable foe. 
 ###### Recruitment
-Gabriella enlisted into the peacekeeper force, [[(WORK IN PROGRESS) Jackson Felwinter]] automatically gave her an S-Rank grade due to reading about the legends that turned out to be reality. 
+Gabriella enlisted into the peacekeeper force, [[Jackson Felwinter]] automatically gave her an S-Rank grade due to reading about the legends that turned out to be reality. 
 ##### Abilities  
 Lady Gabriella Alucard II is a level 17 Revelator Trail Gunslinger
 

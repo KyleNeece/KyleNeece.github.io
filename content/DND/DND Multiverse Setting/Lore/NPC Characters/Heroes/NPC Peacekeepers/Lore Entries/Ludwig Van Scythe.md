@@ -10,7 +10,7 @@ Ludwig grew up on the plane of Ravnica, where he lived with a happy family and i
 ###### The Felwinter Saga
 Ludwig throughout the entirety of the Felwinter saga was in magical slumber, with his actions taking place way before the events. It was said that Ludwig Van Scythe and [[Alder]] engaged [[Lady Gabriella Alucard II]] in combat, ultimately losing but gaining her respect as despite his beastly and dark features, he maintained his humanity and wouldn't give up.
 ###### Recruitment
-Ludwig enlisted into the peacekeeper force, [[(WORK IN PROGRESS) Jackson Felwinter]] automatically gave him an S-Rank grade due to reading about the legends that turned out to be reality. 
+Ludwig enlisted into the peacekeeper force, [[Jackson Felwinter]] automatically gave him an S-Rank grade due to reading about the legends that turned out to be reality. 
 ##### Abilities  
 Ludwig Van Scythe is a level 16th Order of the Mutant Bloodhunter 
 
