@@ -15,4 +15,4 @@ Mark was one of Queen Titania's main intelligence and black ops agents, along wi
 
 He was declared dead by the Seelie Court as a cover story, fed even to all his closest friends (including __ ). It was later confirmed that Mark's death was part of agreement to a ceasefire with the peacekeeper organization, to which Queen Titania agreed to, ordering Daliah to kill her mentor. Despite being sold out by the Seelie court, Mark accepted the betrayal as "part of the job" and remained loyal to the Seelie court, and became a sleeper agent. 
 ##### Abilities  
-Mark is a level 15 Revised Hunter Ranger 
+Mark is a level 15 Revised Hunter Ranger with a few special abilities granted by Queen Titania 
