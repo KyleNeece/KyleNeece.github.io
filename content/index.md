@@ -5,7 +5,7 @@ title: Peacekeepers of the Multiverse Wiki
 
 **1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present. Most character pages are filled out I just need to rewrite some of the writing in each of them 
 - **[[Session 17]] Notes are posted**
-	- I would highly recommend reading [[Mark Grayson]] and [[Daliah]]'s entries **IF you have not been to the past few sessions**, as this Arc emphasizes NPC relations and heavy roleplay 
+	- I would highly recommend reading [[Mark Grayson]], [[Daliah]], and [[Titania, Queen of Seelie Court]]'s entries **IF you have not been to the past few sessions**, as this Arc emphasizes NPC relations and heavy roleplay 
 
  > [!Important]
  > 
