@@ -42,4 +42,59 @@ Azriel was never formerly inducted into the military force, but instead attended
 ##### Abilities  
 Tartarus was one of the strongest monsters in existence. Azriel was/is a level 20 Abyssal Runekeeper with a few epic boons 
 
-
+```statblock
+layout: Basic 5e Layout
+image: Azriel Darkstar.png
+name: Azriel Darkstar
+size: Meduim 
+type: Nephilim
+subtype: Runekeeper
+alignment: Neutral Good
+ac: 
+hp: 
+hit_dice: 
+speed: 
+stats: [20, 16, 20, 24, 20, 20]
+fage_stats: 
+saves:
+  - Strength: +
+  - Dexterity: +
+  - Constitution: +
+  - Intelligence: +
+  - Wisdom: +
+  - Charisma: +
+skillsaves:
+  - Athletics: +
+senses: 
+languages:
+cr: 20
+traits:
+  - name: 
+    desc: 
+  - name: Great Weapon Master
+    desc: -5 to add +10 to melee damage, on kill bonus action attack
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+actions:
+  - name: Multiattack
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+bonus_actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+```
