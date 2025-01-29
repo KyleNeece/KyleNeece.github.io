@@ -1,10 +1,11 @@
 ---
 title: Peacekeepers of the Multiverse Wiki
 ---
-**Next Session**: Next Tuesday 7-9 as of **1/21/25**
+**Next Session**: Sunday 2/2/25, 5-7:30pm 
 
 **1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present. Most character pages are filled out I just need to rewrite some of the writing in each of them 
 - **[[Session 17]] Notes are posted**
+	- I would highly recommend reading [[Mark Grayson]] and [[Daliah]]'s entries **IF you have not been to the past few sessions**, as this Arc emphasizes NPC relations and heavy roleplay 
 
  > [!Important]
  > 
@@ -14,7 +15,7 @@ title: Peacekeepers of the Multiverse Wiki
 **For UVM 2024-2025 Campaign**
 For those who need a reminder on the new rules for act 2 (within Thieves Metropolis and associated plot only), here they are.
 - Out of combat initiative 
-	- Helps with people who may not participate as much due to spotlight things
+	- Helps with people who may not participate as much due to spotlight distribution
 - Roll a hit die health encounters 
 	- Sometimes I'll ask you to roll your hit die for the day. The number you roll = the number of hits you can take for the day. Damage calculations work differently, but I can help you with those in session 
 - Stealth System 
