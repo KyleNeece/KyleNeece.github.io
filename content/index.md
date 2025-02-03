@@ -1,10 +1,10 @@
 ---
 title: Peacekeepers of the Multiverse Wiki
 ---
-**Next Session**: Sunday 2/2/25, 5-7:30pm 
+**Next Session**: Sunday 2/9/25, 5-7:30pm 
 
-**1/21/25** - I am relearning about Plugins for stat blocks so some statblocks will not be present. Most character pages are filled out I just need to rewrite some of the writing in each of them 
-- **[[Session 17]] Notes are posted**
+**2/3/25** - Most character pages are filled out I just need to rewrite some of the writing in each of them 
+- **[[Session 18]] Notes are posted**
 	- I would highly recommend reading **session notes 15-17**, [[Mark Grayson]], [[Daliah]], and [[Titania, Queen of Seelie Court]]'s entries **IF you have not been to the past few sessions**, as this Arc emphasizes NPC relations and heavy roleplay 
 
  > [!Important]

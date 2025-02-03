@@ -14,4 +14,4 @@ Daliah was focused protecting the Seelie court during the Felwinter Saga. During
  >She knows of the events that happened before the panmnesia spell was cast, causing her to not lose her memory of the previous timeline due to her corrupted magic. 
  >To fight for her autonomy and her own life, Daliah devised a plan (and waited for the right time to execute it) to exchange Queen Titania to Kindrack Diablo for a Susser Flower Soul Clenser, leading to the attack on The Arrowing (Queen Titania's Ship).
 ##### Abilities  
-Daliah is a level 20 Phantom Rogue with level 17 Aberrant Mind Sorcerer features granted by a fraction of the Shadow weave corrupted by Aberrant Rune Magic, which originated from an unknown Great Old One.
+Daliah is a level 16 Phantom Rogue with level 17 Aberrant Mind Sorcerer features granted by a fraction of the Shadow weave corrupted by Aberrant Rune Magic, which originated from an unknown Great Old One.
