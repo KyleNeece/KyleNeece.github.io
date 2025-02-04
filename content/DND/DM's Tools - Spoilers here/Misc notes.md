@@ -10,6 +10,7 @@ Influence counters:
 make questline to help out the soldier(s) within platoon 457
 make a floor plan for Kindrack estate 
 make info and questions/answers for the two arms dealers 
+
 make a revised ranger 
 
 inspo for main quests 

@@ -3,12 +3,12 @@ Daliah is a Aberrant Mind Sorcerer Phantom Rogue Changeling originating from the
 ##### Appearance 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_DmkJI8PuLfH2uXXfUkmF2uM3f9nqUp4ejiff0tnPbOm42PIoE-LK3EF8452ZEncDemgA_IYQ2XVgn-_vMzUJP_LYtOQaIZNSWAwQ-expVuySvDIcbFCfcd5d_4zRy0oG8dguAg?key=EnPk9fkUSHjQjRDw6ceNMxvt)
 ##### Personality 
-Daliah is 
+Daliah is deceptive, charismatic, two faced yet reflective. She originally was caring and kind, but under the service of Queen Titania in combination with her unique obtained power, she lost all kindness and caring that she had. Since her disease started to take a toll on her body, she became very self centered and used others as a way to leverage herself until she can obtain the cure. 
 ##### Brief History/Timeline   
 ###### Origins/Adolescence
 Daliah grew up in poor parts of waterdeep, trying to make a living off of stealing and deception. One day she came across an old necromancy wizard's spellcasting focus, and began to experiment and self teach herself different types of magical capabilities. She ultimately gained the ability to call upon the dead to bolster her thieving. Mark Grayson noticed her prowess when he was visiting Waterdeep, and recruited her to Queen Titania's service, promising her that she would be safe if she were to join. 
 ###### The Felwinter Saga
-Daliah was focused protecting the Seelie court during the Felwinter Saga. During this time she discovered Aberrant Rune Magic that blended with her own, giving her sorceress powers over the dead and the Aberrant. Queen Titania assigned Daliah to use these powers, so that she could gain the upper hand on anyone that would oppose the court. This lead to Daliah losing control of of the magic overtime. 
+Daliah was focused protecting the Seelie court during the Felwinter Saga. During this time she discovered Aberrant Rune Magic that blended with her own, giving her sorceress powers over the dead and the Aberrant. Daliah was also on the same mission as Freya and Mark when dealing with a criminal underworld league. She was ordered by Queen Titania to kill Mark for the ceasefire agreement. Sometime after the mission, Queen Titania assigned Daliah to use these powers, so that she could gain the upper hand on anyone that would oppose the court. This lead to Daliah losing control of of the magic overtime. 
 > [!Warning]- Spoilers Ahead
  > 
  >She knows of the events that happened before the panmnesia spell was cast, causing her to not lose her memory of the previous timeline due to her corrupted magic. 
