@@ -1,3 +1,7 @@
+---
+tags: [Changeling/Rogue/Phantom, Changeling/Sorcerer/Aberrant, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Daliah is a Aberrant Mind Sorcerer Phantom Rogue Changeling originating from the poorer parts of Waterdeep and former Agent of the Seelie Court
 ##### Appearance 
@@ -15,8 +19,4 @@ Daliah was focused protecting the Seelie court during the Felwinter Saga. During
  >To fight for her autonomy and her own life, Daliah devised a plan (and waited for the right time to execute it) to exchange Queen Titania to [[Kindrack Diablo]] for a Susser Flower Soul Clenser, leading to the attack on The Arrowing (Queen Titania's Ship).
 ##### Abilities  
 Daliah is a level 15 Phantom Rogue with level 17 Aberrant Mind Sorcerer features granted by a fraction of the Shadow weave corrupted by Aberrant Rune Magic (but only in her uncontrolled state), which originated from an unknown Great Old One.
-
-###### Affiliated Tags
-#Changeling/Rogue/Phantom
-#Changeling/Sorcerer/Aberrant 
-#Felwinter_Saga_Cour_3/NPC
+ 

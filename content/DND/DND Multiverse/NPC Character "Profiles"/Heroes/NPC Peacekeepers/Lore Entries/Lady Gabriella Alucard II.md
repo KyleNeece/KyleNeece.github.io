@@ -89,7 +89,6 @@ reactions:
     desc: Creature 60 trying to travel using telportation, extradimensional, or interplanar menas of travel, spend 1 grit point to force a Charisma Save DC18, on fail, target fails to travel
 ```
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Warforged/Vanguard/Juggernaut
 #Felwinter_Saga_Cour_2/NPC

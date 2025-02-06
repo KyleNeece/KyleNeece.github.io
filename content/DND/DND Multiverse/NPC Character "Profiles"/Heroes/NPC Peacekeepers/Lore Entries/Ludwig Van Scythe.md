@@ -127,7 +127,6 @@ Vermillion
 Shielded 
 - You have resistance to slashing damage, and you have vulnerability to bludgeoning damage
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Warforged/Vanguard/Juggernaut
 #Felwinter_Saga_Cour_2/NPC

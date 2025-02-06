@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 5]]
 
 - At the hunter workshop 
@@ -19,5 +23,3 @@ Previous: [[Session 5]]
 - The party goes back to the house with the girl, and the girl killed her twin sister who was also in the middle of transforming, the party adopted the girl 
 - Make it to the healing church 
 
-###### Affiliated Tags
-#Session_Notes

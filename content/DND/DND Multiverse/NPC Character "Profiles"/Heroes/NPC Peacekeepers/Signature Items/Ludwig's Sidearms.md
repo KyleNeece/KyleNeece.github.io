@@ -10,5 +10,4 @@ Ludwig's Rapier and Handcannon are +3 weapons
 		- As a reaction you can roll damage vs an attack roll. If the damage is more then the attack roll, the opposing attack deals 0 damage. During the wielders next turn, the first attack that hits deals damage deals double damage, this effect lasts until the end of the wielders turn 
 		- Whenever the Jackal hits a target, the wielder can spend a hit die to deal extra damage equal to the roll of the hit die
 
-###### Affiliated Tags
 #Peacekeeper/Equipment

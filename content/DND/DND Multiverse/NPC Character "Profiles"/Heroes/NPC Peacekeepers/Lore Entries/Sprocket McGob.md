@@ -14,7 +14,6 @@ Sprocket actually grew up on sigil, and came from a family of high wealth that r
 ##### Abilities  
 Sprocket McGob is a level 16 ___ merchant
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Goblin/Merchant/
 #Felwinter_Saga_Cour_3/NPC

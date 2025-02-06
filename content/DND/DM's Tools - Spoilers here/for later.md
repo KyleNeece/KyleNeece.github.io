@@ -1,3 +1,6 @@
+---
+tags: [DMs_Tools]
+---
 
 To create a rock-paper-scissors relationship, the third ability should have a clear strength and weakness against the other two, forming a dynamic cycle of advantage. Here's the concept:
 
@@ -25,6 +28,5 @@ To create a rock-paper-scissors relationship, the third ability should have a cl
 
 This setup ensures each ability has a defined counter while maintaining its own unique identity and strategic use, completing the trinity.
 
-###### Affiliated Tags
-#DMs_Tools
+
 

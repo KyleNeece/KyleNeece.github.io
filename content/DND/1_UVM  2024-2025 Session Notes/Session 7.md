@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 6]]
 
 - The party met Alder 
@@ -24,6 +28,5 @@ Previous: [[Session 6]]
 - Party defeats Wendigo, makes it to the elevator
 	- Next fight, boss fight, long one 
 
-###### Affiliated Tags
-#Session_Notes
+
 

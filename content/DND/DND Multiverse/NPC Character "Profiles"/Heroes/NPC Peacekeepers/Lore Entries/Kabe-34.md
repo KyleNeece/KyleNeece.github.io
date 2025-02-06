@@ -12,7 +12,6 @@ Having his memories stored and returned, Jotor created Kabe-34 as a defense mech
 ##### Abilities  
 Kabe-34 is a level 17 Juggernaut Vanguard
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Warforged/Vanguard/Juggernaut
 #Felwinter_Saga_Cour_2/NPC

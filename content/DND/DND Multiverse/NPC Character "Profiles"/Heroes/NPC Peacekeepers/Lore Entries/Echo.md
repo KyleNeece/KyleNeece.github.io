@@ -12,7 +12,6 @@ Echo is not formerly part of the peacekeeper organization, as they never show up
 ##### Abilities  
 Echo is a 16th level Assassin Rogue
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Changeling/Rogue/Assassin
 #NPC 

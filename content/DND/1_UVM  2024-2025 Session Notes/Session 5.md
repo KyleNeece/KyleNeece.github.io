@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 4]]
 
 - Approached a graveyard through the woods 
@@ -9,5 +13,4 @@ Previous: [[Session 4]]
 - Got in right as the hunt started 
 - Met a Profane soul hunter, taken back to their workshop 
 
-###### Affiliated Tags
-#Session_Notes
+

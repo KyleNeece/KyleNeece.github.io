@@ -20,7 +20,6 @@ Rhulk never officially joined the peacekeeper force, but they had to measure his
 ##### Abilities  
 Rhulk is a level 8 Path of the Ragemage Minotaur Barbarian 
 
-###### Affiliated Tags
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

@@ -10,7 +10,6 @@ Aeris's mom grew up on Zendikar, and participated in the war as one of the elite
 ##### Abilities  
 Aeris's mom is a level 12 Fey Wanderer Ranger
 
-###### Affiliated Tags
 #Hero 
 #Elf/Ranger/Fey_Wanderer
 #Felwinter_Saga_Cour_3/NPC

@@ -26,7 +26,6 @@ After the battle, Olivia's mental state was too shattered to the point where she
 ##### Abilities  
 Olivia is a level 18 College of Eloquence Bard
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Elf/Bard/College_of_Eloquence
 #Felwinter_Saga_Cour_2/FPC_NNPC

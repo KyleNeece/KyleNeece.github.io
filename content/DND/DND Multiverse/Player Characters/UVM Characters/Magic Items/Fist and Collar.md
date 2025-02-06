@@ -6,5 +6,4 @@ Fists is a magical pair of brass knuckles and Paws is a magical collar
 - Paws 
 	- You can now command your dog as a free action on your turn 
 
-###### Affiliated Tags
 #Peacekeeper/Equipment

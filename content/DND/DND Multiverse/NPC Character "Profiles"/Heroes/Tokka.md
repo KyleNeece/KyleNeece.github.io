@@ -21,7 +21,6 @@ While Tokka is not technically on the S-Rank roster, he is still considered one,
 ##### Abilities  
 Tokka is a level 16 Cricle of the Stars Druid
 
-###### Affiliated Tags
 #Hero
 #Human/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_2/NPC

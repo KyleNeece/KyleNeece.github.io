@@ -10,7 +10,6 @@ Anna grew up in the City of Evernight, suffering the collateral effects of the h
 ##### Abilities  
 Anna Efrideet is a level 15 Oath of the Crown Paladin 
 
-###### Affiliated Tags
 #Hero
 #Human/Paladin/Oath_of_Crown
 #Felwinter_Saga_Cour_3/NPC

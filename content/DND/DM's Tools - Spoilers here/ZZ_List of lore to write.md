@@ -1,3 +1,6 @@
+---
+tags: [DMs_Tools]
+---
 
 Monk - Grung drunken fist dude
 Ranger - Gloomstalker, thrikreen - lady?
@@ -15,5 +18,3 @@ Trainer (TBD) -
 Warden (TBD) - 
 Witch - Wechslekind - lady or dude
 
-###### Affiliated Tags
-#DMs_Tools

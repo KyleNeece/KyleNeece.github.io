@@ -29,7 +29,6 @@ Aeris Aryndor joined the peacekeeper for willingly and passed the trials along w
 ##### Abilities  
 Aeris Aryndor is a level 8 Circle of Stars Druid
 
-###### Affiliated Tags
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

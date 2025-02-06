@@ -27,7 +27,6 @@ Aria was auto-recruited by the peacekeeper force after her bounty was removed an
 ##### Abilities  
 Aria is a level 17 Great Old One (2024) Warlock
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Yuan-Ti/Warlock/Great_Old_One_Walock
 #Felwinter_Saga_Cour_2/FPC_NNPC

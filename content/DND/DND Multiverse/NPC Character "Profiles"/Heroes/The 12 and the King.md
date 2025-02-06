@@ -15,6 +15,5 @@ The 12 and the King are the 12 greatest [[Peacekeeper]]s within the organization
 - [[Johnny Sigiliph]] - Pugilist
 - [[Ryū Hoshi]] - Zodiac 
 
-###### Affiliated Tags
 #Hero
 #Felwinter_Saga_Cour_2/Felwinter_Saga_Cour_3

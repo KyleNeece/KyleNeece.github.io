@@ -26,7 +26,6 @@ Akanos joined the peacekeeper for willingly and passed the trials along with 7 o
 ##### Abilities  
 Akanos is a level 8 Arcane Trickster Tiefling Rogue 
 
-###### Affiliated Tags
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

@@ -24,7 +24,6 @@ Johnny was auto recruited into the peacekeeper force and given S-Rank
 ##### Abilities  
 Johnny Sigiliph is a level 20 Sweet Science Pugilist 
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Human/Pugilist/Sweet_Science
 #Felwinter_Saga_Cour_2/NPC

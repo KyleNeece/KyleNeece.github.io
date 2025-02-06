@@ -33,7 +33,6 @@ Monty joined the peacekeeper for willingly and passed the trials along with 7 ot
 ##### Abilities  
 Monty is a Level 8 Jotun Dialect Stoneback Wukong Runekeeper 
 
-###### Affiliated Tags
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

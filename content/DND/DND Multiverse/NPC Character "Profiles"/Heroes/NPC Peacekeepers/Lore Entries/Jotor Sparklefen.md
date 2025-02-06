@@ -26,7 +26,6 @@ Jotor was recruited near the end of his adulthood moving into his grandhood. Des
 ##### Abilities  
 Jotor is a 16th level Battlesmith Artificer
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Gnome/Artificer/Battlesmith
 #Felwinter_Saga_Cour_1/Felwinter_Saga_Cour_2/NPC

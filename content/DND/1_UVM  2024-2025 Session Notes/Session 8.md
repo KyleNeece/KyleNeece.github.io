@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 7]]
 
 - The party made it to the Church with a hunter turned into a massive beast and dog Hybrid 
@@ -14,5 +18,3 @@ Previous: [[Session 7]]
 
 ![[Castle Cainhurst.png]]
 
-###### Affiliated Tags
-#Session_Notes

@@ -1,3 +1,7 @@
+---
+tags: [Human/Ranger/Hunter, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Mark Grayson is a Human Revised Hunter Ranger originating from Ebberon and a agent of the Seelie Court 
 ##### Appearance 
@@ -16,7 +20,3 @@ Mark was one of [[Titania, Queen of Seelie Court]]'s main intelligence and black
 He was declared dead by the Seelie Court as a cover story as part of a cease fire agreement between the Seelie Court, Unseelie Court, and the [[Peacekeeper]]s. The story was fed to even his closest of friends (including Freya). It was later confirmed that Mark's death was part of agreement to a ceasefire with the peacekeeper organization, to which Queen Titania agreed to, ordering Daliah to kill her mentor. Despite being sold out by the Seelie court, Mark accepted the betrayal as "part of the job" and remained loyal to the Seelie court, and became a sleeper agent.
 ##### Abilities  
 Mark is a level 15 Revised Hunter Ranger 
-
-###### Affiliated Tags
-#Human/Ranger/Hunter
-#Felwinter_Saga_Cour_3/NPC

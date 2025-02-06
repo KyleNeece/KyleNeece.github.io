@@ -27,7 +27,6 @@ Laila Iceburn was auto admitted into the peacekeeper force due to her finesse, s
 ##### Abilities  
 Laila is a level 16 Draconic Sorcerer
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Dragonborn/Sorcerer/Draconic
 #Felwinter_Saga_Cour_2/NPC

@@ -13,7 +13,6 @@ Maui's incredible feats of valor as well as his immense strength and power grant
 ##### Abilities  
 Maui Rockheart is a level 16 Oath of Heroism Paladin
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Goliath/Paladin/Oath_of_Heroism
 #Felwinter_Saga_Cour_3/NPC

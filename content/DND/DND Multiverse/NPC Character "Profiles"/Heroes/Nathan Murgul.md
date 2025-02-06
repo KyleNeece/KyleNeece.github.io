@@ -17,7 +17,6 @@ While not technically a peacekeeper now, Nathan is still considered one and is c
 ##### Abilities  
 Nathan is a level 17 Unleashed Psion 
 
-###### Affiliated Tags
 #Hero 
 #Umbral_Human/Psion/Unleashed
 #Felwinter_Saga_Cour_3/NPC

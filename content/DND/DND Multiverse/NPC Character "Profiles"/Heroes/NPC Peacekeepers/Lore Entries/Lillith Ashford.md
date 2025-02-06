@@ -28,7 +28,6 @@ Lillith Ashford was auto admitted into the peacekeeper force due to her finesse,
 ##### Abilities  
 Lillith is a level 16 Bladed Bravado Dancer
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Elf/Dancer/Bladed_Bravado
 #Felwinter_Saga_Cour_2/NPC

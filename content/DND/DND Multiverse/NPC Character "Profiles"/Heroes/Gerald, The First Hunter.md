@@ -13,6 +13,5 @@ Gerald oversees the Hunt, which is a yearly occurrence within the City of Everni
 ##### Abilities  
 Gerald is a level 16 Order of the Profane Soul Blood Hunter 
 
-###### Affiliated Tags
 #Human/Blood_Hunter/Order_of_the_Profane_Soul
 #Felwinter_Saga_Cour_3/NPC

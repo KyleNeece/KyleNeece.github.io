@@ -1,3 +1,7 @@
+---
+tags: [Runekeeper, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Sisters of Fallen Sanctity is a hybrid [[Great Old One]] Angel fusion of the two angels Lilith and Na'ameh
 ##### Appearance
@@ -10,6 +14,3 @@ At some point in time, the creature made it to Thilvatov, a somewhat out of the 
  > 
  > In Monty's encounter with the horror, both prepared for combat, only for The Endless Reader to activate voskreseniye (vos-kre-c-neh). Upon activation, a beam of black light engulfed the creature, along with every other creature with Runekeeper markings and killed all life on the planet. This left the planet destroyed, and Monty wondering what happened; swearing vengeance upon who preformed such an act, and leaving for the Peacekeeper force for answers. 
  
-###### Affiliated Tags
-#Runekeeper
-#Felwinter_Saga_Cour_3/NPC

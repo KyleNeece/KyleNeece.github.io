@@ -25,7 +25,6 @@ Malatar was auto admitted into the peacekeeper force and was given S-Rank
 ##### Abilities  
 Malatar is a level 16 Berserker Barbarian 
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Orc/Barbarian/Berserker
 #Felwinter_Saga_Cour_2/NPC

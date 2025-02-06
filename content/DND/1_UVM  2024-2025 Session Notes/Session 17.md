@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 16]]
 - Party had time to explore Thieves Metropolis: 
 	- Alex won a underground pit fighting match, gained influence with the shady patrons who support it and lost influence with some of the people in the crowd
@@ -17,5 +21,4 @@ Previous: [[Session 16]]
 		- He began to look for the Flower of Souls Persona, only for him to die via a very powerful spell from far away by an unknown caster
 			- Mark then tells them he has an idea of who it might be, and the party leaves the Scav ran building 
 
-###### Affiliated Tags
-#Session_Notes
+

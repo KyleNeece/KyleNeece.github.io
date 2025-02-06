@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 8]]
 
 - The party made it to the witches lane, and came across a witch that specialized in illusions 
@@ -16,5 +20,4 @@ Previous: [[Session 8]]
 	- But made a pact with a great old one, got in contact by peering to far into the stars
 - Monty also had a vision of part of a battle of Jackson Felwinter and Tartarus
 
-###### Affiliated Tags
-#Session_Notes
+

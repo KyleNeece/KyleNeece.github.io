@@ -26,7 +26,6 @@ Ryū Hoshi was auto admitted into the peacekeeper force due to his raw power and
 ##### Abilities  
 Ryū Hoshi is a level 17 Sign of the Dragon Zodiac 
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Pandaren/Zodiac/Sign_of_the_Dragon
 #Felwinter_Saga_Cour_2/NPC

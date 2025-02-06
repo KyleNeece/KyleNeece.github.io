@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 3]]
 
 - Scarab attaches to Akanos, speaks to him
@@ -37,5 +41,4 @@ DM notes for next sessions
 		- Next arc will also have Aeris Father and Mother 
 		- Also have the omnitemporal one avatar 
 
-###### Affiliated Tags
-#Session_Notes
+

@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 9]]
 
 - The party made its way through the forbidden woods 
@@ -18,5 +22,4 @@ Previous: [[Session 9]]
 - The party continues to the mansion, with it being fully empty and the party reaching a point of no return 
 	- ![[Mansion at the end of forbidden woods.png]]
 
-###### Affiliated Tags
-#Session_Notes
+

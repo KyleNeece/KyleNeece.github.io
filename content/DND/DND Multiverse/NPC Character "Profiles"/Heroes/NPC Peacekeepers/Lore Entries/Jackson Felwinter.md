@@ -31,7 +31,6 @@ Jackson became the leader of the Peacekeeper force and is arguably the most powe
 ##### Abilities  
 Jackson is a level 20 Path of the Worthy Magus with multiple epic boons
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Human/Magus/Path_of_the_Worthy
 #Felwinter_Saga_Cour_2/FPC_NNPC

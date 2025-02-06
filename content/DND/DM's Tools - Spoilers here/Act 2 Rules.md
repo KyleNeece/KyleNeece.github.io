@@ -1,3 +1,7 @@
+---
+tags: [DMs_Tools]
+---
+
 Out of combat initiative 
 	- Helps with people who may not participate as much due to spotlight distribution
 - Roll a hit die health encounters 
@@ -10,6 +14,5 @@ Out of combat initiative 
 - Influence system 
 	- Your interactions with NPCS within the world (more so in Thieves Metropolis), will either increase or decrease influence value. Depending on the value of the NPC, you'll get info, rewards, and other outcomes depending on your influence with them 
 
-###### Affiliated Tags
-#DMs_Tools
+
 

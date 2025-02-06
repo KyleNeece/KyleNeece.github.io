@@ -23,7 +23,6 @@ Twitch was looking over the battle scene when the Panmnesia spell hit, losing al
 ##### Abilities  
 Twitch is a level 17 Warrior Dynasty Sovereign
 
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Kenku/Sovereign/Warrior_Dynasty
 #Felwinter_Saga_Cour_2/NPC

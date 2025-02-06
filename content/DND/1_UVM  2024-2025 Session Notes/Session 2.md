@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 1]]
 
 - Each PC went on a "side quest" adventure in the city slice of life type of stuff
@@ -16,5 +20,3 @@ Previous: [[Session 1]]
 - Tartarus can appear in front of Monty in a illusionary world, but cannot interact with it physically, but no one else sees him
 - Peacekeeper trials have been completed, each player going to receive an upgradeable magical item 
 
-###### Affiliated Tags
-#Session_Notes

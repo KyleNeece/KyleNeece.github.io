@@ -32,7 +32,6 @@ Hank was in the thick of battle when the Panmenesia spell hit, losing all of his
  > Hank Dreadbone was automatically recruited into the peacekeeper force as an S-Rank
 ##### Abilities  
 Hank Dreadbone is a level 16 Curse of Possession Accursed
-###### Affiliated Tags
 #Hero/Peacekeeper/S-Rank 
 #Skeleton/Accursed/Curse_of_Possession
 #Felwinter_Saga_Cour_2/NPC

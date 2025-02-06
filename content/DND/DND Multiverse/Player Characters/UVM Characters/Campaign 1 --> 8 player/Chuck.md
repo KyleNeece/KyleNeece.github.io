@@ -26,7 +26,6 @@ Chuck joined the peacekeeper for willingly and passed the trials along with 7 ot
 ##### Abilities  
 Chuck is a level 8 Heart of the Parasitic Rune Furbolg Odic 
 
-###### Affiliated Tags
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

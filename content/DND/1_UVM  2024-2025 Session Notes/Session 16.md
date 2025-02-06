@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 15]]
 - The party asks a few questions to each of the aligned Peacekeeper's who share a similar goal to them 
 - The party is then deployed into the Feywild in search for the Flower of Soul's Persona 
@@ -15,5 +19,4 @@ Previous: [[Session 15]]
 - In morning the party then swears an oath to the queen 
 - The queen then tasks them to activate the sleeper agent who is one of her men
 
-###### Affiliated Tags
-#Session_Notes
+

@@ -1,3 +1,7 @@
+---
+tags: [Half_Quickstep/Wyrd/Lightspeeder, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Freya is a half quickstep originating from Ravnica and a agent of the Seelie Court
 ##### Appearance 
@@ -11,7 +15,3 @@ Freya grew up in the slums of Ravnica, a commoner who became an aspiring actress
 Freya was one of [[Titania, Queen of Seelie Court]]'s main intelligence and black ops agents, along with Mark and [[Daliah]]. She was on the same mission as Mark and Daliah when dealing with a criminal underworld league. Freya was also unaffected by the Pamnesia spell due to being under the Seelie Courts service (to Queen Titania). 
 ##### Abilities  
 Freya is a level 15 Lightspeeder Wyrd 
-
-###### Affiliated Tags
-#Half_Quickstep/Wyrd/Lightspeeder
-#Felwinter_Saga_Cour_3/NPC

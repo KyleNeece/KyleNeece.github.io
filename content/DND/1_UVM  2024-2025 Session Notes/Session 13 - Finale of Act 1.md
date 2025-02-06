@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 12]]
 - Party was told to See Gerald 
 - Gerald offered their freedom 
@@ -7,5 +11,4 @@ Previous: [[Session 12]]
 - Ludwig, Jaloop and Chuck all died, but Ludwig gave his final two scrolls of true resurrection to the party, saving Jaloop and Chuck, but leaving Ludwig to die 
 - The hunt ended, and the peacekeeper force tied up all lose ends 
 
-###### Affiliated Tags
-#Session_Notes
+

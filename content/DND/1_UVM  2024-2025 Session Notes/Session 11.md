@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 10]]
 
 - The PONR setting
@@ -12,5 +16,4 @@ Previous: [[Session 10]]
 - Party makes it to the main square, where a few hooded hags summon the Trapped Souls of Evernight 
 - After killing it, a portal opens, and the party makes it to the Nightmare of Sai Mona 
 
-###### Affiliated Tags
-#Session_Notes
+

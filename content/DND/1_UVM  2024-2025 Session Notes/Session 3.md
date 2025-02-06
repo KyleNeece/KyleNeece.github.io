@@ -1,3 +1,7 @@
+---
+tags: [Session_Notes]
+---
+
 Previous: [[Session 2]]
 
 - The magnificent 8 are now peacekeepers 
@@ -15,5 +19,4 @@ Previous: [[Session 2]]
 - They set up camp, extending their influence, Ludwig arrives, Alucard II still sleeping 
 - Each gained a magical item called sending necklace 
 
-###### Affiliated Tags
-#Session_Notes
+

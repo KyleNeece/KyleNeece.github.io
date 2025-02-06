@@ -27,7 +27,6 @@ Equilibrium joined the peacekeeper for willingly and passed the trials along wit
 ##### Abilities  
 The Equilibrium joined the peacekeeper for willingly and passed the trials along with the other 7. He is currently a B-Rank peacekeeper and a level 8 Way of the Open Hand Monk
 
-  ###### Affiliated Tags
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

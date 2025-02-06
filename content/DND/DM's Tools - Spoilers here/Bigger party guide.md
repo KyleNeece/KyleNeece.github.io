@@ -1,3 +1,7 @@
+---
+tags: [DMs_Tools]
+---
+
 - Encounters with minions in combat 
 - Try to get everyone involved at least once during the session 
 -  Skip Turns if not ready 
@@ -18,6 +22,4 @@
 - "Quantum Zombies or Rakghouls"
 - Small Narrative reasons to empower enemies
 
-###### Affiliated Tags
-#DMs_Tools
 
