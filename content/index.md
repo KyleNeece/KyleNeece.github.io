@@ -3,9 +3,9 @@ title: Peacekeepers of the Multiverse Wiki
 ---
 **Next Session**: Sunday 2/9/25, 5-7:30pm 
 
-**2/3/25** - Most character pages are filled out I just need to rewrite some of the writing in each of them 
+**2/3/25** - Currently going through and rewriting entires for grammar and connections 
 - **[[Session 18]] Notes are posted**
-	- I would highly recommend reading **session notes 15-17**, [[Mark Grayson]], [[Daliah]], [[Kindrack Diablo]], and [[Titania, Queen of Seelie Court]]'s entries **IF you have not been to the past few sessions**, as this Arc emphasizes NPC relations and heavy roleplay 
+	- I would highly recommend reading **session notes 15-17**, [[Mark Grayson]], [[Daliah]], [[Kindrack Diablo]], and [[Titania, Queen of Seelie Court]]'s entries **IF you have not been to the past few sessions**, as this Arc emphasizes NPC relations and heavy roleplay.
 
  > [!Important]
  > 

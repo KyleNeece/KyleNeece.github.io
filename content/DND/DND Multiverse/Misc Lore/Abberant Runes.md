@@ -1,4 +1,4 @@
-Abberant Runes is the runic language of Aberrant creatures. It is said to be the predecessor to all the magical Runekeeper Runes
+Abberant Runes is the runic language of Aberrant creatures. It is said to be the predecessor to all the magical Runekeeper Runes (See [[Magic System]])
 ###### **Kgeownlde**
 - All-Originating:
 	- This rune can be used with any language so long as the user is proficient in the aberrant language 

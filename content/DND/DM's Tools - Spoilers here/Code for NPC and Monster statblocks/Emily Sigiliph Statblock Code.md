@@ -1,5 +1,4 @@
-
-
+See [[Emily Sigiliph]]
 ```statblock
 layout: Basic 5e Layout
 image: Emily Sigiliph.png

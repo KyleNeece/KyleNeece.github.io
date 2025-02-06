@@ -1,6 +1,11 @@
-Uncommon components
-Uncommon magic item I need to pick
-Spiritual hound transformation 
+Uncommon magic item I need to pick - 3 soul coins or house of cards  
+**Spiritual hound transformation** 
+	Spiritual hound transformation (Action, Spend all Moxie Points) - Dog becomes an incorporeal spirit and is absorbed into Alex's soul temporarily. Alex's hair turns smoke grey and gold, his eyes turn red and his body steams
+		- For one minute: 
+			- Advantage on all attack rolls and strength checks 
+			- A bonus to all saving throws equal to strength modifier 
+			- Can use moxie abilities without spending moxie points and you gain an additional bonus action that can only be used for moxie features
+			- After it ends, gain 2 levels of exhaustion and the dog re-appears 
 Influence counters:
 - 2 freya 
 - 2 mark 
@@ -8,7 +13,7 @@ Influence counters:
 - 1 Quinn Murgul 
 - 2 soldier platoon 457
 make questline to help out the soldier(s) within platoon 457
-make a floor plan for Kindrack estate 
+make a floor plan for Kindrack estate (name it later)
 make info and questions/answers for the two arms dealers 
 
 make a revised ranger 
