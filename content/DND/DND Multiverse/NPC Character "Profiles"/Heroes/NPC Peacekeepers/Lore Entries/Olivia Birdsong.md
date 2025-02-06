@@ -24,4 +24,9 @@ After the battle, Olivia's mental state was too shattered to the point where she
  > ###### Panmnesia Arc
  > Per request of Jackson Felwinter, Olivia's trauma, mind and heart were fixed, with the downside of Jackson's secret
 ##### Abilities  
-Lexi is a level 18 College of Eloquence Bard
+Olivia is a level 18 College of Eloquence Bard
+
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Elf/Bard/College_of_Eloquence
+#Felwinter_Saga_Cour_2/FPC_NNPC

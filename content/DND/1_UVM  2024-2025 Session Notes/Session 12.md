@@ -5,3 +5,5 @@ Previous: [[Session 11]]
 - Party made it to the roof and killed Meleena's WetNurse, releasing Maren Evernight from her despair 
 - Party made it back to the Workshop
 
+###### Affiliated Tags
+#Session_Notes

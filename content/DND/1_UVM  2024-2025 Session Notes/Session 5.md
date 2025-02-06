@@ -8,3 +8,6 @@ Previous: [[Session 4]]
 - Then they ran into the green dragon, who asked for a fee, they payed it and crossed over to the city of evernight 
 - Got in right as the hunt started 
 - Met a Profane soul hunter, taken back to their workshop 
+
+###### Affiliated Tags
+#Session_Notes

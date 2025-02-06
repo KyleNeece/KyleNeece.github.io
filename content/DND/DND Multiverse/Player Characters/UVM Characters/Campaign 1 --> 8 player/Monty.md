@@ -32,3 +32,8 @@ he was incapacitated by Aeris's parents. Who took them to a base of operations w
 Monty joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Otto]], [[Chuck]], [[Jaloop]], [[Akanos]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], [[Aeris Aryndor]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper.
 ##### Abilities  
 Monty is a Level 8 Jotun Dialect Stoneback Wukong Runekeeper 
+
+###### Affiliated Tags
+#Hero/Peacekeeper
+#Elf/Druid/Circle_of_Stars
+#Felwinter_Saga_Cour_3/PC

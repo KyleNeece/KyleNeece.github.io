@@ -15,3 +15,7 @@ Kindrack was one of the Queen of Air and Darkness's most decorated soldiers duri
  > It's also important to note that Kindrack's memory was not wiped as Thieves Metropolis is coincidentally built in the exact coordinates in the universe that left anyone in the area unaffected 
 ##### Abilities  
 Kindrack Diablo is a level 15 Warrior Dynasty Sovereign 
+
+###### Affiliated Tags
+#Elf/Sovereign/Warrior_Dynasty
+#Felwinter_Saga_Cour_3/NPC

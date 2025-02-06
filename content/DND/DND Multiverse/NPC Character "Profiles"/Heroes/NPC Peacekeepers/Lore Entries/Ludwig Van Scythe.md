@@ -90,6 +90,8 @@ reactions:
     desc: As a reaction Ludwig adds +5 to his AC until the end of the current turn
 ```
 
+###### Abilities in Depth
+
 **Brand of Castigation and Axiom:** 
 When Ludwig damages a creature with a crimson rited weapon, he can sears an arcane brand onto it. He always knows the direction of the creature as long as its on the same plane. Each time the branded creature deals damage to him or a creature Ludwig sees within 5 feet of him, it takes 10 psychic damage. Can't take dash action and if it attempts to teleport or leave the current plane, takes 4d6 psychic damage and must make a wisdom save. On fail it fails to teleport or leave plane Lasts until dismissed or until the feature is used to brand another creature. Moreover, whatever creature is branded can't benefit from illusion effects or invisability and if they are in an alternative for, it must succeed on a wisdom save or revert to its true form and be stunned until the end of Ludwig's next turn. If it attempts to alter its form, it must succeed on a wisdom save or have the attempt failed and be stunned until the end of Ludwigs next turn. Can be dispeled by dispel magic but treated as 8th level spell, 1x per short rest
 
@@ -124,3 +126,8 @@ Vermillion
 - You gain an additional use of your Blood Maledict feature. However, you have disadvantage on death saving throws
 Shielded 
 - You have resistance to slashing damage, and you have vulnerability to bludgeoning damage
+
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Warforged/Vanguard/Juggernaut
+#Felwinter_Saga_Cour_2/NPC

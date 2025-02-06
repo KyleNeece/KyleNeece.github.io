@@ -4,3 +4,6 @@ Meleena's Wetnurse is a manifestation made by the baby Great Old One Meleena, wh
 ![[Meleena's Wetnurse.png]]
 ##### Brief History/Timeline   
 Since Meleena's death, Meleena wills the Wetnurse into existence in order to protect itself from [[Sai Mona]] and other threats. Meleena is the source of the nightmare of Sai Mona, and only when it is killed did the hunt temporarily end, and Gerald is able to free any hunters who partook in the yearly hunt. 
+
+###### Affiliated Tags
+#Deity 

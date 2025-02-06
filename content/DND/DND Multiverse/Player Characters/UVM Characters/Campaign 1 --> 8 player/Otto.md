@@ -27,4 +27,7 @@ Otto joined the peacekeeper for willingly and passed the trials along with 7 oth
 ##### Abilities  
 Otto, The Forgotten, is a level 8 Hexblade Human Warlock 
 
-
+###### Affiliated Tags
+#Hero/Peacekeeper
+#Elf/Druid/Circle_of_Stars
+#Felwinter_Saga_Cour_3/PC

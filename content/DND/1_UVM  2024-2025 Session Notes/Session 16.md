@@ -15,3 +15,5 @@ Previous: [[Session 15]]
 - In morning the party then swears an oath to the queen 
 - The queen then tasks them to activate the sleeper agent who is one of her men
 
+###### Affiliated Tags
+#Session_Notes

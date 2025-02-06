@@ -34,3 +34,7 @@ Yasu-2 was auto-admitted into the Peacekeeper force, as Jackson Felwinter instan
 ##### Abilities  
 Yasu-55 is a level 16 Peace Domain Cleric   
 
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Autognome/Cleric/Peace_Domain
+#Felwinter_Saga_Cour_2/FPC_NNPC 

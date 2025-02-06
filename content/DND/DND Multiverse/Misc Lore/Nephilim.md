@@ -22,3 +22,5 @@ Nephilims are the offspring of a Celestial Entity and a Demonic Entity, as a res
 
 ###### **Known Nephilims**
 - [[Azriel Darkstar]] 
+###### Affiliated Tags
+#DMs_Tools 

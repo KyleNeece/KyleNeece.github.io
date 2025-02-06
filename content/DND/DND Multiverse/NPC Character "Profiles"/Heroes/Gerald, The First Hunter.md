@@ -12,3 +12,7 @@ Gerald when he was younger, ordered for the Extinction of the Order of the Mutan
 Gerald oversees the Hunt, which is a yearly occurrence within the City of Evernight due to Sai Mona's dream. 
 ##### Abilities  
 Gerald is a level 16 Order of the Profane Soul Blood Hunter 
+
+###### Affiliated Tags
+#Human/Blood_Hunter/Order_of_the_Profane_Soul
+#Felwinter_Saga_Cour_3/NPC

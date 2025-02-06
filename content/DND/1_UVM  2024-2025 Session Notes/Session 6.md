@@ -18,3 +18,6 @@ Previous: [[Session 5]]
 	- Ben was long gone, infected by a weird disease and was genetically modified 
 - The party goes back to the house with the girl, and the girl killed her twin sister who was also in the middle of transforming, the party adopted the girl 
 - Make it to the healing church 
+
+###### Affiliated Tags
+#Session_Notes

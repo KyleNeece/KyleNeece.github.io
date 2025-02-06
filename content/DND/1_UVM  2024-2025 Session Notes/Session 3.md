@@ -14,3 +14,6 @@ Previous: [[Session 2]]
 - NPC dies, will become reincarnated? (Maybe)
 - They set up camp, extending their influence, Ludwig arrives, Alucard II still sleeping 
 - Each gained a magical item called sending necklace 
+
+###### Affiliated Tags
+#Session_Notes

@@ -16,3 +16,7 @@ Alder throughout the entirety of the Felwinter saga was trapped within the City 
 ##### Abilities  
 Alder is a level 16 Devotion Paladin
 
+###### Affiliated Tags
+#Hero
+#Human/Paladin/Oath_of_Devotion
+#Felwinter_Saga_Cour_3/NPC

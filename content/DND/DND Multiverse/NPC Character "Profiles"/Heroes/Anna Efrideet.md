@@ -9,3 +9,8 @@ Anna is a soft spoken girl, who holds virtue, kindness, and empathy in her heart
 Anna grew up in the City of Evernight, suffering the collateral effects of the hunt. Her father, Ben Efrideet a Profane Soul Blood Hunter (Same orginization as [[Gerald, The First Hunter]]), and her mother, Grace a Lunar Sorcerer (though she never realized her power), gave birth to her, giving her immense potential similar to that of Ezra Felwinter. She always stayed on the plane and within the city, never seeing other planes as a result. When her dad became a beast and her mother died at the hands of her father, she lived alone, unknowing of their death. She also did not know that her sister was infected by the blood curse of Evernight as a result of the Hunt. 
 ##### Abilities  
 Anna Efrideet is a level 15 Oath of the Crown Paladin 
+
+###### Affiliated Tags
+#Hero
+#Human/Paladin/Oath_of_Crown
+#Felwinter_Saga_Cour_3/NPC

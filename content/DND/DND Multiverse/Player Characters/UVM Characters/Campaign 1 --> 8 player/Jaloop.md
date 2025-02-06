@@ -26,4 +26,7 @@ Jaloop joined the peacekeeper for willingly and passed the trials along with 7 o
 ##### Abilities  
 Jaloop is a level 8 College of Lore Halfling Bard
 
-  
+  ###### Affiliated Tags
+#Hero/Peacekeeper
+#Elf/Druid/Circle_of_Stars
+#Felwinter_Saga_Cour_3/PC

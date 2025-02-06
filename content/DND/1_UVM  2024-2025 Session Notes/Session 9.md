@@ -15,3 +15,6 @@ Previous: [[Session 8]]
 - Aeris can now transform into a werewolf and/or a intellect devourer
 	- But made a pact with a great old one, got in contact by peering to far into the stars
 - Monty also had a vision of part of a battle of Jackson Felwinter and Tartarus
+
+###### Affiliated Tags
+#Session_Notes

@@ -104,3 +104,9 @@ bonus_actions:
   - name: 
     desc: 
 ```
+
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Nephilim/Runekeeper/Fiendish
+#Felwinter_Saga_Cour_2/FPC_NNPC 
+#Villian 

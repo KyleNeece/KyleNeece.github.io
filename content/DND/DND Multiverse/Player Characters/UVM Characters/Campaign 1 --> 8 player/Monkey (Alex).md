@@ -28,3 +28,8 @@ At the workshop Gerald wanted to free them of the hunt, but before he could do s
 Monkey (Alex) joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Aeris Aryndor]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a A-Rank peacekeeper
 ##### Abilities  
 Monkey is a level 8 Riverback Wukong Dog and Hound Pugilist
+
+###### Affiliated Tags
+#Hero/Peacekeeper
+#Elf/Druid/Circle_of_Stars
+#Felwinter_Saga_Cour_3/PC

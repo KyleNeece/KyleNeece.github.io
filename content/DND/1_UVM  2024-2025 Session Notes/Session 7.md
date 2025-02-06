@@ -23,3 +23,7 @@ Previous: [[Session 6]]
 	- Chalice of truth, one of the three items needed to resurrect a soul
 - Party defeats Wendigo, makes it to the elevator
 	- Next fight, boss fight, long one 
+
+###### Affiliated Tags
+#Session_Notes
+

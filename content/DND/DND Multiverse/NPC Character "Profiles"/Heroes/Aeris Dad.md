@@ -10,3 +10,7 @@ Aeris's dad grew up on Zendikar, and participated in the war as a commoner vs th
 ##### Abilities  
 Aeris's dad is a level 12 Sign of the Archer Zodiac
 
+###### Affiliated Tags
+#Hero 
+#Human/Zodiac/Sign_of_the_Archer
+#Felwinter_Saga_Cour_3/NPC

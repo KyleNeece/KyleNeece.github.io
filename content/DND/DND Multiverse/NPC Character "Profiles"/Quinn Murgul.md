@@ -13,3 +13,8 @@ Quinn Murgul also grew up in the underdark with Nathan, where he was a member of
  >Quinn Murgul continued work as normal within the Metropolis during the saga, he even went as far as to secretly hire the best of the best mercenaries to help in the war effort versus Tartarus, before the Pamnesia spell hit. He then became a Middleman once again after the spell in the new revised timeline.
 ##### Abilities  
 Quinn Murgul is a level 12 Unleashed Psion 
+
+###### Affiliated Tags
+#Hero 
+#Umbral_Human/Psion/Unleashed
+#Felwinter_Saga_Cour_3/NPC

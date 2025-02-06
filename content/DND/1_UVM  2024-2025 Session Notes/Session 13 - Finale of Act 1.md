@@ -6,3 +6,6 @@ Previous: [[Session 12]]
 - Upon Gerald's freedom from the hunt, Sai Mona appeared, and the final battle began
 - Ludwig, Jaloop and Chuck all died, but Ludwig gave his final two scrolls of true resurrection to the party, saving Jaloop and Chuck, but leaving Ludwig to die 
 - The hunt ended, and the peacekeeper force tied up all lose ends 
+
+###### Affiliated Tags
+#Session_Notes

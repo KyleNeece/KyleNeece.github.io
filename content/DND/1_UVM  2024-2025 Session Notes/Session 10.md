@@ -17,3 +17,6 @@ Previous: [[Session 9]]
 - After a few minutes of morning, Tartarus emerged, and learned the Abberant rune language and can now be seen as a projection to everyone, but still cannot interact with the physical world
 - The party continues to the mansion, with it being fully empty and the party reaching a point of no return 
 	- ![[Mansion at the end of forbidden woods.png]]
+
+###### Affiliated Tags
+#Session_Notes

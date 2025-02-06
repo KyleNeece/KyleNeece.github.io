@@ -15,3 +15,6 @@ Previous: [[Session 1]]
 	- Which is why he wants Tartarus to obtain a body/host
 - Tartarus can appear in front of Monty in a illusionary world, but cannot interact with it physically, but no one else sees him
 - Peacekeeper trials have been completed, each player going to receive an upgradeable magical item 
+
+###### Affiliated Tags
+#Session_Notes

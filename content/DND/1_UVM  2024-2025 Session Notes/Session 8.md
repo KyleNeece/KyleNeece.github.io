@@ -12,6 +12,7 @@ Previous: [[Session 7]]
 - Made it through a few puzzles
 - Made it to the forbidden woods and castle cainhurst
 
-
-
 ![[Castle Cainhurst.png]]
+
+###### Affiliated Tags
+#Session_Notes

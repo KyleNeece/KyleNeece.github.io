@@ -16,3 +16,8 @@ Nathan Murgul left the peacekeeper force as he wanted more autonomy similar to h
 While not technically a peacekeeper now, Nathan is still considered one and is classified as S-Rank
 ##### Abilities  
 Nathan is a level 17 Unleashed Psion 
+
+###### Affiliated Tags
+#Hero 
+#Umbral_Human/Psion/Unleashed
+#Felwinter_Saga_Cour_3/NPC

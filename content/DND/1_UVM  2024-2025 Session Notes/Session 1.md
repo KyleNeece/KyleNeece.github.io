@@ -28,7 +28,7 @@ Welcome to [[Sigil]], aka the center of the multiverse. Sigil is the main hub fo
 - Otto's patron (the weapon) took control of him, and gave him immense powers 
 - Monty fought the Raven Queen in a dream, lost horridly 
 - Matt regained control
-- Ludwig pulled gun on Monty and 
+- Ludwig pulled gun on Monty and threatened him
 - Everyone is aquatinted now
 - Monkey knows about Chuck's childhood in the feywild 
 - Monty knows about Otto's patron
@@ -40,3 +40,6 @@ Welcome to [[Sigil]], aka the center of the multiverse. Sigil is the main hub fo
 - Each gained 100 gp 
 - Ludwig fought Raven Queen 
 	- Ludwig talked about his reiterpilash and Jackal and Lion 
+
+###### Affiliated Tags
+#Session_Notes

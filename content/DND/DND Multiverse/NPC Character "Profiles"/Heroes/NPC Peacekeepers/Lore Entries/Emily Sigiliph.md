@@ -29,3 +29,8 @@ Emily was auto recruited into the Peacekeeper force and was assigned S-Rank clas
 Emily is a level 17 Battlemaster Fighter 
 
 ![[Emily Sigiliph Stats.png]]
+
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Human/Fighter/Battlemaster
+#Felwinter_Saga_Cour_2/FPC_NNPC

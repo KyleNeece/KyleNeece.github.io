@@ -14,3 +14,6 @@ I want progressing to be randomized from the players pov like I never know when 
 
 why does chuck want to stick with these demon possessed people, he probably wants to rid them of there curse you don’t need to answer this i just feel like lowkey chuck wouldnt sticks around
 
+###### Affiliated Tags
+#DMs_Tools
+

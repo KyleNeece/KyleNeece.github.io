@@ -8,3 +8,6 @@ Previous: [[Session 17]]
 	- He gives them 3 jobs to complete, in return they will be rewarded handsomely
 - Party then tackles first job, to kill a killer who killed a clients wife (and was later found to be targeting Quinn next)
 	- Party succeeds, but almost blows their peacekeeper cover
+
+###### Affiliated Tags
+#Session_Notes

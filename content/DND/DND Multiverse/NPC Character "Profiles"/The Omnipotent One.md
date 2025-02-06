@@ -1,5 +1,5 @@
 ##### Brief Summary 
-The Omnipotent one is a Disembodied School of Chronomancy Wizard and formerly helped the [[Peacekeeper]] force
+The Omnipotent one was a Disembodied School of Chronomancy Wizard and formerly helped the [[Peacekeeper]] force
 ##### Appearance 
 ![[The Omnitemporal One.png]]
 ##### Personality 
@@ -8,4 +8,9 @@ The Omnipotent one is very calm, collected and wise, often giving the best advic
 ###### Origins
 Nothing is known about the Omnipotent one, all that is known is that he was fond [[Jaloop]]'s magic one day, and he granted him magical music and spells, and he has existed for eons of time
 ##### Abilities  
-The Omnipotent one is a level 20 divination Wizard
+The Omnipotent one was a level 20 divination Wizard who ascended to Godhood and became a deity
+
+###### Affiliated Tags
+#Deity 
+#Disembodied/Wizard/Chronomancy
+#Felwinter_Saga_Cour_2/NPC

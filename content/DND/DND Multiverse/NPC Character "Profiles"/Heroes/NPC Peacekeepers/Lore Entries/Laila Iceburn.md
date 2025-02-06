@@ -26,3 +26,8 @@ Laila gathered an army of Dragons and Drangonborn warriors to help fight in the 
 Laila Iceburn was auto admitted into the peacekeeper force due to her finesse, support and fighting capabilities and was given S-Rank
 ##### Abilities  
 Laila is a level 16 Draconic Sorcerer
+
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Dragonborn/Sorcerer/Draconic
+#Felwinter_Saga_Cour_2/NPC

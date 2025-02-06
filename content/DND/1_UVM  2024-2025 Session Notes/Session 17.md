@@ -16,3 +16,6 @@ Previous: [[Session 16]]
 	- Party snuck in stealthy, found their Wizard 
 		- He began to look for the Flower of Souls Persona, only for him to die via a very powerful spell from far away by an unknown caster
 			- Mark then tells them he has an idea of who it might be, and the party leaves the Scav ran building 
+
+###### Affiliated Tags
+#Session_Notes

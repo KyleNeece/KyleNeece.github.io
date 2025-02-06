@@ -30,3 +30,8 @@ The Omnipotent One appeared before Jackson, thanking him for all that he did. Ja
 Jackson became the leader of the Peacekeeper force and is arguably the most powerful S-Rank
 ##### Abilities  
 Jackson is a level 20 Path of the Worthy Magus with multiple epic boons
+
+###### Affiliated Tags
+#Hero/Peacekeeper/S-Rank 
+#Human/Magus/Path_of_the_Worthy
+#Felwinter_Saga_Cour_2/FPC_NNPC

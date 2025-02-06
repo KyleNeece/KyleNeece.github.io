@@ -26,3 +26,5 @@ Magic System 
 | “Witch”    | Weave: Arcane    | Either from birthright or from hard study work of the weave (similar to either sorcerer or wizard)                                   | Potential of magic is the same be it from birthright or study                                                                              |
 | Wyrd       | Miracle Weave    | Through the chaos and fates of the multiverse they can use unique “magic” powers                                                     | The magic power manifested is random                                                                                                       |
 | Zodiac     | Weave: Divine    | Through the study and embracement of a Zodiac celestial shape which gives you knowledge of the weave                                 | Different celestial shapes give different magical effects                                                                                  |
+###### Affiliated Tags
+#DMs_Tools 

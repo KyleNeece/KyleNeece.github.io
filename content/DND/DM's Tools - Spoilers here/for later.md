@@ -24,3 +24,7 @@ To create a rock-paper-scissors relationship, the third ability should have a cl
 ---
 
 This setup ensures each ability has a defined counter while maintaining its own unique identity and strategic use, completing the trinity.
+
+###### Affiliated Tags
+#DMs_Tools
+
