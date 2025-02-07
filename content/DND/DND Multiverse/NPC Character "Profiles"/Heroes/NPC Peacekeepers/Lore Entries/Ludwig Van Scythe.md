@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -126,7 +130,4 @@ Vermillion
 - You gain an additional use of your Blood Maledict feature. However, you have disadvantage on death saving throws
 Shielded 
 - You have resistance to slashing damage, and you have vulnerability to bludgeoning damage
-
-#Hero/Peacekeeper/S-Rank 
-#Warforged/Vanguard/Juggernaut
-#Felwinter_Saga_Cour_2/NPC
+ 

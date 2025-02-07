@@ -1,3 +1,7 @@
+---
+tags: [Hero, Felwinter_Saga_Cour_2/Felwinter_Saga_Cour_3]
+---
+
 The 12 and the King are the 12 greatest [[Peacekeeper]]s within the organization plus the Sovereign Twitch, who commands them in battle 
 
 **Members of the 12** 
@@ -14,6 +18,3 @@ The 12 and the King are the 12 greatest [[Peacekeeper]]s within the organization
 - [[Malatar Wütend]] - Barbarian
 - [[Johnny Sigiliph]] - Pugilist
 - [[Ryū Hoshi]] - Zodiac 
-
-#Hero
-#Felwinter_Saga_Cour_2/Felwinter_Saga_Cour_3

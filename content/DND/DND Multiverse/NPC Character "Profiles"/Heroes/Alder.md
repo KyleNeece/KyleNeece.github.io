@@ -1,3 +1,7 @@
+---
+tags: [Hero, Human/Paladin/Oath_of_Devotion, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Alder is a Human Devotion Paladin of the Healing Church originating from the City of Evernight
 ##### Appearance 
@@ -15,7 +19,3 @@ Alder throughout the entirety of the Felwinter saga was trapped within the City 
  > At somepoint during the revised timeline, Alder preformed most of his similar events. 
 ##### Abilities  
 Alder is a level 16 Devotion Paladin
-
-#Hero
-#Human/Paladin/Oath_of_Devotion
-#Felwinter_Saga_Cour_3/NPC

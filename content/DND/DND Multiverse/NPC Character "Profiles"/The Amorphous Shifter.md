@@ -1,5 +1,6 @@
 ---
-tags: [Deity]
+tags:
+  - Deity
 ---
 
 ##### Brief Summary 

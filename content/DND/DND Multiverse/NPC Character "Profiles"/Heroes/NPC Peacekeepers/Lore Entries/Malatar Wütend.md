@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Orc/Barbarian/Berserker, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Malatar Wütend is a Half-Orc Barbarian originating from Faerun and is a S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -24,7 +28,4 @@ Malatar was in the thick of battle when the Panmenesia spell hit, losing all of 
 Malatar was auto admitted into the peacekeeper force and was given S-Rank
 ##### Abilities  
 Malatar is a level 16 Berserker Barbarian 
-
-#Hero/Peacekeeper/S-Rank 
-#Orc/Barbarian/Berserker
-#Felwinter_Saga_Cour_2/NPC
+ 

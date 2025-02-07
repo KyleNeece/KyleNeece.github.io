@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Gnome/Artificer/Battlesmith, Felwinter_Saga_Cour_1/Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Jotor Sparklefen is a Gnome Artificer originating from the plane of Eberron and is a S-Rank Peacekeeper
 ##### Appearance 
@@ -25,7 +29,4 @@ It was only when [[Azriel Darkstar]] transformed into an ascendent being with th
 Jotor was recruited near the end of his adulthood moving into his grandhood. Despite his age, Jotor is still a adequate combatant and has not lost a step. Before the transfer of the Peacekeeper ownership to Jackson Felwinter (Will Felwinter's son), Will recruited Jotor, who is now the lead weapon designer and artifact researcher of the organization. 
 ##### Abilities  
 Jotor is a 16th level Battlesmith Artificer
-
-#Hero/Peacekeeper/S-Rank 
-#Gnome/Artificer/Battlesmith
-#Felwinter_Saga_Cour_1/Felwinter_Saga_Cour_2/NPC
+ 

@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Lady Gabriella Alucard II is a Vampire Gunslinger originating from the Shadowfell and S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -88,7 +92,4 @@ reactions:
   - name: Spirit Shackles
     desc: Creature 60 trying to travel using telportation, extradimensional, or interplanar menas of travel, spend 1 grit point to force a Charisma Save DC18, on fail, target fails to travel
 ```
-
-#Hero/Peacekeeper/S-Rank 
-#Warforged/Vanguard/Juggernaut
-#Felwinter_Saga_Cour_2/NPC
+ 

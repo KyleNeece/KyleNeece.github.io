@@ -1,3 +1,7 @@
+---
+tags: [Hero, Human/Druid/Circle_of_Stars, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Tokka is a Circle of Stars Druid originating from Chult and is a S-Rank [[Peacekeeper]]. 
 ##### Appearance 
@@ -20,7 +24,3 @@ Tokka's spirit was reincarnated back into a new body (where his life was left of
 While Tokka is not technically on the S-Rank roster, he is still considered one, as he tends to have and continues to do so help the peacekeeper organization ever since training Ryū
 ##### Abilities  
 Tokka is a level 16 Cricle of the Stars Druid
-
-#Hero
-#Human/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_2/NPC

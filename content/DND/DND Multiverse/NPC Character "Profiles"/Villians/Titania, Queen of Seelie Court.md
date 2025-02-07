@@ -1,3 +1,7 @@
+---
+tags: [Villian]
+---
+
 ##### Brief Summary 
 Queen Titania is the Summer Queen of the Seelie Court within the Feywild.
 ##### Appearance 
@@ -15,3 +19,4 @@ Queen Titania is worshiped like a Deity within the Feywild, and is considered on
  >Some time after is when Titania had Daliah use her powers in order to make contract with even greater cosmic forces. Because of the corrupted magic taking a toll on Daliah's life, Daliah devised a plan to exchange Titania to Kindrack Diablo, for a cure to her condition
 ##### Abilities  
 Queen Titania is a lesser deity 
+ 

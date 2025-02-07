@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Human/Fighter/Battlemaster, Felwinter_Saga_Cour_2/FPC_NNPC]
+---
+
 ##### Brief Summary 
 Emily Sigiliph is a Human Fighter originating from Neverwinter, a S-Rank Peacekeeper, and [[Johnny Sigiliph]]'s Sister
 ##### Appearance
@@ -29,7 +33,4 @@ Emily was auto recruited into the Peacekeeper force and was assigned S-Rank clas
 Emily is a level 17 Battlemaster Fighter 
 
 ![[Emily Sigiliph Stats.png]]
-
-#Hero/Peacekeeper/S-Rank 
-#Human/Fighter/Battlemaster
-#Felwinter_Saga_Cour_2/FPC_NNPC
+ 

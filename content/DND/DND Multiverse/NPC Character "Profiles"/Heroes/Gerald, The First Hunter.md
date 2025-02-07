@@ -1,3 +1,7 @@
+---
+tags: [Human/Blood_Hunter/Order_of_the_Profane_Soul, Felwinter_Saga_Cour_3/NPC]
+---
+
 Gerald is the leader of the Order of the Profane souls within the [[City of Evernight]]
 ##### Brief Summary 
 Gerald is a Human Order of the Profane Soul Blood Hunter
@@ -12,6 +16,3 @@ Gerald when he was younger, ordered for the Extinction of the Order of the Mutan
 Gerald oversees the Hunt, which is a yearly occurrence within the City of Evernight due to Sai Mona's dream. 
 ##### Abilities  
 Gerald is a level 16 Order of the Profane Soul Blood Hunter 
-
-#Human/Blood_Hunter/Order_of_the_Profane_Soul
-#Felwinter_Saga_Cour_3/NPC

@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Kabe-44 is a Warforged Vanguard, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -11,7 +15,4 @@ Having his memories stored and returned, Jotor created Kabe-34 as a defense mech
 [[Jackson Felwinter]] knowing about Jotor's machine building capabilities automatically admitted Kabe-34 into the force, giving him the S-rank title
 ##### Abilities  
 Kabe-34 is a level 17 Juggernaut Vanguard
-
-#Hero/Peacekeeper/S-Rank 
-#Warforged/Vanguard/Juggernaut
-#Felwinter_Saga_Cour_2/NPC
+ 

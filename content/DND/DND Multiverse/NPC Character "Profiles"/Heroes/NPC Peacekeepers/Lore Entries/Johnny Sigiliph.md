@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Human/Pugilist/Sweet_Science, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Johnny Sigiliph is a Sweet Science Human Pugilist and S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -23,7 +27,4 @@ Johnny was fighting the strongest disciple of Tartarus when the Pamnesia spell h
 Johnny was auto recruited into the peacekeeper force and given S-Rank
 ##### Abilities  
 Johnny Sigiliph is a level 20 Sweet Science Pugilist 
-
-#Hero/Peacekeeper/S-Rank 
-#Human/Pugilist/Sweet_Science
-#Felwinter_Saga_Cour_2/NPC
+ 

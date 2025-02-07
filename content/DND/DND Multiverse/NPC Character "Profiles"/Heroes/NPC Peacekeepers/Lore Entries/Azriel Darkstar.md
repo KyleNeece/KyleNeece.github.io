@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Nephilim/Runekeeper/Fiendish, Felwinter_Saga_Cour_2/FPC_NNPC, Villian]
+---
+
 ##### Brief Summary 
 Azriel Darkstar was a [[Nephilim]] who attended [[Peacekeeper Academy]], who later ascended to godhood by the multiversal runes, becoming Tartarus enslaver of worlds. After his rebirth and purification, he is arguably considered the strongest [[Peacekeeper]]
 ##### Appearance 
@@ -104,8 +108,4 @@ bonus_actions:
   - name: 
     desc: 
 ```
-
-#Hero/Peacekeeper/S-Rank 
-#Nephilim/Runekeeper/Fiendish
-#Felwinter_Saga_Cour_2/FPC_NNPC 
-#Villian 
+   

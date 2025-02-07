@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Kenku/Sovereign/Warrior_Dynasty, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Twitch is a Warrior Dynasty Kenku Sovereign originating from southern Faerun and S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -22,7 +26,4 @@ Twitch gathered legendary warriors far and wide, and they all agreed to temporar
 Twitch was looking over the battle scene when the Panmnesia spell hit, losing all his memories thereafter
 ##### Abilities  
 Twitch is a level 17 Warrior Dynasty Sovereign
-
-#Hero/Peacekeeper/S-Rank 
-#Kenku/Sovereign/Warrior_Dynasty
-#Felwinter_Saga_Cour_2/NPC
+ 

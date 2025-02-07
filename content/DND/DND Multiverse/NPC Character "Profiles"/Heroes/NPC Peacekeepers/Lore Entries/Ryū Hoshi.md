@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Pandaren/Zodiac/Sign_of_the_Dragon, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Ryū Hoshi is a Sign of the Dragon Pandaren Zodiac from the far away land of Kara-Tur and S-Rank [[Peacekeeper]] 
 ##### Appearance 
@@ -25,7 +29,4 @@ Ryū Hoshi was finishing off the final forces of the enemy when the Panmnesia sp
 Ryū Hoshi was auto admitted into the peacekeeper force due to his raw power and was given S-Rank
 ##### Abilities  
 Ryū Hoshi is a level 17 Sign of the Dragon Zodiac 
-
-#Hero/Peacekeeper/S-Rank 
-#Pandaren/Zodiac/Sign_of_the_Dragon
-#Felwinter_Saga_Cour_2/NPC
+ 

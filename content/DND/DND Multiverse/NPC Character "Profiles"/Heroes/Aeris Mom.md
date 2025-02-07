@@ -1,3 +1,7 @@
+---
+tags: [Hero, Elf/Ranger/Fey_Wanderer, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Aeris's mom is a Fey Wanderer High Elf Ranger and mother of [[Aeris Aryndor]]
 ##### Appearance 
@@ -9,7 +13,4 @@ Aeris's mom is a kind and wise soul, she loved the natural world and relaxed and
 Aeris's mom grew up on Zendikar, and participated in the war as one of the elite forces vs the eldrazi and their forces. Her skill with a bow and druidic magic was one of the reasons why she was able to be such an effective combatant. After the war and having Aeris, she taught him about nature while [[Aeris Dad]] taught Aeris about the stars.
 ##### Abilities  
 Aeris's mom is a level 12 Fey Wanderer Ranger
-
-#Hero 
-#Elf/Ranger/Fey_Wanderer
-#Felwinter_Saga_Cour_3/NPC
+ 

@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Skeleton/Accursed/Curse_of_Possession, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Hank Dreadbone is a Skeleton Curse of Possession Accursed originating from the Shadowfell and S-Rank [[Peacekeeper]]
 
@@ -31,7 +35,4 @@ Hank was in the thick of battle when the Panmenesia spell hit, losing all of his
  > ###### Panmnesia Arc
  > Hank Dreadbone was automatically recruited into the peacekeeper force as an S-Rank
 ##### Abilities  
-Hank Dreadbone is a level 16 Curse of Possession Accursed
-#Hero/Peacekeeper/S-Rank 
-#Skeleton/Accursed/Curse_of_Possession
-#Felwinter_Saga_Cour_2/NPC
+Hank Dreadbone is a level 16 Curse of Possession Accursed 

@@ -1,3 +1,7 @@
+---
+tags: [Villian]
+---
+
  > [!Warning]- Spoilers Ahead
  > 
  > The Istoria Rytsarey (istoria-root-sery - rough translation: Story Knights) are an organization of powerful unique Runekeeper's who merged their power with their magical bloodlines, and serve as the bane of [[The Omnipotent One]]
@@ -18,3 +22,4 @@ The Istoria Rytsarey were created with the purpose of taking peoples Fables, whi
 > 
 > ###### **Uniform and equipment**
 All Istoria Rytsarey wear an all black victorian era military uniform with colored highlights and runic symbols depending on their fable. They also wear a black ankle length collared cloak with the Istoria Rytsarey symbol on the back.
+ 

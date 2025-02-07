@@ -1,3 +1,7 @@
+---
+tags: [Villian]
+---
+
 Necrowalkers are mutated abomination humanoids that serve as [[Arangol]]'s personal army.
 ###### Appearance
 ![[Necrowalker.png]]
@@ -38,4 +42,4 @@ actions:
     desc: "Melee Weapon Attack*. +4 to hit, reach 5ft., one target. Hit: 1d4+2 piercing and gain infection condition/counter"
 ```
 
-
+ 

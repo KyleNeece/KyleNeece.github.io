@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Autognome/Cleric/Peace_Domain, Felwinter_Saga_Cour_2/FPC_NNPC]
+---
+
 ##### Brief Summary 
 Yasu-2 is a Autognome Peace Cleric, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
 
@@ -33,7 +37,4 @@ However, it was still not enough, as Azriel was able to take him down once again
 Yasu-2 was auto-admitted into the Peacekeeper force, as Jackson Felwinter instantly knew their capabilities due to not losing his memory, grading them the S-class Peacekeeper title.
 ##### Abilities  
 Yasu-55 is a level 16 Peace Domain Cleric   
-
-#Hero/Peacekeeper/S-Rank 
-#Autognome/Cleric/Peace_Domain
-#Felwinter_Saga_Cour_2/FPC_NNPC 
+  

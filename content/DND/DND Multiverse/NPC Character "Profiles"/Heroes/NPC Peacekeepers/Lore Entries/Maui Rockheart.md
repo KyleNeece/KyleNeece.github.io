@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Goliath/Paladin/Oath_of_Heroism, Felwinter_Saga_Cour_3/NPC]
+---
+
 ##### Brief Summary 
 Maui Rockheart is a Oath of Heroism Paladin originating from the mountains of Icewind Dale, is second in command of the Healing Church, and a S-rank [[Peacekeeper]]
 ##### Appearance 
@@ -12,7 +16,4 @@ Maui Rockheart eventually ran into [[Alder]] in the Shadowfell within the [[City
 Maui's incredible feats of valor as well as his immense strength and power granted him the S-rank title
 ##### Abilities  
 Maui Rockheart is a level 16 Oath of Heroism Paladin
-
-#Hero/Peacekeeper/S-Rank 
-#Goliath/Paladin/Oath_of_Heroism
-#Felwinter_Saga_Cour_3/NPC
+ 

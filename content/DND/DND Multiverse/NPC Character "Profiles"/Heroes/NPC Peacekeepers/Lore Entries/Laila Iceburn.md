@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Dragonborn/Sorcerer/Draconic, Felwinter_Saga_Cour_2/NPC]
+---
+
 ##### Brief Summary 
 Laila Iceburn is a Dragonborn Sorcerer originating from Faerun and is a S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -26,7 +30,4 @@ Laila gathered an army of Dragons and Drangonborn warriors to help fight in the 
 Laila Iceburn was auto admitted into the peacekeeper force due to her finesse, support and fighting capabilities and was given S-Rank
 ##### Abilities  
 Laila is a level 16 Draconic Sorcerer
-
-#Hero/Peacekeeper/S-Rank 
-#Dragonborn/Sorcerer/Draconic
-#Felwinter_Saga_Cour_2/NPC
+ 

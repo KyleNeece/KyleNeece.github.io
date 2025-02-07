@@ -1,3 +1,7 @@
+---
+tags: [Villian]
+---
+
 Hostwalkers are mutated abomination humanoids that serve as [[Arangol]]'s personal army and are the upgraded versions of Necrowalkers. 
 ###### Appearance 
 ![[Hostwalker.png]]
@@ -59,3 +63,4 @@ reactions:
   - name: Hosts
     desc: Uses any of the devoured hosts Bonus Actions
 ```
+ 

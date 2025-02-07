@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper/S-Rank, Elf/Bard/College_of_Eloquence, Felwinter_Saga_Cour_2/FPC_NNPC]
+---
+
 ##### Brief Summary 
 Olivia Birdsong is a half-elf bard originating from the Sword Coast and is a S-Rank [[Peacekeeper]]
 ##### Appearance 
@@ -25,7 +29,4 @@ After the battle, Olivia's mental state was too shattered to the point where she
  > Per request of Jackson Felwinter, Olivia's trauma, mind and heart were fixed, with the downside of Jackson's secret
 ##### Abilities  
 Olivia is a level 18 College of Eloquence Bard
-
-#Hero/Peacekeeper/S-Rank 
-#Elf/Bard/College_of_Eloquence
-#Felwinter_Saga_Cour_2/FPC_NNPC
+ 
