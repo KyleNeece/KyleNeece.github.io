@@ -1,3 +1,7 @@
+---
+tags: [DMs_Tools]
+---
+
 **Ai Gen prompt**
 dnd character taller late twenties half devil half angel man wearing full plate armor covering body with large black colored feathered angel wings and black colored short length devil horns positioned close to top of head with shoulder length blonde hair
 
@@ -94,3 +98,4 @@ dnd character taller late twenties half devil half angel man wearing full plate 
 - Aberrant runes:
 
 - Kgeownlde
+ 

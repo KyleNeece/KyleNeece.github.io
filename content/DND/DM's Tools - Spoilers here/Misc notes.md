@@ -1,3 +1,7 @@
+---
+tags: [DMs_Tools]
+---
+
 Uncommon magic item I need to pick - 3 soul coins or house of cards  
 **Spiritual hound transformation** 
 	Spiritual hound transformation (Action, Spend all Moxie Points) - Dog becomes an incorporeal spirit and is absorbed into Alex's soul temporarily. Alex's hair turns smoke grey and gold, his eyes turn red and his body steams
@@ -100,9 +104,4 @@ inspo for main quests
     
 
 
-
-
-
-
-
-**
+ 
