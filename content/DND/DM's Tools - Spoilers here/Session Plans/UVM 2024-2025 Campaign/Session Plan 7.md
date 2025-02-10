@@ -4,62 +4,56 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 6]]
 
-Make a map 
+Order of city: Central Evernight → District of Sanctity (The healing workshop/Healing Church, Court of Shadows (maybe), and Abandoned Old Bloodhunter Workshop) → Ancient Evernight → Cainhurst castle → forbidden woods → The witches’s path → Unnamed land (byrgenwerth, point of no return in finale of area) → Unseen village → Nightmare of Mona → Hunter workshop/Finale for the shadowfell arc 
 
-Make it to the holy church and meet an NPC
-- Still coming up with name, will double as a vendor and a helpful info giver and fighter (potentially fighter), Paladin of Devotion 
-	- Will give them a synopsis about the area, give a little bit more about the healing church and it’s hunter
-		- Ghostslayers and other holy men 
-			- Sees the girl, promises he will protect her and train her to fight the beasts of the night 
-			- The man knows Ludwig, and considers him a good ally
-				- He sees Alucard, and Alucard bows down to him
-					- He helped condition her to do good, and made her an ally, but she didn’t align with the churches, principles, so she didn’t join, but was friendly to them 
-						- The man tells them that they can send people to the church 
-						- Make sure to remind the players about the Clinic and the Church 
-						- Ludwig can also offer to heal Jackson, if he ever so wants, but it would permanently remove the Lycanthropy effects
-- The Omnitemporal one 
-	- One of his many avatars will appear 
-	- Working with the healing church, as it has mutual connections to Ludwig 
-		- Ascending to godhood changed his core values 
-		- Cryptic, says that he is defending the timeline from a grave threat 
-			- He cannot tell the group what he is defending the timeline from, as he is not allowed to interfere with the timeline directly, and telling them would tamper with their actions 
-				- Mention that the group will have to hit a few different areas, cryptic in what they are 
-					- Vague descriptions of the following areas of the world 
-						- Ancient Evernight → The witches’s path → Cainhurst castle → forbidden woods → The Mensis (PONR) → Unseen Village → Nightmare of ____ → Hunter workshop
-
-- Players will continue through District of Sanctity 
-	- Will encounter more madness, and one player with more madness will notice that the enemies have different equipment and they will be able to see more with more madness counters vs not 
-	- Will encounter the lady again, this time fighting another Hunter 
-		- Can either help or watch it play out 
-
-- After, the hunters will encounter Eileen the crow, fighting another hunter 
-	- Can either choose to help her, or leave her to die 
-
-- Stealth encounter once again, this time more manageable combat if the PCS want to get into it for combat 
-	- Come up with combat encounter after class
-	- Poster for a strip club
-	- Missing Cat
-		- Cat outside, missing cat
-		- Chased the cat 
-		- Brought it to the address 
-    
+  
+Before ancient evernight, major boss fight 
+- So start of session 
 
   
 
-- Will continue on, getting to a gate
-	- Can either give the gatekeeper a fuck ton of money 
-	- Or can go the long route 
-		- Long route includes a stealth encounter once again, but then they come to a boss with apex actions
-			- Boss room has a pass through the gate
+After, more lore dumps with Alder and Alucard
+- See Anna again, see that she is progressing well in her training
+- Maybe find out secret to Hostwalkers
+	- Wildcards, unknown as to what each uniques traits each one possesses, has the ability to learn other creatures abilities and capabilities and use them for themselves if they consume their flesh
 
-- Make it to a old elevator and make it to a bridge
-	- Catapults and ballistas 
-	- Protecting the gate 
-	- Make it to the gate
-	- Give the pass or pay the money 
+Ancient evernight next, no bosses, can lead to forbidden woods 
+- Puzzles in ancient evernight, which will lead to the forbidden woods
+	- Watchtower with gatling gun 
+		- Debris were people can hide
+		- Goal is to stealth by
+	- Old transition building
+		- The puzzle is a menu, the menu 
+			- Each item has a cost in copper, the cost corresponds to the letter of each entry, put all the letters together and you get the passcode
+				- Fish (1CP), Boar (2CP), Carriage (3CP), Ramen (4CP), Thieves Tools (5CP), Pickle (6CP), Cheddar (7CP), Dickhead (8CP), Hamburger (9CP), Drawbridge (10CP), (11CP) Acarophobia, (12CP) Accelerogram, (13CP) Chestnut Aioli, (14CP) Tranquilizing Mushrooms, (15CP) Hyperpolarizing Broccoli 
+					- Forever Dreaming
 
-- Will end with a boss fight with a mutant wendigo, apex actions
-	- Pathways will open to many different directions
-	- Main one most appealing being Ancient Evernight or the witches path?
-		- TBD
+- Reach a gate, leading to the next location
+	- But have it be a riddle or a puzzle regarding matching descriptive words
+		- Courage 
+		- Strength 
+		- Honesty  
+		- Treacherous 
+		- Noble 
+	- Demonic 
+	- Arrogance 
+	- Dishonest 
+	- Intelligent 
+	- Wise 
+	- Kind 
+	- Loving 
+	- Creative
+	- Integrity 
+
+- Merge forbidden woods and witches lane 
+- Can lead to cainhurst and unnamed land
+- A little bit before Dracula’s estate, will run into Eileen, who is bleeding out, and dies, due to a Cainhurst Knight 
+	- Battle with Cainhurst Knights
+	- Dracula’s Estate 
+	- Dracula family line 
+	- Boss was placed there to shield the rest of the world from finding out about the vilebloods
+	- One of Jaloops members from the Orphanage will greet him there as the 1st guard 
+	- The 2nd guard will recognize Otto
+
+Random encounter can be more host walkers
  

@@ -4,32 +4,62 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 5]]
 
-Hunt has begun, will give time for crafting and npc interactions, interact with the unnamed blood hunter 
-- If they ask about Ludwig, dc15 to get more information as to why he is bad to the order of the profane souls 
-	- Backstory if they pass the check: There are four orders of bloodhunters (Ghostslayers, Lycans, Profane Souls, and Mutants). Ludwig, is a part of the Mutant order. The Mutant order, was conducting experiments that to the profane souls, was deemed to be a threat. Moreover, the experiments within the Order grew out of control. Ludwig murdered all of them, and no one knew what happened to him since… until now
+Make a map 
 
-If not, continue to central evernight, the group will encounter 2 NPCs
+Make it to the holy church and meet an NPC
+- Still coming up with name, will double as a vendor and a helpful info giver and fighter (potentially fighter), Paladin of Devotion 
+	- Will give them a synopsis about the area, give a little bit more about the healing church and it’s hunter
+		- Ghostslayers and other holy men 
+			- Sees the girl, promises he will protect her and train her to fight the beasts of the night 
+			- The man knows Ludwig, and considers him a good ally
+				- He sees Alucard, and Alucard bows down to him
+					- He helped condition her to do good, and made her an ally, but she didn’t align with the churches, principles, so she didn’t join, but was friendly to them 
+						- The man tells them that they can send people to the church 
+						- Make sure to remind the players about the Clinic and the Church 
+						- Ludwig can also offer to heal Jackson, if he ever so wants, but it would permanently remove the Lycanthropy effects
+- The Omnitemporal one 
+	- One of his many avatars will appear 
+	- Working with the healing church, as it has mutual connections to Ludwig 
+		- Ascending to godhood changed his core values 
+		- Cryptic, says that he is defending the timeline from a grave threat 
+			- He cannot tell the group what he is defending the timeline from, as he is not allowed to interfere with the timeline directly, and telling them would tamper with their actions 
+				- Mention that the group will have to hit a few different areas, cryptic in what they are 
+					- Vague descriptions of the following areas of the world 
+						- Ancient Evernight → The witches’s path → Cainhurst castle → forbidden woods → The Mensis (PONR) → Unseen Village → Nightmare of ____ → Hunter workshop
 
-At some point, the group will interact with an npc at a hospital clinic, who will also give them a valuable item, but is hiding behind a door
+- Players will continue through District of Sanctity 
+	- Will encounter more madness, and one player with more madness will notice that the enemies have different equipment and they will be able to see more with more madness counters vs not 
+	- Will encounter the lady again, this time fighting another Hunter 
+		- Can either help or watch it play out 
 
+- After, the hunters will encounter Eileen the crow, fighting another hunter 
+	- Can either choose to help her, or leave her to die 
 
-- A man who will transform soon, but will help them out and give them special items 
-- A girl, who is asking for the group to find her father and see if he is ok 
-- Group will continue down a path, (give them a minor problem that they solved), eventually being offered a deal by the circle of shadows 
-- On the way, each gains a madness counter (Isaac S/Jaloop will have 2 at this point)
-	- This will come in the form of a Magical Skull, that when they are in the presence of and is activated upon touch, will give each one madness counter 
-		- Madness in this instance allows for the group to see more of the world, but as a result take more damage from madness damage sources
-			- However, Jaloop’s Wizard is protecting him for some reason, as he gains a vision, with the avatar of the omnitemporal one 
-				- He says that madness has an effect on what he can perceive in the world, and he can choose to accept it or reject it, but as a result, it makes him more vulnerable to maddening magic. (applies to rest of group not him)
-- Group will continue through Evernight, with survival checks being made in order to not get lost 
-	- Monkey cannot get lost 
-- Group encounters hostwalkers and necrowalkers, and a devourer 
+- Stealth encounter once again, this time more manageable combat if the PCS want to get into it for combat 
+	- Come up with combat encounter after class
+	- Poster for a strip club
+	- Missing Cat
+		- Cat outside, missing cat
+		- Chased the cat 
+		- Brought it to the address 
+    
 
-- After fight, then the group will encounter the girl, and ask them to find her father
-	- Her father was a part of the profane souls, but a curse turned him into a mad beast 
-		- Boss fight, apex action and everything 
-			- Share a similar set of abilities to Ludwig, but add some beast features too
-- After the encounter with the boss, the shadow circle, will have assassins constantly going after the group, in the form of hostwalkers
-- The group can also find another profane soul bloodhunter, who will tell them that she’s the dedicated profane soul who hunts traders of the hunt, also looking for a specific castle 
+  
 
-Group after fighting a boss battle, will find the healing church or can go down a separate path, end session
+- Will continue on, getting to a gate
+	- Can either give the gatekeeper a fuck ton of money 
+	- Or can go the long route 
+		- Long route includes a stealth encounter once again, but then they come to a boss with apex actions
+			- Boss room has a pass through the gate
+
+- Make it to a old elevator and make it to a bridge
+	- Catapults and ballistas 
+	- Protecting the gate 
+	- Make it to the gate
+	- Give the pass or pay the money 
+
+- Will end with a boss fight with a mutant wendigo, apex actions
+	- Pathways will open to many different directions
+	- Main one most appealing being Ancient Evernight or the witches path?
+		- TBD
+ 

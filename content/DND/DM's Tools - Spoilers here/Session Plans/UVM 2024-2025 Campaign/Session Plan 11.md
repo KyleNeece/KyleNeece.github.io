@@ -4,68 +4,47 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 10]]
 
-Order of city: Central Evernight → District of Sanctity (The healing workshop/Healing Church, Court of Shadows (maybe), and Abandoned Old Bloodhunter Workshop) → Ancient Evernight → (The witches’s path) → Cainhurst castle → forbidden woods → Unnamed land (byrgenwerth, point of no return in finale of area) → The Unseen village → Nightmare of Mona → Hunter workshop/Finale for the shadowfell arc 
+**Nightmare of Sai Mona 
+- The party has made it to the tower of Sai Mona 
+- Will find a cache of sedatives that will be necessary to take with them to battle the lullabying lanterns
+- Can hear constant eldritch whispers and crying baby noises 
 
-PONR Session 
+Have to traverse madness lanterns, who inflict the madness condition plus more lethal conditions as well
+- Boulder throwing mutated trolls/ogres, 3 of them 
+- The part starts around 300 feet away from it 
+- At the same time they will be combating madness, and they will have to reach rocks that are 60 feet away, but the throwing boulders will destroy the rocks 
 
-You have reached a point of no return, where the plane of the shadowfell will permanently change forever. When you proceed forward you will be locked out of all unfinished quests and other activities until the main plot is complete. Make sure any loose ends are tied up before proceeding. After this arc ends, you may return to the Shadowfell during downtime or similar activities. Do you wish to continue? 
+Puzzle encounter for each floor
+- 1st floor, chess match, map 15
+	- (Same as BG3 chess puzzle from Wyll), use blank map redraw image (For reference: Move the rook from F8 to G8. Black bishop will take it. Then queen from D7 to G7.)
+- 2nd floor, map 38
+	- Playing dead puzzle, (spirit will say “play”, or “play me” if skill check succeeds), if player fails what to play, insta downed, once played right, party revive) 
+- 3rd floor, map 6
+	- Maidens Sacrifice 
+		- Alter, small drain hole, front of alter “The maidens sacrifice is necessary for life” 
+- 4th floor, plain board
+	- Labyrinth 
+		- writing on entrance ((writing on the wall: hide yourself without a sound, turn back while you still can)
+		- Mimics, lullaby lanterns chasing them
+- Will take them to Meleena’s WetNurse
 
-First fight, Reemus the inscrutable spider 
-- Giant Spider Stat Block with a lot of health 
-- Ice spells, maybe 2 
-	- Ice Storm 
-	- Destructive Wave, but Ice 
-		- DC10 or be frozen, 8d6
-		- Everyone within 15 feet of her
-- AOE melee attack
-	- Body thrash 2d6+3 can do 2 times
-	- Spinning Attack 
-		- 1d8+3 to all players near can do 1 time 
-- Vulnerable to fire 
-- **DC14 for Spells but always take half** 
-- **+6 to Attacks**
+**Boss Battle** 
+- Meleena’s WetNurse → apex action, legendary action, multi attacks, rush attack, spinning attacks, darkness effects, clone attacks
+	- **Lore**
+	- Child of the Queen of Evernight, and a Great Old One (GOO who has ascended to a even higher plane (Sai Mona vs Dox Vulethix (the father))
+		- Queen: Maren Evernight
+			- Children, Reemus, Meleena, Shadow of Evernight
+				- All Maren’s children 
+	- Queen will be outside lift
+		- Will be state of despair before
+			- Leaves state of despair after WetNurse death and bows gratitude as she fades away
 
-After fight, the moon turns crimson red, and the players black out
+Lore dropping at the end with Ludwig, surprise encounter 
 
-The magical field covering the city of evernight has disappeared 
+Queen of evernight 
+Book 
+Cainhurst 
+Tie into two worlds
 
-Cinematic of Gorlock, picking up his GreatAxe in the ground and walking towards the hunt 
-- Nathan Murgul talking to Gorlock, with him in the graveyard
-- “So it has begun then, I am assuming you will partake in this? I’d imagine our heroes may need a little bit of help with cleaning this up.”
-- Add description of the minotaur making his way towards ancient evernight 
-
-Players wake up in Jail, find Chuck their already
-Players have to escape/kill the bagmen and hunters 
-- Gorlock will begin fighting the 2 Bagmen already
-
-The streets of Evernight are littered with hunters, paladins, and beasts all fighting 
-- More combat 
-
-Include verticality in order to get to the final boss fight 
-- Have to solve a puzzle to open a gate that will lead upwards 
-- The path will ultimately lead to the final boss fight 
-
-Finally get to the final boss fight 
-- Trapped Souls of Evernight, 3 legendary action points that they can spend each round on a players turn 
-	- Discharge attack, need to get to higher ground 3pts
-		- If not deal cloudkill damage 
-		- Charges up for next round 
-	- Ball Projectile Beam → Shoots a beam of pure death 2pt
-		- Blight spell 
-	- Toll the Dead at 3 dice → 1 pt
-	- Specific Actions 
-		- Sweeping Attack: Normal Attack 15 feet adjacent and 10 feet forward
-		- Flail: Attacks everyone within 5 feet of him
-		- Human Body Tentacle Attack:
-			- 1D12+4 Damage 
-			- Makes 2 of them 
-	- **DC14**
-	- **+6 to attacks** 
-- 4 super buffed up Spellcasters 
-	- Add scorching ray, fire shield and Immolation 
-	- Add Healing Word, Cure Wounds, Aura of Vitality 
-
-After the One Reborn, the Party will have to make their way down the block 
-- They will have to be picked up by the strange creature (lesser amygdala)
-	- Once they are each picked up, it transports them to the nightmare frontier, where they stand at the peak of a mountain**
+End session here
  

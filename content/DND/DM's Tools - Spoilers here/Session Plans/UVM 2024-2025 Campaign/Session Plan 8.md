@@ -4,56 +4,71 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 7]]
 
-Order of city: Central Evernight → District of Sanctity (The healing workshop/Healing Church, Court of Shadows (maybe), and Abandoned Old Bloodhunter Workshop) → Ancient Evernight → Cainhurst castle → forbidden woods → The witches’s path → Unnamed land (byrgenwerth, point of no return in finale of area) → Unseen village → Nightmare of Mona → Hunter workshop/Finale for the shadowfell arc 
+(Alucard joins them on their adventure)
+Session: Cainhurst and The Witches path 
+- The Witches Path
+	- Straight shot forward, no NPCS
+	- Separate the players, show visions of corresponding things they love 
+	- Illusionary puzzle, mind fuckery (see above)
+		- Combat ensures with certain beasts 
+			- Figure out rn 
+	- Caused by the witches, short combat followed by a boss fight with the witches
+		- Apex actions 
+			- Summoners more so than fighters
+- Make it to cainhurst through mysterious carriage 
+- Make it, super duper snowy, obscured conditions (like fog cloud spell) 
 
-  
-Before ancient evernight, major boss fight 
-- So start of session 
+- They get inside big grand flight of stairs and four other rooms in the bottom 
+	- **(1st floor)** Great Hall - A vast dining area with long, heavy tables and a roaring fireplace, filled with echoes of past feasts
+		- Nothing important here, just small talk 
+		- Maybe a magical thing of beer
+	- **(2nd floor)** War Room - A strategizing chamber with maps, battle plans, and ancient war relics scattered across the table
+		- Map of full evernight
+	- **(3rd floor)** Grand Library - A cavernous library filled with dusty tomes, forbidden knowledge, and whispers of long-forgotten spells
+		- Runes can be located here for Monty
+	- **(1st floor)** A room cluttered with bubbling potions, strange ingredients, and arcane symbols, exuding a faint glow.
+		- Potions, weird liquids and transmutation circles will be located here
+		- Akanos upgrades 
+	- **(1st floor)** Armory - A vault of weapons and armor, many imbued with dark magic, showcasing the castle's martial history
+		- Magic weapon components, some upgrades for otto's lightsaber
+		- Upgrades for monkey and dog
+		- Flute of Tongues for Jaloop
+	- **(-1 floor)** Prison - A network of dark, damp cells where prisoners are kept, filled with eerie sounds and lingering dread
+		- Information can be given about Cainhurst Castles history
+	- **(Floor 1)** Prayer Room - A once-holy place now twisted by dark rituals, featuring crumbling altars and shattered stained glass.
+		- Potentially commune with the raven queen or another god here
+	- **(Floor 1)** Gardens of Decay - An overgrown courtyard filled with twisted trees, poisonous plants, and the remnants of forgotten rituals.
+		- Magical Plants/Spore for Chuck upgrade
+	- **(Floor 3/roof)** Observatory - A high tower room with telescopes and charts, where one can gaze into the abyss of the night sky.
+		- Knowledge about the great old ones here
+		- Components for bowblade and cloak upgrade 
+	- **(Floor 2)** Guest Quarters - Lavish yet ominous rooms for visiting dignitaries, featuring luxurious but unsettling decor.
+		- Nothing much, other then weird bondage sex toys and kinks 
+	- **(Throughout castle)** Secret Passageways - Hidden corridors leading to various parts of the castle, often used for clandestine meetings or escapes
+		- One in each room, leads to the catacombs
+		- They are called the Hall of Echoes - A mysterious chamber where voices from the past can be heard, often leading to madness or revelation
+	- **(Floor 2)**  Enchanted Gallery - A hallway lined with portraits that seem to watch passersby, with eyes that flicker with life.
+		- Portraits of former cainhurst peoples
+	- **(Floor 2)** The Mirror Room - A chamber filled with mirrors that reflect not just images but possible futures or dark truths
+		- One mirror, can see one future
+	- (**Floor 2)** Armistice Chamber - A room for negotiation, now filled with tension and remnants of broken treaties
+		- Contracts with the Hunters and with weird pact patrons
+	- **(-2 floor)** Crypt of the Ancients - A sacred burial site for the castle's founders, guarded by ancient magic and traps.
+		- Tombs of all the former rulers 
+		- Traps
+	- Almost all are different glyph of wardings each with different effects
 
-  
 
-After, more lore dumps with Alder and Alucard
-- See Anna again, see that she is progressing well in her training
-- Maybe find out secret to Hostwalkers
-	- Wildcards, unknown as to what each uniques traits each one possesses, has the ability to learn other creatures abilities and capabilities and use them for themselves if they consume their flesh
+From the tower, can reach the roof 
 
-Ancient evernight next, no bosses, can lead to forbidden woods 
-- Puzzles in ancient evernight, which will lead to the forbidden woods
-	- Watchtower with gatling gun 
-		- Debris were people can hide
-		- Goal is to stealth by
-	- Old transition building
-		- The puzzle is a menu, the menu 
-			- Each item has a cost in copper, the cost corresponds to the letter of each entry, put all the letters together and you get the passcode
-				- Fish (1CP), Boar (2CP), Carriage (3CP), Ramen (4CP), Thieves Tools (5CP), Pickle (6CP), Cheddar (7CP), Dickhead (8CP), Hamburger (9CP), Drawbridge (10CP), (11CP) Acarophobia, (12CP) Accelerogram, (13CP) Chestnut Aioli, (14CP) Tranquilizing Mushrooms, (15CP) Hyperpolarizing Broccoli 
-					- Forever Dreaming
+Throne with boss 
+- A Vampire Noble Cainhurst Knight
+	- Davirel Markov (can reuse name)
+    
+Throne secretly lead to a room with the ruler 
+- Draculina Ariana 
 
-- Reach a gate, leading to the next location
-	- But have it be a riddle or a puzzle regarding matching descriptive words
-		- Courage 
-		- Strength 
-		- Honesty  
-		- Treacherous 
-		- Noble 
-	- Demonic 
-	- Arrogance 
-	- Dishonest 
-	- Intelligent 
-	- Wise 
-	- Kind 
-	- Loving 
-	- Creative
-	- Integrity 
-
-- Merge forbidden woods and witches lane 
-- Can lead to cainhurst and unnamed land
-- A little bit before Dracula’s estate, will run into Eileen, who is bleeding out, and dies, due to a Cainhurst Knight 
-	- Battle with Cainhurst Knights
-	- Dracula’s Estate 
-	- Dracula family line 
-	- Boss was placed there to shield the rest of the world from finding out about the vilebloods
-	- One of Jaloops members from the Orphanage will greet him there as the 1st guard 
-	- The 2nd guard will recognize Otto
-
-Random encounter can be more host walkers
+Past room will be more loot?
+Davirel Markov
+- Can reuse this name
  

@@ -4,71 +4,119 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 8]]
 
-(Alucard joins them on their adventure)
-Session: Cainhurst and The Witches path 
-- The Witches Path
-	- Straight shot forward, no NPCS
-	- Separate the players, show visions of corresponding things they love 
-	- Illusionary puzzle, mind fuckery (see above)
-		- Combat ensures with certain beasts 
-			- Figure out rn 
-	- Caused by the witches, short combat followed by a boss fight with the witches
-		- Apex actions 
-			- Summoners more so than fighters
-- Make it to cainhurst through mysterious carriage 
-- Make it, super duper snowy, obscured conditions (like fog cloud spell) 
+Order of city: Central Evernight → District of Sanctity (The healing workshop/Healing Church, Court of Shadows (maybe), and Abandoned Old Bloodhunter Workshop) → Ancient Evernight → (The witches’s path) → Cainhurst castle → forbidden woods → Unnamed land (byrgenwerth, point of no return in finale of area) → The Unseen village → Nightmare of Mona → Hunter workshop/Finale for the shadowfell arc 
 
-- They get inside big grand flight of stairs and four other rooms in the bottom 
-	- **(1st floor)** Great Hall - A vast dining area with long, heavy tables and a roaring fireplace, filled with echoes of past feasts
-		- Nothing important here, just small talk 
-		- Maybe a magical thing of beer
-	- **(2nd floor)** War Room - A strategizing chamber with maps, battle plans, and ancient war relics scattered across the table
-		- Map of full evernight
-	- **(3rd floor)** Grand Library - A cavernous library filled with dusty tomes, forbidden knowledge, and whispers of long-forgotten spells
-		- Runes can be located here for Monty
-	- **(1st floor)** A room cluttered with bubbling potions, strange ingredients, and arcane symbols, exuding a faint glow.
-		- Potions, weird liquids and transmutation circles will be located here
-		- Akanos upgrades 
-	- **(1st floor)** Armory - A vault of weapons and armor, many imbued with dark magic, showcasing the castle's martial history
-		- Magic weapon components, some upgrades for otto's lightsaber
-		- Upgrades for monkey and dog
-		- Flute of Tongues for Jaloop
-	- **(-1 floor)** Prison - A network of dark, damp cells where prisoners are kept, filled with eerie sounds and lingering dread
-		- Information can be given about Cainhurst Castles history
-	- **(Floor 1)** Prayer Room - A once-holy place now twisted by dark rituals, featuring crumbling altars and shattered stained glass.
-		- Potentially commune with the raven queen or another god here
-	- **(Floor 1)** Gardens of Decay - An overgrown courtyard filled with twisted trees, poisonous plants, and the remnants of forgotten rituals.
-		- Magical Plants/Spore for Chuck upgrade
-	- **(Floor 3/roof)** Observatory - A high tower room with telescopes and charts, where one can gaze into the abyss of the night sky.
-		- Knowledge about the great old ones here
-		- Components for bowblade and cloak upgrade 
-	- **(Floor 2)** Guest Quarters - Lavish yet ominous rooms for visiting dignitaries, featuring luxurious but unsettling decor.
-		- Nothing much, other then weird bondage sex toys and kinks 
-	- **(Throughout castle)** Secret Passageways - Hidden corridors leading to various parts of the castle, often used for clandestine meetings or escapes
-		- One in each room, leads to the catacombs
-		- They are called the Hall of Echoes - A mysterious chamber where voices from the past can be heard, often leading to madness or revelation
-	- **(Floor 2)**  Enchanted Gallery - A hallway lined with portraits that seem to watch passersby, with eyes that flicker with life.
-		- Portraits of former cainhurst peoples
-	- **(Floor 2)** The Mirror Room - A chamber filled with mirrors that reflect not just images but possible futures or dark truths
-		- One mirror, can see one future
-	- (**Floor 2)** Armistice Chamber - A room for negotiation, now filled with tension and remnants of broken treaties
-		- Contracts with the Hunters and with weird pact patrons
-	- **(-2 floor)** Crypt of the Ancients - A sacred burial site for the castle's founders, guarded by ancient magic and traps.
-		- Tombs of all the former rulers 
-		- Traps
-	- Almost all are different glyph of wardings each with different effects
-
-
-From the tower, can reach the roof 
-
-Throne with boss 
-- A Vampire Noble Cainhurst Knight
-	- Davirel Markov (can reuse name)
+Small Village 
+- Halfling’s lot of friends of Jaloop (transported by Arangol here, in order to try and get the group killed because he’ll know they will help)
+	- Sees one of his orphanage friends 
+		- Asks whats wrong
+			- They are being terrorized by a horrid monster, known as the the shadow of evernight (combine lonely, angry and add own flair), they’ve been able to be protected by a man named Dryden Tempest
+				- Metamagic
+					- Illusion master 
+					- Conjuration master 
+	- Moreover, there are two additional NPCS 
+		- One man whos in act of transformation, will ask for safe haven 
+		- A prostitute women, who has been raped and impregnated by a great old one, will also ask for safe haven 
+			- Willing to give blood (Blood of Elle Efrideet)
+			- She’s Ben’s sister, got separated from him
+				- Gives the effects of haste, but no lethargic condition when ends, also allows the user to regenerate health = to half their level rounded up for a minute 
+				- Has 1d4 charges, then takes week to reuse again, only one character can benefit from it at a time
+		- A man named victor, who wears a short cape, aristocratic clothing with dark color scheme, and has a sword cane 
+			- A man who hunts parasites and evil symbiotes, wondering if the group has seen any 
     
-Throne secretly lead to a room with the ruler 
-- Draculina Ariana 
 
-Past room will be more loot?
-Davirel Markov
-- Can reuse this name
+As they venture into the woods, they come across a dead end, where everything is reflected
+ 1. The Eldritch Reflection
+
+Setting:  
+A serene yet unsettling pond surrounded by gnarled trees, shrouded in fog. The water’s surface ripples, distorting the reflections of the players.
+
+Encounter Description:  
+As players approach the pond, they see their reflections, but they appear twisted and warped. The glowing moss around the pond emits a faint, otherworldly light, illuminating cryptic poetry etched into the bark of nearby trees.
+
+Puzzle Mechanics:  
+- Observation: Players need to observe their reflections carefully. The distortions hint at the players’ current positions, indicating that they need to mimic the reflection’s stance and angles to unlock a hidden path.
+- Alignment: Players must experiment with different angles—bending, crouching, or standing on one leg—to find the correct position.
+- Roleplay Opportunity: Encourage players to describe how they adjust their stances, using creative positioning to enhance the atmosphere.
+
+Clue Integration:  
+The glowing moss provides lines of poetry like:
+- "In truth lies the fracture; in fracture, the path."
+- "Align the essence with the facade, and the way shall reveal."
+
+Once players align correctly, a low rumble echoes from the pond as it parts, revealing a narrow path through the woods that glows with an ethereal light.
+
+As they continue to venture through, they come across multiple shadows
+ 2. The Whispering Shadows
+
+Setting:  
+A dense part of the woods, where the light barely penetrates. Shadows twist unnaturally, forming shapes that seem almost alive.
+
+Encounter Description:  
+As players delve deeper, they hear faint murmurs from the trees, a cacophony of forgotten languages that ebb and flow like a haunting melody. Shadows of various creatures flit between the trees, each seemingly more grotesque than the last.
+
+Puzzle Mechanics:  
+- Translation: Players need to make Arcana or History checks to decode the murmurs, piecing together fragmented phrases to identify the correct shadow. 
+- Recognition: Once players understand the whispers, they must discern which shadow is benign and which is malevolent. The right shadow may resemble a creature from their past or folklore they are familiar with.
+- Shadow Manipulation: Players may need to interact with objects around (like stones or fallen branches) to cast their own shadows, helping them visualize the correct shape.
+
+Clue Integration:  
+Encourage players to write down fragments of the whispers they decipher. Provide clues like:
+- “The fangs of the deceiver beckon, but the wings of the protector shield.”
+	- Nephilim
+- “In darkness, find light, in the wicked, find virtue.”
+	- Nephilim
+
+Upon correctly identifying the shadow, it dissipates, revealing a path forward, bathed in a warm light.
+
+3. The Echoing Calls
+
+Setting:  
+A clearing marked by an ancient altar, where echoes reverberate unsettlingly. The atmosphere is thick with tension as whispers fill the air.
+
+Encounter Description:  
+Players hear disembodied voices calling out to them, each one sounding familiar yet distorted. The altar has weathered carvings depicting various figures and symbols, hinting at a sequence.
+
+Puzzle Mechanics:  
+- Listening: Players need to actively listen to the voices, making Perception checks to distinguish nuances and identify which voices are genuine.
+- Carving Interpretation: Players can examine the carvings, possibly requiring Investigation or Insight checks to discern the sequence they must follow.
+- Trial and Error: If players follow the wrong voice, they risk falling into madness—require a Wisdom saving throw or impose a short-term madness effect (using the Madness table from the DMG).
+
+Clue Integration:  
+The carvings might feature lines like:
+
+Problem:
+Players hear three disembodied voices calling out to them:
+
+1. Voice A: “Come to me, my child.” (Soft, comforting)
+2. Voice B: “Beware the darkness!” (Urgent, warning)
+3. Voice C: “Help me, please!” (Desperate, pleading)
+
+To navigate the echoes, the players must determine the correct order of these voices based on the clues from the altar carvings.
+
+Solution:
+The clues suggest a sequence based on emotional tone:
+1. “The first is soft as a lullaby” – This refers to Voice A, which is soft and comforting.
+2. “The second a cry of warning” – This refers to Voice B, which warns of danger.
+3. “The third a desperate plea” – This refers to Voice C, which is a cry for help.
+
+The correct sequence is: Voice A → Voice B → Voice C.
+ 
+ Implementation:
+- Players need to make a Perception check to distinguish the nuances of the voices. A successful check allows them to recall the emotional tones.
+- After identifying the voices, players can make an Insight check to interpret the carvings. A success reveals the intended sequence based on the clues.
+- If players choose the wrong order (e.g., following Voice C first), they must make a Wisdom saving throw. Failing the save results in a short-term madness effect, such as paranoia or hallucinations.
+
+
+Reward:
+Upon following the correct sequence, the voices harmonize, and a hidden passage through the woods reveals itself, adorned with glowing runes. This not only advances the plot but also provides a sense of accomplishment for the players.
+
+Once players successfully navigate the correct sequence, the voices harmonize into a single, melodious tone, revealing a hidden passage through the woods, adorned with glowing runes.
+
+Final fight is themselves and the darkness one
+- After fight, before next area, will give a puzzle that ominously tells future
+- The Tapestry of Time
+	- A large, ancient tapestry hanging in a clearing depicts events that have yet to happen. Players must interpret the tapestry’s imagery to prevent a cosmic event.
+	- Moreover, also gives a lot of lore on the hunt and Sai Mona the moon presence
+- Next Session PONR
  

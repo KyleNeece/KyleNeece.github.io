@@ -4,76 +4,66 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 13]]
 
-Prologue scene (takes place in an unknown location, sometime between the events of act 1 and 2): a long limbed cloaked and hooded figure with greenish purplish slimy four fingered hands sits in the dark on a throne of a dark purple membraned floor (similar to brain in look), with dark gray organic pillars made of some weird biological mass. With organic courtroom esque dark pink benches. 
-
-The figure: “So it seems that the natural events of Sai Mona and the Evernight Dream could not kill them, and in addition, they ended the hunt for good, so so interesting. That just means I’ll have to be slightly more involved in this match.” 
-- A woman walks in: with Brown hair, gray eyes, medium armor, softer facial features and skin, with an hourglass body shape walks into the room, holding on to an amulet of an eagle and constantly fiddling with it. 
-- The figure: “Good work, making work of one of the crucial armed guards forces within waterdeep.”
-- Woman: “Since we both know that you are never sincere, and a man of many silver linings, cut to the chase for me.”
-- The figure: “I hired you for the purpose of having your combat services. You have toppled armed guards and thinned and even murdered different armies across the planes. And while that's good, I need a little bit more to cut it for my progress, which is why I’m handsomely asking for one more favor…”
-- Woman: “I can make an educated guess.” 
-- The figure: “Oh? That’s hard for me to believe… But let's say you truly know, are you not conflicted.” 
-- Woman: “Since you know that I am a woman of my word, and that I followed your orders I’ll say this. It doesn’t matter whether or not they are within the peacekeeper force. Some of them within look to be planning to cause acts of treason anyway, so this job will be clockwork, no clashing sentiments.” 
-- Woman (Stops fiddling with Amulet): “I will kill Ludwig’s regiment myself. I will be awaiting a sent payment.” 
-- The figure: “Very well, I will be awaiting your completion of this task… Ms. Sigiliph…” 
-
-The party starts split, with the party being invited to the Ludwig funeral through the interplanar mailing service, developed by Jotor Sparklefen. The sender is the Olivia Birdsong, who is responsible for planning big events on Sigil 
-
-The party is also notified that they all have necklaces/earrings/jewelry of sending, as well as access to the interplanar mailing service that has arisen from the advancements of sigil while they were in the shadow realm. 
-
-They will also notice slight differences to the change of NPCS that they encounter, whether it be appearance or personality (given situations). 
-
-(Give a more detailed description to Sigil, the city is an ecumenopolis, with sprawling buildings and bustling streets and skies. (improvise more as well, Sprocket opened a huge shop)
-
-The party will be notified upon arrival that they must rescan, in order to accurately update the peacekeeper database 
-- A reward giver will stand at the obelisk, giving each 400 gold
-
-Each will be a B-Rank, with Monkey being at the top, followed by Jaloop and Aeris, followed by Otto being the lowest (First have the players mingle and talk downtime, with NPC guiding questions, NPC at the Obelisk is an old gnome, after scanning and catching up send party to Jotor, Kabe answers door and Yasu calms him down)
-- “Scanning power"
-- “Taking into account public opinion” 
-- “Citing missions completed” 
-	- What each have done for downtime (Time for Roleplay, summarize if gaps are missing or anything else occurs) 
-		- Aeris and Monkey: Robin hood activities in the Orzhov sector of Ravnica 
-			- Reward, higher rank in peacekeeper force which gives more fame and benefits (make sure to rp this this session, esp with Monkey)
-	- Otto: Little bit of thieving in Baldur’s Gate, goes to Alder to learn about self for a little 
-		- Magic item upgrade, regain a warlock spellslot once per long rest
-	- Monty: 
-		- Training a Martial Weapon 
-			- Training with Alucard
-			- Training in Battle Axe Proficiency 
-			- Crafting mundane halfplate with flavored bonuses
-	- Jaloop: 
-		- Studying with Olivia Birdsong and a division of Bards
-		- Olivia will help with his research briefly for last bit
-			- Magical songs and fabled bard instruments 
-				- NanoMineral Behavioral Imprint Material (disguise self 1x long rest and encode thoughts)
-	- Rhulk/Gorlock: 
-		- Training in the mountains and studying dark magic with Hank Dreadbone
-		- Reward, Axe can cast false life once per day no spell slot
-	- Akanos: 
-		- On missions with Lillith 
-			- Rewards, scarab upgrade (lightning beams), and a little gold 
-	- Chuck: Also going to see Alder 
-		- Reclassing under Alder and training the Girl to accelerate her progression. 
-			- Additional reward, illuminators tattoo
-    
-
-**(have gnome tell them this)** The party will also be notified that they have full access to estates now, and whatever lies within the estate (at dm’s discretion), is fully customizable by them depending on their tastes and personalities. Each one also has a battle recorder, which allows for them to replay old fights. 
-
-In addition, some of the party will have some citizens know them (RP time), and others will have just starting-out “fanclubs.” 
-- More time for RP
-
-Have players describe what you do throughout the day, break it up into morning, afternoon, and evening, where funeral ceremony will occur 
-
-Funeral scene 
-- City center of Sigil, podium where Jackson stands, dozens of chairs, flying seating, citizens and peacekeepers alike, a small void cruiser rests on the “stage”.
-- Jackson: “We are here today to put to rest one our best. Ludwig Van Scythe was a man of curiosity, selflessness, and dignity. He always strove to protect those who couldn’t protect themselves, going as far as to even combat the most horrific of horrors and even when he was outmatched, he still fought. He put others in front of himself, always looking out for those, even if it didn’t suit his best interests for himself. He exercised these actions and philosophies for hundreds of years, and his service will not be forgotten. Thank you, Ludwig Van Scythe, Good Hunter, and may you find your worth in the world of rest.” 
-	- Twitch’s regiment fires rifles into the air, and Ryús squadron fires flaming arrows at a small void cruiser with a casket painted with a beautiful artwork of Ludwig as it sails into the astral sea from a portal
-	- Olivia stands, and uses a key on a thick alone and standing door carried by Malatar to open a huge pocket dimension estate for people to enter in
+**Continuing from Session 14
 
 After funeral reception begins, players can seek out NPCs, to learn more about what they have been up to and maybe meet new people
 - Players can eat and socialize 
-	- Prompt NPCs they see 
+- Prompt NPCs they see 
 - If they have things to say about Ludwig, they can 
 - After the party, each of the party experiences various sickness symptoms when they return to their estates, with Monty’s and Jaloop’s being the worst. 
+
+Next day, more time to do stuff
+- Maui Rockheart will get in touch with the group, telling all of them to go to the healing church’s new base of operations within Sigil
+- The party will meet with Anna, who is about to turn 14 the next day
+	- Made good progress on her training and is having a good time on Sigil 
+	- In addition, Maui was told by Alder to check up on them
+	- Maui gives them the key to Ludwigs office and a note that says “Sometimes it takes a monster to kill another monster”, which will be cleared out by Peacekeepers soon, Alder told him to tell the party that he figured it's only right for them to take what they want or need from it 
+		- Looking for research regarding eldritch magic and truths, research about Necro and Host Walkers, part of Ludwigs personal life, and the most important is the Ritual of Empyrean Metempsychosis 
+			- Will find all of the lore about the hunt, repeat info 
+			- Research regarding final evo and the 12 and the King’s uniqueness 
+			- Research regarding host and necrowalkers 
+			- Ritual of Empyrean Metempsychosis 
+				- Chalice of Rebirth 
+				- Flower of Soul’s Persona (in feywild, but in a unknown location)
+				- Glyph of Quantum Reconstruction (location unknown)
+				- Blood of the matching species it died as 
+					- Can be artificially made and enhanced if known that the person who was previously alive could handle the newfound power(s)
+				- One who the person held so dearly and a person who possess power healing and resurrection magic 
+				- The soul of the one you are trying to resurrect 
+				- In addition, mention how depending on the being, if the two souls aren’t compatible, the host will begin to get more and more progressively sick and will die
+				- If the souls are compatible, the more powerful soul will override the others body, erasing the other completely and claiming their body
+		- Research and findings 
+			- At end, a glyph, has to say a codeword (which is Sometimes it takes a monster to kill another monster), then after, a illusionary message is played
+				- Day: Unknown 
+				- If you are seeing this, then I have most likely died, as I only pass the code onto those who I trust. I have been conducting research on the hunt, and recently found that it traps those within Evernight at a particular time of year, in an endless loop, and Gerald’s nightmare is fueling Sai Mona to keep doing so. In my findings, I have also found that Sai Mona’s dream can manipulate memories and human evolution, which explains why people within the hunt can’t defend themselves against these monsters. Anna is an exception because she is part of one of the three notoriously powerful bloodlines among humans, which grant them inherent magical powers akin to that of other species like Elves and Tieflings for example. These are: The Felwinters, The Efrideets, and The Saladins. Anyway that point is irrelevant, what is relevant though, is that the dreamloop has memory modification properties, and I’d assume once it's lifted, people regain memory. If that is the case, but one's memory is not restored fully, I hypothesize that there is another layered spell on top of the nightmare that is more powerful. I may be crazy, but I believe that this second layered spell is preventing those who existed when the spell was cast, to remember something. Something bigger and larger than I can uncover and understand, even with the most powerful magical ability. With my research, theory, and all things considered, my mission to resurrect Azriel Darkstar is no longer merely an experiment, but theoretically, a key to uncovering this mysterious something that we all forgot. Research aside, if this got to the right person, then this next message will have been a success. I would like to thank you. I turned hollow inside, as that's what happens when you see the ones you love die of old age, which is why I consider my mutation a curse as well as a blessing. Exchanging emotions for knowledge. You gave me another reason to live, I actually felt warmer inside, rather than cold. I kept everyone at arm's length, even you guys, and I regret that deeply. I wish I had more time to connect and open up about my life. But I didn’t. I’ll keep it brief: I was once a father, with a wonderful wife and child, but I could not share the gift of slowing age with them, passing on like the rest of my good friends. Alder was more of a work buddy, though a good dude I didn’t really get to know him that much as I was a part of a hunter order, and he was a part of the paladin church. So really in my final moments and days all I had was you guys, I felt like a father again. So I have a gift, it won’t be of much use, but at least you’ll be stylish on the battlefield. Oh and if there are any documents about my research or personal journals about my past life, destroy them. Don’t want them going into anyones hands. Anyway every story has an end, this one is mine. Good hunting, and may you find your worth in this ever expanding reality. 
+- The party will then be directed to the military barracks by Maui to get assigned to a new regiment leader: Emily (Sigiliph)
+	- If they ask any further about name, she’ll say “Uh, I guess I am known to be a skilled swordswomen” 
+	- They will get a briefing 
+		- The mission, is to make contact with a high ranking member of the Seelie court within the Feywild (cover up, not full truth and manipulated mission) 
+			- Party will have 48’s to prepare. (Mini montage/Downtime) 
+				- RP time 
+				- (Maybe have the party do slice of life stuff)
+	- The party will then enter the feywild, surrounded by thick forest 
+		- Tall colorful mushrooms (list some colors) 
+			- There are almost no shadows, despite the looming tall mushrooms and trees, but deeper shadows have the same consistency 
+			- High density bushes with different leaf colors 
+			- The day cycle and direction you walk changes depending on your emotions 
+			- Grey Stone looks as if it is made of cardboard, but when you touch it, it makes hollow noise
+			- The grass under your shoes feels as if your barefoot, when in reality you have your shoes on, it feels like your not wearing clothes already 
+			- The dirt under your feet and when you touch it feels as if its moving and scuttling around
+			- The breeze feels like if you could feel the sensation of smell through your skin (but not actually)
+- Once they arrive, Emily prepares for combat as she steps on a glyph, which creates a magical dome: 
+	- “Good, I can get started” 
+		- The eagle amulet transforms into a 6 foot greatsword that looks as if it weighs a lot (like a lot)
+		- It would be best to make this easy, submit your life.
+	- After fight, forefield retracts, and Emily says: 
+		- “Mr and Ms Aryndor, have you and your squad help me with the bodies, take them to Yasu and Ms Havenwood. If my suspicions are correct, these people are our hope crawling out of the dark” 
+		- Mr and Ms Arendor have moved from Zendikar to Feywild, to help with Sigliph’s research, as she needed a Fey guide and Ms Aryndor is one of the most renowned Rangers within the Fey Wanderer Conclave, and Mr Arendor was originally a member of the Star-Archer Squadron
+- The party wakes up within an outpost on medical beds, with Yasu tending to medical supplies
+	- Describe scene further, rp with characters
+		- Ms Havenwood (Eli’s parents) was saved in hell by 3 men, by Jackson, Alex’s father, and (insert description of Ludwig here)
+	- Then Emily Sigiliph after a time will get to briefing 
+		- Why she killed them: needed to fulfill contracts with Arangol to keep his trust as a double agent until a group unpredictable and competent enough appeared to start the push back against him. Arangol cannot have heavy influence and vision on the feywild, as it is too unpredictable to tell the plane's future. She’ll give the new mission, which is to continue to look for leads on resurrecting Azriel, and the Feywild, (in theory) with its chaotic magic, may have an answer
+			- (allow for party response) Olivia will appear and talk to the party about Azriel
+    - Will allow for party to explore the place
  

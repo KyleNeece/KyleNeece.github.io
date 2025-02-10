@@ -2,7 +2,7 @@
 tags: [Session_Plans]
 ---
 
-Previous: [[Session Plan 18]]
+Previous: [[Session Plan 17]]
 
 Second Job(s)
 - Platoon 457 job 

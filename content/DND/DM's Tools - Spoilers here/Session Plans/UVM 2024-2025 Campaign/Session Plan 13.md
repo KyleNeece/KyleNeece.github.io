@@ -4,106 +4,76 @@ tags: [Session_Plans]
 
 Previous: [[Session Plan 12]]
 
-This is essentially a game design question. You should look at it that way, and read up on how game developers make combat in their own games fun.
+Prologue scene (takes place in an unknown location, sometime between the events of act 1 and 2): a long limbed cloaked and hooded figure with greenish purplish slimy four fingered hands sits in the dark on a throne of a dark purple membraned floor (similar to brain in look), with dark gray organic pillars made of some weird biological mass. With organic courtroom esque dark pink benches. 
 
-You want to build encounters that allow players to make meaningful choices. You can't just throw some random monster at the players and expect that to be exciting. If they can just do the same thing they did in the last 3 encounters and win, asking them to do it a 4th time isn't going to be very interesting.
+The figure: “So it seems that the natural events of Sai Mona and the Evernight Dream could not kill them, and in addition, they ended the hunt for good, so so interesting. That just means I’ll have to be slightly more involved in this match.” 
+- A woman walks in: with Brown hair, gray eyes, medium armor, softer facial features and skin, with an hourglass body shape walks into the room, holding on to an amulet of an eagle and constantly fiddling with it. 
+- The figure: “Good work, making work of one of the crucial armed guards forces within waterdeep.”
+- Woman: “Since we both know that you are never sincere, and a man of many silver linings, cut to the chase for me.”
+- The figure: “I hired you for the purpose of having your combat services. You have toppled armed guards and thinned and even murdered different armies across the planes. And while that's good, I need a little bit more to cut it for my progress, which is why I’m handsomely asking for one more favor…”
+- Woman: “I can make an educated guess.” 
+- The figure: “Oh? That’s hard for me to believe… But let's say you truly know, are you not conflicted.” 
+- Woman: “Since you know that I am a woman of my word, and that I followed your orders I’ll say this. It doesn’t matter whether or not they are within the peacekeeper force. Some of them within look to be planning to cause acts of treason anyway, so this job will be clockwork, no clashing sentiments.” 
+- Woman (Stops fiddling with Amulet): “I will kill Ludwig’s regiment myself. I will be awaiting a sent payment.” 
+- The figure: “Very well, I will be awaiting your completion of this task… Ms. Sigiliph…” 
 
-At the very least, you want to be using 2 or 3 different types of monsters that have easily observable mechanical differences. For example, wolves run fast, gang up on 1 enemy and can knock them prone. Goblins are weak but have ranged attacks and can hide or disengage easily. Hobgoblins have high AC, both melee and ranged attacks, and deal high damage if they have an ally within 5 feet of their target. These differences are easily observed by the player and force them to treat each enemy in a different way. An encounter with 1 hobgoblin, 2 goblin archers and 4 wolves is much more interesting than an encounter with 7 wolves or 7 goblins because the players have multiple valid strategies to choose from and none of them are clearly the one best option.
+The party starts split, with the party being invited to the Ludwig funeral through the interplanar mailing service, developed by Jotor Sparklefen. The sender is the Olivia Birdsong, who is responsible for planning big events on Sigil 
 
-You can also vary:
-- The battlefield between encounters. There can be difficult terrain, different forms of cover and obscurement, climbable surfaces, pits, gaps wide enough that only some characters can easily jump across, traps, narrow walkways that require acrobatics checks to cross, and destructible elements like chandeliers that can be dropped or flammable objects
-- The win conditions. Every once in a while, you can have an encounter where the goal isn't to just kill everyone in the opposite side. Maybe they have to destroy an object, stop a spellcaster's ritual, kill the enemy boss, rescue a hostage, or escape the dungeon alive
-- Whether all enemies are accounted for from the start. Sometimes enemies call for reinforcements. Sometimes the PCs get an unexpected helping hand.
+The party is also notified that they all have necklaces/earrings/jewelry of sending, as well as access to the interplanar mailing service that has arisen from the advancements of sigil while they were in the shadow realm. 
 
-Make an effort to not stop roleplaying when you're going through the motions of combat. A fight is never just a fight; the enemies have goals and needs and often personalities that should shine through in an encounter. Even if you have 4 goblins with the same stat block, they don't all have to be the same. Maybe 2 of them are competing to be promoted within their clan. Maybe 1 of them secretly wants to get one of the others killed. And going back to the theme of "mix different enemy types," those same goblins probably won't act the same way when they're on their own vs when they're being ordered to fight by a hobgoblin captain.
+They will also notice slight differences to the change of NPCS that they encounter, whether it be appearance or personality (given situations). 
 
-- Use enemies to rile up enemies 
-- Dialogue is laced to the story 
-- Another scene 
-	- Push plot and Develop Character
-- Tell people when they are next (On deck)
-- Battlemap designs 
-	- Draw stuff out, Design the room, add smaller details 
-- Elevation, terrain 
-- Secondary objectives (save, destroy infiltrate)
-- Multi faceted, other stakes involved 
-- Throwing monsters that keep getting thrown at them, drawing attention away from main fight 
-- Change the primary objective of combat 
-	- Racing 
-	- Style points, becomes performance 
-	- Team compete in some sort of sport 
-	- Protection
-- Emphasize things that don’t just get monster hp to zer0
-- Fight to live
+(Give a more detailed description to Sigil, the city is an ecumenopolis, with sprawling buildings and bustling streets and skies. (improvise more as well, Sprocket opened a huge shop)
 
-**Session 13**
-- Party starts at hunters workshop/healing church 
-	- Alder explains what is going on 
-	- Party makes their way to workshop 
-	- To a field of flowers 
-- GeairMan offers to free them 
-	- Vague leaves out details 
-	- Ludwig intervenes either way 
+The party will be notified upon arrival that they must rescan, in order to accurately update the peacekeeper database 
+- A reward giver will stand at the obelisk, giving each 400 gold
 
-- Dialogue between Gerald and Ludwig 
-	- Gerald: “Good Hunters, you have done well, the night is almost over. Now, I can show you mercy and liberate you from this dream. You will die, forget the dream, and wake up under the morning sun. You will be freed, from the accursed dream of evernight, all you need is to submit your life.” 
-	- Ludwig: “Stop”
-	- Gerald: “Oh? Good to see you Ludwig, though I thought you were exterminated long ago
-	- Ludwig: “I can see everything now, I can see what exactly sustains this dream. What I failed to see and end so long ago.”
-	- (Turns to party) Ludwig: “Sai Mona has enslaved Gerald for years, Geralds nightmare is what keeps the hunt going, we have to kill Gerald. He’ll be freed from the dream and Sai Mona’s grasp. He will make it back to the waking world”
-	- Gerald: “Don’t listen to him, he has told you half truths this entire time. Tell me, has he told you about the Fishing Village incident.”
-	- Gerald: “Well, Ludwig once was a hunter too as you know, but what you don’t know is that he found a Great Old One washed up on the beach, hurt and wanted to violence towards others. He and the Order of the Mutants killed it, and used parts of its remaining power to create the mutagens that they consume to get his power, he is actively using Eldritch Magic. This caused a pocket world to be created, the Hunter’s Nightmare. It was Jackson Felwinter who cleaned up Ludwig’s mess. Who went into the Nightmare, and killed the angry infant, who resented humankind from then on and was born from its dead mothers body.” 
-	- Ludwig: “But I use it for good, and the profane souls made a pact with Great Old Ones to get theirs. If they consider it villany, we are both evil scum. I didn’t even know that Great Old One gave birth” 
-	- Ludwig: “We have to kill him, don’t listen to him.” 
-	- Gerald: “Kill the Mutant Hunter, and I will liberate you from the dream.” 
+Each will be a B-Rank, with Monkey being at the top, followed by Jaloop and Aeris, followed by Otto being the lowest (First have the players mingle and talk downtime, with NPC guiding questions, NPC at the Obelisk is an old gnome, after scanning and catching up send party to Jotor, Kabe answers door and Yasu calms him down)
+- “Scanning power"
+- “Taking into account public opinion” 
+- “Citing missions completed” 
+	- What each have done for downtime (Time for Roleplay, summarize if gaps are missing or anything else occurs) 
+		- Aeris and Monkey: Robin hood activities in the Orzhov sector of Ravnica 
+			- Reward, higher rank in peacekeeper force which gives more fame and benefits (make sure to rp this this session, esp with Monkey)
+	- Otto: Little bit of thieving in Baldur’s Gate, goes to Alder to learn about self for a little 
+		- Magic item upgrade, regain a warlock spellslot once per long rest
+	- Monty: 
+		- Training a Martial Weapon 
+			- Training with Alucard
+			- Training in Battle Axe Proficiency 
+			- Crafting mundane halfplate with flavored bonuses
+	- Jaloop: 
+		- Studying with Olivia Birdsong and a division of Bards
+		- Olivia will help with his research briefly for last bit
+			- Magical songs and fabled bard instruments 
+				- NanoMineral Behavioral Imprint Material (disguise self 1x long rest and encode thoughts)
+	- Rhulk/Gorlock: 
+		- Training in the mountains and studying dark magic with Hank Dreadbone
+		- Reward, Axe can cast false life once per day no spell slot
+	- Akanos: 
+		- On missions with Lillith 
+			- Rewards, scarab upgrade (lightning beams), and a little gold 
+	- Chuck: Also going to see Alder 
+		- Reclassing under Alder and training the Girl to accelerate her progression. 
+			- Additional reward, illuminators tattoo
+    
 
+**(have gnome tell them this)** The party will also be notified that they have full access to estates now, and whatever lies within the estate (at dm’s discretion), is fully customizable by them depending on their tastes and personalities. Each one also has a battle recorder, which allows for them to replay old fights. 
 
-	- Gerald: “Oh my good hunters, what caused your descent to madness: Was it the blood, the hunt, or the horrid beatley dream.” Gerald stands up from his wheelchair. “It always comes down to the hunter seer, to clean up the mess.” Draws scythe and gun. “This night, Gerald shall hunt”
-		- Use Ludwig statblock with similar abilities
-	- After Gerald's death, Ludwig says “You guys sense that? She’s here…”
-		- After defeated, Sai Mona descends from the skies
-		- Lands elegantly
-		- Picks up Djani and Isaac 
-			- The umbilical cords are consumed, and the scarab can talk again 
-			- A spectral eye with wings flies out of Isaacs open eye and stares back 
+In addition, some of the party will have some citizens know them (RP time), and others will have just starting-out “fanclubs.” 
+- More time for RP
 
-**Outcomes:** 
-- GeairMan finally able to intervene and free the players from the hunt 
-	- Results in either Ludwig fight, and GeairMan frees the players from hunt or Players kill GeairMan, freeing him, and then Sai Mona descends 
-		- Either enslaves one of the players, or NPCs, having them watch over the hunters and permanently in her service forever like GeairMan was
-			- To defeat next threat it is worried about
-	- Or one person transcends, and becomes part GOO, gaining new abilities and can either end or continue the hunt again 
-		- Who should get it? Take into account players and number of rewards 
-- **Each has a memory now that the curse has been lifted**
-	- Matt → Vision of Alder, Ludwig, Jackson, and another dead Otto 
-	- Jackson → You see a Tortle stars druid teaching a small half elf, with two loving parents watching, as Jackson Felwinter observes in the far background 
-	- Djani → See a archdevil, talking to a gang of thieves, telling theme to protect and hide his boy
-	- Eli → See Jackson Felwinter talking to his mom and dad, telling them that if their son doesn’t become strong, then he will eventually die. The mother then says that he was always a momma’s boy, and that she will take the pain of her husband beating her, in order for Alex to become strong and defeat his father, which will mean he is ready to protect himself and others 
-	- Isaac → Sees Jackson Felwinter talking to the Omnitemporal one about finding a new subject, in case he were to perish, which would disrupt the balance of the multiverse eventually 
-	- Ben → You see the Eldritch Horror, but instead of it attacking the planet, you see it die at the last minute as beams of magical envelope your comrades as they die around you, and your planets life was drained 
-	- Chiccory → You see a young small Furbolg, smiling and learning/playing with magic with a little half elf. As an elven mom and human dad spectate.  
-	- Will → You see a Minotour in a test tube, along with thousands of other specimens within tubes. You see a mysterious cloaked, hooded, and hovering entity break open the test tube and say: Be free, Rhulk the Weavebender
-  
-The hunt and dreaming 
-- Growth, human evolution 
-- Efrideet unaffected because of lineage 
-- The GOO and what they are 
-- The healing church 
-	- What they are and goals, the divine hounds 
-- Why is the blood cursed
-- **(upon lifting curse, Otto has sensation and gained final memories that make it almost clear)**
-- The eldritch horror and what it is 
-	- “Leaked out” (was taken away) from the hunt 
-- Monkey’s dad, has eldritch powers, didn’t actually die in that village 
-	- Whereabouts unknown 
-- The omnitemporal one always holding the GOO’s that escape at bay 
-- **(next session after raven queen talks to matt)** 
+Have players describe what you do throughout the day, break it up into morning, afternoon, and evening, where funeral ceremony will occur 
 
-**Sai Mona** 
-- Wants nightmare gone 
-- So other GOO out the way
-- Break down barriers between worlds
-- Kill the Nurse responsible for keeping Meleena alive, nightmare disappears 
-	- Meleena threatens human world, needs to be gone
-		- Sai Mona wants to keep players safe but only to maintain nightmare
+Funeral scene 
+- City center of Sigil, podium where Jackson stands, dozens of chairs, flying seating, citizens and peacekeepers alike, a small void cruiser rests on the “stage”.
+- Jackson: “We are here today to put to rest one our best. Ludwig Van Scythe was a man of curiosity, selflessness, and dignity. He always strove to protect those who couldn’t protect themselves, going as far as to even combat the most horrific of horrors and even when he was outmatched, he still fought. He put others in front of himself, always looking out for those, even if it didn’t suit his best interests for himself. He exercised these actions and philosophies for hundreds of years, and his service will not be forgotten. Thank you, Ludwig Van Scythe, Good Hunter, and may you find your worth in the world of rest.” 
+	- Twitch’s regiment fires rifles into the air, and Ryús squadron fires flaming arrows at a small void cruiser with a casket painted with a beautiful artwork of Ludwig as it sails into the astral sea from a portal
+	- Olivia stands, and uses a key on a thick alone and standing door carried by Malatar to open a huge pocket dimension estate for people to enter in
+
+After funeral reception begins, players can seek out NPCs, to learn more about what they have been up to and maybe meet new people
+- Players can eat and socialize 
+	- Prompt NPCs they see 
+- If they have things to say about Ludwig, they can 
+- After the party, each of the party experiences various sickness symptoms when they return to their estates, with Monty’s and Jaloop’s being the worst. 
  
