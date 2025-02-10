@@ -2,7 +2,7 @@
 tags: [Session_Notes]
 ---
 
-Previous: [[Session 3]]
+Previous: [[DND/1_UVM  2024-2025 Session Notes/Session 3]]
 
 - Scarab attaches to Akanos, speaks to him
 - Met Hank Dreadbone and Lillith Ashford 

@@ -11,3 +11,8 @@ tags: [DMs_Tools]
 	- go back to codeblock and delete the commented lines on the top
 
 
+Fantasy content generator should also be set up as well
+
+aprils automatic timeline
+
+media editing and making soundboard 

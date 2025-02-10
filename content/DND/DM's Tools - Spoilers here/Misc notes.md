@@ -69,4 +69,40 @@ inspo for main quests
 	- More details later
 
 
+ Party then meets at the club 
+    
 
+- Will go over huge covert mission, they have to get scans of people with connections to Kindrack 
+    
+- Have to get a overlapping schedule so that they can get into the big party 
+    
+- At the big party they need to get info about multiple arms dealers that have overlapping schedules so that they can pose as them at meet with Kindrack 
+    
+
+- Meeting with Kindrack 
+    
+
+- WILL HAVE TO CHOOSE between Mark or Daliah 
+    
+- Outcomes depend 
+    
+
+- Final mission, back to sigil on the travel district 
+    
+
+- Peacekeeper, kindrack, and queen three way conflict 
+    
+
+- Depending on who was chosen specific ending 
+    
+
+- Goes directly into resurrection mission
+    
+
+
+
+
+
+
+
+**

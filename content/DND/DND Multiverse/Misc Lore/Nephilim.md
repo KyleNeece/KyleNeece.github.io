@@ -1,7 +1,6 @@
 ---
 tags: [DMs_Tools]
 ---
-
 Nephilims are the offspring of a Celestial Entity and a Demonic Entity, as a result, they are usually treated as an abomination. This is because they mainly have the traits of the human, but inherit traits of both Celestial and Demonic. They live up to 150 years and potentially beyond, and their heritage is hinted at by the features they bear. 
 
 ###### **Features**
