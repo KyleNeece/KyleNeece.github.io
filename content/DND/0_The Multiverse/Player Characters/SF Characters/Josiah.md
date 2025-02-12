@@ -1,0 +1,13 @@
+##### Brief Summary  
+Josiah is a Assassin Satyr Rogue and a [[Peacekeeper]] (played by Adam P)
+##### Appearance 
+
+##### Personality 
+
+##### Brief History/Timeline   
+
+###### Adolescence
+
+###### Recruitment
+TBD
+##### Abilities  

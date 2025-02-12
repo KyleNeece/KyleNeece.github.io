@@ -1,0 +1,1 @@
+The peacekeeper academy was a school where young students could attend to hone their magic, talents, and skills to help them later on in their professions they would pursue
