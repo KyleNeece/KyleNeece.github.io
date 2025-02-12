@@ -22,9 +22,10 @@ During [[Arangol]]'s first invasion on [[Sigil]], Hank was one of the key studen
 When Tartarus invaded, Hank immediately attempted to seek him out because Hank figured that his skillset was the perfect counter to Tartarus. However, he figured this and as such sent one of his best agents against Hank. When he faced off with Tartarus's agents, he was defeated by a higher level curse magic then his own.
 ###### Declaration of War Arc
 Hank gathered the dead corpses of evil beings and shared his curse with them, reanimating and brining them to the final battle. He was one of the main special forces in battle tasked with clearing out the mages in Tartarus's force.
+###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
  > 
- > ###### Panmnesia Arc
+ > 
  > Hank was in the thick of battle when the Panmenesia spell hit, losing all of his memories.
 ###### Recruitment
 Hank Dreadbone was automatically recruited into the peacekeeper force as an S-Rank

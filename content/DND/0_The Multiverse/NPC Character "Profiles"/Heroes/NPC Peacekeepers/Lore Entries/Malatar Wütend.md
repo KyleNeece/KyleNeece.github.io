@@ -22,9 +22,10 @@ During [[Arangol]]'s first invasion, Malatar was one of the key students that dr
 When Tartarus invaded, Malatar immediately attempted to seek him out, as he wished to test his newfound skill versus him. However, Tartarus had planned for this too, and sent swarms of forces after Malatar to stall him, as he had to way to deal with multiple crowds of enemies by himself effectively, which stalled him until he left Sigil with his goal completed.
 ###### Declaration of War Arc
 Malatar gathered all the Orc tribes he knew, telling them that this was their time to test their strength and power in battle. Malatar led the Orc battalion in the war to protect the planet
-> [!Warning]- Spoilers Ahead
+###### Panmnesia Arc
+ > [!Warning]- Spoilers Ahead
  > 
- > ###### Panmnesia Arc
+ > 
  > Malatar was in the thick of battle when the Panmenesia spell hit, losing all of his memories.
 ###### Recruitment
 Malatar was auto admitted into the peacekeeper force and was given S-Rank

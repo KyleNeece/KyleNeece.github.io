@@ -21,8 +21,10 @@ During Arangol's first invasion, Johnny was one of the key students that drove o
 When Azriel invaded, he targeted Johnny with mages in order to play off is stupidity. He made illusions of soldiers and kept throwing annoying enemy types at him so that he was stalled and would not interfere with his plans.
 ###### Declaration of War Arc
 Johnny went with his sister Emily back home and called upon her family and their armies in order to protect [[Sigil]], he was one of the main frontliners, who would clear a path for Jackson to get to Azriel
+###### Panmnesia Arc 
  > [!Warning]- Spoilers Ahead
- > ###### Panmnesia Arc
+ > 
+ > 
  > Johnny was fighting the strongest disciple of Tartarus when the Pamnesia spell hit, losing all of his memories of the events
 ###### Recruitment
 Johnny was auto recruited into the peacekeeper force and given S-Rank

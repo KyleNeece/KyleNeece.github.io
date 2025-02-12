@@ -28,7 +28,9 @@ Jackson went to train and unlock the power of Tempus, in order to become worthy 
 Sigil launched a counter attack and clashed with Tartarus's forces. Tartarus did not engage, until Jackson along with Will Felwinter's old party, came to his throne room to stop him. 
 The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartarus summoned his 3 highest ranking generals in order to make it a 4 v 6, but it was not enough as the opposing force kept pushing him back on the defensive. Tartarus was pushed to finally release the 7 runes full power, but due to not being worthy enough to become a god, he lost control and became an monstrosity. In this barbaric state he defeated and killed everyone but Jackson. However, their sacrifices were intentional, as Jackson was able to land the killing blow because of them making an opening, defeating Tartarus.
 ###### Panmnesia Arc
-The Omnipotent One appeared before Jackson, thanking him for all that he did. Jackson then asked to use the last charge of the Dial of Chronomancy in order to reset the timeline to prevent the tragic War. The Omnipotent One reluctantly agreed, and Jackson reset the timeline, making preparations and contingencies to stop Arangol later down the line. 
+ > [!Warning]- Spoilers Ahead
+ > 
+ > The Omnipotent One appeared before Jackson, thanking him for all that he did. Jackson then asked to use the last charge of the Dial of Chronomancy in order to reset the timeline to prevent the tragic War. The Omnipotent One reluctantly agreed, and Jackson reset the timeline, making preparations and contingencies to stop Arangol later down the line. 
 ###### Recruitment
 Jackson became the leader of the Peacekeeper force and is arguably the most powerful S-Rank
 ##### Abilities  

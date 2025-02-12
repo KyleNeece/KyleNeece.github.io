@@ -23,9 +23,10 @@ Emily was in the stands when [[Arangol]] and his forces invaded. The second he s
 Upon Tartarus's returning to [[Sigil]], Emily was pissed. As he led his forces into the capital, Emily dashed to the scene, taking out many of Tartarus's forces. However, once she reached his elite forces and Tartarus himself, he emotionlessly made quick work of her and he went off to obtain the final multiverse rune in order to complete his ascension. 
 ###### Declaration of War Arc
 Emily's wounds healed, and she called upon her family and their armies in order to protect Sigil, she was one of the main frontliners, along with [[Yasu-2]] who would clear a path for Jackson to get to Azriel
+###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
  > 
- > ###### Panmnesia Arc
+ > 
  > After the hard fought battle, Emily's grievous wounds were being treated by medics when the Panmnesia spell was cast, losing all her memories of the events
 ###### Recruitment
 Emily was auto recruited into the Peacekeeper force and was assigned S-Rank class

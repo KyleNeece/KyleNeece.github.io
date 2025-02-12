@@ -24,7 +24,9 @@ Jotor helped participate in the final battle versus Lady Pain and her army. Joto
 After the events of the [[Epilogue to Cour 1 and Upbringing]] and before the [[2.1_Twin Prodigies Arc]], Jotor created Will's son, Jackson, a special Sunblade. 
 Through his research after the battle for Sigil, Jotor found that new and different types of magic users began to appear across the multiverse. Curious about the phenomena, Jotor set out on an adventure to investigate. Under unfortunate circumstances, Jotor became lost, unable to find his way back to [[Sigil]].
 ###### Panmnesia Arc
-It was only when [[Azriel Darkstar]] transformed into an ascendent being with the Runes of the Multiverse was Jotor able to begin traveling back. By the time he got to the scene, the battle was over. [[Jackson Felwinter]] notified him that they were going to begin a Multiversal Panmnesia Memory Wipe ritual spell. However, before Jotor's memory is wiped, he magically imbued parts of his memory into [[Yasu-2]]. After the ritual, Jotor losses his memory.
+ > [!Warning]- Spoilers Ahead
+ > 
+ > It was only when [[Azriel Darkstar]] transformed into an ascendent being with the Runes of the Multiverse was Jotor able to begin traveling back. By the time he got to the scene, the battle was over. [[Jackson Felwinter]] notified him that they were going to begin a Multiversal Panmnesia Memory Wipe ritual spell. However, before Jotor's memory is wiped, he magically imbued parts of his memory into [[Yasu-2]]. After the ritual, Jotor losses his memory.
 ###### Recruitment
 Jotor was recruited near the end of his adulthood moving into his granhood. Despite his age, Jotor is still a adequate combatant and has not lost a step. Before the transfer of Peacekeeper ownership to Jackson Felwinter, Will recruited Jotor, who is now the lead weapon designer and artifact researcher of the organization. 
 ##### Abilities  

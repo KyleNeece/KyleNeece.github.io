@@ -39,10 +39,9 @@ Upon making it to the final rune of the multiverse, Tartarus gazed at [[Olivia B
 Tartarus returns to Arangol, telling him the work is done. He thanks Azriel, and tells him to prepare for the upcoming war as he suspects Sigil to launch a counter attack.
 Surely enough, Sigil launches a counter attack, and Tartarus's forces clash with Sigil and other plane wide forces. Tartarus did not engage, until Jackson Felwinter along with his father's old party, came to his throne room to stop him. 
 The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartarus summoned his 3 highest ranking generals in order to make it a 4 v 6, but it was not enough was the opposing force kept pushing him back on the defensive. Tartarus finally was pushed to release the 7 runes full power, but due to not being worthy enough to become a god, he lost control and became an monstrosity. In this state he defeated and killed everyone but Jackson. However, their sacrifices were intentional, as Jackson was able to land the killing blow, defeating Tartarus. Upon the killing blow, the mind control was lifted, and Azriel apologized to his brother before dying.
-
+###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
  > 
- > ###### Panmnesia Arc
  > Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until he connected with new adventurer through their soul.
 ###### Recruitment
 Azriel was never formerly inducted into the military force, but instead attended the academy. He became a Peacekeeper after Arangol was finally defeated.
