@@ -12,5 +12,5 @@ The two sisters at some unknown time, despite their already descent with their F
 At some point in time, the creature made it to Thilvatov, a somewhat out of the way planet, also the original home to Monty. 
  > [!Warning]- Spoilers Ahead
  > 
- > In Monty's encounter with the horror, both prepared for combat, only for The Endless Reader to activate voskreseniye (vos-kre-c-neh). Upon activation, a beam of black light engulfed the creature, along with every other creature with Runekeeper markings and killed all life on the planet. This left the planet destroyed, and Monty wondering what happened; swearing vengeance upon who preformed such an act, and leaving for the Peacekeeper force for answers. 
+ > In Monty's encounter with the horror, both prepared for combat, only for The Endless Reader (Leader of [[The Istoria Rytsarey]]) to activate voskreseniye (vos-kre-c-neh). Upon activation, a beam of black light engulfed the creature, along with every other creature with Runekeeper markings and killed all life on the planet. This left the planet destroyed, and Monty wondering what happened; swearing vengeance upon who preformed such an act, and leaving for the Peacekeeper force for answers. 
  

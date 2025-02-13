@@ -7,10 +7,10 @@ Queen Murgul is a Umbral Human Psion originating from the Underdark currently a 
 ##### Appearance 
 Similar to brother but with a long darker grey beard and a gentlemen mustache.
 ##### Personality 
-Similar to his brother [[Nathan Murgul]], Quinn is very spontaneous and enjoys his own freedom. Quinn works in neutral most of the time as a middleman, but he upholds a code that he wouldn't take on a job that is deemed as "evil". Despite this, he has a good sense of right and duty but prefers to solve it his own way with free will versus other people commanding him. 
+Similar to his brother [[Nathan Murgul]], Quinn is very spontaneous and enjoys his own freedom. Quinn works in neutral most of the time as a middleman, but he upholds a code that he wouldn't take on a job that is deemed as "evil". Despite this, he has a good sense of right/wrong and duty, but prefers to solve it his own way with free will versus other people commanding him. 
 ##### Brief History/Timeline   
 ###### Adolescence
-Quinn Murgul also grew up in the underdark with Nathan, where he was a member of the Seldarine following. Like his brother Nathan, Quinn had unique Psionic abilities, which tend to be rare throughout the forgotten realms though he rarely uses them in practice. Quinn then left the underdark and was looking for easy work, where he then stumbled upon Thieves Metropolis and in combination with his newfound knowledge about how lucrative the business of a middlemen within the universe was, he then became one. He tries to help the poorer people of the Metropolis find work and work their way up so that they can leave the place. 
+Quinn Murgul also grew up in the underdark with Nathan, where he was a member of the Seldarine following. Like his brother Nathan, Quinn had unique Psionic abilities, which tend to be rare though he rarely uses them in practice. Quinn left the underdark and looked for easy work. He stumbled upon Thieves Metropolis and found middlemen business is very lucrative. He then became a middleman and tries to help the poorer people of the Metropolis work their way up so that they can leave the city. 
 ###### The Felwinter Saga
 > [!Warning]- Spoilers Ahead
  > 

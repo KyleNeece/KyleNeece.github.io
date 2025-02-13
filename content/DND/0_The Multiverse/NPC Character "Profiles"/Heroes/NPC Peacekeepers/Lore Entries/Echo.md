@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Changeling/Rogue/Assassin, NPC]
 ---
 
 ##### Brief Summary 
-Echo is a Changeling Assassin Rogue and S-Rank [[Peacekeeper]]
+Echo is a Changeling Assassin Rogue and S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 N/A
 ##### Personality 

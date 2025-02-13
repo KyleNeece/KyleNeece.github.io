@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Jaloop is a College of Lore Halfling Bard and a [[Peacekeeper]] (played by Isaac S)
+Jaloop is a College of Lore Halfling Bard and a [[Peacekeeper Force]] (played by Isaac S)
 ##### Appearance 
 ![[Jaloop.png]]
 ##### Personality 

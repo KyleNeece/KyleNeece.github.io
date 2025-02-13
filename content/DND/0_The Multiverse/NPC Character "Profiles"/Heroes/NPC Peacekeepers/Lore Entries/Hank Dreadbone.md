@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Skeleton/Accursed/Curse_of_Possession, Felwinter
 ---
 
 ##### Brief Summary 
-Hank Dreadbone is a Skeleton Curse of Possession Accursed originating from the Shadowfell and S-Rank [[Peacekeeper]]
+Hank Dreadbone is a Skeleton Curse of Possession Accursed originating from the Shadowfell and S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Hank Dreadbone.png]]
 ![[Ire.png]]

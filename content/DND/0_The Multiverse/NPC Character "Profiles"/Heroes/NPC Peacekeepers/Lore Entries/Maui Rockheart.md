@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Goliath/Paladin/Oath_of_Heroism, Felwinter_Saga_
 ---
 
 ##### Brief Summary 
-Maui Rockheart is a Oath of Heroism Paladin originating from the mountains of Icewind Dale, is second in command of the Healing Church, and a S-rank [[Peacekeeper]]
+Maui Rockheart is a Oath of Heroism Paladin originating from the mountains of Icewind Dale, is second in command of the Healing Church, and a S-rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Maui Rockheart.png]]
 ##### Personality 

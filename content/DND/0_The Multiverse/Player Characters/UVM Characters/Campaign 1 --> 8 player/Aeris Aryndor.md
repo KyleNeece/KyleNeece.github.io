@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Aeris Aryndor is a Circle of Stars Half-Elf Druid and [[Peacekeeper]] (played by Jackson R)
+Aeris Aryndor is a Circle of Stars Half-Elf Druid and [[Peacekeeper Force]] (played by Jackson R)
 ##### Appearance 
 ![[Aeris.png]]
 ##### Personality 

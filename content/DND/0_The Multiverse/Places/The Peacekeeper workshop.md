@@ -1,1 +1,1 @@
-The peacekeeper workshop is located in the [[Shadowfell]], and was created by [[Ludwig Van Scythe]]
+The peacekeeper workshop is located in the shadowfell, and was created by [[Ludwig Van Scythe]]

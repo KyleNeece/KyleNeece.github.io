@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Yuan-Ti/Warlock/Great_Old_One_Walock, Felwinter_
 ---
 
 ##### Brief Summary 
-Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank [[Peacekeeper]], and engaged to [[Jackson Felwinter]]
+Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank [[Peacekeeper Force]], and engaged to [[Jackson Felwinter]]
 ##### Appearance 
 ![[Aria Hassan.png]]
 
@@ -25,7 +25,8 @@ When Azriel returned, Aria was put under mind control by Azriel, and she began c
 ###### Declaration of War Arc
 Aria began to travel the realms to mobilize the serpentine people, showing them that Dendar granted her great power. She spoke about how carnage and destruction must not be brought aimlessly, but directed on those who deserve it. In this case, that was Azriel and his forces of evil. Aria additionally awoken the world serpent, in order to aid them in their fight. She was one of the main forces of the large scale battle
 ###### Panmnesia Arc
-Aria was able to reach the final battle, where Jackson stood over Azriel. She asked Jackson what was going on. Jackson said he could not tell her what was gonna happen, but that everything will be ok before the Panmnesia spell was cast. These were her final moments of the first timeline before it became reset. In the new timeline, Aria later became engaged to Jackson. After he never returned from the "final mission" he left for, Aria began to search for him.
+ > [!Warning]- Spoilers Ahead
+ > Aria was able to reach the final battle, where Jackson stood over Azriel. She asked Jackson what was going on. Jackson said he could not tell her what was gonna happen, but that everything will be ok before the Panmnesia spell was cast. These were her final moments of the first timeline before it became reset. In the new timeline, Aria later became engaged to Jackson. After he never returned from the "final mission" he left for, Aria began to search for him.
 ###### Recruitment
 Aria was auto-recruited by the peacekeeper force after her bounty was removed and was assigned S-Rank
 ##### Abilities  

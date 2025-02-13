@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Orc/Barbarian/Berserker, Felwinter_Saga_Cour_2/N
 ---
 
 ##### Brief Summary 
-Malatar Wütend is a Half-Orc Barbarian originating from Faerun and is a S-Rank [[Peacekeeper]]
+Malatar Wütend is a Half-Orc Barbarian originating from Faerun and is a S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Malatar Wütend.png]]
 

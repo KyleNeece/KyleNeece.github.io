@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Monty is a Jotun Dialect Stoneback Wukong Runekeeper and a [[Peacekeeper]] (played by Ben)
+Monty is a Jotun Dialect Stoneback Wukong Runekeeper and a [[Peacekeeper Force]] (played by Ben)
 ##### Appearance 
 ![[Monty 2.png]]
 ![[Monty 1.png]]

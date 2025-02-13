@@ -3,16 +3,19 @@ tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Co
 ---
 
 ##### Brief Summary 
-Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper]]
+Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Ludwig Van Scythe.png]]
 ##### Personality 
 Ludwig Van Scythe is a calm and collected individual, and handles most situations who would induce fear into the average person with a controlled de-meaner. In battle, Ludwig conversely shows a ferocity and fearlessness in battle, embracing dark magic to embolden his hunt. Ludwig doesn't feel the hurt of pain anymore, as his self-harm magic and mutation pushed him to the point where he feels no pain. This doesn't mean he cannot die however, as he is completely mortal like most others.
 ##### Brief History/Timeline   
 ###### Adolescence
-Ludwig grew up on the plane of Ravnica, where he lived with a happy family and innocent life within the Simic Guild. However, when the guilds entered all out war, and the draft for new assets picked his name, Ludwig was enlisted. The Simic guild ran experiments on him and other draftees against their will in order to create a monstrous soldiers. The result was Ludwig becoming a monster, which to him was a hideous fate. In the wars, Ludwig was assigned to combat the Dimir and Golgari horrors of the night. After the war and uniting of the guilds in order to defeat Nicol Bolas, Ludwig traveled to Shadowrealm, looking to continue the hunt. He came across the Draculina, and commenced battle with her, losing but gaining her respect, and was put into eternal slumber.
+Ludwig grew up on the plane of Ravnica, where he lived with a happy family and innocent life within the Simic Guild. However, when the guilds entered all out war, and the draft for new assets picked his name, Ludwig was enlisted. The Simic guild ran experiments on him and other draftees against their will in order to create a monstrous soldiers. The result was Ludwig becoming a monster, which to him was a hideous fate. In the wars, Ludwig was assigned to combat the Dimir and Golgari horrors of the night. After the war and uniting of the guilds in order to defeat Nicol Bolas, Ludwig traveled to Shadowrealm, looking to continue the hunt. 
 ###### The Felwinter Saga
 Ludwig throughout the entirety of the Felwinter saga was in magical slumber, with his actions taking place way before the events. It was said that Ludwig Van Scythe and [[Alder]] engaged [[Lady Gabriella Alucard II]] in combat, ultimately losing but gaining her respect as despite his beastly and dark features, he maintained his humanity and wouldn't give up. 
+ > [!Warning]- Spoilers Ahead
+ > 
+ > At somepoint during the revised timeline, Alder preformed most of his similar events. 
 ###### Recruitment
 Ludwig enlisted into the peacekeeper force, [[Jackson Felwinter]] automatically gave him an S-Rank grade due to reading about the legends that turned out to be reality. 
 ##### Abilities  

@@ -3,7 +3,7 @@ tags: [Hero, Human/Druid/Circle_of_Stars, Felwinter_Saga_Cour_2/NPC]
 ---
 
 ##### Brief Summary 
-Tokka is a Circle of Stars Druid originating from Chult and is a S-Rank [[Peacekeeper]]. 
+Tokka is a Circle of Stars Druid originating from Chult and is a S-Rank [[Peacekeeper Force]]. 
 ##### Appearance 
 ![[Tokka.png]]
 

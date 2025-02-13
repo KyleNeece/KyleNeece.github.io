@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Seved is a Jotun Dialect Minotaur Runekeeper and a [[Peacekeeper]] (played by Nathan R)
+Seved is a Jotun Dialect Minotaur Runekeeper and a [[Peacekeeper Force]] (played by Nathan R)
 ##### Appearance 
 
 ##### Personality 

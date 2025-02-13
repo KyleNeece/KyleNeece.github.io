@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Otto, The Forgotten, is a Hexblade Human Warlock and [[Peacekeeper]] (played by Matt F)
+Otto, The Forgotten, is a Hexblade Human Warlock and [[Peacekeeper Force]] (played by Matt F)
 ##### Appearance 
 ![[Otto the Forgotten.png]]
 ##### Personality 

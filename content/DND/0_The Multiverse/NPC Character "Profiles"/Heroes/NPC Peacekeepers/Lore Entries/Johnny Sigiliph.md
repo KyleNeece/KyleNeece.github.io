@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Human/Pugilist/Sweet_Science, Felwinter_Saga_Cou
 ---
 
 ##### Brief Summary 
-Johnny Sigiliph is a Sweet Science Human Pugilist and S-Rank [[Peacekeeper]]
+Johnny Sigiliph is a Sweet Science Human Pugilist and S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Johnny Sigiliph.png]]
 ##### Personality 

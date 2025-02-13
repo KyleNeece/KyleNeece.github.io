@@ -11,9 +11,12 @@ dnd character taller late twenties half devil half angel man wearing full plate 
 - Int for charisma skills
 - Ignores prerequisites 
 - Has all runes inscribed at all times, an embodiment of his own runic expression itself
+
+**Note: Change elder runes to only a few and to ones that make sense**
+
 - Runes: 
 
-- **Abyssal**
+- **Abyssal** (Maybe add more, change them because lore wise has only interacted with one)
 - Baphomet 
 - Lyakzis
 - Yeenoghu

@@ -3,12 +3,12 @@ tags: [Hero/Peacekeeper/S-Rank, Human/Magus/Path_of_the_Worthy, Felwinter_Saga_C
 ---
 
 ##### Brief Summary 
-Jackson Felwinter ([[Will Felwinter]]'s son) is a human Magus who attended [[Peacekeeper Academy]], the leader of the [[Peacekeeper]] force, and is arguably the Strongest Peacekeeper 
+Jackson Felwinter ([[Will Felwinter]]'s son) is a human Magus who attended [[Peacekeeper Academy]], the leader of the [[Peacekeeper Force]] force, and is arguably the Strongest Peacekeeper 
 ##### Appearance 
 ![[Jackson Felwinter.png]]
 
 ##### Personality 
-Jackson is a brave, kind-hearted laid-back and has a strong sense of justice, morality, and righteousness. He always holds himself to a high standard and integrity. He possesses a strong sense of justice, morality, and righteousness. Despite this, he always is self-critical and will blame himself even for things that are out of his control. Jackson was born with inherit divine magic, along with a great prowess in magical study and martial prowess, which in turn has created the perfect warrior. He now is the leader of the [[Peacekeeper]] force. 
+Jackson is a brave, kind-hearted laid-back and has a strong sense of justice, morality, and righteousness. He always holds himself to a high standard and integrity. He possesses a strong sense of justice, morality, and righteousness. Despite this, he always is self-critical and will blame himself even for things that are out of his control. Jackson was born with inherit divine magic, along with a great prowess in magical study and martial prowess, which in turn has created the perfect warrior. He now is the leader of the [[Peacekeeper Force]] force. 
 ##### Brief History/Timeline   
 ###### Adolescence
 Jackson lived with his father [[Will Felwinter]] and [[Azriel Darkstar]], his adoptive brother and best friend. As a child Jackson was pushed to his limits by his father, Will. He always wanted Jackson to strive for new heights. Jackson at the time however did not share Will's work ethic. He was more laid back, often prioritizing fun and just enjoying living versus putting in the work for a better future due to relying on his prodigal abilities and never being challenged outside of home. Despite his laid-back nature, Jackson is a fierce fighter, having become the pinnacle of spell and blade and eventually becoming an Avatar of Tempus later on. His Father, Will (who runs the peacekeeper academy), eventually had Jackson and Azriel both enroll into peacekeeper academy, so that they can best harness their potential to their maximum. 

@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Gorlock is a Path of the Ragemage Minotaur Barbarian (played by Will P) and currently allied with the [[Peacekeeper]] force
+Gorlock is a Path of the Ragemage Minotaur Barbarian (played by Will P) and currently allied with the [[Peacekeeper Force]] force
 ##### Appearance 
 
 ##### Personality 

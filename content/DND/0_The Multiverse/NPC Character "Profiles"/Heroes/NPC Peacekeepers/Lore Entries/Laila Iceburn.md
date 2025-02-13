@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Dragonborn/Sorcerer/Draconic, Felwinter_Saga_Cou
 ---
 
 ##### Brief Summary 
-Laila Iceburn is a Dragonborn Sorcerer originating from Faerun and is a S-Rank [[Peacekeeper]]
+Laila Iceburn is a Dragonborn Sorcerer originating from Faerun and is a S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Laila Iceburn.png]]
 ##### Personality 
@@ -24,7 +24,6 @@ Laila gathered an army of Dragons and Drangonborn warriors to help fight in the 
 ###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
  > 
- > ###### Panmnesia Arc
  > Laila was driving the enemy forces when the Panmnesia spell was cast, losing all her memories of the events
 ###### Recruitment
 Laila Iceburn was auto admitted into the peacekeeper force due to her finesse, support and fighting capabilities and was given S-Rank

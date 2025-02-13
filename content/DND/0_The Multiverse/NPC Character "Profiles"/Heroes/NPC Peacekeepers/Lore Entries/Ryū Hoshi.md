@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Pandaren/Zodiac/Sign_of_the_Dragon, Felwinter_Sa
 ---
 
 ##### Brief Summary 
-Ryū Hoshi is a Sign of the Dragon Pandaren Zodiac from the far away land of Kara-Tur and S-Rank [[Peacekeeper]] 
+Ryū Hoshi is a Sign of the Dragon Pandaren Zodiac from the far away land of Kara-Tur and S-Rank [[Peacekeeper Force]] 
 ##### Appearance 
 ![[Ryū Hoshi.png]]
 
@@ -25,7 +25,7 @@ When Tartarus invaded, Ryū helped to combat the invasion and minimize casualtie
 Ryū Hoshi gathered the Pandaren people from Kara-Tur, and partook in the big battle on [[Sigil]]
 ###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
-Ryū Hoshi was finishing off the final forces of the enemy when the Panmnesia spell was cast, losing all his memories of the events
+ > Ryū Hoshi was finishing off the final forces of the enemy when the Panmnesia spell was cast, losing all his memories of the events
 ###### Recruitment
 Ryū Hoshi was auto admitted into the peacekeeper force due to his raw power and was given S-Rank
 ##### Abilities  

@@ -3,7 +3,7 @@ tags: [Deity, Disembodied/Wizard/Chronomancy, Felwinter_Saga_Cour_2/NPC]
 ---
 
 ##### Brief Summary 
-The Omnipotent one was a Disembodied School of Chronomancy Wizard and formerly helped the [[Peacekeeper]] force
+The Omnipotent one was a Disembodied School of Chronomancy Wizard and formerly helped the [[Peacekeeper Force]] force
 ##### Appearance 
 ![[The Omnitemporal One.png]]
 ##### Personality 

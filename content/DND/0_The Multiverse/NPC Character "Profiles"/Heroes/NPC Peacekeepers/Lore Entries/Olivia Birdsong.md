@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Elf/Bard/College_of_Eloquence, Felwinter_Saga_Co
 ---
 
 ##### Brief Summary 
-Olivia Birdsong is a half-elf bard originating from the Sword Coast and is a S-Rank [[Peacekeeper]]
+Olivia Birdsong is a half-elf bard originating from the Sword Coast and is a S-Rank [[Peacekeeper Force]]
 ##### Appearance 
 ![[Olivia Birdsong.png]]
 ##### Personality 
