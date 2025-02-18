@@ -60,6 +60,7 @@ Runes: 
 - Kata - attunment or mogi
 - **Thieves Cant** - 1
 - Flash
+- Bite
 
 - **Aberrant**
 - Kgeownlde
