@@ -29,6 +29,17 @@ Monkey (Alex) joined the peacekeeper for willingly and passed the trials along w
 ##### Abilities  
 Monkey is a level 8 Riverback Wukong Dog and Hound Pugilist
 
+Additional abilities:
+
+**Spiritual hound transformation** 
+	Spiritual hound transformation (Action, Spend all Moxie Points) - Dog becomes an incorporeal spirit and is absorbed into Alex's soul temporarily. Alex's hair turns smoke grey and gold, his eyes turn red and his body steams
+		- For one minute: 
+			- Advantage on all attack rolls and strength checks 
+			- A bonus to all saving throws equal to strength modifier 
+			- Can use moxie abilities without spending moxie points and you gain an additional bonus action that can only be used for moxie features
+			- After it ends, gain 2 levels of exhaustion and the dog re-appears 
+
+
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
 #Felwinter_Saga_Cour_3/PC

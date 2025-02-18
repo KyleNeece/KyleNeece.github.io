@@ -3,14 +3,14 @@ tags: [Human/Ranger/Hunter, Felwinter_Saga_Cour_3/NPC]
 ---
 
 ##### Brief Summary 
-Mark Grayson is a Human Revised Hunter Ranger originating from Ebberon and a agent of the Seelie Court 
+Mark Reinford is a Human Revised Hunter Ranger originating from Ebberon and a agent of the Seelie Court 
 ##### Appearance 
-![[Mark Grayson.png]]
+![[Mark Reinford.png]]
 ##### Personality 
 Mark has a strong sense of Duty and Loyalty to the point where it blinds the truth at times, even if he knows he serves a master who deceits and lies and as such may spread misinformation because of this undying loyalty and duty. He is highly intelligent, honest (to an extent), and loyal. He has seen his fare share of battle and problems and is hardened by such events. 
 ##### Brief History/Timeline   
 ###### Origins/Adolescence
-Mark Grayson grew up in Ebberon, living a normal life. He had a strong sense of duty and as such, joined the Sigiliph army when he was eligible of age. In one of their special forces, he was often deployed in covert black ops missions. He ultimately left the force, to pursue a different path. He then joined Queen Titania's service under her federal intelligence agency branch. 
+Mark Reinford grew up in Ebberon, living a normal life. He had a strong sense of duty and as such, joined the Sigiliph army when he was eligible of age. In one of their special forces, he was often deployed in covert black ops missions. He ultimately left the force, to pursue a different path. He then joined Queen Titania's service under her federal intelligence agency branch. 
 ###### The Felwinter Saga
 Mark was one of [[Titania, Queen of Seelie Court]]'s main intelligence and black ops agents, along with [[Daliah]] and [[Freya]]. To Mark's surprise on one mission, while dealing with a criminal underworld league, his parents were found murdered. It turned out that one of his fellow black ops and intelligence agents double crossed him for the Unseelie. The group tracked him and eventually found him in a broken down building, but it was an ambush, and Mark was set up though he did not know and (and still doesn't). Daliah betrayed him in order to escape, though Mark's blind sense of duty didn't see it as such. 
 > [!Warning]- Spoilers Ahead

@@ -6,7 +6,7 @@ title: Peacekeepers of the Multiverse Wiki
 
 **2/10/25** - Currently going through and rewriting entires for grammar and connections 
 - **[[Session 18]] Notes are posted**
-	- **IF you have not been to the past few sessions**: I would highly recommend reading **session notes 15-18**, [[Mark Grayson]], [[Daliah]], [[Kindrack Diablo]], and [[Titania, Queen of Seelie Court]]'s entries, as this Arc emphasizes NPC relations and heavy roleplay.
+	- **IF you have not been to the past few sessions**: I would highly recommend reading **session notes 15-18**, [[Mark Reinford]], [[Daliah]], [[Kindrack Diablo]], and [[Titania, Queen of Seelie Court]]'s entries, as this Arc emphasizes NPC relations and heavy roleplay.
 
 **For UVM 2024-2025 Campaign**
 For those who need a reminder on the new rules for act 2 (within Thieves Metropolis and associated plot only), see [[Act 2 Rules]]

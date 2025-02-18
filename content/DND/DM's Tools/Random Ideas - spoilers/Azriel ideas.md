@@ -1,80 +1,69 @@
 ---
 tags: [DMs_Tools]
 ---
-
 **Ai Gen prompt**
-dnd character taller late twenties half devil half angel man wearing full plate armor covering body with large black colored feathered angel wings and black colored short length devil horns positioned close to top of head with shoulder length blonde hair
+dnd character taller late twenties half devil half angel male wearing full plate armor covering body with large black colored feathered angel wings and black colored short length devil horns positioned close to top of head with shoulder length blonde hair
 
 **Interesting abilities for statblock?** 
 
-- Can use any dialect and knows all languages
 - Int for charisma skills
 - Ignores prerequisites 
-- Has all runes inscribed at all times, an embodiment of his own runic expression itself
+- Has all runes inscribed at all times and ignores attunement, an embodiment of his own runic expression itself
 
 **Note: Change elder runes to only a few and to ones that make sense**
 
-- Runes: 
-
-- **Abyssal** (Maybe add more, change them because lore wise has only interacted with one)
-- Baphomet 
-- Lyakzis
-- Yeenoghu
-- **Celestial** 
-- Custodia 
-- Famgisdon
-- Hvullal
+Runes: 
+- **Abyssal** - 4
+- Wuqmz
+- Lyakzis - attunement
+- Ztujx 
+- Nuyw
+- **Celestial** - 6
+- Vita 
+- Famgisdon - elder attunement
 - Malpirgi
 - pulvinus
-- sacrificium
-- **Draconic** 
-- bahamut
-- Frahr
-- gix
-- reoz
-- Tiamat 
-- **Druidic** 
-- Artiag 
-- Beatha
-- bhiast
-- **Dwarven**
-- sleagh
+- sacrificium - attunement 
+- Somnum
+- **Draconic** - 3
+- Gix   
+- Litrix - attunment 
+- Tobor 
+- **Druidic** - 3
+- Beatha  
+- Leigheas 
+- Bhiast - attunement
+- **Dwarven** - 3
 - jorl
-- nurn
-- kuld
-- **Elven** 
-- Darneti
-- Djalase
-- irinkas
-- **Giant** 
-- Annamm
-- Fjell
+- nurn - attunement
+- kuld 
+- **Elven** - 2
+- Wutheh
+- irinkas 
+- **Giant** - 3
 - Dod
-- Grolantor 
-- Ild
-- **Goblin**
+- Uvar
+- Sverd
+- **Goblin** - 3
 - Gromyok
-- Maglubiiyet
 - pvuti
 - shaarat
-- **Infernal**
-- dyweiur
+- **Infernal** - 6
+- Dyweiur
 - Kdaav
-- Witruouty
-- wyiel
-- Zariel
-- duoy
+- Witruouty - attunement
+- Prazytzual
+- Duoy
 - Fury
-- **Primordial**
-- Wadi?
-- Mogi
-- vopn
-- Phoenix
-- sahar
-- Kata
-- **Thieves**
+- **Primordial** - 2
+- Phoenix - elder attunement
+- Kata - attunment or mogi
+- **Thieves Cant** - 1
 - Flash
 
-- Aberrant runes:
+- **Aberrant**
 - Kgeownlde
- 
+- Evernight elder 
+- Azriel elder
+- Magic rune with spells 
+- rune with adv on interaction with abberant creatures 
