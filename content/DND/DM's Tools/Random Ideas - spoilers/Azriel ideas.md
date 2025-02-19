@@ -10,6 +10,8 @@ dnd character taller late twenties half devil half angel male wearing full plate
 - Ignores prerequisites 
 - Has all runes inscribed at all times and ignores attunement, an embodiment of his own runic expression itself
 
+Boon of energy resistance?, boon of recovery, boon of immortality, boon of invincibility
+
 **Note: Change elder runes to only a few and to ones that make sense**
 
 Runes: 
@@ -68,3 +70,4 @@ Runes: 
 - Azriel elder
 - Magic rune with spells 
 - rune with adv on interaction with abberant creatures 
+- 

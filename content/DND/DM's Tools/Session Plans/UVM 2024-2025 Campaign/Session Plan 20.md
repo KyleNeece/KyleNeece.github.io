@@ -78,7 +78,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 		- Freya: The "cure" is a old powerful Celestial's soul that lives on a Orb that is within a box, we aim to obtain it.
 		- Mark: Kindrack will meet with the twins you already know, the meeting itself is our chance to get close to Daliah and the Orb. He hired them because they worked for him in the past, and know the Orbs security protocols inside and out. 
 		- Freya: They are also selling the magic to access the Orbs power. Handy when Daliah goes to extract the Orb from the box it is embedded in. Kindrack wants the sealing power of the box, but he has no idea that the Orb is there too. We have the behaviorals and appearances of the twins, now they just need to be taken out of the equation.
-		- Mark: Driving a rental hovercraft while in Thieves Metropolis, thats where you come in. You are gonna use this device **(holds up a small remote with an antenna)** which will temporarily take control of the car. Once we have the twins, you'll take their place. The implants are tuned already.
+		- Mark: Driving a rental hovercraft while in Thieves Metropolis, thats where you come in. You are gonna use this device **(holds up a small remote with an antenna)** which will temporarily take control of the car. You will have to get into the trunk of that car. We will guide you on the way. Once we have the twins, you'll take their place. The implants are tuned already.
 			- Tartarus doesn't like how they are only calling upon two people, will encourage the rest of party to sneak in on the meeting
 		- Mark: My role is the exfil route. When you complete the mission you'll have to book it. I'll provide transport, make sure the path is clear and problem free.
 		- Mark: The final stage is that you are meeting with Kindrack, selling him the key to the box, in other words, the key unlocking the Orb you need. One of you will join Daliah in the lab to feed in the codes when needed. Kindrack is likely to keep the other at his side. Collateral. 
@@ -129,7 +129,6 @@ Previous: [[Session Plan 18 (might be 19)]]
 			- Thank you, for being with me normally for a bit
 
 
-
 	- Call with Mark, who will direct them to a certain magic item store to get the one time use implants done (for **X** party members)
 	- Mark meets the party 
 		- Things in flux, situation changing fast, thought we should talk, here about Daliah 
@@ -155,16 +154,33 @@ Previous: [[Session Plan 18 (might be 19)]]
 		- Appropriate response 
 	- Use it when you are both attuned to the box and the orb. At that moment Daliah will be vulnerable. We are the point where some options are off the table, the talking came come later. I best be on my way.
 - Have a conversation with Tartarus about Mark, Daliah, Freya and the whole situation 
-	- **Look into cyberpunk for this interaction for inspiration** 74131
+	- How many fingers am I holding up? (middle finger is up)
+		- So tell me, what's it feel like to be a traitor 
+			- You bought into it after that fascist oath? Send you to a fancy rich party, stroke your ego and cock and now you're all super spies? Whats next a gold medal and a parade? A statue? National holiday? Kinds home from school? What the fuck!? On a real note you are all in a shitty situation.
+			- Weapon in hand, got to kill someone? The master spy and the unleashed agent. Tragedy, Comedy or all the above? 
+			- They are both telling the truth, its grey in the nitty gritty details and on paper but their motivations are pretty clear. 
+				- We first have Daliah: Survival - end all be all. She's also a walking talking nuke, one that makes mistakes over and over and never knows which one will set her off
+				- Then we have Mark, him and I relate a little, if I hadn't died by Jackson Felwinter I would have continued to serve a sinister and evil leader, and I would have lived and died by my principles, even if they were just an extension of an evil master like Arangol
+				- This is the tragedy, and someone's gonna play victim to the others good intentions. Don't forget that when your standing over that orb and box
+					- You either let the nuke detonate somewhere away on her own terms, or you have a evil politician point the nuke at a specific target, which could also very well be the peacekeepers for revenge. And also, I am in your shoes, for every stupid decision you make, and I can't do anything about it. But As for who I trust and the choice considering what I just said, I don't have a fucking clue, that is for you to figure out. 
 
+**Next objective and PONR** 
+- Mark calls after procedure
+	- Its time to intercept the twins **(give description of what they are looking for)**
+		- Intercept near the entrance 
+			- Daliah sends message saying he's with the party till the end
+	- Party gets to the vantage point, near main square 
+		- Find the ride, get in the trunk of it to take control of it when the time is right 
+			- The twins are talking about Kindrack
+				- Breach whenever, or party can choose to listen 3 times before taking control. 
+					- Person working device will have to make saving throws to rsist the twins from taking control
+	- They get the car to the garage, and Freya and Mark kill them both (mention them as innocents)
+		- Plan was to kill them all along. Mark says them or us, I choose us
+			- Mark says these innocents wouldn't hesitate to rob or kill you for everything you got
+	- Mark picks off the key and hands it to the party, and mentions the behavioral disguises are all ready
+		- The chosen members get into the car
 
-
-**Next objective and PONR**
-- Ive seen that face before 
-	- have to tag their vehicle to get control 
-	- Pull their vehicle to a abandoned garage where freya and Mark are waiting to execute them in order to access their files and profiles 
-		- Freya and Mark then depart for the mission to save Daliah 
-- Firestarter 
+- **Firestarter** 
 	- The party disguised will meet and go into the meeting building and area 
 		- Greeted by a high standing soldier 
 			- Inform that potential seelie court and or peacekeepers are in the area and to be careful 
@@ -173,7 +189,6 @@ Previous: [[Session Plan 18 (might be 19)]]
 					- Outcome: **Watch cyberpunk for inspo**
 				- Betray Mark 
 					- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills. If you return to Diablo's body, you can loot it for his signature loot. The party will then run through the market. soldier will arrive, and you can kill him for his signature item. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 
-
 
 - **The killing moon** 
 	- Wait for news and setup from Daliah 
