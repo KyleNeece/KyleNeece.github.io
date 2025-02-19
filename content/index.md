@@ -2,11 +2,12 @@
 title: Peacekeepers of the Multiverse Wiki
 ---
 
-**Next Session**: Sunday 2/16/25, 5-7:30pm 
+**Next Session**: TBD
 
-**2/10/25** - Currently going through and rewriting entires for grammar and connections 
-- **[[Session 18]] Notes are posted**
-	- **IF you have not been to the past few sessions**: I would highly recommend reading **session notes 15-18**, [[Mark Reinford]], [[Daliah]], [[Kindrack Diablo]], and [[Titania, Queen of Seelie Court]]'s entries, as this Arc emphasizes NPC relations and heavy roleplay.
+**2/19/25** - Done with the NPC entires, working on timeline and even entries and PC entries 
+- **[[Session 19]] Notes are posted**
+	- **If you have not been to any of act 2 thus far:** I would recommend not coming to next session or if you do be prepared to not play unless we make it to the middle part of the final mission of Thieves Metropolis, if you want to know what the party did, you can read their entries, session notes, and other npc profiles I have listed
+	- **I would highly recommend reading** session notes 15-19, [[Mark Reinford]], [[Daliah]], [[Kindrack Diablo]], [[Quinn Murgul]], and [[Titania, Queen of Seelie Court]]'s entries, as this Arc emphasizes NPC relations.
 
 **For UVM 2024-2025 Campaign**
 For those who need a reminder on the new rules for act 2 (within Thieves Metropolis and associated plot only), see [[Act 2 Rules]]
