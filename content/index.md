@@ -14,4 +14,4 @@ For those who need a reminder on the new rules for act 2 (within Thieves Metropo
 
  > [!Important]
  > 
- > **2/10/25** - If you plan on viewing Cour 1 and Cour 2 (2.1 through 2.6), I'd highly advise against it until you reach a certain point in the campaign (which I will let you know) as it may contain heavy spoilers
+ > **2/19/25** - If you plan on viewing Cour 1 and Cour 2 (2.1 through 2.6), I'd highly advise against it until you reach a certain point in the campaign (which I will let you know) as it may contain heavy spoilers
