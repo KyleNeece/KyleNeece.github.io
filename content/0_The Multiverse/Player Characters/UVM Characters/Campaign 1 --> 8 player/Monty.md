@@ -31,7 +31,96 @@ he was incapacitated by Aeris's parents. Who took them to a base of operations w
 ###### Recruitment
 Monty joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Otto]], [[Chuck]], [[Jaloop]], [[Akanos]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], [[Aeris Aryndor]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper.
 ##### Abilities  
-Monty is a Level 8 Jotun Dialect Stoneback Wukong Runekeeper 
+Monty is a Level 10 Jotun Dialect Stoneback Wukong Runekeeper 
+
+```statblock
+layout: Basic 5e Layout
+image: Monty 1.Png
+name: Monty
+size: Meduim 
+type: Wukong
+subtype: Runekeeper
+alignment: Lawful Evil
+ac: 17
+hp: 79
+hit_dice: 10d8
+speed: 30
+stats: [12, 14, 12, 18, 11, 12]
+fage_stats: 
+saves:
+  - Strength: + 1
+  - Dexterity: + 2
+  - Constitution: + 1
+  - Intelligence: + 8
+  - Wisdom: + 4
+  - Charisma: + 1
+skillsaves:
+  - Athletics: + 8
+  - Arcana: + 7
+  - Investigation: + 8
+  - Perception: + 4
+senses: Passive Perception 11
+languages: Depends
+cr: 10
+traits:
+  - name: Polygot
+    desc: Read all writing and swap out languages
+  - name: Hermetic Inuition
+    desc: Action, under detect magic effect. Freely interact with magic object or surface no set off
+  - name: Causal Invocation
+    desc: 5 charges, spned 1 to invoke inert rune again. Regain long rest
+  - name: Harmonic attunement
+    desc: when attune to magic item that bears a rune, attune to both no attunement slot
+  - name: Rune Chant
+    desc: When take action to invoke rune, can invoke 2 runes
+  - name: Ostorian Discourse 
+    desc: Prof with any equipment inscribed with Jotun and attune to any magic item no requirements
+actions:
+  - name: Fiendbane
+    desc: "Ranged Weapon Attack: +6 to hit, 60/180, one target. Hit: 1d8 + 3 Piercing Damage"
+  - name: Fiendbane (with staff)
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1d6 + 3 Bludgeoning"
+  - name: Various Rune Effects
+    desc: Rune Save DC16 and +8 for Attack Bonus, See Rune specific part in this page
+bonus_actions:
+  - name: Rune Stance
+    desc: Bonus action 15 ft radius, Destruction stance (first time enemy takes damage on a turn, takes 1/2 inscribed runes damage) or Protection (first time you or allies within take damage on a turn, reduced by 1/2 inscribed runes amount)
+  - name: Skilt Krigga
+    desc: 1 minute inscease size to large, become Giant reach increase 5 feet, weapon attacks deal additional 1d6 damage and two handed weapons can be held in one had
+  - name: Words of Domination
+    desc: Invoke Giant Rune can make bonus action attack
+  - name: Rune BA's
+    desc: See specific Runes
+reactions:
+  - name: Rune Reactions
+    desc: See specific Runes
+```
+
+**List of Runes Known (11 inscribed at a time):**
+- Lqun 
+- Pyaxsq
+- Ild
+- Nxujis
+- Wugmz
+- Kong
+- Krig 
+- Yeenoghu 
+- Magisk
+- Ignis
+- Malpirgi
+- Kufal 
+- Lyakzis 
+- Nuyw
+- Kgeownlde
+- Screeve
+- Her
+
+**Magic Items:** 
+- [[Fiendbane]]
+- [[Scorching Shotgun Shield]]
+- [[Blood of Elle Efrideet]]
+- [[Red Lamp]]
+- [[Custom Hunter's Trench Coat]]
 
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars

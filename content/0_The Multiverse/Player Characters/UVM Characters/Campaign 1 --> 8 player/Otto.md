@@ -25,7 +25,78 @@ A few months after the hunt, Otto stayed in Sigil to study under [[Maui Rockhear
 ###### Recruitment
 Otto joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Chuck]], [[Jaloop]], [[Akanos]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], [[Aeris Aryndor]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
-Otto, The Forgotten, is a level 8 Hexblade Human Warlock 
+Otto, The Forgotten, is a level 10 Hexblade Human Warlock 
+
+```statblock
+layout: Basic 5e Layout
+image: Otto the Forgotten.Png
+name: Otto the Forgotten
+size: Meduim 
+type: Variant Human
+subtype: Warlock
+alignment: Lawful Evil
+ac: 16
+hp: 73
+hit_dice: 10d8
+speed: 30
+stats: [14, 14, 16, 9, 10, 20]
+fage_stats: 
+saves:
+  - Strength: + 2
+  - Dexterity: + 2
+  - Constitution: + 3
+  - Intelligence: -1
+  - Wisdom: + 3
+  - Charisma: + 9
+skillsaves:
+  - Deception: + 9
+  - Indimidation: + 9
+  - Persuasion: + 9
+  - Stealth: + 6
+  - Sleight of Hand: + 6
+senses: Passive Perception 12
+languages: Common, Infernal
+cr: 10
+traits:
+  - name: Telekenetic
+    desc: Invis Mage Hand no components
+  - name: Telepathy
+    desc: 30 ft link with one creature telepathy, 1x day detect thoughts no componenets 
+  - name: Agaonizing Blast and Grasp of Hadar
+    desc: +CHA to EB pull target 10 ft closer
+  - name: Accursed Specter
+    desc: Kill humanoid, raise specter. Bonus temp hp = half warlock level. Bonus to Attack Rolls = CHA mod until Long rest. 1x/long rest
+  - name: Multiattack
+    desc: Attack 2x with weapon
+spells:
+  - +9 Spell Attack Bonus, Spell Save DC18
+  - Cantrips: Eldritch Blast, Minor Illusion, Mage Hand, Prestidigitation, Toll the Dead
+  - Pact Magic 5th level: Shield, Wrathful Smite, Hex, Suggestion, Antagonize, Hunger of Hadar, Banishment, Far Step, Hold Monster
+actions:
+  - name: Das Sterben
+    desc: "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 2d6 + 6 Radiant"
+  - name: Construct Strike
+    desc: "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 2d8+3 Force"
+bonus_actions:
+  - name: Hexblade's Curse
+    desc: One creature you can see in 30 feet. 1 minute curse. Ends if it or you die or incapacitated. Damage rolls vs target = prof bonus, crit on 19-20, when dies, regain hp = warlock level and CHA mod
+  - name: Telekenetic Shove
+    desc: Shove a creature 5 ft
+reactions:
+  - name: Armor of Hexes
+    desc: Target of Hexblade's curse hits with attack, Reaction to roll d6, 4 or higher miss
+  - name: Defensive Stance
+    desc: +2 to AC as a reaction until the end of current the turn
+```
+
+**Magic Items**
+- [[Das Sterben]]
+- [[Blood of Elle Efrideet]]
+- 3 [[Soul Coins]] 
+- [[Glyph of Quantum Ressurection]]
+- [[Pearl of Power]]
+- [[Prosthetic Limb]]
+- [[Custom Hunter's Trench Coat]]
 
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars

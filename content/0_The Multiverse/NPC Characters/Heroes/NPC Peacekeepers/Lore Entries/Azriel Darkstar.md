@@ -74,18 +74,16 @@ skillsaves:
   - Perception: + 11
   - Arcana: + 19
   - Insight: +11
-senses: 
+senses: Darkvision 60 feet, Passive Perception 21
 languages: All via Polygot and Omniscience
 cr: 20
 traits:
-  - name: Rune Stance and Omnipotence
-    desc: Bonus action 30 ft radius, Destruction stance (first time enemy takes damage on a turn, takes 5 damage) or Protection (first time you or allies within take damage on a turn, reduced by 5)
+  - name: Hermetic Inuition
+    desc: Action, under detect magic effect. Freely interact with magic object or surface no set off
   - name: Causal Invocation
     desc: 10 charges, spned 1 to invoke inert rune again. Regain long rest
   - name: Harmonic attunement
     desc: when attune to magic item that bears a rune, attune to both no attunement slot
-  - name: Rune Chant
-    desc: When take action to invoke rune, can invoke 3
   - name: Omnipresence
     desc: Always aware of location of inscriped runes and if die, they remain inscribed
   - name: Dark One's Discourse 
@@ -95,21 +93,21 @@ traits:
   - name: Great Weapon Master
     desc: -5 to add +10 to melee damage, on kill bonus action attack
   - name: Fiendish Rune Stance
-    desc: Add one of following, Betryal (penalty to saves against charmed equal to 10), Doom (if hostile creature in area would regain hp, make charisma save. On a fail, doesn't regain hp and takes necrotic damage equal to half hp it would ggained. On sucess it regains the hp) or Pain (hostile creature in area spell cast, must succeed con save or spell wasted)
+    desc: Add one of following to stance whenever active, Betryal (penalty to saves against charmed equal to 10), Doom (if hostile creature in area would regain hp, make charisma save. On a fail, doesn't regain hp and takes necrotic damage equal to half hp it would ggained. On sucess it regains the hp) or Pain (hostile creature in area spell cast, must succeed con save or spell wasted)
   - name: Words of Damnation
-    desc: Invoke Abyssal or Infernal, choose creature 30, disadv on first Cha ability check or save before end of your next turn
+    desc: Invoke Abyssal or Infernal rune, choose creature 30, disadv on first Cha ability check or save before end of your next turn
   - name: Call From Below
     desc: When hit 0 hp, summon fiend 9th level. Devil, appears 20 ft in front, can't command but protects and attacks in accordance to order before 0 hp, doesn't require concentration. If completes order, get 1 hp. Body gets rune that means a debt have to give. Can't use again until debt settled.
+  - name: Rune Chant
+    desc: When take action to invoke rune, can invoke 3 runes
 actions:
   - name: Multiattack
     desc: Azriel makes two attacks
   - name: 
     desc: 
-  - name: 
-    desc: 
 bonus_actions:
-  - name: 
-    desc: 
+  - name:  - name: Rune Stance and Omnipotence
+    desc: Bonus action 30 ft radius, Destruction stance (first time enemy takes damage on a turn, takes 5 damage) or Protection (first time you or allies within take damage on a turn, reduced by 5)
   - name: 
     desc: 
   - name: 
