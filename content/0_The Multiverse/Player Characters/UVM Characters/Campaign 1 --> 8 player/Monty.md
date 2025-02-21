@@ -120,7 +120,7 @@ reactions:
 - Screeve
 - Her
 
-See Runekeeper PDF when referencing different Rune's abilities  ![[1273526-Runekeeper_Class__Magic_System_v1_3.pdf]]
+**See Runekeeper PDF when referencing different Rune's abilities**  ![[1273526-Runekeeper_Class__Magic_System_v1_3.pdf#height=1500]]
 
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
