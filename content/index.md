@@ -4,7 +4,7 @@ title: Peacekeepers of the Multiverse Wiki
 
 **Next Session**: TBD
 
-**2/19/25** - Done with the NPC entires, working on timeline and even entries and PC entries 
+**2/20/25** - Website entries are fully updates except PC characters (will update after Act 2). Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
 - **[[Session 19]] Notes are posted**
 	- **If you have not been to any of act 2 thus far:** I would recommend not coming to next session or if you do be prepared to not play unless we make it to the middle part of the final mission of Thieves Metropolis, if you want to know what the party did, you can read their entries, session notes, and other npc profiles I have listed
 	- **I would highly recommend reading** session notes 15-19, [[Mark Reinford]], [[Daliah]], [[Kindrack Diablo]], [[Quinn Murgul]], and [[Titania, Queen of Seelie Court]]'s entries, as this Arc emphasizes NPC relations.
