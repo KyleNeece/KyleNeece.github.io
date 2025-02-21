@@ -26,18 +26,17 @@ Sign ideas :
 - The Abyss (fear) --> frightens 
 	- Ignores resistances, when shot, target has to make a dc10 saving throw or automatically die
 
-
-| D20 Roll | Dart Type    | Effect |
-| -------- | ------------ | ------ |
-| 1        | The Hunter   |        |
-| 2        | The Maiden   |        |
-| 3        | The Giant    |        |
-| 4        | The Owl      |        |
-| 5        | The Sentinel |        |
-| 6        | The Vizard   |        |
-| 7        | The Pariah   |        |
-| 8        | The Hammer   |        |
-| 9        | The Wayfarer |        |
-| 10       | The Lantern  |        |
-| 11       | The Oracle   |        |
-| 12       | The Abyss    |        |
+| D20 Roll | Arrow Type   | Effect                                                                                                                                                                                                                                                                                |
+| -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | The Hunter   | When this arrow is fired, you can reroll the attack roll made with the arrow, but you must use the new roll                                                                                                                                                                           |
+| 2        | The Maiden   | When this arrow hits its target, the arrow deals no damage and instead regains hitpoints equal to the damage that would be dealt. A creature can choose to let the arrow hit them                                                                                                     |
+| 3        | The Giant    | When this arrow hits its target, all creatures and objects within a 5 foot radius of the arrow takes an additional 1d6 force damage and are forced to make a strength saving throw equal to a DC of 8 + 2x your proficiency bonus. On a fail each creature or object is knocked prone |
+| 4        | The Owl      | When this arrow hits its target, the target gains advantage on all wisdom skill checks and saving throws for 1 minute                                                                                                                                                                 |
+| 5        | The Sentinel | When this arrow                                                                                                                                                                                                                                                                       |
+| 6        | The Vizard   |                                                                                                                                                                                                                                                                                       |
+| 7        | The Pariah   |                                                                                                                                                                                                                                                                                       |
+| 8        | The Hammer   |                                                                                                                                                                                                                                                                                       |
+| 9        | The Wayfarer |                                                                                                                                                                                                                                                                                       |
+| 10       | The Lantern  |                                                                                                                                                                                                                                                                                       |
+| 11       | The Oracle   |                                                                                                                                                                                                                                                                                       |
+| 12       | The Abyss    |                                                                                                                                                                                                                                                                                       |

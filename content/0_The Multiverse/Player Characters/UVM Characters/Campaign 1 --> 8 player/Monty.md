@@ -95,7 +95,12 @@ reactions:
   - name: Rune Reactions
     desc: See specific Runes
 ```
-
+**Magic Items:** 
+- [[Fiendbane]]
+- [[Scorching Shotgun Shield]]
+- [[Blood of Elle Efrideet]]
+- [[Red Lamp]]
+- [[Custom Hunter's Trench Coat]]
 **List of Runes Known (11 inscribed at a time):**
 - Lqun 
 - Pyaxsq
@@ -115,12 +120,7 @@ reactions:
 - Screeve
 - Her
 
-**Magic Items:** 
-- [[Fiendbane]]
-- [[Scorching Shotgun Shield]]
-- [[Blood of Elle Efrideet]]
-- [[Red Lamp]]
-- [[Custom Hunter's Trench Coat]]
+See Runekeeper PDF when referencing different Rune's abilities  ![[1273526-Runekeeper_Class__Magic_System_v1_3.pdf]]
 
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
