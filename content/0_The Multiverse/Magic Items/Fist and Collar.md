@@ -10,7 +10,7 @@ Fists is a magical pair of gauntlets and Paws is a magical collar
 - In one of the gauntlets lies a integrated dart gun, which can be activated and deactivated as a free action 
 	- The gauntlet has a range of 30/120 and uses your strength modifier for attack and damage rolls. The damage die for this weapon is = to the Fistcuffs die and it does not suffer from disadvantage on attack rolls when within 5 feet of the enemy.
 		- The gauntlet has 1d4 charges at the start of each day, the charges reset every 24 hours. At the beginning of the day, roll on the D20 random projectile table. The gauntlet gains a number of the special ammunition rolled on the table for the next 24 hours equal to the d20 roll, where after it disappears. 
-		- When you make an attack roll, you can expend a charge to use one of the special ammunition gained for the day. You can also load the Gauntlet with special ammunition you craft or buy.
+		- When you make an attack roll, you can expend a charge to use one of the special ammunition gained for the day. You can also load the Gauntlet with ammunition you craft or buy which will stay permanently.
 - Paws 
 	- You can now command your dog as a free action on your turn 
 		- The collar's translation system allows for Monkey to communicate with Dog
