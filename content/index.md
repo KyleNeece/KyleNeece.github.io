@@ -2,7 +2,7 @@
 title: Peacekeepers of the Multiverse Wiki
 ---
 
-**Next Session**: TBD
+**Next Session**: Sunday 5:00/5:30 - Wherever group wants to stop or finish of act 2
 
 **2/20/25** - Website entries are fully updates except PC characters (will update after Act 2). Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
 - **[[Session 19]] Notes are posted**
