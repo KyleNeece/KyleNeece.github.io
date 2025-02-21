@@ -1,0 +1,3 @@
+---
+tags: [Magic_Item]
+---

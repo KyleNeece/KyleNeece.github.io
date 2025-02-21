@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 Soul Coins are a currency primarily used within the 9 Hells
 
 **Description**: _Soul coins_ are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one-third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each _soul coin_ has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.
@@ -18,3 +22,4 @@ _Soul coins_ are created by Mammon and his greater devils on Minauros, the thir
 
 **Known Possessers**
 - [[Otto]]
+ 

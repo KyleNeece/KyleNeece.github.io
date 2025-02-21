@@ -125,7 +125,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 						- Make a toast 
 						- **Dance for a little?**
 						- Final questions 
-			- Thank you, for being with me normally for a bit
+			- Thank you, for being with me in a normal circumstance for a bit
 
 
 	- Call with Mark, who will direct them to a certain magic item store to get the one time use implants done (for **X** party members)
@@ -253,6 +253,10 @@ Previous: [[Session Plan 18 (might be 19)]]
 
 - **Next steps** 
 	- Call from Mark
+		- "Your all disappointments, to me, to Daliah, we could have helped her together"
+		- "Your helping a traitor who took a potential lethal swipe at the Seelie Courts Queen"
+		- "This isn't something we can settle together. Daliah has gone to war versus her Court and taking on her own continent. We, the Seelie court will find you, you'll have no where to run. "
+		- 
 		- Him being mad and touching nerves about Ludwig
 	- Wait for news and setup from Daliah 
 		- Talk to Daliah and Mark via device
@@ -267,6 +271,9 @@ Previous: [[Session Plan 18 (might be 19)]]
 	- Send off Daliah with liftoff
 		- Have a conversation with Tartarus 
 			- End of Act 2
+
+
+83347 reed
 
 **OR**
 

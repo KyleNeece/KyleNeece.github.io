@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 Astronomer's Quiver is a Quiver that produces special arrows that align with the 12 Zodiac Signs on the Quiver. 
 
 Sign ideas : 

@@ -1,11 +1,15 @@
+---
+tags: [Peacekeeper/Equipment, Magic_Item]
+---
+
 Fists and Paws is [[Monkey (Alex)]] and Dog's magical item(s)
 ###### Abilities 
 Fists is a magical pair of gauntlets and Paws is a magical collar 
-- The Brass Knuckles deal damage = to the Fistcuffs die + strength modifier
+- The Brass Knuckles deal damage = to the Fistcuffs die + strength modifier and has a +1 attack and damage modifier
 	- While wearing these Brass Knuckles, you constitution score is increased by 2 and your strength score is increased by 1
 - In one of the gauntlets lies a integrated dart gun, which can be activated and deactivated as a free action 
 	- The gauntlet has a range of 30/120 and uses your strength modifier for attack and damage rolls. The damage die for this weapon is = to the Fistcuffs die and it does not suffer from disadvantage on attack rolls when within 5 feet of the enemy.
-		- The gauntlet has 1d4 charges at the start of each day, the charges reset every 24 hours. At the beginning of the day, roll on the D20 random projectile table. The gauntlet gains a number of the special ammunition rolled on the table for the next 24 hours equal to the d4 roll, where after it disappears. 
+		- The gauntlet has 1d4 charges at the start of each day, the charges reset every 24 hours. At the beginning of the day, roll on the D20 random projectile table. The gauntlet gains a number of the special ammunition rolled on the table for the next 24 hours equal to the d20 roll, where after it disappears. 
 		- When you make an attack roll, you can expend a charge to use one of the special ammunition gained for the day. You can also load the Gauntlet with special ammunition you craft or buy.
 - Paws 
 	- You can now command your dog as a free action on your turn 
@@ -33,5 +37,3 @@ Fists is a magical pair of gauntlets and Paws is a magical collar
 | 18       | Antimagic Dart      | When this Dart hits its target and it is magcial, the target must make a ability check using their spellcasting modifier versus a DC of 8 + 2x your proficiency bonus. On a fail the magic effect ends. If the target is concentrating on a magical spell or effect, they have disadvantage on the ability check                                                                                                                                                                                                                      |
 | 19       | Grounding Dart      | When this Dart hits its target, the next time the target flys or attempts to fly must make a constitution save against a DC of 8 + 2x your proficiency bonus before using its movement. On a fail it cannot gain altitude and instead drops 60 feet. A flying creature does not take fall damage if it is forced from the sky by the Dart. The saving throw is repeated every time the flying creature tries to use its movement to fly. The effect lasts one minute or until the Dart is removed as a action, whichever comes sooner |
 | 20       | Luck Dart           | This dart critically hits on a 16-20, this threshold cannot be reduced in any way                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
-#Peacekeeper/Equipment
