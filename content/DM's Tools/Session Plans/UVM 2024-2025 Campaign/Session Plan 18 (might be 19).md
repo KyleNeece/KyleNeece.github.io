@@ -29,4 +29,4 @@ Previous: [[Session Plan 17]]
 						- The party will find two objects 
 							- The Magical item that Quinn wants 
 							- Glyph of Quantum Reconstruction 
-	- Upon retrieving the relic **(and part of what they need for the resurrection)**, party will leave, and they will earn their 750x3 gold and information about the building that Kindrack Diablo will be hosting in the sapphire tower
+	- Upon retrieving the relic **(and part of what they need for the resurrection)**, party will leave, and they will earn their 750x3 gold and information about the building that Kindrack Diablo will be hosting in the pearl tower

@@ -1,0 +1,4 @@
+- Report back to Emily and crew 
+	- Get ready for Azriel resurrection 
+- Azriel resurrection 
+	- More details later

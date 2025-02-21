@@ -25,3 +25,19 @@ Sign ideas :
 	- Shoot an arrow to see 1 day into the characters future
 - The Abyss (fear) --> frightens 
 	- Ignores resistances, when shot, target has to make a dc10 saving throw or automatically die
+
+
+| D20 Roll | Dart Type    | Effect |
+| -------- | ------------ | ------ |
+| 1        | The Hunter   |        |
+| 2        | The Maiden   |        |
+| 3        | The Giant    |        |
+| 4        | The Owl      |        |
+| 5        | The Sentinel |        |
+| 6        | The Vizard   |        |
+| 7        | The Pariah   |        |
+| 8        | The Hammer   |        |
+| 9        | The Wayfarer |        |
+| 10       | The Lantern  |        |
+| 11       | The Oracle   |        |
+| 12       | The Abyss    |        |

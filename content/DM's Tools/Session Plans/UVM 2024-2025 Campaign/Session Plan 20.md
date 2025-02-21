@@ -5,7 +5,7 @@ tags: [Session_Plans]
 Previous: [[Session Plan 18 (might be 19)]]
 - Party meet at the bar Freya owns (downstairs room)
 	- Party meets with Reed, tells his story about his backstabbing and the trio war. Begins by talking about the old hideout, then transitions to Daliah's digging and profile by digging up info about a tie to Unseelie Court through a mutual solider, then the details of their unit in the 3 way war. Details about how Titania ordered Daliah to kill Mark 
-		- Freya walks in and talks about the floor plan and full plan. Infiltrate it the next day skip time to next evening. Ask what they did during the day.
+		- Freya walks in and talks about the floor plan and full plan **of the emerald pearl**. Infiltrate it the next day skip time to next evening. Ask what they did during the day.
 
 			- **Full plan here**: Swim through the flood tunnels. After the flood tunnels you'll climb up a ladder which will take you to a warehouse. You will make it to a divination wizard for security, they will take him out quietly and use the scroll of non-detection on him so that nobody notices his absence as he is connected to outside security and is there eyes. This will allow for Mark to slip into the building. There will be two magical pulley elevators, one for your group and one for Mark. This will take you to the maintenance floor. You and Mark will then be on opposite sides of the maintenance floor, a place where scaffolding is done. Area will be heavily guarded, the specs were like 90% detailed but not 100 so you'll have to be alert and ready, improvise. You'll meet at a hallway point, and that is where you will get to the party and meet with Daliah. 
 				- Surprise in boxes
@@ -21,7 +21,6 @@ Previous: [[Session Plan 18 (might be 19)]]
 - Second part, warehouse 
 	- Party will walk down a hallway into a warehouse. The warehouse will have two elevators
 		- Will take them to maintenance floor but opposite sides of it, guards will be present on Mark's side, party will have to take out a magical bow user and be Mark's eyes
-			- Magical bow (atunement: as a reaction gain advantage on a attack roll 2x per day, and gains a +3 to perception and investigation scores. This bow can fuse itself with another))
 		- Party will have to guide Mark, multiple traps, patrols, glyph magic need to be destroyed by magical orb, coordinated kill, sniper to left similar spot will notice mark will have to take out quick, divination orb to see guard and take them out, 2 more enemies to take out, will then take final elevator to top which will end in a maintenance bathroom and will end up on tower 2 to walk to the grand restaurant and club area
 
 - Upon completing climb, Mark at the bar will advise to avoid Kindrack and will point him out. Said to make themselves visible and give Daliah the benefit of the doubt and that she will find them, some Tartarus comments
@@ -178,19 +177,83 @@ Previous: [[Session Plan 18 (might be 19)]]
 		- Plan was to kill them all along. Mark says them or us, I choose us
 			- Mark says these innocents wouldn't hesitate to rob or kill you for everything you got
 	- Mark picks off the key and hands it to the party, and mentions the behavioral disguises are all ready
-		- The chosen members get into the car
+		- The chosen members get into the car, others follow in different fashion
+			- The chosen one instals a behavioral enchantment
+				- They drive to the place, **but go over the impersonation profiles**
+					- (Maybe make handouts) 
+				- Freya says they are there to sell the key to Kindrack, he needs stuff from them not the other way around. Stick to the facts. Know who you are and who you are not 
+	- Party then walks through docking and go through security **(describe the floor)**
+		- Through the complex
+			- Talks to one of his elite. 
+			- Takes a magical pulley elevator
+			- Talking to Murphy
+				- Freya starts fake flirting --> brothels talk and such, as a "formal greeting"
+					- Elite is confused 
+			- Elite mentions that Kindrack got the tip that the Seelie court and potentially even Peacekeepers has plans and is going to make a move 
+				- Ordered everyone checked out, situation under control. Men and drones surveilling the entire stadium continent 
+					- Ask to leave weapons, ID scans, even though we joke around it is a serious place of business 
+		- Opens up to a hanger bay creating massive vehicle machines and tech **(give descriptions)**
+			- Meant to be arms traders, the reach stretches across the universe
+				- Mark says they are in position, planning EVAC now, says Good Luck and to Stay in Character
+		- Talking with the elite some more (Freya is)
+	- Reached Kindrack 
+		- Pleasure to see you 
+			- Daliah needs a moment to disarm the artifact, which gives us time to chat 
+				- **Ask the specific questions according to profiles**
+					- **Come up with questions and responses here**
+		- **Prompts questions about their night in the emerald pearl**
+		- Freya mention the Blackjack table, lose everything 
+			- Kindrack mentions he remembers them 
+				- **Then talks about the emerald pearl and his accomplishment with it**
+				- **Talking about making money from arms trade, the Metropolis is his main connection with buisness in the multiverse and other matters**
+					- Mentions its been a while since the two have been on Sigil. 
+						- Freya says that they had other business in night city
+							- **Kindrack probes what brought him to Sigil**
+								- response 
+							- Freya mentions how the deal fell apart and the dealer was a fool
+		- After, he mentions alcohol, please help themselves
+			- **Never put pleasure before business but a symbolic drink**
+		- **Talks about traveling and where he goes and how he's been many places and resources**
+	- Two ways to have a strong network, 1. travel, 2. prison term
+	- Friends in Ravnica send their regards 
+		- Kindrack questions, saying that Freya spent two years in a Azorius prison complex for multiple years under a different identity
+			- Freya says true but the scoundrels don't know her cover name
+	- **Fascination for weaponry**
+		- impersonator must ask to see the knife
+			- **Kindrack goes over model**
+		- Kindrack then asks about a old working spot, a Izzet arms dealer in ravnica, how did he manage to get away 
+			- **Give answer here**
+	- Daliah says the artifact is ready
+		- Follow Daliah downstaris (**describe scene**)
+		- **(In illusionary form)** She has a plan for when we secure the orb, will magical shut down the building, override all defense systems, make the building hostile and slip out. When Kindrack dies we haul ass. Daliah is blocking access to this room and Mark and Freya are minimizing risk and withdrawing early via the route. I have the plan, checked stadium blueprints and will know where to run. We are in this together
+		- **Daliah begins acting again and talking about the orb**
+		- Daliah begins procedure, in illusion form says her many thanks again, before beginning the process
+			- **After talking to Kindrack, leads to point of no return, it leads to the orb of eldritch matrix**
 
-- **Firestarter** 
-	- The party disguised will meet and go into the meeting building and area 
-		- Greeted by a high standing soldier 
-			- Inform that potential seelie court and or peacekeepers are in the area and to be careful 
-			- After talking to Kindrack, leads to point of no return, it leads to the orb of eldritch matrix
-				- Betray Daliah
-					- Outcome: **Watch cyberpunk for inspo**
-				- Betray Mark 
-					- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills. If you return to Diablo's body, you can loot it for his signature loot. The party will then run through the market. soldier will arrive, and you can kill him for his signature item. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 
+- **If sided with Mark**
+				- Betray Daliah by inserting dispel magic transmuter into a slot 
+					- Outcome: Daliah says "no, I can handle the one down here" and magical fucks up the person impersonating soul. Freya gets killed by Kindrack, the dispel magic transmuter finally works after Freya's death
+						- Daliah asks "Why are you doing this"
+							- Give answer 
+							- Daliah: "you don't understand anything, two faced snakes, all of you", magically fucks her again. The Madness of the Far Realm and a GOO is directly channeling their power through her 
+								- "All these deaths are on you"
+									- Tartarus makes some comments
+										- Party needs to GTFO, boss fight with Kindrack
+											- Opening line --> Kill these fags
+											- Party escape through pulley elevator, Mark pulls up in a vehicle, gets out of the stadium
+												- Mark will tell them to ask any contacts they no, ANY, abut getting help to jump a Seelie Court transfer car
+												- Will have to head to certain location depending on who they call
 
-- **The killing moon** 
+- **If sided with Daliah**
+				- Betray Mark by not inserting the dispel magic transmuter 
+					- "Look towards Freya, wait for Kindrack to go down then run, almost have the orb, (slight pain), sorry its a lot, had to reach beyond the weave, into the far realm and abberant magic for this. Cutting off room now, cutting out path. Defense systems are turning on Diablo's forces, **give Freya the signal to kill Kindrack**" 
+						- Signal is given and Freya pieces up Kindrack, Abberant magic engulfs Daliah and the member who is with her. Freya yells "FUCK, Mark they gave us the slip"
+							- **Describe each scene and location in building**
+							- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills defeating soldiers along the way in the building. The party will then run through the walls and maitenence. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 
+
+- **Next steps** 
+	- Call from Mark
+		- Him being mad and touching nerves about Ludwig
 	- Wait for news and setup from Daliah 
 		- Talk to Daliah and Mark via device
 		- Read Daliah message 
@@ -204,8 +267,10 @@ Previous: [[Session Plan 18 (might be 19)]]
 	- Send off Daliah with liftoff
 		- Have a conversation with Tartarus 
 			- End of Act 2
-- Report back to Emily and crew 
-	- Get ready for Azriel resurrection 
-- Azriel resurrection 
-	- More details later
+
+**OR**
+
+- **Next steps**
+	- 
+
  
