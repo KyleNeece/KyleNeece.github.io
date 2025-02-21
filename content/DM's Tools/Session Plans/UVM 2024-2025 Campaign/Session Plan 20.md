@@ -231,53 +231,20 @@ Previous: [[Session Plan 18 (might be 19)]]
 			- **After talking to Kindrack, leads to point of no return, it leads to the orb of eldritch matrix**
 
 - **If sided with Mark**
-				- Betray Daliah by inserting dispel magic transmuter into a slot 
-					- Outcome: Daliah says "no, I can handle the one down here" and magical fucks up the person impersonating soul. Freya gets killed by Kindrack, the dispel magic transmuter finally works after Freya's death
-						- Daliah asks "Why are you doing this"
-							- Give answer 
-							- Daliah: "you don't understand anything, two faced snakes, all of you", magically fucks her again. The Madness of the Far Realm and a GOO is directly channeling their power through her 
-								- "All these deaths are on you"
-									- Tartarus makes some comments
-										- Party needs to GTFO, boss fight with Kindrack
-											- Opening line --> Kill these fags
-											- Party escape through pulley elevator, Mark pulls up in a vehicle, gets out of the stadium
-												- Mark will tell them to ask any contacts they no, ANY, abut getting help to jump a Seelie Court transfer car
-												- Will have to head to certain location depending on who they call
+	- Betray Daliah by inserting dispel magic transmuter into a slot 
+		- Outcome: Daliah says "no, I can handle the one down here" and magical fucks up the person impersonating soul. Freya gets killed by Kindrack, the dispel magic transmuter finally works after Freya's death
+		- Daliah asks "Why are you doing this" as device kicks in 
+		- Give answer 
+			- Daliah: "you don't understand anything, two faced snakes, all of you", magically fucks her again. The Madness of the Far Realm and a GOO is directly channeling their power through her 
+			- "All these deaths are on you"
+				- Tartarus makes some comments
+				- Party needs to GTFO, boss fight with Kindrack
+					- Opening line --> Kill these fags
+				- Party escape through pulley elevator, Mark pulls up in a vehicle, gets out of the stadium
 
 - **If sided with Daliah**
-				- Betray Mark by not inserting the dispel magic transmuter 
-					- "Look towards Freya, wait for Kindrack to go down then run, almost have the orb, (slight pain), sorry its a lot, had to reach beyond the weave, into the far realm and abberant magic for this. Cutting off room now, cutting out path. Defense systems are turning on Diablo's forces, **give Freya the signal to kill Kindrack**" 
-						- Signal is given and Freya pieces up Kindrack, Abberant magic engulfs Daliah and the member who is with her. Freya yells "FUCK, Mark they gave us the slip"
-							- **Describe each scene and location in building**
-							- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills defeating soldiers along the way in the building. The party will then run through the walls and maitenence. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 
-
-- **Next steps** 
-	- Call from Mark
-		- "Your all disappointments, to me, to Daliah, we could have helped her together"
-		- "Your helping a traitor who took a potential lethal swipe at the Seelie Courts Queen"
-		- "This isn't something we can settle together. Daliah has gone to war versus her Court and taking on her own continent. We, the Seelie court will find you, you'll have no where to run. "
-		- 
-		- Him being mad and touching nerves about Ludwig
-	- Wait for news and setup from Daliah 
-		- Talk to Daliah and Mark via device
-		- Read Daliah message 
-	- Meet with Daliah, get in the vehicle and talk, get to Sigil to the interdimensional travel port (essentially space airport/NASA operations)
-		- **Figure out how to get to final area of the act 2**/Metropolis arc
-	- Make it to the travel device/vehicle to take the party or single person to bridge 
-	- Get to the bridge leading to the shuttle 
-		- Confront Mark 
-			- If let Mark take Daliah
-			- If kill Mark
-	- Send off Daliah with liftoff
-		- Have a conversation with Tartarus 
-			- End of Act 2
-
-
-83347 reed
-
-**OR**
-
-- **Next steps**
-	- 
-
- 
+	- Betray Mark by not inserting the dispel magic transmuter 
+	- "Look towards Freya, wait for Kindrack to go down then run, almost have the orb, (slight pain), sorry its a lot, had to reach beyond the weave, into the far realm and abberant magic for this. Cutting off room now, cutting out path. Defense systems are turning on Diablo's forces, **give Freya the signal to kill Kindrack**" 
+		- Signal is given and Freya pieces up Kindrack, Abberant magic engulfs Daliah and the member who is with her. Freya yells "FUCK, Mark they gave us the slip"
+		- **Describe each scene and location in building**
+		- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills defeating soldiers along the way in the building. The party will then run through the walls and maitenence. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 

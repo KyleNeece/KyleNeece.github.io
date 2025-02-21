@@ -1,0 +1,161 @@
+###### **If Side With Daliah**
+- **Next steps** 
+	- Call from Mark
+		- "Your all disappointments, to me, to Daliah, we could have helped her together"
+		- "Your helping a traitor who took a potential lethal swipe at the Seelie Courts Queen"
+		- "This isn't something we can settle together. Daliah has gone to war versus her Court and taking on her own continent. We, the Seelie court will find you, you'll have no where to run. "
+			- (Depending on response respond about seeing each other), I'll expect you to mend your ways and turn yourselves in when we find you. 
+				- (their response here)
+			- So (Tell me, do) you plan to fight your way out of this? 
+				- (response here)
+			- Is that what you told Ludwig Van Sycthe Evernight and at his funeral?
+				- You need to grow up and start taking responsibility for your life and others 
+- Wait for news and setup from Daliah 
+	- Daliah calls
+		- "Are you guys ready for this?"
+		- "Not quite feel well but it is what it is"
+		- "It won't help if your worried for me, just do your part. Got a ride for us, and parked ready for your arrival. Sending details now"
+	- Meet with Daliah, get in the vehicle and talk, get to Sigil to the interdimensional travel port (essentially space airport/NASA operations)
+		- Parked in an alleyway in Sigil, talk to Daliah, who is leaned up against the wall of the back of a van
+			- "I'm seeing dark spots, hard to breathe"
+			- "Pain has made my wait for you guys feel like forever, did anyone call or hold you up on the way here?"
+			- "Huh, and?"
+			- "(Anything new?), so negotiations by the book, that is what most in the Court would call it."
+			- ("Mark a use for me maybe, so he can feel better about serving that rotten Queen".... "your so small said the Halfling to the Fairy")
+			- Daliah magically starts the van, "Lets go"
+			- (Response)
+			- "My plan relies wholly on you guys. Remember the clinic I said? Its on the Selune, aka the only natural moon. Got a flight lined up to get there, its my last resort, they'll set me up as a lab rat for their Orb, they are gonna try and extract the magical essence from it and materialize it, make a prototype cure for your Wukong and Halfling friends here. I'll contact you, as soon as they are ready for us both."
+			- ()"Any risk free options are out of reach now")
+			- **Plan**: We are headed to Sigil's astral plane travel port. I can't walk in because I'd draw attention from who knows who while I'm this ill, so you all will go in, head to the Selune Terminal, and find a side opening for me. The terminal is being renovated so not a lot of security or bodies and lots of cover.
+			- "All this shit is too much, I've hurt and wronged so many.... can't help wondering if you can avoid it you know, hurting others (on the verge of breaking down and crying)?"
+				- (response here)
+			- They arrive, she writhes out in pain and asks for the potion of greater healing next to her. Calls out to Mark. "Guys, I don't want to die. I can't help but regret, I just, help me escape from it all." 
+			- "We shouldn't linger, can someone take the wheel?"
+- **Arrive at the Astral Plane Port**
+	- "Act normal, look like any other passenger, don't stop talk or make eye contact, have to get to the gate, leave the weapons here. I'll bring them to you"
+		- "Again, Selune terminal, keep eye out for anyone that matters and watch for air guards especially we don't know what they are looking for"
+			- **Describe place and scene**
+				- "Hey, good luck."
+					- **Describe place and scene inside**
+					- Talk to guard
+						- Please look at the Scrying eye
+	- "Now get to the terminal, no eyes on you"
+		- **Describe scene**
+			- "Disguise as maintenance, wear their uniform maybe"
+				- Go to the roof, construction site elevator 
+					- **Describe rooms**, few hallways, a larger construction room look to be for storing aircrafts, employee office
+						- Make to elevator, on roof
+						- "I managed to make it to lower roof, throw me something down to climb up"
+						- "Here, take your weapons" (**keep describing Daliah in ill state**)
+						- "Go shit downstairs, got through like a pro"
+		- **Party walking on roof**
+			- Make to roof, have to duck into vents. "Seelie court scouts, they can't be on Sigil turf, this is Titania blowing off the agreements made with Sigil"
+				- Obstacles and stuff
+				- Hide from guards and their lights
+				- Eavesdropping 
+		- Mark: "Madame Queen"
+		- Titania: "Special Agent Mark"
+		- Mark: "We have confirmed the traitors presence here at the Travel Port"
+		- Titania: "And Daliah"
+		- Mark: "Most likely too ill to move, concealed somewhere"
+		- Titania: "Most likely doesn't cut it. Does the port know the stakes?"
+		- Mark: "Triggered alarm but failed to find the Traitors
+		- Titania: "And our agents?"
+		- Mark: "Cover has been blown, but the authorities won't get a word out of them. Those still undercover are looking for Daliah"
+		- Titania: "We will talk about operation errors later. Asking for help was never your strong suit, so I decided for you and brought support"
+			- **Brough platoons of soldiers**
+		- Mark: "I have it under control"
+		- Titania: "Clearly not (eyes flash). You lost control way back its time I tell you that to your sorry old and ugly face"
+		- **More obstacles**, move forward
+		- Titania: "I know you care about Daliah, you recruited and trained her. I get that you want to protect her. But your duty and allegiance first and foremost is to the Court and the Feywild. "
+		- Mark: "Daliah made her choice now she needs to learn the consequences."
+		- Titania: "One more thing Mark... Project she was a part of stays well under wraps, none of it leaks. If she lands in the wrong hands I don't want to think what will happen. It would destroy the Seelie court and thats a risk I don't want to take."
+		- Mark: "Yes Ma'am, only you and I privy to it, no risks, thats what it'll be."
+		- Titania: "So you know, this isn't any easier for me Mar, I liked the girl too, trusted her. But some choices don't allow any way back."
+		- Mark: "Choices? Yours or her's?"
+		- Titania: "Say again?"
+		- Mark: "You heard me, but no matter I know what I have to do and I'll do it"
+		- Titania: "I authorize any necessary action. Just don't shoot her in the head"
+	- Daliah "This isn't good, we are so fucked here"
+		- "To satisfy her vengeance, she'd pull me out of hell, lets go."
+	- **Make it across roof to elevator**
+		- Daliah: "Civilians are being evacuated, Seelie going in with all they got. Train ride to launchpad, thats all. Just need to blast through the security measures first"
+- **Hears fighting, describe scene**
+	- "This is the peacekeeper force please stand down"
+	- Peacekeepers versus security versus Seelie court (explain why three way. Peacekeepers trying to settle both parties down, guards trying to protect civilians, Seelie court trying to brute force their way through the port to rip it apart and find Daliah), Civilians are caught in the crossfire
+		- Get to the Selune terminal, run through crossfire. 
+			- Make it too ransacked lounge, via door. 
+			- "Give me a sec, head spinning"
+			- "It was supposed to be different, smoother,  not far off now though, thats all that matters right? hehehe, (vomits blood)"
+			- Anyother dialogue response from party 
+			- "I'll get my shit together, Help me up?"
+	- **Upon leave, describe scene, ship shooting at them, have to sprint up stairs to next location** 
+- **Describe scene**, stairs, a terminal room and walkways and flat ground
+	- Its a trap, have to get to terminal and defeat all enemies or occupy them
+	- Daliah limps to the terminal, "Port control, heading there, gonna bring the train to this station, watch for threats"
+		- Wave combat encounter, vehicles too
+	- Daliah: "Its done, get back in" (can only do so after party isn't threatened or engaged (condition))
+	- "We are fucked if I do reach into Abberant magic and the Far Realm, beyond the weave, no other way"
+		- "I've magically attuned myself to you guys to share this power, ready?"
+			- **Whole party can reality warp**
+				- Vehicle crashes into terminal area, hurts Daliah and party
+				- "Fuck it hurts, do you hear that" (high pitched incomprehensible screams that occur whenever you use reality warping during this moment)
+				- Ability goes away, party has to send one person to go with Daliah, rest stay behind in case more pursuers come 
+- Daliah is groaning, tired 
+	- "Titania is done with Mark, I doubt much will change. Listen to the hum, wish I could fall alseep, never wake again."
+		- Silent for a sec
+	- "Mark, I dreamed about him recently. A repeat, the same nightmare. About when I had to kill him because of the orders given to me. He put his trust in us for a time, trust we then betrayed. I should have warned him, I'd rather forget."
+	- Softly Crying, emotional feelings pain: "Mark is not the only one I've betrayed."
+		- Response from person
+	- Daliah: "The orb, it can only be used once. Relies on evolution to exist, I'll free it, then it'll help my condition, then disintegrate, irretrievably."
+		- Response 
+	- Daliah: "Your stronger then I am, stronger then anyone else I know because you refuse to give up and have the courage to face something that outclasses you."
+		- Response 
+	- Softly Crying, emotional feelings pain, Daliah: "I think I'm gonna die soon. The regret, I wasn't honest with you, I'm so sorry..."
+		- Response, passes out
+	- **Tartarus chimes in**
+	- "Takes character to be a bastard front back inside out, I would know best. She's obsessed, determined to the end, earns my respect"
+		- Response
+	- "If you wanted to you could call Mark."
+		- Response
+	- "Well nice to drop in and talk, you should wake her though or be an ass and call Mark. And here (conjure a single shot gun with logic slash) if anything comes up, use this, one time use make it count, only as a last resort"
+	- **Describe scene while character walking**
+	- **When carrying her, Mark intercepts them, set hit dice to 1**
+		- "Hold it right there, lets talk, put her down"
+			- Response 
+		- Mark: "What do you want to do with her"
+			- Heavy RP right here, Mark holding to principles and self made observations and facts
+	- Party either gives her up, or shoots Mark with Tartarus's contingency weapon
+		- **IF HELP** Tartarus makes some comments, the pc puts her into the shuttle, and peacekeepers are able to stop the soldiers but Titania escaped. Can pick up his hand crossbow
+			- They will ask what they were doing upon finding them
+			- **But first**: Tartarus talks 
+			- "Here we go, first time you launched one of these things?"
+			- "Whatever awaits her, hope she ends up happy. She's free, going home. She has a little of what I fail to have, fucking luck"
+				- Response
+			- "(Response, then) Maybe I could've been different, never turned and stayed good, maybe... Maybe I was also convinced those who I loved couldn't survive without myself obtaining more power. And maybe.... that chick had great willpower, to the fucking end. And I lacked the final ounce of determination and will. I dunno"
+				- Response
+			- "(According response, then you begin to hear the lift off, Tartarus turns around to see), She made it, we did it, thats all that counts right now"
+		- **IF GIVE UP** Mark takes Daliah
+			- Mark: "Lemme guess, a promise she didn't deliever"
+				- Response
+			- Mark: "So Daliah for me cure for you"
+				- Response
+			- Mark: "I have contact, and top specialists in the game. They'll extract the orbs essence for you, then operate on you, deal?"
+				- Response
+			- Mark: "Area clear for landing, we are taking the girl and going"
+				- **Tartarus comments**
+					- Wow, and I thought I was an ass. You know how your gonna spend your 30 silver pieces?
+			- Mark: "I'll be in touch, you'd do well to forget her and all of mess this entirely."
+				- Party leaves facility with Peacekeepers that stopped the fighting. Who will ask what they were doing
+					- Fades to black, outro song 
+- **END OF ACT 2**
+
+###### **If Side With Daliah**
+- **Next steps** 
+	- Escape in car, next steps and 
+
+
+Mark will tell them to ask any contacts they no, ANY, abut getting help to jump a Seelie Court transfer car
+Will have to head to certain location depending on who they call
+
+83347 reed
