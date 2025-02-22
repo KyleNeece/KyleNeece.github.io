@@ -5,14 +5,11 @@ tags: [Hero/Peacekeeper/S-Rank, Nephilim/Runekeeper/Fiendish, Felwinter_Saga_Cou
 ##### Brief Summary 
 Azriel Darkstar was a [[Nephalem]] who attended [[Peacekeeper Academy]], who later ascended to godhood by the multiversal runes, becoming Tartarus enslaver of worlds. After his rebirth and purification, he is arguably considered the strongest [[Peacekeeper Force]]
 ##### Appearance 
+###### Purified Azriel
 ![[Azriel Darkstar.png]]
-![[Pasted image 20250119202954.png]]
-![[untitled.png]]
-
-**Purified Azriel**
-
-![[Tartarus Enslaver of Worlds.jpg]]**Tartarus, Enslaver of Worlds**
-
+![[Azriel Darkstar 2.png]]
+###### Tartarus, Enslaver of Worlds
+![[Tartarus Enslaver of Worlds.jpg]]
 ##### Personality 
 Azriel was a kind, selfless, intelligent person who always would help others in need. However, despite this he was always secretly depressed, as many people would not accept him due to his appearance and idealistic stereotypes that came with his lineage. Azriel was born with the power to read runes, a mutation that occurred in his family bloodline. He studied hard to learn this new power. This power was not only new to him, but generally new to the universe at the time.
 ##### Brief History/Timeline   
