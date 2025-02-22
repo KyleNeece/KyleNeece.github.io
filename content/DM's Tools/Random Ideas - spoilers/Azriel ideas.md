@@ -12,6 +12,8 @@ dnd character taller late twenties half devil half angel male wearing full plate
 - Increase number he can have inscribed, can only benefit from number of elder runes = half int mod round down
 
 Boon of energy resistance?, boon of recovery, boon of immortality, boon of invincibility
+Blood fury?
+
 
 **Note: Change elder runes to only a few and to ones that make sense**
 
@@ -67,7 +69,6 @@ Runes: 
 
 - **Aberrant**
 - Kgeownlde
-- Evernight elder 
 - Azriel elder
 - Magic rune with spells 
 - rune with adv on interaction with abberant creatures 

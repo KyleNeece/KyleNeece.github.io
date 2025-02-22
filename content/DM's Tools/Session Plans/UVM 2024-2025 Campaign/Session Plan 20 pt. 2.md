@@ -157,7 +157,7 @@
 		- Will have to head to certain location depending on who they call and will receive the 
 	- Will get the scroll pell, will talk to the giver of the spell scroll
 		- "Oh, and if your so theoretically inclined to jump a convoy, make sure to send me the coordinates after so that a special friend of you and I can scoop up some of the parts and gear left over"
-			- Tartarus 
+			- **Tartarus** 
 				- "Know that spell scroll's cause is enough for The Peacekeeper force to murder you? I know Jackson and he definitely is not one to use another human as a mass nuke of destruction. He'd try and help them."
 				- "Well, lets get Mark's super spy people on this. See where it goes."
 					- Send it to Mark via the mail system
@@ -166,7 +166,112 @@
 	- Meeting point, Tartarus speaks 
 		- "Jumping your own force now, probably the most powerful in the universe? Stepping up your game. Not taking over worlds but its close... ish. You trying to knock me off the terrorist podium"
 			- "Good luck with the Op. As for the chick, she bought a one way ticket to Far Realm hell, tried to play everyone and cut the breaks. Draggin us along now."
-	- Meet with Mark and some of his crew
-		- 
+	- Meet with Mark and go over the plan 
+		- A few friends of mine set up the equipment already. I went through the intel you gave me. It won't be easy, the reason they are called Peacekeepers is because for the most part the force is able to eliminate any sized hostile threats anywhere. Best chance we got is stopping them in this area. Minimal traffic, vantage points, optimal."
+			- **Describe scene and some of Mark's crewmates**
+			- "They will come down the road, once in range, we hit them hard, neutralize all Peacekeeper operatives, grab Daliah and get her to an extract point at the Sigil square where the portals are. Here are details, speak to me when you are ready"
+			- **Hands a holodisc, going over the weaponry and traps**
+				- "Almost ready, just making sure our jammer calibration isn't too strong otherwise Daliah could.... I just hope we are not too late."
+				- "Years ago, don't know what point I fucked up, but the result is that we are now here, and that she could die. I just hope that we are saving Daliah, and not some... I'm scared, scared that my grip on everything is slipping."
+				- "(Response here) It's good your here, it matters. It'll all work out, we just have to finish this."
+				- **Tartarus speaks**
+					- "The jammer jamming his conscience too? Might need to get myself one"
+				- **Mark**
+					- "Your body language, did Daliah reach out to you?"
+						- (response accordingly) "Got it, everything ready, you ready? Move into position." 
+						- **Reminder to prompt to send cords to the lady**(skip time to evening)
+	- **Describe ambush scene**
+		- Daliah calls through direct soul link "You guys, you there? No, not you, anyone but you."
+		- "I trusted you, but I won't, won't make the same mistake again, stay out of my way.... I am warning you."
+		- "You don't want to help me you break me out of this cage just to put me in another. So now I will regain control."
+		- **Mark** talks through device: "Ready?"
+			- **Combat**
+				- Get to the truck
+					- Elite peacekeeper forces enhanced by Daliah
+			- **After combat**
+				- Daliah causes sicknesses: "You left me no choice"
+				- "Leave me alone and don't follow me before it is too late"
+		- **Mark**: "Fuck I'm hit, fucking shrapnel"
+			- (Party action and dialogue response)
+		- **Mark**: Go, follow her, I can patch myself up
+- **Party gets to broken down building, sprinkle dialogue along the way**
+	- Describe scene 
+	- Get to truck and describe the GOO magic residue
+	- **Mark**: see anything?
+		- Players respond 
+	- **Mark**: Your seeing it because of your link to Daliah, the bleeding magic should lead you right to her. Bring her out alive. I'm to help her if I help you. She might not be Daliah anymore which means she needs our help
+		- **Gate in front**, athletics check
+	- **Mark**: She's actively linked to the Far Realm, she can lose control any second. Stay safe. Almost done fixing myself up and I'll regroup, stay in touch.
+	- **Party gets to a drop, pool of water and a ladder**
+		- Tartarus: "Stare into the abyss and the abyss will gaze right back at you. I have a bad feeling about the look its giving me. The kind that says there isn't any coming back. You sure you want to do this?"
+		- **Jumps**
+	- Describe scene, very dark 
+		- **Party jumps down the hole**
+		- Mark: Hold on, I know where you are, you are in a top secret bunker that was used before what we called, "The day of memory erasure. This place existed before a catastrophic event erased the memories across the universe. We still don't know what caused it to this day, but we know of it and Titania's magic combined with the Feywild's chaos left us unaffected."
+		- Mark: Daliah mentioned this place, said it can be used to make contact with the Far Realm. They tried to lure creatures's incorporeal forms from the realm. Trap and tame them. Daliah isn't running from us, she wants a permalink to the Far Realm. But the sheer amount of magical potential and madness....." 
+		- **Magic begins to hurt party, cuts communication** Daliah appears as an illusion **CAN TELL SHES NOT HERSELF**
+			- "You don't understand a thing do you. You never will, not me not fully. How it feels to loose yourself, layer after layer, thats why you betrayed me."
+			- "You, you still trust Mark... its more convenient yes? They lie to you... Your sinking, grasping for life as the flood consumes you. Mark, Queen Titania, their promises didn't help me."
+			- "Mark lives in a world in half truths that he fabricates"
+	- **Follow the magic traces**
+		- **Describe scene**
+		- Make it to a lift
+		- **Tartarus**: Chick cut out communication, or maybe woke something scary down there (stares at darkness), and here we are going back down into the heart of darkness. Please tell me you've got a plan
+			- Response
+		- "Real noble if the Far Realm and a GOO's influence hasn't stripped her away from her autonomy. We may be walking into a trap"
+		- "Wait guys, she's here, she's established a link with the Far Realm, maybe even a GOO, she's not alo-, wait, it don't feel so well"
+			- Begins to glitch then disappears
+	- **Daliah:** "No Mark, no Tartarus, nobody. All alone." 
+		- **Describe scene**
+	- Make their way through a vent system and a room, start seeing shit 
+	- **Convo of Daliah and Kindrack**
+		- "YOU FIRED A FUCKING MISSLE AT US THAT SUPPRESSED TITANIA'S POWERS, WASN'T THE DEAL, NOT EVEN CLOSE"
+		- Kindrack: "Shut up you Witch, your plan lacked grit, mine produced"
+		- Daliah: You used me
+		- Kindrack: Give me a break. Your backed into a corner with no where to run and until I get what I want, you'll stay in that corner. The Orb, bring it to me, and then and only then. I'll let you go
+	- Daliah: "Hello? People here?"
+	- "My memories, our bond. Funny the only one I trusted and the one that betrayed me would be my only witness"
+	- **Party continues on describe scene**
+		- Open door closes on party and knocks them over
+		- "Thats far enough, Don't want to hurt you all, I never never did. I'm leaving you here, where you will be safe"
+		- **Party continues**
+		- "I can hold them off, just a little longer, before they...."
+		- "You guys don't understand, you can't"
+			- Party begins to magically get fucked again
+	- **Hear GOO**
+		- "She tried to stop you, now it is too late, you will be mine"
+	- **Daliah**: It'll kill you, run away
+		- GOO "This is the end, we see you"
+	- **Describe scene, have to hide**
+		- Make it to another room, surgeon room 
+			- Sees two surgeons preforming surgery Daliah 
+	- **Next room**
+		- Armorery
+			- Blueprints for crazy weapons
+		- **GOO still lurking**
+	- **Daliah**: "GUYS RUN", have to make it to a room and shut the door through a magic glyph
+		- Make it to room, leads to another room 
+	- Daliah memory 
+		- Daliah saying Oath
+		- Daliah: "So what now"
+		- Titiania: "Learn to be useful and resourceful, Mark will make sure that happens. And whatever will be needed will be provided, welcome to the Seelie Court"
+	- Next rooms
+		- **Daliah**: You guys still there? They are trying to take control, dispel it, please, then get to the room I'm in
+		- Another memeory
+			- Daliah: Oath, credentials, coin, what have you pulled me into
+			- Mark: Nothing you'll regret, besides I'll always be with you right beside you, I promise
+			- Daliah: Do you regret it, and have you ever broken a promise? 
+			- Mark: I did, one time, and I've broken one promise, a long while back, won't happen again
+			- Daliah: Ok, I'll hold you to that
+		- Next set of rooms, creature still lurking
+		- **GOO**: You do not give up, even when they betrayed you. Maybe you run because your afraid you know the truth
+		- **Daliah speaks to you in outward manner**: Stop, don't let it get do you
+	- **Make it to Core**
+		- GOO looking for them
+		- Finds them, everyone blacks out as they feel their life essence and sanity leave their body, but wake up in a memory 
+	- **Daliah memory**
+		- When she was younger, hanging out with friends, celebrating birthday.
+
+950
 
 83347 reed
