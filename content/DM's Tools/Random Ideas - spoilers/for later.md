@@ -29,4 +29,9 @@ To create a rock-paper-scissors relationship, the third ability should have a cl
 This setup ensures each ability has a defined counter while maintaining its own unique identity and strategic use, completing the trinity.
 
 
+can intervene with story, temporarily changing things effected by logic slash, deletion blade, and Authors journal 
+
+Called 4th intervention 
+
+
 
