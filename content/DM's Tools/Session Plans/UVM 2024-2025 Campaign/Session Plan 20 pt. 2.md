@@ -147,15 +147,26 @@
 					- Wow, and I thought I was an ass. You know how your gonna spend your 30 silver pieces?
 			- Mark: "I'll be in touch, you'd do well to forget her and all of mess this entirely."
 				- Party leaves facility with Peacekeepers that stopped the fighting. Who will ask what they were doing
-					- Fades to black, outro song 
+					- Fades to black, end credit song 
 - **END OF ACT 2**
 
 ###### **If Side With Daliah**
 - **Next steps** 
-	- Escape in car, next steps and 
-
-
-Mark will tell them to ask any contacts they no, ANY, abut getting help to jump a Seelie Court transfer car
-Will have to head to certain location depending on who they call
+	- Escape in car, Mark asks for a high level Wizard or Spellcaster and will tell them to ask any contacts they know, ANY, abut getting help to jump a Peacekeeper transfer car thats transporting her to a facility
+		- Mark drops them off, says they will help her
+		- Will have to head to certain location depending on who they call and will receive the 
+	- Will get the scroll pell, will talk to the giver of the spell scroll
+		- "Oh, and if your so theoretically inclined to jump a convoy, make sure to send me the coordinates after so that a special friend of you and I can scoop up some of the parts and gear left over"
+			- Tartarus 
+				- "Know that spell scroll's cause is enough for The Peacekeeper force to murder you? I know Jackson and he definitely is not one to use another human as a mass nuke of destruction. He'd try and help them."
+				- "Well, lets get Mark's super spy people on this. See where it goes."
+					- Send it to Mark via the mail system
+						- Fast forward day 
+	- Ok, plan is all set, meet me in Sigil, we can set up some delivered equipment. 
+	- Meeting point, Tartarus speaks 
+		- "Jumping your own force now, probably the most powerful in the universe? Stepping up your game. Not taking over worlds but its close... ish. You trying to knock me off the terrorist podium"
+			- "Good luck with the Op. As for the chick, she bought a one way ticket to Far Realm hell, tried to play everyone and cut the breaks. Draggin us along now."
+	- Meet with Mark and some of his crew
+		- 
 
 83347 reed
