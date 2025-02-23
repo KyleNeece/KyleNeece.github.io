@@ -68,10 +68,13 @@ Previous: [[Session Plan 18 (might be 19)]]
 - Daliah will briefly contact group, asking what happened after she left. Says that shes thankful and thought she was done when Kindrack got her but the party is helping and shes grateful, says they are in it together
 	- Freya contacts them, asks about their disease and sickness, asks if it will fuck mission, Freya drops her backstory
 
+**Next Part Start here for UVM 2024-25**
+
+
 **Next Objective**
 - Meet with Mark and Daliah 
 	- Mark: High time we right some wrongs from the past
-	- Freya: Fuck off Alex, give it a rest nothing is your fault
+	- Freya: Fuck off Mark, give it a rest nothing is your fault
 		- Mark: She was manipulated, and no one was around to have Daliah's back
 		- Mark: Objective: Free Daliah from Kindrack Diablo's clutches, but its not a normal rescue op because... Infected with a virus from something from the Far Realm and the GOO's that inhabit it. A consequence of her service to The Queen moreso but also the Seelie Court. Important thing is, she doesn't get the cure, it kills her. 
 		- Freya: The "cure" is a old powerful Celestial's soul that lives on a Orb that is within a box, we aim to obtain it.
@@ -80,7 +83,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 		- Mark: Driving a rental hovercraft while in Thieves Metropolis, thats where you come in. You are gonna use this device **(holds up a small remote with an antenna)** which will temporarily take control of the car. You will have to get into the trunk of that car. We will guide you on the way. Once we have the twins, you'll take their place. The implants are tuned already.
 			- Tartarus doesn't like how they are only calling upon two people, will encourage the rest of party to sneak in on the meeting
 		- Mark: My role is the exfil route. When you complete the mission you'll have to book it. I'll provide transport, make sure the path is clear and problem free.
-		- Mark: The final stage is that you are meeting with Kindrack, selling him the key to the box, in other words, the key unlocking the Orb you need. One of you will join Daliah in the lab to feed in the codes when needed. Kindrack is likely to keep the other at his side. Collateral. 
+		- Mark: The final stage is that you are meeting with Kindrack, selling him the key to the box, in other words, the key unlocking the Orb you need. One of you will join Daliah in the lab to feed in the key when needed. Kindrack is likely to keep the other at his side. Collateral. 
 		- Freya: I'll stay with Kindrack, you'll join Daliah 
 			- Tartarus doesn't like how they are only calling upon two people, will encourage the rest of party to sneak in on the meeting
 		- Freya: Once the key is handed off, you'll signal me. Gonna disarm Kindrack and take him and his guards out
@@ -94,22 +97,23 @@ Previous: [[Session Plan 18 (might be 19)]]
 	- You and me, here we are, face to face. I want to show you something, will put things in perspective, and it means I trust you. 
 	- **Location here**
 	- Lived two blocks from here, when on an assignment from the court
-		- Used to come here after sunset after the few friends that I had snuffed it, we'd booze, set up aa fire, eat, talk about nothing in particular
+		- Used to come here after sunset, with the few friends that I had before they snuffed it, we'd booze, set up aa fire, eat, talk about nothing in particular
 		- Reminders me of a lot, especially my actual home, Waterdeep
 			- Remise about good memories 
 		- Can't rewind the clock, by the time you realized you missed something, its usually too late
 	- I sincerely didn't mean to betray the Queen, the orb was pricey, I didn't think Kindrack would actually try to kill her and even blow her ship to shit. Nothing went to plan. What a fucking mess.  
 		- My original plan was for you guys to rescue Titania while I secured the orb and then for us to run before Kindrack caught on
-		- Now Kindrack changed the terms of our deal,, they'll make him answer for the attack and he knows that so he's covering his ass. The one thing he doesn't know is whats in the box, he's hoping it's something he can use to leverage against the Seelie court. He says its my pass to freedom but the second he gets it I know I'm dead for sure. I know I fucked everything up, but I had no choice. 
+		- Now Kindrack changed the terms of our deal, they'll make him answer for the attack and he knows that so he's covering his ass. The one thing he doesn't know is whats in the box, he's hoping it's something he can use to leverage against the Seelie court. He says its my pass to freedom but the second he gets it I know I'm dead for sure. I know I fucked everything up, but I had no choice. 
 		- I wouldn't have resorted to this if there was any other way
 			- For The Court, and the Queen, I'm just another weapon in their arsenal. A tool to reach beyond conventional magic in reality. Weapons and tools don't get to make decision or choose to retire. 
 - Your the only one I can trust with this, but after everything you just heard, do you feel the same way about me? 
 	- (If asked Talk about Mark, his recruitment of her killed her, and he died to a little bit ago. Talk about the Court and the sentence yet he serves it and still clings to something that has lost all meaning to Daliah)
 - First time I has been honest with you and myself. I need to get away. From Kindrack, Queen Titania, the Seelie Court, Mark... From everything. 
 - Sigil and the Seelie court were an passing point to my escape route, just.... things got complicated, messy. I didn't expect my old agency friends to get involved or to get trapped by Kindrack. 
-	- I'm fleeing. Gotta get out. And t do that I need you, because you know how it is. You haven't gone back to the Peacekeeper force... because they haven't treated you the way you deserve to be treated. 
-- **The plan**: We g through the mission, grab the orb. While Mark and Freya grapple with Kindrack, then make the getaway. Then, you help me skip town, already made a deal with a contact who is position very far from the Feywild and Sigil. There the surgeons can access the Orb and use the Soul to create a prototype of our cure. They'll need for me to be present for the tests. The moment they are finished I'll send word. 
-	- Thats it, everything. Like a weight off the shoulders, honestly. Now I have to ask... are you in it because you understand or in it because I promised to save your life. I suppose you should call Mark, say that everything is set
+	- I'm fleeing. Gotta get out. And to do that I need you, because you know how it is. You haven't gone back to the Peacekeeper force... because they haven't treated you the way you deserve to be treated. 
+- **The plan**: We go through the mission, grab the orb. While Mark and Freya grapple with Kindrack, then we make the getaway. Then, you help me skip town, already made a deal with a contact who is position very far from the Feywild and Sigil. There the surgeons can access the Orb and use the Soul to create a prototype of our cure. They'll need for me to be present for the tests. The moment they are finished I'll send word. 
+	- Thats it, everything. Like a weight off the shoulders, honestly. Now I have to ask... are you in it because you understand or in it because I promised to save your life? 
+	- (appropriate response) I suppose you should call Mark, say that everything is set
 - **Talk to Mark**
 	- Have party: Status report
 
@@ -141,7 +145,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 						- Titania needs her alive sure, but to forgive and forget the attempt on her life? Never. Titania might not forgive her, but doesn't mean I can't.
 						- Even if Titania tried to kill me too, her hands been forced too many times, shes due for compensation. 
 							- Appropriate response 
-						- We stow away somewhere safe. ask some questions, see eye to eye 
+						- We stow her away somewhere safe. ask some questions, see eye to eye 
 						- Once we get the answers I'm looking for, I'll personally help her disappear. From everyone everywhere. Including Myers
 							- Appropriate response 
 						- I want to understand her side, thought I have an idea of what I'll hear. The system broke her and almost took her life, just like it did to mine 
@@ -159,8 +163,8 @@ Previous: [[Session Plan 18 (might be 19)]]
 			- Weapon in hand, got to kill someone? The master spy and the unleashed agent. Tragedy, Comedy or all the above? 
 			- They are both telling the truth, its grey in the nitty gritty details and on paper but their motivations are pretty clear. 
 				- We first have Daliah: Survival - end all be all. She's also a walking talking nuke, one that makes mistakes over and over and never knows which one will set her off
-				- Then we have Mark, him and I relate a little, if I hadn't died by Jackson Felwinter I would have continued to serve a sinister and evil leader, and I would have lived and died by my principles, even if they were just an extension of an evil master like Arangol
-				- This is the tragedy, and someone's gonna play victim to the others good intentions. Don't forget that when your standing over that orb and box
+				- Then we have Mark, him and I relate a little, if I hadn't died by Jackson Felwinter I would have continued to serve a power hungry neutral evil leader, and I would have lived and died by my principles, even if they were just an extension of an evil master like Arangol
+				- This is the tragedy, and someone's gonna play victim to the others intentions. Don't forget that when your standing over that orb and box
 					- You either let the nuke detonate somewhere away on her own terms, or you have a evil politician point the nuke at a specific target, which could also very well be the peacekeepers for revenge. And also, I am in your shoes, for every stupid decision you make, and I can't do anything about it. But As for who I trust and the choice considering what I just said, I don't have a fucking clue, that is for you to figure out. 
 
 **Next objective and PONR** 
@@ -209,7 +213,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 					- Mentions its been a while since the two have been on Sigil. 
 						- Freya says that they had other business in night city
 							- **Kindrack probes what brought him to Sigil**
-								- response 
+								- Response 
 							- Freya mentions how the deal fell apart and the dealer was a fool
 		- After, he mentions alcohol, please help themselves
 			- **Never put pleasure before business but a symbolic drink**
@@ -247,4 +251,4 @@ Previous: [[Session Plan 18 (might be 19)]]
 	- "Look towards Freya, wait for Kindrack to go down then run, almost have the orb, (slight pain), sorry its a lot, had to reach beyond the weave, into the far realm and abberant magic for this. Cutting off room now, cutting out path. Defense systems are turning on Diablo's forces, **give Freya the signal to kill Kindrack**" 
 		- Signal is given and Freya pieces up Kindrack, Abberant magic engulfs Daliah and the member who is with her. Freya yells "FUCK, Mark they gave us the slip"
 		- **Describe each scene and location in building**
-		- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills defeating soldiers along the way in the building. The party will then run through the walls and maitenence. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 
+		- Outcome: After acquiring the Orb, Daliah casts a spell to breach the staduim, opening a escape route and providing help via magic and assassin skills defeating soldiers along the way in the building. The party will then run through the walls and maintenance. Once you reach the poor district, leave the stadium through a portal by Daliah and leave. 

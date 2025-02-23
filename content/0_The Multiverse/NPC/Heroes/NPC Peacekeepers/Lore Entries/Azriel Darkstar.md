@@ -11,7 +11,7 @@ Azriel Darkstar was a [[Nephalem]] who attended [[Peacekeeper Academy]], who lat
 ###### Tartarus, Enslaver of Worlds
 ![[Tartarus Enslaver of Worlds.jpg]]
 ##### Personality 
-Azriel was a kind, selfless, intelligent person who always would help others in need. However, despite this he was always secretly depressed, as many people would not accept him due to his appearance and idealistic stereotypes that came with his lineage. Azriel was born with the power to read runes, a mutation that occurred in his family bloodline. He studied hard to learn this new power. This power was not only new to him, but generally new to the universe at the time.
+Azriel was a kind, selfless, intelligent person who always would help others in need or in trouble. However, despite this he was always secretly depressed, as many people would not accept him due to his appearance and idealistic stereotypes that came with his lineage. Azriel was born with the power to read runes, a mutation that occurred in his family bloodline. He studied hard to learn this new power. This power was not only new to him, but generally new to the universe at the time.
 ##### Brief History/Timeline   
 ###### Adolescence
 When Azriel was just a kid, his parents died at the hands of Lady Pain. They were good friends with [[Will Felwinter]] and as such he took Azriel into his care. He grew up alongside Jackson, and the two were brothers to each other. When Azriel was old enough to move out, Will made sure that he was well taken care of and watched, providing Azriel the resources he needed to be successful. With the opening of the Peacekeeper Academy, he was enrolled with Jackson.

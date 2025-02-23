@@ -41,7 +41,7 @@ type: Wukong
 subtype: Runekeeper
 alignment: Lawful Evil
 ac: 17
-hp: 79
+hp: 84
 hit_dice: 10d8
 speed: 30
 stats: [12, 14, 12, 18, 11, 12]

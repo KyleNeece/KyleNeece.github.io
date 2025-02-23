@@ -8,7 +8,7 @@
 				- (their response here)
 			- So (Tell me, do) you plan to fight your way out of this? 
 				- (response here)
-			- Is that what you told Ludwig Van Sycthe Evernight and at his funeral?
+			- Is that what you told Ludwig Van Sycthe in Evernight and at his funeral?
 				- You need to grow up and start taking responsibility for your life and others 
 - Wait for news and setup from Daliah 
 	- Daliah calls
@@ -150,12 +150,12 @@
 					- Fades to black, end credit song 
 - **END OF ACT 2**
 
-###### **If Side With Daliah**
+###### **If Side With Mark**
 - **Next steps** 
-	- Escape in car, Mark asks for a high level Wizard or Spellcaster and will tell them to ask any contacts they know, ANY, abut getting help to jump a Peacekeeper transfer car thats transporting her to a facility
+	- Escape in car, Mark asks for a high level Spellcaster and will tell them to ask any contacts they know, ANY, abut getting help to jump a Peacekeeper transfer car thats transporting her to a facility
 		- Mark drops them off, says they will help her
 		- Will have to head to certain location depending on who they call and will receive the 
-	- Will get the scroll pell, will talk to the giver of the spell scroll
+	- Will get the spell scroll, will talk to the giver of the spell scroll
 		- "Oh, and if your so theoretically inclined to jump a convoy, make sure to send me the coordinates after so that a special friend of you and I can scoop up some of the parts and gear left over"
 			- **Tartarus** 
 				- "Know that spell scroll's cause is enough for The Peacekeeper force to murder you? I know Jackson and he definitely is not one to use another human as a mass nuke of destruction. He'd try and help them."
