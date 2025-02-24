@@ -7,7 +7,7 @@ Mark Reinford is a Human Revised Hunter Ranger originating from Ebberon and a ag
 ##### Appearance 
 ![[Mark Reinford.png]]
 ##### Personality 
-Mark has a strong sense of Duty and Loyalty to the point where it blinds the truth, even if he knows he serves a master who deceits and lies he still continues to live and die by his principles. . He is highly intelligent, honest (to an extent), and loyal. He has seen his fare share of battle and problems and is hardened by such events. He lives and dies by his principles. 
+Mark has a strong sense of Duty and Loyalty to the point where it blinds the truth, even if he knows he serves a master who deceits and lies he still continues to live and die by his principles... He is highly intelligent, honest (to an extent), and loyal. He has seen his fare share of battle and problems and is hardened by such events. He lives and dies by his principles. 
 ##### Brief History/Timeline   
 ###### Origins/Adolescence
 Mark Reinford grew up in Ebberon, living a normal life. He had a strong sense of duty and as such, joined the Sigiliph army when he was eligible of age. In one of their special forces, he was often deployed in covert black ops missions. He ultimately left the force, to pursue a different path. He then joined Queen Titania's service under her federal intelligence agency branch. 
