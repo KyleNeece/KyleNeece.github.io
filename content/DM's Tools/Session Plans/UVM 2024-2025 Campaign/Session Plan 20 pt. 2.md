@@ -271,6 +271,74 @@
 		- Finds them, everyone blacks out as they feel their life essence and sanity leave their body, but wake up in a memory 
 	- **Daliah memory**
 		- When she was younger, hanging out with friends, celebrating birthday.
+	- Scene change 
+		- Somedays, would open the window, sit on the sill, and gaze out onto the street, listen to the bird, just watch life happen, it was comforting. I can’t hear, feel… anything. Can you?
+			- response
+		- The Far Realm, the GOO’s eating my all, I feel the emptiness, I try to fill it with memories, they keep taking it away
+			- response (can tell they are illusions)
+		- What is real anymore? Me saving your life? The me here speaking to you? The me dying?
+			- Response
+		- Pick your truth, we have time, here in this place there is time.
+			- Response
+		- This is my unit in Waterdeep, remember? I made so many mistakes… did horrid things, but here, back then, they never mattered
+		- Gave myself one more chance, and you stripped me of it, Why?
+		- I had to, I didn’t want to join them, I was forced, you saw what I became because of them, you saw what I’ve lost… I know what I did, know the price I paid. What you dont know is how sorry I am, how much it hur— disappears.
+	- Scene change and a Flash back, **describe room change**
+		- see more memories, teenage years, bad influence 
+	- I lost didn’t I. Everything I did, the people I hurt, its meaningless, doesn’t matter at all
+	- We kneel to pick up the broken pieces of life, assemble the and seek a whole new meaning
+	- Im sorry, there’s something that I
+	- **Scene change, Mark and Daliah**
+		- You gotta be fucking with me. Not going anywhere without you. Making me leave my home and friends? Everything worth a a damn to me
+		- Mark: What’s ahead is important, worth so much more
+		- Hard pass
+		- Mark: Think, when the peacekeepers roll up here, what happens to your people who trust and care about you? They know everything. I am your one chance at keeping you safe, your friends safe. Or sure, let them get hurt
+		- Blackmail is your play? You don’t know me enough
+		- Mark: But I know your archetype and know your answer. Just haven’t admitted yourself to it yet
+	- **Room Change**
+		- I should have looked to the past to learn about lessons of lost that kept on repeating. Ive mad my mistakes, to many to count
+		- Dont know how to give up, and look where that got me
+		- Is it true we die this way, our memories confront us?
+		- Thank you, ill keep this moment as this memory, just one… back home, a friend at my side… before it all goes dark for one last second ill know I wasn’t alone
+		- The core look for me there and help me one last time
+	- **Dead GOO, get to the core**
+		- Mark: “Do you read me”
+		- Mark: Finally, the communication lockdown as been lifted, headed to you know, is Daliah with you?
+			- Response
+		- Mark: Good, take care of her, ill be there shortly, we will save her
+	- **Find Daliah slumped over in the core chamber**
+		- Daliah: its good, your… here, second chance, never really got it did I.
+		- Dallas: The Seelie court, they’ll never let me go… Im fading…. Help me out? I tired on my own and I couldn’t. Kill me… not going back. It’s too late for me… the far realm, has almost fully taken me. Dying is my only hope, only way out
+	- **CHOICE PONR**
+		- **If Kill**, **look to cyberpunk**
+			- here
+		- **If not**,
+			- Daliah: You dont understand. I need to die, it’s the only way, cant live in this hell. Your leaving me to a fate worse than death
+			- Mark: Daliah! It’ll be alright, it’ll be over soon, you’ll get some rest.
+		- **Scene fades black and cuts to the party in a convoy transport with Daliah and Mark**
+		- Mark: Looks troubled
+			- Prompt
+		- Mark: We did the right thing. We’ll get her help. But I can’t. Cant help stop seeing the same day, over and over again, when she left waterdeep with me after I recruited her.  she refuses to look back. She said seems like you saved me life. She didn’t believe it. I can hear she didn’t believe it. No tears or anything. Would she say the same now?
+		- Best specialists work for us, we’ll find a way
+		- Agent directs the group. 
+		- Mark gets out the car. Tells the group to pick up Daliah. Agents tell them to put her down on the stretcher. They tranquilizer her. A flying car lands, Titania steps out.
+		- Titania: “dont worry dalian, this’ll be over soon we will help.” **(Agents Wheel her away)**
+		- Titania: “Congratulations, you did good work. You risked your life to help me. To help our nation. Merits recognition. Medal of Honor.”
+		- I appreciate your help it wont be forgotten. 
+			- **Depending on responses**
+			- (She’s in pain and suffering. Ive seen too much death on the side of life. I know she will have a change of heart)
+			- (Your actual compensation will be more practical. Mark will fill you in)
+			- (Mention against security demands to talk to Daliah again)
+		- Talk to Mark again, looking at the medics take her into a helicopter: “she asked me one time… if id be by her side if she ever fucked up. Said I wouldn’t miss it for the universe. She smiled. She shook her head I could tell she wasn’t buying it, then she dropped this bomb. “Lost all that were close to me when you recruited me. Now dont you become my enemy thats all I request. I wonder now if she was right not to believe me or if I kept my promise in the end”
+			- Response
+		- “The medal they offered you… Daliah got the same one, right after her first op”
+			- Response
+		- “She gave it to a homeless man, guy just pinned it to his jacket like it was nothing and asked for spare change”
+		- “Dammit, just, Damn”
+			- (Appropriate response)
+		- Listen. I need a few days to put together what we promised you. I trust that it wont be an issue?
+			- (Walks to his car): Your going home Daliah, ill see you soon
+
 
 950
 

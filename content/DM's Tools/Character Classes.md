@@ -1,3 +1,7 @@
+---
+tags: [DMs_Tools]
+---
+
 #### Base Classes
 - Artificer
 - Barbarian 
@@ -38,3 +42,4 @@
 - Zodiac
 #### Affiliated Links
 [[Magic System]]
+ 

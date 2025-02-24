@@ -21,5 +21,5 @@ tags: [DMs_Tools]
 - Variable Spell save DC
 - "Quantum Zombies or Rakghouls"
 - Small Narrative reasons to empower enemies
-
+ 
 

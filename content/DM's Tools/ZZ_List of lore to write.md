@@ -17,4 +17,4 @@ Tarrochi - vulpin - girl
 Trainer (TBD) - 
 Warden (TBD) - 
 Witch - Wechslekind - lady or dude
-
+ 

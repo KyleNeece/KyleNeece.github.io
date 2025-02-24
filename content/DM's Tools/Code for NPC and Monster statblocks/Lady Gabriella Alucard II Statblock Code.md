@@ -8,7 +8,7 @@ type: Vampire
 subtype: Gunslinger
 alignment: Neutral Evil  
 ac: 17
-hp: 
+hp: 170
 hit_dice: 17d8
 speed: 30
 stats: [18, 22, 20, 14, 16, 20]

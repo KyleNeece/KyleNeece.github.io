@@ -1,6 +1,7 @@
 ---
 tags: [DMs_Tools]
 ---
+
 - go to obsidian TTRPG tutorials.com
 - go to leaflet and get to code 
 - paste it into note 
@@ -16,3 +17,4 @@ Fantasy content generator should also be set up as well
 aprils automatic timeline
 
 media editing and making soundboard 
+ 
