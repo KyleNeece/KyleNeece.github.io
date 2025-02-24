@@ -41,7 +41,8 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
  > 
  > Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until he connected with new adventurer through their soul.
 ###### Recruitment
-Azriel was never formerly inducted into the military force, but instead attended the academy. He became a Peacekeeper after Arangol was finally defeated.
+ > [!Warning]- Spoilers Ahead
+ > Azriel was never formerly inducted into the military force, but instead attended the academy. He became a Peacekeeper after Arangol was finally defeated.
 ##### Abilities  
 Tartarus was one of the strongest monsters in existence. Azriel was/is a level 20 Abyssal Runekeeper with a few epic boons 
 
