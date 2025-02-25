@@ -24,7 +24,73 @@ A few months after the hunt, Jaloop stayed in Sigil to study under [[Olivia Bird
 ###### Recruitment
 Jaloop joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a A-Rank peacekeeper
 ##### Abilities  
-Jaloop is a level 8 College of Lore Halfling Bard
+Jaloop is a level 10 College of Lore Halfling Bard
+```statblock
+layout: Basic 5e Layout
+image: Jaloop.Png
+name: Jaloop
+size: Small 
+type: Lightfoot Halfling
+subtype: Bard
+alignment: Neutral Good
+ac: 16
+hp: 63
+hit_dice: 10d8
+speed: 25
+stats: [11, 16, 13, 10, 12, 20]
+fage_stats: 
+saves:
+  - Strength: + 0
+  - Dexterity: + 7
+  - Constitution: + 1
+  - Intelligence: + 0
+  - Wisdom: + 1 
+  - Charisma: + 9
+skillsaves:
+  - Acrobatics: + 11
+  - Insight: + 9
+  - Perception: + 5
+  - Performance: + 13
+  - Persuasion: + 13
+  - Stealth: + 7
+senses: Passive Perception 15
+languages: Common, Infernal
+cr: 10
+traits:
+  - name: Jack of All Trades
+    desc: Add half proficiency bonus to skills you aren't proficient in 
+  - name: Song of Rest
+    desc: If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d8 hit points 
+  - name: Lucky
+    desc: When you roll a 1 on a d20 checl, reroll dice and must use new roll
+  - name: Brave
+    desc: adv on saves vs frightened
+  - Name: Naturally Stealthy
+    desc: You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+spells:
+  - +9 Spell Attack Bonus, Spell Save DC17
+  - Cantrips: Minor Illusion, Vicious Mockery, Prestidigitation, Encode Thoughts 
+  - 1st level: Charm Person, Healing Word, Silvery Barbs 1x free/long rest, Disguise Self 1x/long rest
+  - 2nd level: Aid, Suggestion, Heat Metal, Misty Step 1x free/long rest
+  - 3rd level: Hypnotic Pattern, Motivational Speech, Leomund's Tiny Hut, Counterspell, Call Lightning 
+  - 4th level: Phantasmal Killer, Ego Whip, Greater Invisability
+  - 5th level: Animate Objects, Mass Cure Wound, Legend Lore
+actions:
+  - name: Dagger
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 1d4+ 3 Slashing"
+  - name: Hand Crossbow
+    desc: "Ranged Weapon Attack: +13 to hit, ranged 30/120 ft., one target. Hit: 1d6+3 Piercing"
+  - name: Countercharm
+    desc: As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required) 
+bonus_actions:
+  - name: Bardic Inspiration
+    desc: As a bonus action, a creature (other than you) within 60 ft. that can hear you gains an inspiration die (1d10). For 10 minutes, the creature can add it to one ability check, attack roll, or saving throw. This can be added after seeing the roll, but before knowing the outcome. 5x/rest
+  - name: Bang Fonn
+    desc: Each allied creature within 15 feet gains bardic inspiration. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. 2x/long rest
+reactions:
+  - name: Cutting Words
+    desc:  As a reaction when a creature (that's not immune to being charmed) you can see within 60 ft. makes an attack roll, ability check, or damage roll, you can expend one use of Bardic Inspiration, roll the die, and subtract the number from the creature's roll. You can do so after the roll but before knowing the result.
+```
 
 #Hero/Peacekeeper
 #Elf/Druid/Circle_of_Stars
