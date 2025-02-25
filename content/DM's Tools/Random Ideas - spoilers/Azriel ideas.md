@@ -51,7 +51,7 @@ Runes: 
 - Sverd
 - **Goblin** - 3
 - Gromyok
-- pvuti
+- pvuti or kon
 - shaarat
 - **Infernal** - 6
 - Dyweiur

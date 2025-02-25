@@ -54,9 +54,9 @@ size: Meduim
 type: Nephilim
 subtype: Runekeeper
 alignment: Neutral Good
-ac: 
-hp: 
-hit_dice: 
+ac: 18
+hp: 187
+hit_dice: 20d8
 speed: 
 stats: [20, 16, 20, 24, 20, 20]
 fage_stats: 

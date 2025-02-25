@@ -7,7 +7,7 @@ Ludwig's Sidearm's are [[Ludwig Van Scythe]]'s modified Gun Rapier and Handcanno
 Ludwig's Rapier and Handcannon are +3 weapons 
 - The +3 Rapier deals 1d8 Piercing + 2d6 Radiant Damage
 	- As a bonus action, the rapier can turn into gun mode, also known as Lion. The Lion deals the same damage just at range
-	- The rapier crits on a 18-20
+	- The rapier crits on a 19-20
 	- If the rapier or lion crits, target makes a constitution dc18, on a fail, the target instantly dies 
 - The Jackal is a +3 hand cannon
 	- The Jackal deals 1d8 piercing + 2d6 Fire Damage 
