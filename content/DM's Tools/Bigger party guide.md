@@ -23,3 +23,4 @@ tags: [DMs_Tools]
 - Small Narrative reasons to empower enemies
  
 
+Monster motivations, action economy and terrain 
