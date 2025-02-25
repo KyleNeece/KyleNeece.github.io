@@ -54,7 +54,7 @@ skillsaves:
   - Persuasion: + 13
   - Stealth: + 7
 senses: Passive Perception 15
-languages: Common, Infernal
+languages: Common, Halfling
 cr: 10
 traits:
   - name: Jack of All Trades
