@@ -148,6 +148,23 @@
 			- Mark: "I'll be in touch, you'd do well to forget her and all of mess this entirely."
 				- Party leaves facility with Peacekeepers that stopped the fighting. Who will ask what they were doing
 					- Fades to black, end credit song 
+	- **Scene goes black, cuts to party talking with Mark near his car**
+		- Mark: Nick of time, minutes before you would have found my tracks
+			- Response
+		- Mark: We might've just missed each other. Maybe I was hoping for that I don't know... I am needed for the Seelie Court, or so I am told
+			- response
+		- Mark: I need time to think things through. Lots of things, lots of time
+			- response 
+		- Mark: I did drag you out here for a reason... I can't sleep, trying to break things down. Keep asking myself and.. I am not sure, maybe you do. Daliah, up there in the Astral Plane port, raised you on the call but not me, why?
+			- response
+		- Mark: "was ordered to hunt her but helped her instead. Want proof of loyalty, no better proof then that" (or other response)
+			- response 
+		- Mark: "contact would have been unwise, so... impossible. Played the role I had to"
+			- response
+		- Mark: "Well as I saw it I thought I was protecting her" or different response 
+			- response
+		- Mark: "Time for me to head out. And honestly,  appreciated the talk."
+		- Mark: "Await contact, I'll ring you when the cure is ready"
 - **END OF ACT 2**
 
 ###### **If Side With Mark**
@@ -309,10 +326,67 @@
 	- **Find Daliah slumped over in the core chamber**
 		- Daliah: its good, your… here, second chance, never really got it did I.
 		- Dallas: The Seelie court, they’ll never let me go… Im fading…. Help me out? I tired on my own and I couldn’t. Kill me… not going back. It’s too late for me… the far realm, has almost fully taken me. Dying is my only hope, only way out
+
+
 	- **CHOICE PONR**
-		- **If Kill**, **look to cyberpunk**
-			- here
-		- **If not**,
+		- **If Kill**
+		- Mark: Daliah!... She, she really saw no other way
+		- **Scene fades black and cuts to the party in a convoy transport with Daliah and Mark**
+			- Mark: Looks troubled
+				- Prompt
+			- Mark: I think Im out of words for you. (Its your fault this all happened)
+				- Response
+			- (Mark: I'd like to think you are)
+			- "It should have been me down there with Daliah instead of you."
+				- Response 
+			- I should've looker her in the eye, heard her say she wanted out of life. I could have changed her mind 
+				- Response 
+			- ("Clearly")
+			- **Directed by Agents to step out of vehicle**
+			- **Agent says to take the body out the back, puts it on a wheeler stretcher**
+			- Agent: "President wants a word with you" (they wheel her off)
+			- Talk to president:
+				- "Surely any blame here lays with you"
+					- Response
+				- "I didn't let that girl drag me around the Metropolis just to have here die. You know that don't you?"
+					- Response
+				- "Death is never the answer. I've seen too much of it. If I were in her shoes I would've choose life"
+					- Response
+				- "Do you suggest that your failure is my fault"
+					- Response
+				- "You'd be wise to remember who you are speaking too... but I can't deny that you tired to help her. Thank you for your service to the court"
+					- Response 
+				- "You were promised assistance for bringing Daliah alive. If you failed to deliver on your end why should we deliver on ours? In fact we should charge you for the harm you caused against our court, but we aren't petty, here's a little compensation"
+			- Go back to Mark: 
+				- Talk to Mark again, looking at the medics take her into a helicopter: “she asked me one time… if id be by her side if she ever fucked up. Said I wouldn’t miss it for the universe. She smiled. She shook her head I could tell she wasn’t buying it, then she dropped this bomb. “Lost all that were close to me when you recruited me. Now dont you become my enemy thats all I request. Was I an enemy, or a friend? Fuck.”
+					- Response
+				- “At least one of us is sure of something. I failed her”
+					- Response
+				- “Mhm”
+				- “Think its time to head to wherever you plan to go next”
+					- (Appropriate response)
+				- (Walks to his car): Daliah... for all its worth I hope you are at peace
+	- **Scene goes black, cuts to party talking with Mark**
+		- Grab a seat, we need to talk (in Sigil)
+			- Response
+		- "I'm gonna come out and say it. You faield as a Seelie Court operative. You failed me, Freya, Titania, hell even yourselves"
+			- Response
+		- "In spite of that, here we, talking and watching a siegeball pickup game, Do you know why?"
+			- Response 
+		- "I can't help you, (and have nothing to apologize for either)"
+		- "But I wanted to tell you in person, you were all right"
+			- Response 
+		- "I almost lost everything because of you. I lost partners, friends, the trusts of my superiors. Everything I believed in, built my life on, all gone within a second"
+		- "All because I believed you'd help me save Daliah"
+			- Response 
+		- "("Because I do. but") given all that happened... I am starting to see the other side of all this shit."
+		- "I got nothing to lose now. I might be able to gain something for once, though. All because of you. Or thanks to you. Not sure what is more fitting"
+		- "The Court still has a spot for me, albeit a lower tier of job. But, question is, do I take this job? or should I seek something else"
+			- Response
+		- "I don't know what I'll do, and I'm alright with that. Forget how that felt, but I really fucking missed it, so thanks" or different response (like what do you suggest)
+
+
+		- **If not kill Daliah**,
 			- Daliah: You dont understand. I need to die, it’s the only way, cant live in this hell. Your leaving me to a fate worse than death
 			- Mark: Daliah! It’ll be alright, it’ll be over soon, you’ll get some rest.
 		- **Scene fades black and cuts to the party in a convoy transport with Daliah and Mark**
@@ -338,8 +412,19 @@
 			- (Appropriate response)
 		- Listen. I need a few days to put together what we promised you. I trust that it wont be an issue?
 			- (Walks to his car): Your going home Daliah, ill see you soon
-
-
-950
-
-83347 reed
+	-  **Scene goes black, cuts to party talking with Mark**
+		- "I called you cause I never got the chance to thank you. We did what we had to. Daliah will live, so good work."
+			- Response
+		- "Daliah, the changes in her nervous system, full breakdown - they were too far gone. The orb didn't work, now its in storage, being kept for you all. We had to resort to alternative means but Daliah will live. She will probably return to active duty albeit it as a puppet. "
+			- Response
+		- "We helped her. As long as she's alive thats what matters"
+			- Response 
+		- (Im with you on that) 
+		- "Daliah is a Seelie court agent in critical condition in a Seelie Court clinic - in the care of top specialists. Nothing more I can do for her its out of my hands"
+			- response
+		- "The Queen has summoned me back to the court, I will be heading there soon"
+			- response 
+		- (respond) " You got to find your place in the world too, before its too late. Just not at any price -- you know how it ends"
+		- "Ill drop you a contact when the cure is ready. Take care. Lay back a little"
+- **END OF ACT 2**
+ 
