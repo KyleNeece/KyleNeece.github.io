@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Aeris Aryndor is a Circle of Stars Half-Elf Druid and [[Peacekeeper Force]] (played by Jackson R)
 ##### Appearance 
@@ -28,7 +32,3 @@ The party was also assigned a new regiment leader, [[Emily Sigiliph]]. The party
 Aeris Aryndor joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
 Aeris Aryndor is a level 8 Circle of Stars Druid
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

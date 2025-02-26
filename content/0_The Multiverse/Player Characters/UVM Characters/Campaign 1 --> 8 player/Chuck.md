@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Chuck is a Heart of the Parasitic Rune Furbolg Odic and a [[Peacekeeper Force]] (played by Chicory)
 ##### Appearance 
@@ -25,7 +29,3 @@ A few months after the hunt, Chuck stayed in Sigil to study under [[Maui Rockhea
 Chuck joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Aeris Aryndor]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
 Chuck is a level 8 Heart of the Parasitic Rune Furbolg Odic 
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

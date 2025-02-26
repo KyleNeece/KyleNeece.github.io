@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Otto, The Forgotten, is a Hexblade Human Warlock and [[Peacekeeper Force]] (played by Matt F)
 ##### Appearance 
@@ -97,7 +101,3 @@ reactions:
 - [[Pearl of Power]]
 - [[Prosthetic Limb]]
 - [[Custom Hunter's Trench Coat]]
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

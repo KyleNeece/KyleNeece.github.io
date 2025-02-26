@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 The Equilibrium is a Way of the Open Hand Dwarf Monk and a [[Peacekeeper Force]] (played by Isaac W)
 ##### Appearance 
@@ -26,7 +30,3 @@ A few months after the hunt, Equilibrium stayed in Sigil and trained at a Monk m
 Equilibrium joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Jaloop]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
 The Equilibrium joined the peacekeeper for willingly and passed the trials along with the other 7. He is currently a B-Rank peacekeeper and a level 8 Way of the Open Hand Monk
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

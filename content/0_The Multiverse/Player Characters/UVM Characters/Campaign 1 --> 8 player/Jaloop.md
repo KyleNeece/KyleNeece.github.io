@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Jaloop is a College of Lore Halfling Bard and a [[Peacekeeper Force]] (played by Isaac S)
 ##### Appearance 
@@ -91,7 +95,3 @@ reactions:
   - name: Cutting Words
     desc:  As a reaction when a creature (that's not immune to being charmed) you can see within 60 ft. makes an attack roll, ability check, or damage roll, you can expend one use of Bardic Inspiration, roll the die, and subtract the number from the creature's roll. You can do so after the roll but before knowing the result.
 ```
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Monty is a Jotun Dialect Stoneback Wukong Runekeeper and a [[Peacekeeper Force]] (played by Ben)
 ##### Appearance 
@@ -120,8 +124,4 @@ reactions:
 - Screeve
 - Her
 
-**See Runekeeper PDF when referencing different Rune's abilities**  ![[1273526-Runekeeper_Class__Magic_System_v1_3.pdf]]
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC
+**See Runekeeper PDF when referencing different Rune's abilities**  ![[RuneKeeper.pdf]]

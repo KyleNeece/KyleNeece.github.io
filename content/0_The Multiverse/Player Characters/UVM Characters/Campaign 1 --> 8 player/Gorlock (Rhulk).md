@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Gorlock is a Path of the Ragemage Minotaur Barbarian (played by Will P) and currently allied with the [[Peacekeeper Force]] force
 ##### Appearance 
@@ -19,7 +23,3 @@ A few months after the hunt, Rhulk stayed in Sigil to study under [[Maui Rockhea
 Rhulk never officially joined the peacekeeper force, but they had to measure his power anyway in order for him to enter their base of operations. He was given the immeasurable rank, similar to that of [[Jackson Felwinter]] and [[Azriel Darkstar]]. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Chuck]], and [[Equilibrium]]. 
 ##### Abilities  
 Rhulk is a level 8 Path of the Ragemage Minotaur Barbarian 
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

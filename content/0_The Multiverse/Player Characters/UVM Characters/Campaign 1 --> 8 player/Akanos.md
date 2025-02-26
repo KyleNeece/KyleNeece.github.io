@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Akanos is a Arcane Trickster Tiefling Rogue and a [[Peacekeeper Force]] (played by Djani)
 ##### Appearance 
@@ -25,7 +29,3 @@ A few months after the hunt, Akanos continued his peacekeeper duty, becoming a s
 Akanos joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Chuck]], [[Aeris Aryndor]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
 Akanos is a level 8 Arcane Trickster Tiefling Rogue 
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC

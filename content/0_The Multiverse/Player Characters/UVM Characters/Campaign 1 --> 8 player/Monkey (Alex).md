@@ -1,3 +1,7 @@
+---
+tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
+---
+
 ##### Brief Summary  
 Monkey (Alex) is a Dog and Hound Riverback Wukong Pugilist and [[Peacekeeper Force]] (played by Eli)
 ##### Appearance 
@@ -40,7 +44,3 @@ After it ends, gain 2 levels of exhaustion and the dog re-appears
 **Magic items**
 - [[Fist and Collar]]
 - Eldritch Claw Tattoo
-
-#Hero/Peacekeeper
-#Elf/Druid/Circle_of_Stars
-#Felwinter_Saga_Cour_3/PC
