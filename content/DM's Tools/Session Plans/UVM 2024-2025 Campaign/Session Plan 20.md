@@ -68,6 +68,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 - Daliah will briefly contact group, asking what happened after she left. Says that shes thankful and thought she was done when Kindrack got her but the party is helping and shes grateful, says they are in it together
 	- Freya contacts them, asks about their disease and sickness, asks if it will fuck mission, Freya drops her backstory
 
+
 **Next Part Start here for UVM 2024-25**
 
 
