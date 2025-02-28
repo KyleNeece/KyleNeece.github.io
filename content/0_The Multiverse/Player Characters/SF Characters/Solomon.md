@@ -1,5 +1,5 @@
 ##### Brief Summary  
-Solomon is a War Domain Leonin Cleric and a [[Peacekeeper Force]] (played by Noah R) test
+Solomon is a War Domain Leonin Cleric and a [[Peacekeeper Force]] (played by Noah R) 
 ##### Appearance 
 
 ##### Personality 
