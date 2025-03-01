@@ -7,8 +7,5 @@ The Landlord is a simulacrum who serves as [[Arangol]]'s main research and intel
 ##### Appearance
 ![[The Landlord.png]]
 ##### Brief History/Timeline   
-The Landlord is a simulacrum that is placed on every plane Arangol has a base of operations on. 
-
-Known Locations: 
-- [[Shadowfell]]
+The Landlord was one of Arangol's main research heads and brought the development of [[Hostwalkers]] and [[Necrowalkers]]. 
  
