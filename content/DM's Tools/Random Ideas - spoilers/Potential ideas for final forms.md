@@ -12,4 +12,3 @@ Jackson - by father or mother?, could also do “sponsor” or from the amorphou
 Djani - his dad 
 Chiccory - dropped out but maybe unlocks later via ?
 Will - unlock inner memories
- 
