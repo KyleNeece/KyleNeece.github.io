@@ -1,6 +1,6 @@
 See [[Ludwig Van Scythe]]
 ```statblock
-layout: Basic 5e Layout
+layout: Basic 5e Layout Copy
 image: Ludwig Van Scythe.PNG
 name: Ludwig Van Scythe
 size: Medium

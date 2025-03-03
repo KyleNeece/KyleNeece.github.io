@@ -1,6 +1,6 @@
 See [[Lady Gabriella Alucard II]]
 ```statblock
-layout: Basic 5e Layout
+layout: Basic 5e Layout Copy
 image: Lady Gabriella Alucard II.png 
 name: Lady Gabriella Alucard II
 size: Meduim 

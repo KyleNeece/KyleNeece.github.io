@@ -2,7 +2,7 @@
 tags: [DMs_Tools]
 ---
 
-Out of combat initiative 
+- Out of combat initiative 
 	- Helps with people who may not participate as much due to spotlight distribution
 - Roll a hit die health encounters 
 	- Sometimes I'll ask you to roll your hit die for the day. The number you roll = the number of hits you can take for the day. Damage calculations work differently, but I can help you with those in session 
