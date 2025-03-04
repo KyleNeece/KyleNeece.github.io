@@ -1,0 +1,2 @@
+Sigil is a floating city thats coordinates is in the Center of Multiverse. It is the home of the once [[Peacekeeper Academy]], and is the current location of the [[Peacekeeper Main Base of Operations]] and [[Peacekeeper Force]]. 
+![[Sigil.png]]
