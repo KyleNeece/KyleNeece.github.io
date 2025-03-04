@@ -1,1 +1,0 @@
-![[Arangol.png]]
