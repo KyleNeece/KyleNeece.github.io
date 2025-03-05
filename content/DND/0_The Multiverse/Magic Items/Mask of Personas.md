@@ -1,7 +1,7 @@
 The Mask of Personas is [[Olivia Birdsong]]'s signature magic mask
 ###### Abilities 
 Mask of Many Persona's gives a +1 to your proficiency bonus
-- Targets of your spells that inflict charm have disadvantage on the saving throw. This effect applies only if the spell has a somatic or a material component.
+- Targets of your spells that inflict charm have disadvantage on the saving throw. This effect applies only if the spell has a somatic or a material component
 - You gain an extra use of bardic inspiration
 - As an action outside of combat, the user can adopt a mask, each mask gives a different set of abilities depending on the mask chosen. You appearance changes to the corresponding mask. You gain a number of temp hp equal to (twice your bard level) for as long as you have the temporary hp or when you deplete it as a bonus action, you gain the following benefits associated with the mask you have chosen. You switch masks once per short rest or if you expend a bardic inspiration charge
 
