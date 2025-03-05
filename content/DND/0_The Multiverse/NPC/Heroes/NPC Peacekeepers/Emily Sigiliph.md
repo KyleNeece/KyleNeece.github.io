@@ -95,15 +95,11 @@ reactions:
     desc: When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 ```
 
-magic items
-
-random potions BA
 weapon necklace 
   - name: Weapon of Legends (similar to rod of mecurial form)
     desc: As a free action, the pen can transform into a various legendary weapons. (All are Vorpal, Weighs 9000 pounds)
-mantle of spell resistance 
 
-maybe another?
+
 
 imobolizing impalement
 desc: "Once per turn, you can make a weapon attack at disadvantage. On hit, the damage type changes to piercing and the target must make a atheltics check dc30 or else be restrained. The target can repeat the check each turn."

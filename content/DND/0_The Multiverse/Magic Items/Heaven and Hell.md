@@ -6,9 +6,8 @@ Heaven and Hell is [[Azriel Darkstar]]'s magical greatsword
 ###### Abilities 
 Heaven and Hell is a +3 weapon 
 - The +3 Greatsword deals 2d6 Slashing + 2d6 Fire Damage
-	- Minor property here
 	- **Unstoppable Lethality**: Heaven and Hell ignores resistances, crits on a 19-20 and acts as a Vorpal Sword and a Sword of Sharpness 
-	- **Master Runesword**: Can have a number of inscribed runes on it equal to your intelligence modifier, doesn't count against the number of runes you can have inscribed at a time. You can attune multiple runes to this weapon.
+	- **Master Runesword**: Can have a number of inscribed runes on it equal to your intelligence modifier, doesn't count against the number of runes you can have inscribed at a time. You can attune multiple runes to this weapon. Moreover, whenever you make a weapon attack on your turn, you can invoke a rune in place of the attack
 	- **Nephalem's Wrath**: Whenever you take the attack action, you may replace one of your attacks with a destructive and restorative wave of holy hellfire. This attack ignores immunities and resistances. Each hostile creature within a 30 foot cone must make a Wisdom save. On a fail each hostile creature takes 4d8 Radiant and 4d8 Fire damage and are frightened or half as much damage and aren't frightened on a success. Each ally within the cone regains 4d8 hit points. Once you use this ability you cannot use it again until you finish a long rest or you expend health 
 	- **Siphoning Power**: As a bonus action on your turn, you can sacrifice your ability to heal for greater combat prowess. You can use this a number of times equal to your intelligence modifier and regain all uses on a long rest. For one minute or if you end this effect early as a bonus action you gain the following benefits: 
 		- You speed increases by 10 feet 

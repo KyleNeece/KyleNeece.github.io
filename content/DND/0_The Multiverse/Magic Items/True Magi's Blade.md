@@ -2,7 +2,7 @@
 tags: [Peacekeeper/Equipment]
 ---
 True Magi's Blade is [[Jackson Felwinter]]'s modified Energy BowBlade
-
+###### Abilities 
 True Magi's Blade is a +3 weapon that can switch between a Finesse Longsword and a Longbow
 - The +3 Weapon deals 1d8 + 2d6 Force Damage
 	- **Modular Energy**: The sword's energy blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
