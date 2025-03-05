@@ -27,7 +27,7 @@ After the battle, Olivia's mental state was too shattered to the point where she
  > [!Warning]- Spoilers Ahead
  > Per request of Jackson Felwinter, Olivia's trauma, mind and heart were fixed, with the downside of the Pamnesia spell
 ##### Abilities  
-Olivia is a level 16 College of Eloquence Bard (19 + 2 spells)
+Olivia is a level 16 College of Eloquence Bard 
 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -37,12 +37,12 @@ size: Meduim
 type: Elf
 subtype: Bard
 alignment: Neutral Good
-ac: 15
+ac: 16
 hp: 100
 hit_dice: 16d8
 speed: 30
 stats: [8, 16, 14, 12, 16, 22]
-fage_stats: 
+fage_stats:
 saves:
   - Strength: -1
   - Dexterity: +8
@@ -65,17 +65,17 @@ languages: Common, Elven, Sylvan
 cr: 16
 spells: 
   - Cantrips: Vicious Mockery, Mage Hand, Minor Illusion, Prestidigitation, Dancing Lights
-  - 1st level: Charm Person, Comprehend Languages, Healing Word
+  - 1st level: Command, Silvery Barbs, Healing Word
   - 2nd level: Hold Person, Enhance Abillity, Suggestion, Pass without trace
-  - 3rd level: Hypnotic Pattern, Counterspell, Mass Healing Word
-  - 4th level: Charm Monster, Find Greater Steed
+  - 3rd level: Hypnotic Pattern, Counterspell, Leomund's Tiny Hut
+  - 4th level: Dimension Door, Find Greater Steed
   - 5th level: Hold Monster, Animate Objects
   - 6th level: Otto's Irresistible Dance, Mass Suggestion
   - 7th level: Force Cage, Simulacrum
   - 8th level: Glibness 
 traits:
   - name: Song of Rest
-    desc: Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d10 hit points.
+    desc: You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d10 hit points.
   - name: Silver Tongue
     desc: When making a Persuasion or Deception check, you can treat a d20 roll of 9 or lower as a 10.
 actions:
@@ -97,4 +97,3 @@ reactions:
     desc: When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses. 6x/Long rest
 ```
 
-Persona Masks signature item
