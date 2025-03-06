@@ -14,7 +14,7 @@ Monkey (Alex) is a Dog and Hound Riverback Wukong Pugilist and [[Peacekeeper For
 
 ##### Brief History/Timeline   
 ###### Adolescence
-When Monkey was young, Monkey loved to fight, it was his passion as it was a way to exercise and stay active within the deep forests of Zendikar. However, when he was finally old enough to understand that his father was abusing his mother, Monkey was strong enough to where he could face his father and protect his mother. Unknowing of his strength, Monkey killed his father, even though his intentions were to not to. Because of this, and his father being a higher up in their tribe, he was banished from his homeland and was stripped of his name. And sought a new life to live. He eventually stumbled upon a stray dog named dog, and since the two were vagabonds, they made a strong friendship very quickly. 
+When Monkey was young, Monkey loved to fight, it was his passion as it was a way to exercise and stay active within the deep forests of Zendikar. However, when he was finally old enough to understand that his father was abusing his mother, Monkey was strong enough to where he could face his father and protect his mother. Unknowing of his strength, Monkey killed his father, even though his intentions were to not to. Because of this, and his father being a higher up in their tribe, he was banished from his homeland and was stripped of his name. And sought a new life to live. He eventually stumbled upon a stray dog named dog (see [[Pugilist.pdf#page=9&selection=162,0,164,1|Hound Statblock and Reference]]), and since the two were vagabonds, they made a strong friendship very quickly. 
  > [!Warning]- Spoilers Here Click at Own Risk 
 > It was later found out that the dog was a manifestation of Alex's Willpower and raw strength, and it broke off from his body because his will to live was so strong
 ###### The Peacekeeper Trials Arc
@@ -34,7 +34,11 @@ At the workshop Gerald wanted to free them of the hunt, but before he could do s
 ###### Recruitment
 Monkey (Alex) joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Aeris Aryndor]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a A-Rank peacekeeper
 ##### Abilities  
-Monkey is a level 8 Riverback Wukong Dog and Hound Pugilist
+Monkey is a level 10 Riverback Wukong Dog and Hound Pugilist
+
+**Magic items**
+- [[Fist and Collar]]
+- [[Eldritch Claw Tattoo]]
 
 **Unique abilities:**
 - **Spiritual hound transformation:** As an action, you can spend all of your Moxie Points to take on a new form. Your Hound becomes an incorporeal spirit and is absorbed into Alex's soul temporarily. Alex's hair turns smoke grey and gold, his eyes turn red and his body steams
@@ -44,6 +48,4 @@ Monkey is a level 8 Riverback Wukong Dog and Hound Pugilist
 		- Can use moxie abilities without spending moxie points and you gain an additional bonus action that can only be used for moxie features
 After it ends, gain 2 levels of exhaustion and the dog re-appears 
 
-**Magic items**
-- [[Fist and Collar]]
-- Eldritch Claw Tattoo
+![[Pugilist.pdf]]

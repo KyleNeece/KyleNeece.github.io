@@ -206,6 +206,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 			- Daliah needs a moment to disarm the artifact, which gives us time to chat 
 				- **Ask the specific questions according to profiles**
 					- **Come up with questions and responses here**
+						- Have profile up when doing this
 		- **Prompts questions about their night in the emerald pearl**
 		- Freya mention the Blackjack table, lose everything 
 			- Kindrack mentions he remembers them 
@@ -229,7 +230,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 		- Kindrack then asks about a old working spot, a Izzet arms dealer in ravnica, how did he manage to get away 
 			- **Give answer here**
 	- Daliah says the artifact is ready
-		- Follow Daliah downstaris (**describe scene**)
+		- Follow Daliah downstaris (**describe scene**) --> downstairs in a open lab area
 		- **(In illusionary form)** She has a plan for when we secure the orb, will magical shut down the building, override all defense systems, make the building hostile and slip out. When Kindrack dies we haul ass. Daliah is blocking access to this room and Mark and Freya are minimizing risk and withdrawing early via the route. I have the plan, checked stadium blueprints and will know where to run. We are in this together
 		- **Daliah begins acting again and talking about the orb**
 		- Daliah begins procedure, in illusion form says her many thanks again, before beginning the process

@@ -42,7 +42,7 @@ Previous: [[Session Plan 20]]
 					- Talk to guard
 						- Please look at the Scrying eye
 	- "Now get to the terminal, no eyes on you"
-		- **Describe scene**
+		- **Describe scene** --> large terminal, enter inside, security gate, multiple terminals and one is under construction
 			- "Disguise as maintenance, wear their uniform maybe"
 				- Go to the roof, construction site elevator 
 					- **Describe rooms**, few hallways, a larger construction room look to be for storing aircrafts, employee office
@@ -83,7 +83,7 @@ Previous: [[Session Plan 20]]
 	- **Make it across roof to elevator**
 		- Daliah: "Civilians are being evacuated, Seelie going in with all they got. Train ride to launchpad, thats all. Just need to blast through the security measures first"
 - **Hears fighting, describe scene**
-	- "This is the peacekeeper force please stand down"
+	- "This is the peacekeeper force please stand down, we don't want anyone to die today, we just want order and you are breaking universal law"
 	- Peacekeepers versus security versus Seelie court (explain why three way. Peacekeepers trying to settle both parties down, guards trying to protect civilians, Seelie court trying to brute force their way through the port to rip it apart and find Daliah), Civilians are caught in the crossfire
 		- Get to the Selune terminal, run through crossfire. 
 			- Make it too ransacked lounge, via door. 
@@ -91,13 +91,13 @@ Previous: [[Session Plan 20]]
 			- "It was supposed to be different, smoother,  not far off now though, thats all that matters right? hehehe, (vomits blood)"
 			- Anyother dialogue response from party 
 			- "I'll get my shit together, Help me up?"
-	- **Upon leave, describe scene, ship shooting at them, have to sprint up stairs to next location** 
-- **Describe scene**, stairs, a terminal room and walkways and flat ground
+	- **Upon leave, describe scene, ship shooting at them, have to sprint up stairs to next location** --> in terminal, escalator, in a airport shop, big window
+- **Describe scene**, stairs, a terminal room in the center, multiple walkways and walkways and flat ground
 	- Its a trap, have to get to terminal and defeat all enemies or occupy them
 	- Daliah limps to the terminal, "Port control, heading there, gonna bring the train to this station, watch for threats"
 		- Wave combat encounter, vehicles too
 	- Daliah: "Its done, get back in" (can only do so after party isn't threatened or engaged (condition))
-	- "We are fucked if I do reach into Abberant magic and the Far Realm, beyond the weave, no other way"
+	- "We are fucked, I have to reach into Abberant magic and the Far Realm, beyond the weave, no other way"
 		- "I've magically attuned myself to you guys to share this power, ready?"
 			- **Whole party can reality warp**
 				- Vehicle crashes into terminal area, hurts Daliah and party
@@ -121,7 +121,7 @@ Previous: [[Session Plan 20]]
 	- "If you wanted to you could call Mark."
 		- Response
 	- "Well nice to drop in and talk, you should wake her though or be an ass and call Mark. And here (conjure a single shot gun with logic slash) if anything comes up, use this, one time use make it count, only as a last resort"
-	- **Describe scene while character walking**
+	- **Describe scene while character walking** --> on a run way, bridge to a pod
 	- **When carrying her, Mark intercepts them, set hit dice to 1**
 		- "Hold it right there, lets talk, put her down"
 			- Response 
@@ -187,7 +187,7 @@ Previous: [[Session Plan 20]]
 			- "Good luck with the Op. As for the chick, she bought a one way ticket to Far Realm hell, tried to play everyone and cut the breaks. Draggin us along now."
 	- Meet with Mark and go over the plan 
 		- A few friends of mine set up the equipment already. I went through the intel you gave me. It won't be easy, the reason they are called Peacekeepers is because for the most part the force is able to eliminate any sized hostile threats anywhere. Best chance we got is stopping them in this area. Minimal traffic, vantage points, optimal."
-			- **Describe scene and some of Mark's crewmates**
+			- **Describe scene and some of Mark's crewmates** --> rundown building but has decent living space, couch, etc.
 			- "They will come down the road, once in range, we hit them hard, neutralize all Peacekeeper operatives, grab Daliah and get her to an extract point at the Sigil square where the portals are. Here are details, speak to me when you are ready"
 			- **Hands a holodisc, going over the weaponry and traps**
 				- "Almost ready, just making sure our jammer calibration isn't too strong otherwise Daliah could.... I just hope we are not too late."
@@ -199,7 +199,7 @@ Previous: [[Session Plan 20]]
 					- "Your body language, did Daliah reach out to you?"
 						- (response accordingly) "Got it, everything ready, you ready? Move into position." 
 						- **Reminder to prompt to send cords to the lady**(skip time to evening)
-	- **Describe ambush scene**
+	- **Describe ambush scene** --> Multiple walk ways, they are intercepting a vehicle, set to go under bridge 
 		- Daliah calls through direct soul link "You guys, you there? No, not you, anyone but you."
 		- "I trusted you, but I won't, won't make the same mistake again, stay out of my way.... I am warning you."
 		- "You don't want to help me you break me out of this cage just to put me in another. So now I will regain control."
@@ -213,7 +213,7 @@ Previous: [[Session Plan 20]]
 		- **Mark**: "Fuck I'm hit, fucking shrapnel"
 			- (Party action and dialogue response)
 		- **Mark**: Go, follow her, I can patch myself up
-- **Party gets to broken down building, sprinkle dialogue along the way**
+- **Party gets to broken down building, sprinkle dialogue along the way** --> a hole in the wall, there is also a hole in the ground, platforming 
 	- Describe scene 
 	- Get to truck and describe the GOO magic residue
 	- **Mark**: see anything?
@@ -233,7 +233,7 @@ Previous: [[Session Plan 20]]
 			- "You, you still trust Mark... its more convenient yes? They lie to you... Your sinking, grasping for life as the flood consumes you. Mark, Queen Titania, their promises didn't help me."
 			- "Mark lives in a world in half truths that he fabricates"
 	- **Follow the magic traces**
-		- **Describe scene**
+		- **Describe scene** --> hallways with lots of empty rooms 
 		- Make it to a lift
 		- **Tartarus**: Chick cut out communication, or maybe woke something scary down there (stares at darkness), and here we are going back down into the heart of darkness. Please tell me you've got a plan
 			- Response
@@ -241,7 +241,7 @@ Previous: [[Session Plan 20]]
 		- "Wait guys, she's here, she's established a link with the Far Realm, maybe even a GOO, she's not alo-, wait, it don't feel so well"
 			- Begins to glitch then disappears
 	- **Daliah:** "No Mark, no Tartarus, nobody. All alone." 
-		- **Describe scene**
+		- **Describe scene** -->big empty room with lots of destroyed equipment, a large doorway blocked by debris
 	- Make their way through a vent system and a room, start seeing shit 
 	- **Convo of Daliah and Kindrack**
 		- "YOU FIRED A FUCKING MISSLE AT US THAT SUPPRESSED TITANIA'S POWERS, WASN'T THE DEAL, NOT EVEN CLOSE"
