@@ -46,6 +46,7 @@ Monkey is a level 10 Riverback Wukong Dog and Hound Pugilist
 		- Advantage on all attack rolls and strength checks 
 		- A bonus to all saving throws equal to strength modifier 
 		- Can use moxie abilities without spending moxie points and you gain an additional bonus action that can only be used for moxie features
+		- Speed is doubled
 After it ends, gain 2 levels of exhaustion and the dog re-appears 
 
 ![[Pugilist.pdf]]

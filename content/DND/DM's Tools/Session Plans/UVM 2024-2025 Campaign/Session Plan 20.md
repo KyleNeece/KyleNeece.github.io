@@ -118,21 +118,6 @@ Previous: [[Session Plan 18 (might be 19)]]
 - **Talk to Mark**
 	- Have party: Status report
 
-- Freya Calls:
-	- Meet me at the bar, kick back, take a breather. Already have one bottle open, the kind for special occasions. What do you say?
-		- Meet with Freya and have a fun little get together, purely platonic 
-			- Called for them to take my mind off the mission. Someone outside of the "fir". And not some total rando. Wanted to take my mind off the mission, not worry about being someone else for a second if that makes sense
-				- **What to talk about**
-					- Normal questions: 
-						- Who are you really? 
-						- What would you be if you weren't in the profession you are? 
-							- If prompted talk about acting more 
-						- Make a toast 
-						- **Dance for a little?**
-						- Final questions 
-			- Thank you, for being with me in a normal circumstance for a bit
-
-
 	- Call with Mark, who will direct them to a certain magic item store to get the one time use implants done (for **X** party members)
 	- Mark meets the party 
 		- Things in flux, situation changing fast, thought we should talk, here about Daliah 
@@ -167,6 +152,20 @@ Previous: [[Session Plan 18 (might be 19)]]
 				- Then we have Mark, him and I relate a little, if I hadn't died by Jackson Felwinter I would have continued to serve a power hungry neutral evil leader, and I would have lived and died by my principles, even if they were just an extension of an evil master like Arangol
 				- This is the tragedy, and someone's gonna play victim to the others intentions. Don't forget that when your standing over that orb and box
 					- You either let the nuke detonate somewhere away on her own terms, or you have a evil politician point the nuke at a specific target, which could also very well be the peacekeepers for revenge. And also, I am in your shoes, for every stupid decision you make, and I can't do anything about it. But As for who I trust and the choice considering what I just said, I don't have a fucking clue, that is for you to figure out. 
+
+Freya Calls:
+	- Meet me at the bar, kick back, take a breather. Already have one bottle open, the kind for special occasions. What do you say?
+		- Meet with Freya and have a fun little get together, purely platonic 
+			- Called for them to take my mind off the mission. Someone outside of the "fir". And not some total rando. Wanted to take my mind off the mission, not worry about being someone else for a second if that makes sense
+				- **What to talk about**
+					- Normal questions: 
+						- Who are you really? 
+						- What would you be if you weren't in the profession you are? 
+							- If prompted talk about acting more 
+						- Make a toast 
+						- **Dance for a little?**
+						- Final questions 
+			- Thank you, for being with me in a normal circumstance for a bit
 
 **Next objective and PONR** 
 - Mark calls after procedure

@@ -92,3 +92,116 @@ reactions:
   - name: 
     desc: 
 ```
+
+Potential Invocations: 
+- Agonizing Blast
+- Ascendant step
+- Aspect of the Moon 
+- Book of ancient secrets
+- Chains of carceri 
+- cloak of flies
+- Devils sight 
+- Eldritch sight?
+- New Eldritch spear 
+- Far scribe 
+- New fiendish vigor
+- New gaze of two minds
+- ghostly gaze
+- Gift of the ever living ones 
+- Gift of the protectors
+- grasp of hadar 
+- Devouring blade, lifedrinker and thirsting blade?
+- investment of the chain master 
+- lessons of the first ones 
+- pact of blade chain or tome?
+- witch sight?
+- Visions of distant realms 
+- One with shadows or shroud of shadow 
+- Master of myruad forms? 
+- mask of many faces?
+- Maddening hex?
+- misty visions?
+- relentless curse?
+- repelling blast 
+- Tomb of levestis 
+- voice of the chain master
+
+##### Summons (Cloak of Consuming Dreams)
+
+###### The Creature
+```statblock
+layout: Basic 5e Layout Copy
+image: The creature.png
+name: The Creature
+size: Tiny
+type: Abberation 
+alignment: Neutral
+ac: 13
+hp: 24
+hit_dice: 7d4 + 7
+speed: 30ft, fly 30ft, burrow 30ft
+stats: [6, 17, 13, 15, 12, 11]
+fage_stats: 
+skillsaves:
+  - Arcana: +4
+  - Religion: +4
+  - Stealth: +5
+damage_resistances: Psychic, Radiant, Necrotic
+senses: Darkvision 60 ft, Passive Perception 11
+languages: Deep Speech, Common
+cr: 1
+traits:
+  - name: Magic Resistance
+    desc: The sphinx has Advantage on saving throws against spells and other magical effects.
+actions:
+  - name: Tentacle Slap
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1d4+3 bludgeoning Damage"
+reactions:
+  - name: Foresight (2/Day)
+    desc: Whenever The Creature makes an abillity check or saving throw as a reaction you can add 2 to the roll
+```
+
+###### Skelly
+```statblock
+layout: Basic 5e Layout Copy
+image: Skelly.png
+name: Skelly
+size: Medium 
+type: Undead 
+alignment: Neutral
+ac: 13
+hp: 13
+hit_dice: 2d8 + 4
+speed: 30ft
+stats: [14, 16, 15, 6, 8, 5]
+fage_stats: 
+damage_immunities: Poison; Exhaistion, Poisoned
+senses: Darkvision 60 ft, Passive Perception 9
+languages: Common
+cr: 1
+traits:
+  - name: Voltron 
+    desc: Can attune to any magic item and can attune to 6 magic items
+  - name: Dumb and Dumber
+    desc: Cannot use any sort of spellcasting that calls for the creatures own Spell Save DC and Spell Attack Bonus
+actions:
+  - name: Use magic item
+    desc: +5 minimum to hit, damage or effect depends on item
+```
+
+
+- Grumpy (a purple turtle cat, who can grow in size and work like a shield)
+- Buford (a hellhound)
+- Dog (intellect devourer)
+- Tentacle (a mindflayer)
+- Jurlungur (Flying rainbow serpant)
+- Serra, the Benevolent (Angel summoner and buffer)
+- Dack, Multiverses Greatest Thief (Can copy and learn magic effects so long as its from an item)
+- Dovin, Azorius Artifcer (Vedalaken, specializes in Artifice and Defensive Magic)
+- Morgath (Deathlock knight and general)
+- Mark Reinford (former Seelie Court, tracker and shooter)
+- Daliah (former Seelie Court, blaster, assassin)
+- Unnamed Yuan Ti Warriors
+- Unnamed Knights
+- Unnamed Archers 
+- Unmamed Mages
