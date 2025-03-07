@@ -20,14 +20,15 @@ Yasu-2 was able to score very high in all of the events due to his nigh perfect 
 During the House Tournament Arc, Yasu-2 was able to finish very high in the Social Networking challenge due to his ability to spread the word of his god and enforce peace among the citizens.
 In the Gem Hunt Challenge, Yasu-2 was top 3 in speed when finding the gems, as his excellent pathfinding skills were able to get him what he needed
 In the Battle-Madness Challenge, Yasu-2 made it to the final rounds, only losing because he could not defend himself against [[Ryū Hoshi]]'s offensive capabilities.
-###### The Illithid Mage Arc
 Yasu-2 was in the stands when [[Arangol]] attacked. Yasu-2, seeing the opponent was an illithid lich, instantly discarded all moral and began to fight. It thinned the undead minion horde quickly using his holy powers. Arangol saw this as a problem and attempted to strike down Yasu-2, landing a few successful spells leaving it in critical condition. As Arangol was about to strike him down, Jackson blocked the attack, and told Olivia to grab and protect Yasu.
+###### The Illithid Mage Arc
+Yasu-2 was continued on with school and normal life, but could not shake the empty feelings after the encounter. He became worried when she heard about Azriel's disappearance 
 ###### Betrayal Arc
 Yasu-2 was the second to sense the evil curse that affected Azriel. His preceptive nature caught Olivia constantly asking about Azriel's psychological state, which lead him to use his heightened divine power within itself to check for anything corrupt. Surely enough, traces of a mind control spell were detected. Before Yasu could preform exorcism it was too late, and Azriel disappeared from the academy, only to return later on as Tartarus. 
 Yasu-2 attempted to stop Tartarus but the attempts were futile, as he was sealed away in a specially designed extra-dimensional cube that imprisoned it from dispelling the evil mind control. 
 ###### Declaration of War Arc
 Jackson was able to unseal Yasu-2 and the two immediately went to old friends for help. While Jackson gathered  his father's old party members, Yasu-2 using Jotor's memories, began activating the various contingencies he made in case something like this had happened. 
-When war began, Yasu-2 was one of the main leaders of the main infantry force, using Iallanis's divine power to help clear the masses. When he made it to Arangol's generals, he called upon his god directly and he answered his prayers, granting him indomitable strength.
+When war began, Yasu-2 was one of the main leaders of the main infantry force, using Iallanis's divine power to help clear the masses. When he made it to Arangol's generals, he called upon his god directly and he answered his prayers, granting him indomitable strength. 
 ###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
  > 

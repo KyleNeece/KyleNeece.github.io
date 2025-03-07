@@ -25,7 +25,7 @@ Johnny went with his sister Emily back home and called upon her family and their
  > [!Warning]- Spoilers Ahead
  > 
  > 
- > Johnny was fighting the strongest disciple of Tartarus when the Pamnesia spell hit, losing all of his memories of the events
+ > Johnny was fighting the strongest disciple of Tartarus when the Panmnesia spell hit, losing all of his memories of the events
 ###### Recruitment
 Johnny was auto recruited into the peacekeeper force and given S-Rank
 ##### Abilities  

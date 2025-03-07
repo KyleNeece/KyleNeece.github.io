@@ -17,8 +17,9 @@ Emily's parents being accomplished military personnel were able to enroll Emily 
 During the House Tournament Arc, Emily finished in the top 20 in the Social Networking challenge due to her well balanced approach to different sets of problems thanks to her military training.
 In the Gem Hunt Challenge, Emily finished higher up by using her tracking skills to follow other players and steal the gem from them through defeating them in combat
 In the Battle-Madness Challenge, Emily made it to the final four, facing off against Jackson Felwinter. The two were almost equal in pure weapon to weapon combat, with Emily actually putting Jackson on the defense. It was Jackson's careful study of magic that ultimately defeated her
-###### The Illithid Mage Arc
 Emily was in the stands when [[Arangol]] and his forces invaded. The second he showed up, Emily immediately knew he was a big threat, and called everyone to draw arms as she jumped into the colosseum and began combating Arangol's minions, with [[Twitch]] and Olivia joining in and leaving Arangol for Jackson and Azriel. 
+###### The Illithid Mage Arc
+Emily was continued on with school and normal life, but could not shake the empty feelings after the encounter. She became worried when she heard about Azriel's disappearance 
 ###### Betrayal Arc
 Upon Tartarus's returning to [[Sigil]], Emily was pissed. As he led his forces into the capital, Emily dashed to the scene, taking out many of Tartarus's forces. However, once she reached his elite forces and Tartarus himself, he emotionlessly made quick work of her and he went off to obtain the final multiverse rune in order to complete his ascension. 
 ###### Declaration of War Arc
