@@ -8,6 +8,6 @@ Review thieves metropolis
 
 tie all of these into big bad 
 
-this leads to second half of camapaign 
+this leads to act 3 and campaign climax 
 
 

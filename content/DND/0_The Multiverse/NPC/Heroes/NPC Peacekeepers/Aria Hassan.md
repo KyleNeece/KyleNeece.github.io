@@ -127,13 +127,13 @@ Potential Invocations:
 - Tomb of levestis 
 - voice of the chain master
 
-##### Summons (Cloak of Consuming Dreams)
+##### Spirit Summons (via Cloak of Consuming Dreams)
 
-###### The Creature
+###### Ink
 ```statblock
 layout: Basic 5e Layout Copy
-image: The creature.png
-name: The Creature
+image: Ink.png
+name: Ink
 size: Tiny
 type: Abberation 
 alignment: Neutral
@@ -147,13 +147,14 @@ skillsaves:
   - Arcana: +4
   - Religion: +4
   - Stealth: +5
-damage_resistances: Psychic, Radiant, Necrotic
+damage_resistances: Psychic, Radiant, Necrotic, Poison
+condition_immunities: Poisoned, Disease
 senses: Darkvision 60 ft, Passive Perception 11
 languages: Deep Speech, Common
 cr: 1
 traits:
   - name: Magic Resistance
-    desc: The sphinx has Advantage on saving throws against spells and other magical effects.
+    desc: The creature has Advantage on saving throws against spells and other magical effects.
 actions:
   - name: Tentacle Slap
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1d4+3 bludgeoning Damage"
@@ -162,13 +163,13 @@ reactions:
     desc: Whenever The Creature makes an abillity check or saving throw as a reaction you can add 2 to the roll
 ```
 
-###### Skelly
+###### Larry
 ```statblock
 layout: Basic 5e Layout Copy
-image: Skelly.png
-name: Skelly
+image: Larry.png
+name: Larry
 size: Medium 
-type: Undead 
+type: Undead Abberation
 alignment: Neutral
 ac: 13
 hp: 13
@@ -176,33 +177,345 @@ hit_dice: 2d8 + 4
 speed: 30ft
 stats: [14, 16, 15, 6, 8, 5]
 fage_stats: 
-damage_immunities: Poison; Exhaistion, Poisoned
+damage_immunities: Poison
+condition_immunities: Exhaustion, Poisoned, Disease
 senses: Darkvision 60 ft, Passive Perception 9
-languages: Common
+languages: Common, Deep Speech
 cr: 1
 traits:
   - name: Voltron 
-    desc: Can attune to any magic item and can attune to 6 magic items
-  - name: Dumb and Dumber
-    desc: Cannot use any sort of spellcasting that calls for the creatures own Spell Save DC and Spell Attack Bonus
+    desc: Ignores all prerequisites to attuning to magic items and can attune to 6
 actions:
   - name: Use magic item
     desc: +5 minimum to hit, damage or effect depends on item
 ```
 
+###### Dog 
+```statblock
+layout: Basic 5e Layout Copy
+image: Dog.png
+name: Dog
+size: Tiny 
+type: Abberation 
+alignment: Lawful Evil
+ac: 12
+hp: 21
+hit_dice: 6d4 + 6
+speed: 40ft
+stats: [14, 16, 15, 6, 8, 5]
+skillsaves:
+  - Perception: +2
+  - Stealth: +4
+fage_stats: 
+damage_resistances: bludgeoning, piercing, and slashing from nonmagical weapons
+condition_immunities: blinded, disease
+damage_immunities: Poison; Exhaistion, Poisoned
+senses: Blindsight 60 ft (blind beyond this radius), Passive Perception 12
+languages: Deep Speech, Telepathy 60ft
+cr: 2
+traits:
+  - name: Detect Sentience 
+    desc: Dog can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell
+actions:
+  - name: Multiattack
+    desc: Dog makes one attack with its claws and uses Devour Intellect
+  - name: Claws
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage"
+  - name: Devour Intellect
+    desc: "The intellect devourer targets one creature it can see within 10 feet of it that has a brain. The target must succeed on a DC 12 Intelligence saving throw against this magic or take 11 (2d10) psychic damage. Also on a failure, roll 3d6: If the total equals or exceeds the target’s Intelligence score, that score is reduced to 0. The target is stunned until it regains at least one point of Intelligence."
+  - name: Body Thief
+    desc: "The intellect devourer initiates an Intelligence contest with an incapacitated humanoid within 5 feet of it. If it wins the contest, the intellect devourer magically consumes the target’s brain, teleports into the target’s skull, and takes control of the target’s body. While inside a creature, the intellect devourer has total cover against attacks and other effects originating outside its host. The intellect devourer retains its Intelligence, Wisdom, and Charisma scores, as well as its understanding of Deep Speech, its telepathy, and its traits. It otherwise adopts the target’s statistics. It knows everything the creature knew, including spells and languages. If the host body drops to 0 hit points, the intellect devourer must leave it. A protection from evil and good spell cast on the body drives the intellect devourer out. The intellect devourer is also forced out if the target regains its devoured brain by means of a wish. By spending 5 feet of its movement, the intellect devourer can voluntarily leave the body, teleporting to the nearest unoccupied space within 5 feet of it. The body then dies, unless its brain is restored within 1 round"
+```
 
-- Grumpy (a purple turtle cat, who can grow in size and work like a shield)
-- Buford (a hellhound)
-- Dog (intellect devourer)
-- Tentacle (a mindflayer)
-- Jurlungur (Flying rainbow serpant)
-- Serra, the Benevolent (Angel summoner and buffer)
-- Dack, Multiverses Greatest Thief (Can copy and learn magic effects so long as its from an item)
-- Dovin, Azorius Artifcer (Vedalaken, specializes in Artifice and Defensive Magic)
-- Morgath (Deathlock knight and general)
-- Mark Reinford (former Seelie Court, tracker and shooter)
-- Daliah (former Seelie Court, blaster, assassin)
-- Unnamed Yuan Ti Warriors
-- Unnamed Knights
-- Unnamed Archers 
-- Unmamed Mages
+###### Kraken 
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Kraken
+size: Meduim 
+type: Abberation 
+alignment: Lawful Evil
+ac: 15
+hp: 71
+hit_dice: 13d8 + 13
+speed: 30ft
+stats: [11, 12, 12, 19, 17, 17]
+skillsaves:
+  - Perception: +6
+  - Stealth: +4
+  - Arcana: +7
+  - Deception: +6
+  - Insight: +6
+  - Persuasion: +6
+fage_stats: 
+saves:
+  - Intelligence: +7
+  - Wisdom: +6
+  - Charisma: +6
+damage_resistances: Poison
+condition_immunities: Poisoned, Disease
+senses: Darkvision 120 ft, Passive Perception 16
+languages: Deep Speech, Telepathy 60ft
+cr: 7
+traits:
+  - name: Magic Resistance
+    desc: Kraken has Advantage on saving throws against spells and other magical effects.
+spells: 
+  - "Kraken's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components"
+  - At will: detext thoughts, levitate
+  - 1/day each: dominate monster, plane shift (self only)
+actions:
+  - name: Tentacles
+    desc: "*Melee Weapon Attack*: +7 to hit, reach 5 ft., one creature. _Hit_: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends."
+  - name: Extract Brain
+    desc: "*Melee Weapon Attack*: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. *Hit*: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain."
+  - name: Mind Blast
+    desc: "*Mind Blast (Recharge 5–6).* The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+```
+
+###### Jurlungur
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Jurlungur
+size: Gargantuan
+type: Beast Abberation
+alignment: Neutral
+ac: 16
+hp: 240
+hit_dice: 15d20 + 89
+speed: 50ft, burrow 30ft, flight 30ft
+stats: [26, 16, 22, 10, 14, 10]
+fage_stats: 
+saves:
+  - Constitution: +11
+  - Strength: +13
+  - Wisdom: +7
+damage_resistances: Poison
+condition_immunities: Poisoned, Disease
+senses: Blindsight 30 ft, tremorsense 60ft. Passive Perception 12
+languages: Deep Speech, Common
+cr: 16
+traits:
+  - name: Tunneler
+    desc: Jurlungur can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake 
+actions:
+  - name: Multiattack
+    desc: "Jurlungur makes two attacks: one with its bite and one with its tail"
+  - name: Bite
+    desc: "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns. If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+  - name: Tail
+    desc: "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 34 (7d6 + 9) bludgeoning damage, and the target must make a DC 20 Strength saving throw, being knocked prone and pushed 30 feet away on a failed save, or half as much damage on a successful one."
+reactions:
+  - name: Reflective Scales 3x/day
+    desc: Whenever Jurlungur takes fire, lightning, ice, thunder, or acid damage, as a reaction can reduce the damage to zero and deal damage to another target with 60 feet equal to the amount of damage reduced.
+```
+
+###### Morgath
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Morgath
+size: Meduim 
+type: Undead Abberation
+alignment: Lawful Neutral 
+ac: 20
+hp: 180
+hit_dice: 19d8 + 95
+speed: 30 ft
+stats: [20, 10, 20, 12, 16, 18]
+fage_stats: 
+saves:
+  - Dexterity: +6
+  - Wisdom: +9
+  - Charisma: +10
+damage_immunities: necrotic, poison
+condition_immunities: exhaustion, frightened, poisoned, disease
+senses: Darkvision 60 ft, Passive Perception 12
+languages: Deep Speech, Infernal, Common
+cr: 17
+traits:
+  - name: Magic Resistance
+    desc: Morgath has advantage on saving throws against spells and other magical effects 
+  - name: Marshal General
+    desc: Unless Morgath is incapacitated, it and all of Aria's other summons within 30 feet of it have advantage on saving throws against features that would inflict mental conditions
+  - name: Herretical Smite
+    desc: Whenever Morgath hits with a weapon attack, it can expend one spell slot to deal necrotic or fire damage to the target in addition to the weapons damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each level higher than the first. 
+spells:
+  - "Morgath is a 19th evel spellcaster. Its spellcasting abillity is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following spells prepared"
+  - At Will: Firebolt, Phantom Steed
+  - 1st level (4 slots): Command, Compelled Duel, Arcane Weapon
+  - 2nd level (3 slots): Hold person, Crown of Madness
+  - 3rd level (3 slots): Dispel Magic, Mote of Hell (Illrigger Spell)
+  - 4th level (3 slots): Banishment, Dimension Door
+  - 5th level (2 slots): Destructive Wave (necrotic)
+actions:
+  - name: Multiattack
+    desc: Morgath makes three longsword attacks
+  - name: Longsword
+    desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. *Hit*: 9 (1d8 + 5) slashing or 10 (1d10+5) slashing damage if used with two hands. Plus 9 (2d8) necrotic damage"
+bonus_actions:
+  - name: Baneful Interdect (4x/rest)
+    desc: As a bonus action, Morgath places a seal on a creature within 30 feet of it that it can see. When Morgath or one of it's allies hits a target with at least one seal with a melee attack, it can consume the seals to deal an extra 10 (3d6) necrotic damage per seal consumed. 
+reactions:
+  - name: Parry
+    desc: Morgath adds 6 to its AC against one melee attack that would it it. To do so, Morgath must see the attacker and be wielding a melee weapon 
+  - name: Loaded Seal
+    desc: When you place a seal on an enemy, as a reaction you can cast a spell that normally has a casting time of 1 action
+```
+
+###### Serra the Benevolent
+Angel summoner and buffer
+
+###### Dack, Greatest Thief
+copy and learn magic effects through items 
+
+###### Dovin, Law Keeper
+barrier and law based power 
+
+###### Common Soldiers ("Dreaming Soldiers")
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Base Dream Soldier
+size: Medium 
+type: (Former Species) Abberation 
+alignment: Neutral
+ac: 14
+hp: 15
+hit_dice: 2d6 + 1
+speed: 30ft
+stats: [12, 16, 10, 10, 10, 10]
+fage_stats: 
+damage_immunities: Poison
+condition_immunities: Poisoned, Disease
+senses: Any from previous life
+languages: Common, Deep Speech
+cr: 1
+actions:
+  - name: Scimitar
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. *Hit*: 8 (1d6 + 3) slashing damage"
+  - name: Crossbow
+    desc: "Ranged Weapon Attack: +5 to hit, range 80/320, one target. *Hit*: 8 (1d8 + 3) piercing damage"
+```
+
+-----------------------------
+
+
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Tactical Dreaming Soldier
+size: Medium 
+type: (Former Species) Abberation 
+alignment: Neutral
+ac: 14
+hp: 15
+hit_dice: 2d8 + 4
+speed: 30ft
+stats: [12, 16, 10, 14, 12, 12]
+fage_stats: 
+damage_immunities: Poison
+condition_immunities: Poisoned, Disease
+senses: Any from previous life
+languages: Common, Deep Speech
+cr: 1
+actions:
+  - name: Multiattack
+    desc: 2 Longbow Attacks or 3 Scimitar Attacks, can swap one attack for a poisoned attack
+  - name: Scimitar
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. *Hit*: 8 (1d6 + 3) slashing damage"
+  - name: Crossbow
+    desc: "Ranged Weapon Attack: +4 to hit, range 150/600, one target. *Hit*: 8 (1d8 + 3) piercing damage"
+  - name: Poisoned Coated Attack 
+    desc: Make a normal attack roll, on hit the target must succeed a dc13 constitution saving throw or take an additional 2d8 poison damage and become poisoned for 3 turns
+```
+
+-----------------------------
+
+
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Dreaming Mage
+size: Medium 
+type: (Former Species) Abberation 
+alignment: Neutral
+ac: 14
+hp: 15
+hit_dice: 2d8 + 4
+speed: 30ft
+stats: [10, 14, 10, 16, 10, 12]
+fage_stats: 
+damage_immunities: Poison
+condition_immunities: Poisoned, Disease
+spells:
+  - Cantrips: Mind Sliver, Eldritch Blast 
+  - 1st level (2 slots): Faerie Fire (DC13), Magic Missile
+senses: Any from previous life
+languages: Common, Deep Speech
+cr: 1
+actions:
+  - name: Crossbow
+    desc: "Ranged Weapon Attack: +5 to hit, range 80/320, one target. *Hit*: 8 (1d8 + 3) piercing damage"
+```
+
+-----------------------------
+
+
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Dreaming Defender
+size: Medium 
+type: (Former Species) Abberation 
+alignment: Neutral
+ac: 30
+hp: 17
+hit_dice: 2d8 + 4
+speed: 30ft
+stats: [15, 12, 14, 12, 10, 10]
+fage_stats: 
+damage_immunities: Poison
+condition_immunities: Poisoned, Disease
+senses: Any from previous life
+languages: Common, Deep Speech
+cr: 1
+actions:
+  - name: Katana
+    desc: "Melee Weapon Attack: +5 to hit, reach 5ft, one target. *Hit*: 8 (1d8 + 3) slashing damage"
+reactions:
+  - name: Protection
+    desc: As a reaction you can impose disadvantage on an attack that is directed towards someone within 5 feet of you
+```
+
+-----------------------------
+
+
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Dreaming Commando
+size: Medium 
+type: (Former Species) Abberation 
+alignment: Neutral
+ac: 30
+hp: 15
+hit_dice: 2d8 + 4
+speed: 30ft
+stats: [14, 14, 12, 14, 12, 12]
+fage_stats: 
+damage_immunities: Poison
+condition_immunities: Poisoned, Disease
+senses: Any from previous life
+languages: Common, Deep Speech
+cr: 1
+actions:
+  - name: Dagger 
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. *Hit*: 5 (1d4 + 3) slashing damage"
+  - name: Hand Crossbow
+    desc: "Ranged Weapon Attack: +4 to hit, range 30/120, one target. *Hit*: 6 (1d6 + 3) piercing damage"
+bonus_actions:
+  - name: Tactical instruction
+    desc: You can use the help action on a target that can see and hear you 30 feet away
+```

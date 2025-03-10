@@ -39,7 +39,7 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
 ###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead
  > 
- > Tartarus went to limbo, the space between the normal world and the afterlife. He stayed there for eons, until he connected with new adventurer through their soul.
+ > Tartarus appeared in Dendar's endless sea of nightmares, eventually latching onto the soul of a Runekeeper in order to find a way to resurrect himself 
 ###### Recruitment
  > [!Warning]- Spoilers Ahead
  > Azriel was never formerly inducted into the military force, but instead attended the academy. He became a Peacekeeper after Arangol was finally defeated.
