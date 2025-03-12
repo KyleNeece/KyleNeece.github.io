@@ -3,12 +3,12 @@ tags: [Hero/Peacekeeper/S-Rank, Yuan-Ti/Warlock/Great_Old_One_Walock, Felwinter_
 ---
 
 ##### Brief Summary 
-Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank [[Peacekeeper Force]], and engaged to [[Jackson Felwinter]]
+Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank [[Peacekeeper]], and engaged to [[Jackson Felwinter]]
 ##### Appearance 
 ![[Aria Hassan.png]]
 
 ##### Personality 
-Aria was a tsundere who slowly developed a softer, kind, and likeable side of character. This happened through spending time with [[Jackson Felwinter]]. Aria now really cares about those around her and uses her patrons powers for good, instead of malice like they were originally granted for. She developed many more human like qualities during her time at the [[Peacekeeper Academy]].
+Aria was a tsundere who slowly developed a softer, kind, and likeable side of character. This happened through spending time with [[Jackson Felwinter]]. Aria now somewhat cares about those around her and uses her patrons powers for to fight greater evil. She developed many more human like qualities during her time at the [[Peacekeeper Academy]].
 ##### Brief History/Timeline   
 ###### Adolescence
 Aria grew up in the Serpent hills, worshiping the Night Serpent along with the rest of her society. Since born a pureblood, Aria was at the bottom of society, and most of her people, including her mother and father, thought of her as a mistake. Because of her mistreatment, she wished for more power in order to be recognized. Dendar saw potential in the girl and created a pact with her, granting her power under the condition that she bring carnage and manipulation to the greater world. Aria used this power to fight her homeland people and flee, no longer tying herself to worship like the rest of her tribe.
@@ -197,7 +197,7 @@ image: Dog.png
 name: Dog
 size: Tiny 
 type: Abberation 
-alignment: Lawful Evil
+alignment: Lawful Neutral
 ac: 12
 hp: 21
 hit_dice: 6d4 + 6
@@ -234,7 +234,7 @@ image:
 name: Kraken
 size: Meduim 
 type: Abberation 
-alignment: Lawful Evil
+alignment: Lawful Neutral
 ac: 15
 hp: 71
 hit_dice: 13d8 + 13
@@ -326,14 +326,14 @@ speed: 30 ft
 stats: [20, 10, 20, 12, 16, 18]
 fage_stats: 
 saves:
-  - Dexterity: +6
-  - Wisdom: +9
-  - Charisma: +10
+  - Dexterity: +5
+  - Wisdom: +8
+  - Charisma: +9
 damage_immunities: necrotic, poison
 condition_immunities: exhaustion, frightened, poisoned, disease
 senses: Darkvision 60 ft, Passive Perception 12
 languages: Deep Speech, Infernal, Common
-cr: 17
+cr: 16
 traits:
   - name: Magic Resistance
     desc: Morgath has advantage on saving throws against spells and other magical effects 
@@ -342,7 +342,7 @@ traits:
   - name: Herretical Smite
     desc: Whenever Morgath hits with a weapon attack, it can expend one spell slot to deal necrotic or fire damage to the target in addition to the weapons damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each level higher than the first. 
 spells:
-  - "Morgath is a 19th evel spellcaster. Its spellcasting abillity is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following spells prepared"
+  - "Morgath is a 19th evel spellcaster. Its spellcasting abillity is Charisma (spell save DC 17, +9 to hit with spell attacks). It has the following spells prepared"
   - At Will: Firebolt, Phantom Steed
   - 1st level (4 slots): Command, Compelled Duel, Arcane Weapon
   - 2nd level (3 slots): Hold person, Crown of Madness
@@ -366,12 +366,180 @@ reactions:
 
 ###### Serra the Benevolent
 Angel summoner and buffer
+```statblock
+layout: Basic 5e Layout Copy
+image: 
+name: Serra the Benevolent
+size: Meduim 
+type: Human Aasimar Abberation
+alignment: Neutral
+ac: 18
+hp: 225 
+hit_dice: (30d8 + 90)
+speed: 30 ft
+stats: [16, 18, 20, 18, 22, 20]
+fage_stats: 
+saves:
+  - Constitution: +11
+  - Intelligence: +10
+  - Wisdom: +12
+  - Charisma: +11
+skillsaves:
+  - Perception: +12
+  - Insight: +12
+  - Medicine: +12
+  - Religion: +10
+  - Persuasion: +11
+damage_resistances: Psychic; Bludegoning, Piercing, Slashing from Nonmagical attacks
+damage_immunities: Necrotic, Radiant, Poison
+condition_immunities: poisoned, disease
+senses: Truesight 120ft., Passive Perception 22
+languages: Deep Speech, Common, Celestial
+cr: 18
+traits:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+spells:
+  - "Serra is a blank level spellcaster. Her spellcasting ability is Wisdom (spell save DC 20, +12 to hit). She can cast the following spells without material components:"
+  - At Will: 
+  - 1st level (4 slots): 
+  - 2nd level (3 slots): 
+  - 3rd level (3 slots): 
+  - 4th level (3 slots): 
+  - 5th level (2 slots): Summon Celestial
+  - 6th level (2 slot): 
+  - 7th level (2 slot): Plane Shift
+  - 8th level (1 slot)
+  - 9th level (1 slot)
+actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+bonus_actions:
+  - name: 
+    desc: 
+```
+###### Dack, Universe's Greatest Thief
+```statblock
+layout: Basic 5e Layout Copy
+image: Dack Fayden.Png
+name: Dack, Thief Supreme
+size: Meduim 
+type: Human Abberation
+alignment: Chaotic Neutral 
+ac: 17
+hp: 136
+hit_dice: 16d8 + 95
+speed: 30 ft
+stats: [10, 20, 16, 20, 14, 18]
+fage_stats: 
+saves:
+  - Dexterity: +10
+  - Intelligence: +9
+  - Wisdom: +7
+skillsaves:
+  - Arcana: +15
+  - Deception: +9
+  - Investigation: +10
+  - Sleight of Hand: +15
+  - Stealth: +15
+  - Persuasion: +9
+damage_resistances: Poison, Psychic, Fire
+condition_immunities: poisoned, disease
+senses: Passive Perception 12
+languages: Deep Speech, Infernal, Common, Draconic, Thieves Cant 
+cr: 16
+traits:
+  - name: Psychometry Learning
+    desc: Whenever Dack touches a item, he can absorb the knowledge and history of it. Moreover, whenever he uses or attunes to a magic item, if the magic item has a spell effect, he can permamently add it to his spell list.
+  - name: Magiccal Ambush 
+    desc: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
+  - name: Sneak Attack
+    desc: Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+spells:
+  - "Dack is a 14th level spellcaster. His spellcasting abillity is Intelligence (spell save DC 18, +10 to hit with spell attacks). He can cast the following spells"
+  - At Will: Firebolt, Mage Hand, Minor Illusion, Prestidigitation, Detect Magic, Identify
+  - 1st level (4 slots): Guiding Bolt, Magic Missile, Thunderwave
+  - 2nd level (3 slots): Invisibility, Suggestion, Mirror Image, Knock
+  - 3rd level (3 slots): Clairvoyance, Slow, Nondetection
+  - 4th level (3 slots): Arcane Eye, Greater Invisibility
+  - 5th level (2 slots): Conjure Elemental, Skill Empowerment 
+  - 6th level (1 slot): Arcane Gate
+  - 7th level (1 slot): Plane Shift
+actions:
+  - name: Multiattack
+    desc: Dack makes two dagger attacks
+  - name: Dagger (also counts as a spell storing item)
+    desc: "Melee Weapon Attack: +10 to hit, thrown or melee range 20/60, one target. Hit: 9 (1d4 + 5) piercing damage"
+  - name: Magic Item Theft (Reacharge on a 5-6)
+    desc: "As an action, Dack targets one creature within 30 feet. The target must make a DC 18 Wisdom saving throw. On a failure, Dack instantly steals one magical item the target is holding or carrying (GM’s discretion). If the item requires attunement, Dack can attune to it immediately, provided he has an open attunement slot."
+bonus_actions:
+  - name: Cunning Thief
+    desc: Dack can take a bonus action to Dash, Disengage, Hide, make a sleight of hand check, the use object interaction, or cast and control mage hand. 
+```
 
-###### Dack, Greatest Thief
-copy and learn magic effects through items 
-
-###### Dovin, Law Keeper
-barrier and law based power 
+###### Dovin, Law Keeper 
+```statblock
+layout: Basic 5e Layout Copy
+image: Dovin Baan.Png
+name: Dovin, Law Keeper
+size: Meduim 
+type: Vedalken Abberation
+alignment: Lawful Neutral 
+ac: 17
+hp: 107 (16d8 + 29)
+hit_dice: 19d8 + 95
+speed: 30 ft
+stats: [10, 16, 14, 20, 16, 16]
+fage_stats: 
+saves:
+  - Dexterity: +8
+  - Intelligence: +10
+  - Wisdom: +7
+skillsaves:
+  - Arcana: +10
+  - History: +10
+  - Investigation: +10
+  - Insight: +8
+  - Persuasion: +8
+damage_resistances: Poison, Psychic
+condition_immunities: poisoned, disease
+senses: Passive Perception 13
+languages: Deep Speech, Common, Vedalken, 
+cr: 16
+traits:
+  - name: Arcane Ward
+    desc: The abjurer has a magical ward that has 30 hit points. Whenever the abjurer takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the abjurer takes any remaining damage. When the abjurer casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell
+  - name: Insightful Tactician 
+    desc: At the beginning of the second round of combat or observing a creature for 1 minute outside of combat. He learns their AC, resistances/immunities.vulnerabilities, strongest and weakest stats, and any significant lore about the creature
+  - name: Artifice Master
+    desc: Dovin has expertise in any check for the purposes of crafting items. Moreover, any Thopter's Dovin crafts and uses benefit from the "Gaze of Two Minds" Warlock Invocation
+spells:
+  - "Dovin is a 14th level spellcaster. His spellcasting abillity is Intelligence (spell save DC 18, +10 to hit with spell attacks). He can cast the following spells"
+  - At Will: Mage Hand, Blade Ward, Mind Sliver, Alarm
+  - 1st level (4 slots): Shield, Command, Silvery Barbs, Magic Missile, Absorb Elements
+  - 2nd level (3 slots): Arcane lock, Misty Step, Mirror Image
+  - 3rd level (3 slots): Counterspell (no verbal components), Dispel Magic, Gylph of Warding 
+  - 4th level (3 slots): Dimension Door, Banishment, Stoneskin
+  - 5th level (2 slots): Wall of Force, Telekinesis
+  - 6th level (1 slot): Globe of Invulnerability
+  - 7th level (1 slot): Plane Shift
+actions:
+  - name: Cast Spell
+    desc: Cast a spell
+  - name: Order's Domain (2x/rest)
+    desc: As an action, each creature of your choice that can see or hear Dovin within 30 feet of him must succeed on a Wisdom saving throw or be charmed by him until the end of Dovin's next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw
+reactions:
+  - name: Arcane Deflection
+    desc: When Dovin is hit by an attack or you fail a saving throw, he can use his reaction to gain a +2 bonus to his AC against that attack or a +4 bonus to that saving throw
+```
 
 ###### Common Soldiers ("Dreaming Soldiers")
 ```statblock

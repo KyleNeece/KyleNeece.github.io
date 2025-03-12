@@ -3,7 +3,7 @@ tags: [Hero, Umbral_Human/Psion/Unleashed, Felwinter_Saga_Cour_3/NPC]
 ---
 
 ##### Brief Summary 
-Nathan Murgul is a Umbral Human Psion originating from the Underdark and formerly a S-Rank [[Peacekeeper Force]]
+Nathan Murgul is a Umbral Human Psion originating from the Underdark and formerly a S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Nathan Murgal.png]]
 ##### Personality 

@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Elf/Dancer/Bladed_Bravado, Felwinter_Saga_Cour_2
 ---
 
 ##### Brief Summary 
-Lillith Ashford is a Bladed Bravado Elf Dancer originating from Evereska and S-Rank [[Peacekeeper Force]]
+Lillith Ashford is a Bladed Bravado Elf Dancer originating from Evereska and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Lillith Ashford2.png]]![[Lillith Ashford.png]]
 

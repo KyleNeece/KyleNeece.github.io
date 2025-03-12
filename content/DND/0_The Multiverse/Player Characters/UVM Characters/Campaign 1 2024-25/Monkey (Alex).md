@@ -6,7 +6,7 @@ tags:
 ---
 
 ##### Brief Summary  
-Monkey (Alex) is a Dog and Hound Riverback Wukong Pugilist and [[Peacekeeper Force]] (played by Eli)
+Monkey (Alex) is a Dog and Hound Riverback Wukong Pugilist and [[Peacekeeper]] (played by Eli)
 ##### Appearance 
 ![[Monkey.png]]
 ![[Dog (Monkey).png]]

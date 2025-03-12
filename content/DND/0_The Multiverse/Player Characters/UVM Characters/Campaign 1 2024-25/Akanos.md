@@ -6,7 +6,7 @@ tags:
 ---
 
 ##### Brief Summary  
-Akanos is a Arcane Trickster Tiefling Rogue and a [[Peacekeeper Force]] (played by Djani)
+Akanos is a Arcane Trickster Tiefling Rogue and a [[Peacekeeper]] (played by Djani)
 ##### Appearance 
 
 ##### Personality 

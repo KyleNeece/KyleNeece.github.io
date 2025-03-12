@@ -17,6 +17,6 @@ Mark was one of [[Titania, Queen of Seelie Court]]'s main intelligence and black
  > 
  > Mark healed, and was given treatment and magical surgery, which benefited him unintentionally because it prevent his memory being wiped from the Panmnesia spell. 
 
-He was declared dead by the Seelie Court as a cover story, a part of a cease fire agreement between the Seelie Court, Unseelie Court, and the [[Peacekeeper Force]]. The story was fed to even his closest of friends (including Freya). It was later confirmed that Mark's death was ordered by Queen Titania to fulfill the cease fire, and the Queen cruelly ordered Daliah to kill her mentor. Despite being sold out by the Seelie Court, Mark accepted the betrayal as "part of the job" and remained loyal to the Seelie Court, and became a sleeper agent.
+He was declared dead by the Seelie Court as a cover story, a part of a cease fire agreement between the Seelie Court, Unseelie Court, and the [[Peacekeeper]]. The story was fed to even his closest of friends (including Freya). It was later confirmed that Mark's death was ordered by Queen Titania to fulfill the cease fire, and the Queen cruelly ordered Daliah to kill her mentor. Despite being sold out by the Seelie Court, Mark accepted the betrayal as "part of the job" and remained loyal to the Seelie Court, and became a sleeper agent.
 ##### Abilities  
 Mark is a level 15 Revised Hunter Ranger 

@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Kenku/Sovereign/Warrior_Dynasty, Felwinter_Saga_
 ---
 
 ##### Brief Summary 
-Twitch is a Warrior Dynasty Kenku Sovereign originating from southern Faerun and S-Rank [[Peacekeeper Force]]
+Twitch is a Warrior Dynasty Kenku Sovereign originating from southern Faerun and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Twitch.png]]
 ##### Personality 

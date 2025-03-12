@@ -6,7 +6,7 @@ tags:
 ---
 
 ##### Brief Summary  
-The Equilibrium is a Way of the Open Hand Dwarf Monk and a [[Peacekeeper Force]] (played by Isaac W)
+The Equilibrium is a Way of the Open Hand Dwarf Monk and a [[Peacekeeper]] (played by Isaac W)
 ##### Appearance 
 
 ##### Personality 

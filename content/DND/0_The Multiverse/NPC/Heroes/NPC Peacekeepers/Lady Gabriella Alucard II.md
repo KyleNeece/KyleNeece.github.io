@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Co
 ---
 
 ##### Brief Summary 
-Lady Gabriella Alucard II is a Vampire Gunslinger originating from the Shadowfell and S-Rank [[Peacekeeper Force]]
+Lady Gabriella Alucard II is a Vampire Gunslinger originating from the Shadowfell and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Lady Gabriella Alucard II.png]]
 ##### Personality 

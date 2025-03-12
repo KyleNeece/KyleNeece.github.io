@@ -6,7 +6,7 @@ tags:
 ---
 
 ##### Brief Summary  
-Chuck is a Heart of the Parasitic Rune Furbolg Odic and a [[Peacekeeper Force]] (played by Chicory)
+Chuck is a Heart of the Parasitic Rune Furbolg Odic and a [[Peacekeeper]] (played by Chicory)
 ##### Appearance 
 
 ##### Personality 

@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Co
 ---
 
 ##### Brief Summary 
-Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper Force]]
+Ludwig Van Scythe is a Simic Hybrid (just called a Hybrid) Order of the Mutant Bloodhunter originating from Ravnica and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Ludwig Van Scythe.png]]
 ##### Personality 

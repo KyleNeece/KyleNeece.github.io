@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Goblin/Merchant/, Felwinter_Saga_Cour_3/NPC]
 ---
 
 ##### Brief Summary 
-Sprocket McGob is a Goblin Merchant and S-Rank [[Peacekeeper Force]]
+Sprocket McGob is a Goblin Merchant and S-Rank [[Peacekeeper]]
 
 give subclass
 ##### Appearance 

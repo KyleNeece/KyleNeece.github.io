@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Dragonborn/Sorcerer/Draconic, Felwinter_Saga_Cou
 ---
 
 ##### Brief Summary 
-Laila Iceburn is a Dragonborn Sorcerer originating from Faerun and is a S-Rank [[Peacekeeper Force]]
+Laila Iceburn is a Dragonborn Sorcerer originating from Faerun and is a S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Laila Iceburn.png]]
 ##### Personality 

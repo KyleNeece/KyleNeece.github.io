@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Co
 ---
 
 ##### Brief Summary 
-Kabe-44 is a Warforged Vanguard, Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper Force]]
+Kabe-44 is a Warforged Vanguard, Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
 ##### Appearance 
 ![[Kabe-34.png]]
 ##### Personality 

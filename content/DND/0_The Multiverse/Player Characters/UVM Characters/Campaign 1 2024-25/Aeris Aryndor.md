@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
 ---
 
 ##### Brief Summary  
-Aeris Aryndor is a Circle of Stars Half-Elf Druid and [[Peacekeeper Force]] (played by Jackson R)
+Aeris Aryndor is a Circle of Stars Half-Elf Druid and [[Peacekeeper]] (played by Jackson R)
 ##### Appearance 
 ![[Aeris.png]]
 ##### Personality 
