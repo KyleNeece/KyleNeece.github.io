@@ -29,4 +29,4 @@ Johnny went with his sister Emily back home and called upon her family and their
 ###### Recruitment
 Johnny was auto recruited into the peacekeeper force and given S-Rank
 ##### Abilities  
-Johnny Sigiliph is a level 20 Sweet Science Pugilist 
+Johnny Sigiliph is a Sweet Science Pugilist 

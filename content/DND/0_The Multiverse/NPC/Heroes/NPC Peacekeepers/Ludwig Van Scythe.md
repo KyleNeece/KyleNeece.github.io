@@ -19,7 +19,7 @@ Ludwig throughout the entirety of the Felwinter saga was in magical slumber, wit
 ###### Recruitment
 Ludwig enlisted into the peacekeeper force, [[Jackson Felwinter]] automatically gave him an S-Rank grade due to reading about the legends that turned out to be reality. 
 ##### Abilities  
-Ludwig Van Scythe is a level 16th Order of the Mutant Bloodhunter 
+Ludwig Van Scythe is a Order of the Mutant Bloodhunter 
 
 ```statblock
 layout: Basic 5e Layout Copy

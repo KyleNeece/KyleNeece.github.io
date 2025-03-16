@@ -31,4 +31,4 @@ The party was also assigned a new regiment leader, [[Emily Sigiliph]]. The party
 ###### Recruitment
 Aeris Aryndor joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
-Aeris Aryndor is a level 8 Circle of Stars Druid
+Aeris Aryndor is a Circle of Stars Druid

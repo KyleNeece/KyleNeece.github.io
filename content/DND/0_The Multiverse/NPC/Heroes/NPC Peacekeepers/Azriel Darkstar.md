@@ -44,7 +44,7 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
  > [!Warning]- Spoilers Ahead
  > Azriel was never formerly inducted into the military force, but instead attended the academy. He became a Peacekeeper after Arangol was finally defeated.
 ##### Abilities  
-Tartarus was one of the strongest monsters in existence. Azriel was/is a level 20 Abyssal Runekeeper with a few epic boons 
+Tartarus was one of the strongest beings in existence. Azriel was/is a Abyssal Runekeeper with a few epic boons 
 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -81,7 +81,7 @@ traits:
     desc: Action, under detect magic effect. Freely interact with magic object or surface no set off
   - name: Causal Invocation
     desc: 10 charges, spned 1 to invoke inert rune again. Regain long rest
-  - name: Harmonic attunement and Dark ones Discourse
+  - name: Harmonic attunement and Dark Ones Discourse
     desc: when attune to magic item that bears a rune, attune to both no attunement slot. Prof with any equipment inscribed with Infernal or Abyssal and attune to any magic item no requirements
   - name: Omnipresence
     desc: Always aware of location of inscriped runes and if die, they remain inscribed

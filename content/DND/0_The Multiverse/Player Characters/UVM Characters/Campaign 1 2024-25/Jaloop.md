@@ -31,7 +31,7 @@ A few months after the hunt, Jaloop stayed in Sigil to study under [[Olivia Bird
 ###### Recruitment
 Jaloop joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a A-Rank peacekeeper
 ##### Abilities  
-Jaloop is a level 10 College of Lore Halfling Bard
+Jaloop is a College of Lore Halfling Bard
 ```statblock
 layout: Basic 5e Layout Copy
 image: Jaloop.Png

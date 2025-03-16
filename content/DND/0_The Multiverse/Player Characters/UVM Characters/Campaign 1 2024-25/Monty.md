@@ -34,7 +34,7 @@ A few months after the hunt, Monty studied Runic Magic on his own and worked to 
 ###### Recruitment
 Monty joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Otto]], [[Chuck]], [[Jaloop]], [[Akanos]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], [[Aeris Aryndor]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper.
 ##### Abilities  
-Monty is a Level 10 Jotun Dialect Stoneback Wukong Runekeeper 
+Monty is a Jotun Dialect Stoneback Wukong Runekeeper 
 
 ```statblock
 layout: Basic 5e Layout Copy

@@ -30,5 +30,5 @@ Malatar gathered all the Orc tribes he knew, telling them that this was their ti
 ###### Recruitment
 Malatar was auto admitted into the peacekeeper force and was given S-Rank
 ##### Abilities  
-Malatar is a level 16 Berserker Barbarian 
+Malatar is a Berserker Barbarian 
  

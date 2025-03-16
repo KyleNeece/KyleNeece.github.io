@@ -15,5 +15,5 @@ Maui Rockheart eventually ran into [[Alder]] in the Shadowfell within the [[City
 ###### Recruitment
 Maui's incredible feats of valor as well as his immense strength and power granted him the S-rank title
 ##### Abilities  
-Maui Rockheart is a level 16 Oath of Heroism Paladin
+Maui Rockheart is a Oath of Heroism Paladin
  

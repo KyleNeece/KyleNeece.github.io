@@ -32,7 +32,7 @@ Emily's wounds healed, and she called upon her family and their armies in order 
 ###### Recruitment
 Emily was auto recruited into the Peacekeeper force and was assigned S-Rank class
 ##### Abilities  
-Emily is a level 16 Battlemaster Fighter 
+Emily is a Battlemaster Fighter 
 
 ```statblock
 layout: Basic 5e Layout Copy

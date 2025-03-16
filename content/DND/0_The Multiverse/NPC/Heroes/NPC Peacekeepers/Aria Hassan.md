@@ -31,7 +31,7 @@ Aria began to travel the realms to mobilize the serpentine people, showing them 
 ###### Recruitment
 Aria was auto-recruited by the peacekeeper force after her return and was assigned S-Rank
 ##### Abilities  
-Aria is a level 16 Great Old One (2024) Warlock
+Aria is a Great Old One (2024) Warlock
 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -311,11 +311,11 @@ reactions:
     desc: Whenever Jurlungur takes fire, lightning, ice, thunder, or acid damage, as a reaction can reduce the damage to zero and deal damage to another target with 60 feet equal to the amount of damage reduced.
 ```
 
-###### Morgath
+###### Vronos
 ```statblock
 layout: Basic 5e Layout Copy
 image: 
-name: Morgath
+name: Vronos 
 size: Meduim 
 type: Undead Abberation
 alignment: Lawful Neutral 

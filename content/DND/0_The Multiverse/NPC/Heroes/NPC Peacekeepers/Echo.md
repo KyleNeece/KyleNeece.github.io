@@ -14,5 +14,5 @@ Nothing is known about Echo purely because no one knows if they actually exist o
 ###### Recruitment
 Echo is not formerly part of the peacekeeper organization, as they never show up to duty. Under [[Jackson Felwinter]]'s command, the peacekeeper organization will magically spawn "Echo Caches" at a location where Echo is needed. They give him the information, payment upfront, and equipment needed in order to complete the mission. 
 ##### Abilities  
-Echo is a 16th level Assassin Rogue
+Echo is a Assassin Rogue
   

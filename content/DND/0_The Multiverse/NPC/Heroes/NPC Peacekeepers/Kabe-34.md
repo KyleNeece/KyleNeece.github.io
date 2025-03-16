@@ -14,5 +14,5 @@ Having his memories stored and returned, Jotor created Kabe-34 as a defense mech
 ###### Recruitment
 [[Jackson Felwinter]] knowing about Jotor's machine building capabilities automatically admitted Kabe-34 into the force, giving him the S-rank title
 ##### Abilities  
-Kabe-34 is a level 17 Juggernaut Vanguard
+Kabe-34 is a Juggernaut Vanguard
  

@@ -14,4 +14,4 @@ Freya grew up in the slums of Ravnica, a commoner who became an aspiring actress
 ###### The Felwinter Saga
 Freya was one of [[Titania, Queen of Seelie Court]]'s main intelligence and black ops agents, along with Mark and [[Daliah]]. She was on the same mission as Mark and Daliah when dealing with a criminal underworld league. Freya was also unaffected by the Panmnesia spell due to being under Queen Titania's direct service. 
 ##### Abilities  
-Freya is a level 15 Lightspeeder Wyrd 
+Freya is a Lightspeeder Wyrd 

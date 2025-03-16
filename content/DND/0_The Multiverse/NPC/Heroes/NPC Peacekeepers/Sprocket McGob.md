@@ -16,5 +16,5 @@ Sprocket actually grew up on sigil, and came from a family of high wealth that r
 ###### Recruitment
 [[Jackson Felwinter]] gave him the S-Rank title and made him co-run the magic item system that [[Jotor Sparklefen]] also co-runs with him, making sure the peacekeepers get the best tech and items in the multiverse.
 ##### Abilities  
-Sprocket McGob is a level 16 Swindler merchant
+Sprocket McGob is a Swindler merchant
  

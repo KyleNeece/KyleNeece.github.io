@@ -29,7 +29,7 @@ After the battle, Olivia's mental state was too shattered to the point where she
  > [!Warning]- Spoilers Ahead
  > Per request of Jackson Felwinter, Olivia's trauma, mind and heart were fixed, with the downside of the Panmnesia spell
 ##### Abilities  
-Olivia is a level 16 College of Eloquence Bard 
+Olivia is a College of Eloquence Bard 
 
 ```statblock
 layout: Basic 5e Layout Copy

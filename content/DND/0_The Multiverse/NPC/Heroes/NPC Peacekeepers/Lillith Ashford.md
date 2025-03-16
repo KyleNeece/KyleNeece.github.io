@@ -30,5 +30,5 @@ Lillith Ashford gathered the Army of Evereska to help fight in the big battle to
 ###### Recruitment
 Lillith Ashford was auto admitted into the peacekeeper force due to her finesse, support and fighting capabilities and was given S-Rank
 ##### Abilities  
-Lillith is a level 17 Bladed Bravado Dancer
+Lillith is a Bladed Bravado Dancer
  

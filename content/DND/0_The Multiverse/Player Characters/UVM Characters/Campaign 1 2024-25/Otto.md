@@ -29,7 +29,7 @@ A few months after the hunt, Otto stayed in Sigil to study under [[Maui Rockhear
 ###### Recruitment
 Otto joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Chuck]], [[Jaloop]], [[Akanos]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], [[Aeris Aryndor]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
-Otto, The Forgotten, is a level 10 Hexblade Human Warlock 
+Otto, The Forgotten, is a Hexblade Human Warlock 
 
 ```statblock
 layout: Basic 5e Layout Copy

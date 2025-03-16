@@ -30,5 +30,5 @@ Through his research after the battle for Sigil, Jotor found that new and differ
 ###### Recruitment
 Jotor was recruited near the end of his adulthood moving into his granhood. Despite his age, Jotor is still a adequate combatant and has not lost a step. Before the transfer of Peacekeeper ownership to Jackson Felwinter, Will recruited Jotor, who is now the lead weapon designer and artifact researcher of the organization. 
 ##### Abilities  
-Jotor is a 16th level Battlesmith Artificer
+Jotor is a Battlesmith Artificer
  

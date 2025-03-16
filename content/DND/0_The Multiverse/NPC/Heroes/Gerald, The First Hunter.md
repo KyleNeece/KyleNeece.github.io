@@ -15,4 +15,4 @@ Gerald along with other Profane Soul Hunter's receive their powers from [[Sai Mo
 When he was younger, Gerald ordered for the Extinction of the Order of the Mutant Blood Hunters (Including [[Ludwig Van Scythe]]) after their killing and harvesting DNA of the Great Old One washed up on a beach of a fishing village located along the outskirts of Evernight.  
 Gerald oversees the Hunt, which is a yearly occurrence within the City of Evernight due to Sai Mona's dream. 
 ##### Abilities  
-Gerald is a level 16 Order of the Profane Soul Blood Hunter 
+Gerald is a Order of the Profane Soul Blood Hunter 

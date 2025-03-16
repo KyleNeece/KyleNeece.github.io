@@ -34,5 +34,5 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
 ###### Recruitment
 Jackson became the leader of the Peacekeeper force and is arguably the most powerful S-Rank
 ##### Abilities  
-Jackson is a level 20 Path of the Worthy Magus with multiple epic boons
+Jackson is a Path of the Worthy Magus with multiple epic boons
  

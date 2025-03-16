@@ -3,7 +3,7 @@ tags: [Hero/Peacekeeper/S-Rank, Autognome/Cleric/Peace_Domain, Felwinter_Saga_Co
 ---
 
 ##### Brief Summary 
-Yasu-2 is a Autognome Peace Cleric, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
+Yasu-2 is a Autognome Light Cleric, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
 
 update links
 ##### Appearance 
@@ -36,7 +36,7 @@ When war began, Yasu-2 was one of the main leaders of the main infantry force, u
 ###### Recruitment
 Yasu-2 was auto-admitted into the Peacekeeper force, as Jackson Felwinter instantly knew their capabilities due to not losing his own memory, giving them the S-class Peacekeeper title
 ##### Abilities  
-Yasu-2 is a level 16 Peace Domain Cleric  
+Yasu-2 is a Light Domain Cleric  
 
 ```statblock
 layout: Basic 5e Layout Copy

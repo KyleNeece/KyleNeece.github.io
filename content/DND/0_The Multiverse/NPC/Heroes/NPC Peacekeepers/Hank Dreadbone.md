@@ -30,4 +30,4 @@ Hank gathered the dead corpses of evil beings and shared his curse with them, re
 ###### Recruitment
 Hank Dreadbone was automatically recruited into the peacekeeper force as an S-Rank
 ##### Abilities  
-Hank Dreadbone is a level 16 Curse of Possession Accursed 
+Hank Dreadbone is a Curse of Possession Accursed 

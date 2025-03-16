@@ -29,5 +29,5 @@ Ryū Hoshi gathered the Pandaren people from Kara-Tur, and partook in the big ba
 ###### Recruitment
 Ryū Hoshi was auto admitted into the peacekeeper force due to his raw power and was given S-Rank
 ##### Abilities  
-Ryū Hoshi is a level 16 Sign of the Dragon Zodiac 
+Ryū Hoshi is a Sign of the Dragon Zodiac 
  

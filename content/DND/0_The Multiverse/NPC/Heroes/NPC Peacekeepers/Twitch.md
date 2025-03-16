@@ -26,5 +26,5 @@ Twitch gathered legendary warriors far and wide, and they all agreed to temporar
  > [!Warning]- Spoilers Ahead
  > Twitch was looking over the battle scene when the Panmnesia spell hit, losing all his memories thereafter
 ##### Abilities  
-Twitch is a level 17 Warrior Dynasty Sovereign
+Twitch is a Warrior Dynasty Sovereign
  
