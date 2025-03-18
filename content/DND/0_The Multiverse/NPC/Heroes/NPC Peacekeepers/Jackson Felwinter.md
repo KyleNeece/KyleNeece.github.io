@@ -35,4 +35,34 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
 Jackson became the leader of the Peacekeeper force and is arguably the most powerful S-Rank
 ##### Abilities  
 Jackson is a Path of the Worthy Magus with multiple epic boons
- 
+
+bahamut 
+
+true evo
+
+**Magic Items**
+- Legendary
+	- True Magi's Blade 
+	- Bahamuts Wondrous Figurine of Power (Dragon)
+- Very Rare
+	- Scaled ornamnet?
+	- Sanctum amulet (maybe jackson)
+	- Absolute Tome of Clear Thought
+	- Sealing Hedrons?
+	- Clockwork Armor?
+- Rare 
+	- Mirror of the past?
+	- Necklace of fireballs? (recharge)
+	- Scorpion armor? 
+	- Cloak of displacement?
+	- ring of spellstoring?
+	- ring of protection
+- Uncommon 
+	- 
+	- 
+	- 
+	- 
+- Common 
+	- 
+	- 
+	- 

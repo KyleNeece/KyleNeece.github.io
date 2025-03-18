@@ -5,7 +5,6 @@ tags: [Hero/Peacekeeper/S-Rank, Autognome/Cleric/Peace_Domain, Felwinter_Saga_Co
 ##### Brief Summary 
 Yasu-2 is a Autognome Light Cleric, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
 
-update links
 ##### Appearance 
 ![[Yasu-2.png]]
 ##### Personality 
@@ -46,7 +45,7 @@ size: Small
 type: Autognome
 subtype: Cleric
 alignment: Lawful Good
-ac: 17
+ac: 19
 hp: 131
 hit_dice: 16d8
 speed: 30
@@ -74,8 +73,8 @@ languages: Common, Gnomish
 cr: 16
 spells: 
   - Cantrips: Light, Guidance, Toll The Dead, Sacred Flame, Thaumaturgy
-  - 1st level: Burning Hands, Faerie Fire, others prepared 
-  - 2nd level: Flame Sphere, Scorching Ray, others prepared
+  - 1st level: Burning Hands, Faerie Fire, Gift of Alacrity 1x free/Long Rest, others prepared 
+  - 2nd level: Flame Sphere, Scorching Ray, Misty Step 1x free/Long Rest, others prepared
   - 3rd level: Daylight, Fireball, others prepared
   - 4th level: Guardian of Faith, Wall of Fire, others prepared
   - 5th level: Flame Strike, Scying, others prepared
@@ -106,7 +105,29 @@ reactions:
     desc: You can interpose divine light between yourself or another creature and an attacking enemy. WWhen a creature that you can see within 30 feet of you makes an attack roll, you can use your Reaction to impose Disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. 6x/Long Rest
 ```
 
-res con 
-wis 2 
 half feat 
-elemental adept 
+final evo
+
+**Magic Items**
+- Legendary
+	- [[Core of Everbrightening Peace]]
+	- Powered Armor
+- Very Rare
+	- Tome of Understanding
+	- Battery of Hellish Flames (rod attunemnet) 
+	- Arcane Propulsion Arm(s)
+- Rare 
+	- Integral Mizzium Mortar 
+	- Sigil of the Mountebank (cape)
+	- Mizzium Armor
+ - Uncommon
+	- Adamantine Plating
+	- Sentinel Third Eye
+	- Peacekeeper Communication Device (Carving)
+	- Compartment of Holding (bag)
+- Common 
+	- Cleansing Function (stone)
+	- Orb of HUD
+	- Integral Spellshard
+
+

@@ -1,10 +1,14 @@
 ---
 tags: [DMs_Tools]
 ---
+**For stat blocks include magic items and other notes**
+- **3 + 1 commons per and (1 extra common)**
+- **4 + 1 uncommon for each, (4 extra uncommon)**
+- **3 + 1 rare (for each but 5 extra rare)**
+- **3 each (1 extra very rare)**
+- **Legendary 2 per person**
 
 Make statblocks for all important npcs of the arc 
-**TBD, come up with ressurection session/mission/conditions for it to happen**
-
 
 **Further plot points and act 3 PC to npc relations**
 - **Otto** --> looses his power from Raven Queen after killing Azriel as she no longer has a use for him, sign new contract with Azriel becoming his first Warlock

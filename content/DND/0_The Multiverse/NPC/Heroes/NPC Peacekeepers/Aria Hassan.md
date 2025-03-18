@@ -94,6 +94,8 @@ reactions:
     desc: 
 ```
 
+final evo
+
 Potential Invocations: 
 - Agonizing Blast
 - Ascendant step
@@ -126,6 +128,31 @@ Potential Invocations:
 - repelling blast 
 - Tomb of levestis 
 - voice of the chain master
+
+**Magic Items**
+- Legendary
+	- Rakdos Riteknife 
+	- Cloak of Consuming Dreams
+- Very Rare
+	- Ghost step tattoo?
+	- 
+	- 
+- Rare
+	- Dagger of venom or dragontooth dager?
+	- Horn of the abyss?
+	- Horn of Valhalla?
+	- Serpants fang?
+	- Mind Crystal
+	- Cube of Summoning
+- Uncommon
+	- 
+	- 
+	- 
+	- 
+- Common
+	- 
+	- 
+	- 
 
 ##### Spirit Summons (via Cloak of Consuming Dreams)
 

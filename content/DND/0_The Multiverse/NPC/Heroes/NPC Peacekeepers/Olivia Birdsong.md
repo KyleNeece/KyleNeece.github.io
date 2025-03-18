@@ -40,7 +40,7 @@ type: Elf
 subtype: Bard
 alignment: Neutral Good
 ac: 16
-hp: 100
+hp: 115
 hit_dice: 16d8
 speed: 30
 stats: [8, 16, 14, 12, 16, 22]
@@ -62,13 +62,13 @@ skillsaves:
   - Brewers: +5
   - Pick One/long rest: X+5
   - Others: +2
-senses: passive perception 14
+senses: Passive perception 18
 languages: Common, Elven, Sylvan
 cr: 16
 spells: 
   - Cantrips: Vicious Mockery, Mage Hand, Minor Illusion, Prestidigitation, Dancing Lights
-  - 1st level: Command, Silvery Barbs, Healing Word
-  - 2nd level: Hold Person, Enhance Abillity, Suggestion, Pass without trace
+  - 1st level: Command, Healing Word, Speak with Animals, Silvery Barbs 1x/long rest
+  - 2nd level: Hold Person, Enhance Abillity, Suggestion, Pass without trace, Misty Step 1x/Long Rest
   - 3rd level: Hypnotic Pattern, Counterspell, Leomund's Tiny Hut
   - 4th level: Dimension Door, Find Greater Steed
   - 5th level: Hold Monster, Animate Objects
@@ -100,3 +100,31 @@ reactions:
 ```
 
 fill in attack rolls
+final evo
+
+**Magic Items**
+- Legendary
+	- Mask of Personas 
+	- Moonblade 
+- Very Rare
+	- Tome of Leadership and Influence
+	- Necklace of Charming (modified staff) 
+	- Whistle of exile? (chime)
+- Rare
+	- Glamoured Studded Leather
+	- Eagle Whistle
+	- Whistle of building (attunemnet)
+ - Uncommon
+	- Ring of Find Familiar
+	- Whistle of Haunting (pipes)
+	- Peacekeeper Communication Device (Earing)
+	- Whistle of Magic Detection (wand)
+- Common 
+	- Clothes of Mending
+	- Wand of Conducting
+	- Glamerweave
+
+moonblade additional features
+staff of birdcalls
+staff of flowers
+

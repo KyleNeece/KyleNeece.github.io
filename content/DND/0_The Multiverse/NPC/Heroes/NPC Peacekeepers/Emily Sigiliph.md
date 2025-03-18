@@ -42,8 +42,8 @@ size: Meduim
 type: Human
 subtype: Fighter
 alignment: Neutral Good
-ac: 22
-hp: 176
+ac: 21
+hp: 180
 hit_dice: 16d10
 speed: 30
 stats: [22, 20, 20, 16, 14, 12]
@@ -96,17 +96,24 @@ reactions:
     desc: When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 ```
 
-weapon necklace 
-  - name: Weapon of Legends (similar to rod of mecurial form)
-    desc: As a free action, the pen can transform into a various legendary weapons. (All are Vorpal, Weighs 9000 pounds)
-
-
-
-imobolizing impalement
-desc: "Once per turn, you can make a weapon attack at disadvantage. On hit, the damage type changes to piercing and the target must make a atheltics check dc30 or else be restrained. The target can repeat the check each turn."
-  
-  name: Promised Victory 
-    desc: Once per week, Emily can channel all her might into the weapon, making a weapon attack so strong it ensures victory. Everyone within a choosen distance long and 5 foot wide line must make a dexterity saving throw. Each creature takes 40d6 force damage on a fail and half as mmuch on a success
-
-
-add naked effect
+**Magic Items**
+- Legendary
+	- [[Weapon of Legends]]
+	- Sigiliph Skeletal Caraspace 
+- Very Rare
+	- [[Potions of Random Brew]]
+	- Forcebreaker Gemstone (Weapon)
+	- Manual of Bodily Health 
+- Rare
+	- [[Mantle of Spell Resistance]]
+	- Figurine of Wondrous Power (Bronze Griffon)
+	- Book of Weapon Papers
+- Uncommon
+	- Ring of Find Familiar 
+	- Implant of Goggles of Night
+	- Implant of Revealing Lantern
+	- Peacekeeper Communication Device (Earing)
+- Common 
+	- Implant Earhorn of Hearing
+	- Clothes of Mending
+	- Cast off Armor

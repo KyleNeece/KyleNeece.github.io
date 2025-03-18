@@ -1,6 +1,7 @@
 ---
 tags: [Hero/Peacekeeper/S-Rank, Nephilim/Runekeeper/Fiendish, Felwinter_Saga_Cour_2/FPC_NNPC, Villian]
 ---
+**update runes today**
 
 ##### Brief Summary 
 Azriel Darkstar was a [[Nephalem]] who attended [[Peacekeeper Academy]], who later ascended to godhood by the multiversal runes, becoming Tartarus enslaver of worlds. After his rebirth and purification, he is arguably considered the strongest in the [[Peacekeeper]]
@@ -55,9 +56,9 @@ type: Nephilim
 subtype: Runekeeper
 alignment: Neutral Good
 ac: 18
-hp: 187
+hp: 180
 hit_dice: 20d8
-speed: 
+speed: 30 walk and fly
 stats: [20, 16, 18, 24, 14, 16]
 fage_stats: 
 saves:
@@ -115,7 +116,36 @@ reactions:
   - name: Rune Reactions
     desc: See Runes
 ```
- edit block
+
+true evo and edit runes
+
+**Epic boons**
+- Boon of Immortality
+- Boon of Invincibility
+- Boon of Recovery (2024)
+- Boon of Irresistible offense (2024)
+
+**Magic Items**
+- Legendary
+	- [[Heaven and Hell]]
+	- Armor of Invulnerability 2024
+- Very Rare
+	- Absolute Tome of Clear Thought 
+	- Lifewell Tattoo
+	- Manual of Bodily Health
+- Rare
+	- Implant of Soul Judgement
+	- Glowrune Pigment 
+	- Periapt of Proof against Poison
+- Uncommon 
+	- Implant Portal Compass
+	- Peacekeeper Communication Device (Tattooed Rune)
+	- 
+	- Implant of Eyes of Minute Seeing
+- Common
+	- Implant Enduring Lexicon
+	- Implant of Lantern Tracking
+	- Smoldering Armor 
 
 | Rune Name and File                                             | Language                        | Prerequisites                                                                                                                                                    | Invoking Time                                                                                     | Duration      |
 | -------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------- |
