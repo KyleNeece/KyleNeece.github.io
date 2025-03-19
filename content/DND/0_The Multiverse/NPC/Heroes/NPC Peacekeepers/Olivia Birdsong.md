@@ -104,27 +104,27 @@ final evo
 
 **Magic Items**
 - Legendary
-	- Mask of Personas 
-	- Moonblade 
+	- [[Mask of Personas]]
+	- [[Moonblade]] 
 - Very Rare
-	- Tome of Leadership and Influence
-	- Necklace of Charming (modified staff) 
-	- Whistle of exile? (chime)
+	- [[Tome of Leadership and Influence]]
+	- [[Staff of Charming|Tattoo of Charming]]
+	- [[Chime of Exile|Whistle of Exile]]
 - Rare
-	- Glamoured Studded Leather
-	- Eagle Whistle
-	- Whistle of building (attunemnet)
+	- [[Glamoured Studded Leather]]
+	- [[Eagle Whistle]]
+	- [[Lyre of Building|Whistle of Building]]
  - Uncommon
-	- Ring of Find Familiar
-	- Whistle of Haunting (pipes)
-	- Peacekeeper Communication Device (Earing)
-	- Whistle of Magic Detection (wand)
+	- [[Ring of Find Familiar]]
+	- [[Pipes of Haunting|Whistle of Haunting]] 
+	- [[Peacekeeper Communication Device]] (Earring)
+	- [[Wand of Magic Detection|Whistle of Magic Detection]]
 - Common 
-	- Clothes of Mending
-	- Wand of Conducting
-	- Glamerweave
+	- [[Clothes of Mending]]
+	- [[Staff of Birdcalls|Voice of Birdcalls]]
+	- [[Glamerweave]]
 
 moonblade additional features
-staff of birdcalls
+wand of conducting
 staff of flowers
 

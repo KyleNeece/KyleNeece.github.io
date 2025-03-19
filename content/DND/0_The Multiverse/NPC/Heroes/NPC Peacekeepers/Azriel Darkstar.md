@@ -1,5 +1,9 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Nephilim/Runekeeper/Fiendish, Felwinter_Saga_Cour_2/FPC_NNPC, Villian]
+tags:
+  - Hero/Peacekeeper/S-Rank
+  - "#Nephalem/Runekeeper/Fiendish"
+  - Felwinter_Saga_Cour_2/FPC_NNPC
+  - Villian
 ---
 **update runes today**
 
@@ -120,32 +124,32 @@ reactions:
 true evo and edit runes
 
 **Epic boons**
-- Boon of Immortality
-- Boon of Invincibility
-- Boon of Recovery (2024)
-- Boon of Irresistible offense (2024)
+- [[Boon of Immortality]]
+- [[Boon of Invincibility]]
+- [[Boon of Recovery (2024)]]
+- [[Boon of Irresistible offense]]
 
 **Magic Items**
 - Legendary
 	- [[Heaven and Hell]]
 	- Armor of Invulnerability 2024
 - Very Rare
-	- Absolute Tome of Clear Thought 
-	- Lifewell Tattoo
-	- Manual of Bodily Health
+	- [[Tome of Clear Thought |Absolute Tome of Clear Thought]]
+	- [[Lifewell Tattoo]]
+	- [[Manual of Bodily Health]]
 - Rare
 	- Implant of Soul Judgement
-	- Glowrune Pigment 
-	- Periapt of Proof against Poison
+	- [[Glowrune Pigment]]
+	- [[Periapt of Proof against Poison]]
 - Uncommon 
-	- Implant Portal Compass
-	- Peacekeeper Communication Device (Tattooed Rune)
+	- [[Portal Compass]]
+	- [[Peacekeeper Communication Device]] (Custom minor Rune)
 	- 
-	- Implant of Eyes of Minute Seeing
+	- [[Eyes of Minute Seeing]]
 - Common
-	- Implant Enduring Lexicon
-	- Implant of Lantern Tracking
-	- Smoldering Armor 
+	- [[Enduring Lexicon]]
+	- [[Lantern of Tracking|Rune of Tracking]]
+	- [[Smoldering Armor]]
 
 | Rune Name and File                                             | Language                        | Prerequisites                                                                                                                                                    | Invoking Time                                                                                     | Duration      |
 | -------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------- |

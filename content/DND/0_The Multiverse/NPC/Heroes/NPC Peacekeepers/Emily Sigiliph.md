@@ -8,7 +8,7 @@ Emily Sigiliph is a Human Fighter originating from Neverwinter, a S-Rank Peaceke
 ![[Emily-Sigiliph.png]]
 ##### Personality 
 Emily Sigiliph is loyal, tactical, and disciplined but perfectionist and over-critical. Emily enjoys combat and gets decently excited over it, especially sparring new people she meets. While Emily is disciplined, she is not afraid to play dirty in mortal combat. She believes you have to use every tactic and strategy you got in order to win. However, Emily draws the line with giving up your close comrades in order to win. While she isn't extremely close with her brother, she always makes sure to give him tough sibling love. 
-##### Brief History/Timeline   
+##### Brief History/Timeline 
 ###### Adolescence
 Emily grew up in a militaristic family, along with Johnny Sigiliph. The two would train in all forms of combat as physical activity and sport. While her brother relied on brute strength to win fights, Emily relied more on technique to win her fights. The two were enlisted into military service at young ages and were even deemed as squadron captains during their teenage years. With the opening of the Peacekeeper academy, their father and mother urged them to enroll, in order to learn and study with similar caliber warriors. 
 ###### Twin Prodigies Arc
@@ -101,7 +101,7 @@ reactions:
 - Very Rare
 	- [[Potions of Random Brew]]
 	- [[Forcebreaker Weapon|Force Gemstone]]
-	- [[Manual of Bodily Health]]
+	- [[DND/0_The Multiverse/Magic Items/Manual of Bodily Health]]
 - Rare
 	- [[Mantle of Spell Resistance]]
 	- [[Figurine of Wondrous Power|Figurine of Wondrous Power (Bronze Griffon)]]
@@ -110,7 +110,7 @@ reactions:
 	- [[Alchemy Jug]]
 	- [[Goggles of Night|Implant of Nightvision]]
 	- [[Lantern of Revealing|Implant of Revealing]]
-	- [[Peacekeeper Communication Device]] (Earing)
+	- [[Peacekeeper Communication Device]] (Earring)
 - Common 
 	- [[Earhorn of Hearing|Earring of Hearing]]
 	- [[Clothes of Mending]]

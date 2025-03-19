@@ -111,23 +111,23 @@ final evo
 **Magic Items**
 - Legendary
 	- [[Core of Everbrightening Peace]]
-	- Powered Armor
+	- [[Powered Armor]]
 - Very Rare
-	- Tome of Understanding
-	- Battery of Hellish Flames (rod attunemnet) 
-	- Arcane Propulsion Arm(s)
+	- [[Tome of Understanding]]
+	- [[Rod of Hellish Flames|Battery of Celestial Flames]]
+	- [[Arcane Propulsion Arm]]s
 - Rare 
-	- Integral Mizzium Mortar 
-	- Sigil of the Mountebank (cape)
-	- Mizzium Armor
+	- [[Mizzium Mortar]]
+	- [[Cape of the Mountebank]] (inscription)
+	- [[Mizzium Armor|Mizzium Armor Plating]]
  - Uncommon
-	- Adamantine Plating
-	- Sentinel Third Eye
-	- Peacekeeper Communication Device (Carving)
-	- Compartment of Holding (bag)
+	- [[Driftglobe]]
+	- [[Sentinel Shield|Sentinel Plating]] 
+	- [[Peacekeeper Communication Device]] (Part of HUD Display)
+	- [[Bag of Holding|Compartment of Holding]]
 - Common 
-	- Cleansing Function (stone)
-	- Orb of HUD
-	- Integral Spellshard
+	- [[Cleansing Stone|Cleansing Function]]
+	- [[HUD Display]]
+	- [[Spellshard]]
 
 
