@@ -127,7 +127,7 @@ true evo and edit runes
 - [[Boon of Immortality]]
 - [[Boon of Invincibility]]
 - [[Boon of Recovery (2024)]]
-- [[Boon of Irresistible offense]]
+- [[Boon of Irresistible Offense]]
 
 **Magic Items**
 - Legendary
