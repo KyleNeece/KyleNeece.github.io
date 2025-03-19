@@ -1,5 +1,6 @@
 ---
-tags: [Peacekeeper/Equipment, Magic_Item]
+tags:
+  - Peacekeeper/Equipment
 ---
 
 The Battlerager's Cleaver is [[Gorlock (Rhulk)]]'s Battleaxe.

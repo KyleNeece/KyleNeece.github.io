@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 Powered Armor is a magical Plate suit of armor 
 - It takes the form of however the creature desires and is a reflection of the wearer
 
@@ -20,3 +24,4 @@ You can also find more upgrades for the suit, either pulling from the [Powered A
 
 **Known Possessors**
 - [[Yasu-2]] (integrated into body)
+ 

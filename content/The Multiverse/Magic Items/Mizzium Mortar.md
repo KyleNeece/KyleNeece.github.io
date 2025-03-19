@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 This short tube, about 2 feet long and 6 inches in diameter, is made from mizzium, a magically enhanced metal alloy forged by the lzzet League. The end that's pointed toward a target is open, and a glowing ball of molten metal can be seen at the other end as long as the mortar has at least 1 charge remaining.
 
 The mortar has 4 charges for the following properties. It regains 1d4 expended charges daily at dawn.
@@ -8,3 +12,4 @@ The mortar has 4 charges for the following properties. It regains 1d4 expended c
 
 **Known Possessors**
 - [[Yasu-2]] (Integrated into his armored body)
+ 

@@ -16,8 +16,7 @@ In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** f
 
  > [!Important]
  > 
- > **3/7/25** - If you plan on viewing Cour 1 and Cour 2 (2.1 through 2.6), I'd highly advise against it until you reach a certain point in the campaign (which I will let you know) as it may contain heavy spoilers
- > (Your are so close though, just hold off a little bit more!)
+ > **3/7/25** - Depending on how much we get done next session you can view the whole vault after it
  
  > [!Important]
  > **Context to how to view this website and some of its entries**

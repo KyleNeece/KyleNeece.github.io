@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 Glowing cinders orbit the flanged head of this black iron rod.
 
 This rod can be used as an arcane focus. While holding this rod, you gain the following benefits:
@@ -9,4 +13,4 @@ This rod can be used as an arcane focus. While holding this rod, you gain the fo
 **Surge of Brimstone.** Whenever you cast a spell that deals fire or necrotic damage, you can use the rod to deal the maximum damage instead of rolling. Once this property is used, it can’t be used again until the next dawn.
 
 **Known Possessors**
-- [[Yasu-2]] (he had it integrated into his body in the form of a second and/or third battery to empower his spells, he cannot enhance necrotic damage but instead can enhance radiant)
+- [[Yasu-2]] (he had it integrated into his body in the form of a second and/or third battery to empower his spells, he cannot enhance necrotic damage but instead can enhance radiant) 

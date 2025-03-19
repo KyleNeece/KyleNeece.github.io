@@ -1,5 +1,6 @@
 ---
-tags: [Peacekeeper/Equipment, Magic_Item]
+tags:
+  - Peacekeeper/Equipment
 ---
 
 Das Sternben is [[Otto]]'s Crossguard Energyblade

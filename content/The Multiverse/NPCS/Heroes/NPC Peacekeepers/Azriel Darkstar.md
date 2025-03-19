@@ -132,19 +132,19 @@ true evo and edit runes
 **Magic Items**
 - Legendary
 	- [[Heaven and Hell]]
-	- Armor of Invulnerability 2024
+	- [[Armor of Invulnerability (2024)]]
 - Very Rare
 	- [[Tome of Clear Thought |Absolute Tome of Clear Thought]]
 	- [[Lifewell Tattoo]]
 	- [[Manual of Bodily Health]]
 - Rare
-	- Implant of Soul Judgement
+	- [[Judge of Soul Punishment]]
 	- [[Glowrune Pigment]]
 	- [[Periapt of Proof against Poison]]
 - Uncommon 
 	- [[Portal Compass]]
 	- [[Peacekeeper Communication Device]] (Custom minor Rune)
-	- 
+	- [[Infernal Puzzle Box]]
 	- [[Eyes of Minute Seeing]]
 - Common
 	- [[Enduring Lexicon]]

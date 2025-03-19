@@ -22,4 +22,3 @@ _Soul coins_ are created by Mammon and his greater devils on Minauros, the thir
 
 **Known Possessers**
 - [[Otto]]
- 

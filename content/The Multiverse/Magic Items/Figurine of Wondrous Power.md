@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 A Figurine of Wondrous Power is a magical figurine 
 
 - A _Figurine of Wondrous Power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
@@ -47,3 +51,4 @@ actions:
 - [[Emily Sigiliph]]
 - [[Jackson Felwinter]] (Special Version Gifted by Bahamut, see [[Bahamuts Wonderous Figurine of Power (Dragon)]])
 	- [[Aria Hassan]] temporarily had possession of it but could not access its fully capabilities 
+ 

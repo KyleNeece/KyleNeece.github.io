@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 Sigiliph Skeletal Caraspace is [[Emily Sigiliph]] and [[Johnny Sigiliph]]'s human skeleton
 ###### Abilities 
 The Skeletal Caraspace is the bone structure of the Sigiliph siblings. 
@@ -9,3 +13,4 @@ The Skeletal Caraspace is the bone structure of the Sigiliph siblings.
 - Your movement speed increases by 5 and your strength is set to 22
 - Grants Awakened Power 
 	- Once per day for 5 minutes, Emily can use her full power. She gains 50 temporary hp, advantage on all weapon attack rolls, deals extra 2d12 force damage, crits on a 19-20 and doubles and gives a flying speed until the end of her turns. This can be deactivated as a bonus action to conserve time. 
+ 

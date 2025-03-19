@@ -1,5 +1,6 @@
 ---
-tags: [Peacekeeper/Equipment, Magic_Item]
+tags:
+  - Peacekeeper/Equipment
 ---
 
 The Arditi is a pair of dual Knife Gauntlets used by [[Akanos]] (when the fingers are together, it creates a longer blade, when they are not, they are smaller individual knives)

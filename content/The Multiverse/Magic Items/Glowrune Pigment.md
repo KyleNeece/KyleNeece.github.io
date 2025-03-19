@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 This set of 1d4 + 2 small paint pots contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint.
 
 One paint pot contains enough pigment to paint one rune. A creature can spend 10 minutes to paint one of the following runes onto itself or another creature:
@@ -16,3 +20,4 @@ A creature can benefit from only one painted rune at a time, so a new rune paint
 
 **Known Possessors**
 - [[Azriel Darkstar]] (rechargeable after a week or by other special circumstances)
+ 

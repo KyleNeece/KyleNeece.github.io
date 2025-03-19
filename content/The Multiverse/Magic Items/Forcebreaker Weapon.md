@@ -1,3 +1,7 @@
+---
+tags: [Magic_Item]
+---
+
 A Force Breaker Weapon is a Magical Weapon 
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -5,4 +9,4 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 **Known Users**
 - [[Emily Sigiliph]] (Received a Gem version and imbued it into her [[Weapon of Legends]], though it did not receive the +2 bonus due to being a +3 weapon already) 
-
+ 

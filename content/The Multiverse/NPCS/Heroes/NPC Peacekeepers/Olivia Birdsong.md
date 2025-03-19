@@ -116,7 +116,7 @@ final evo
 	- [[Lyre of Building|Whistle of Building]]
  - Uncommon
 	- [[Ring of Find Familiar]]
-	- [[Pipes of Haunting|Whistle of Haunting]] 
+	- [[Helm of Comprehending Languages|Whistle of Comprehend Languages]] 
 	- [[Peacekeeper Communication Device]] (Earring)
 	- [[Wand of Magic Detection|Whistle of Magic Detection]]
 - Common 
@@ -124,7 +124,5 @@ final evo
 	- [[Staff of Birdcalls|Voice of Birdcalls]]
 	- [[Glamerweave]]
 
-moonblade additional features
-wand of conducting
-staff of flowers
+
 
