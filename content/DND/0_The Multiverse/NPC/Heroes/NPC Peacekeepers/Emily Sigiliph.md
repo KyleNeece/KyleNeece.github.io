@@ -101,11 +101,11 @@ reactions:
 - Very Rare
 	- [[Potions of Random Brew]]
 	- [[Forcebreaker Weapon|Force Gemstone]]
-	- [[DND/0_The Multiverse/Magic Items/Manual of Bodily Health]]
+	- [[Manual of Bodily Health]]
 - Rare
 	- [[Mantle of Spell Resistance]]
 	- [[Figurine of Wondrous Power|Figurine of Wondrous Power (Bronze Griffon)]]
-	- [[Book of Weapon Papers]]
+	- [[Empty Shell of Elementals]]
 - Uncommon
 	- [[Alchemy Jug]]
 	- [[Goggles of Night|Implant of Nightvision]]
