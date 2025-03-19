@@ -45,7 +45,7 @@ alignment: Neutral Good
 ac: 21
 hp: 180
 hit_dice: 16d10
-speed: 30
+speed: 35
 stats: [22, 20, 20, 16, 14, 12]
 fage_stats: 
 saves:
@@ -89,8 +89,6 @@ actions:
 bonus_actions:
   - name: Unarmed Strike or Grapple (or part of attack action)
     desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 1d8+7 bludgeoning"
-  - name: Awakened Power
-    desc: Once per day for 5 minutes, Emily can use her full power. She gains 50 temporary hp, advantage on all weapon attack rolls, deals extra 2d12 force damage, crits on a 19-20 and doubles and gives a flying speed until the end of her turns. This can be deactivated as a bonus action to conserve time. 
 reactions:
   - name: Sentinel
     desc: When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
@@ -99,21 +97,22 @@ reactions:
 **Magic Items**
 - Legendary
 	- [[Weapon of Legends]]
-	- Sigiliph Skeletal Caraspace 
+	- [[Sigiliph Skeletal Caraspace]]
 - Very Rare
 	- [[Potions of Random Brew]]
-	- Forcebreaker Gemstone (Weapon)
-	- Manual of Bodily Health 
+	- [[Forcebreaker Weapon|Force Gemstone]]
+	- [[Manual of Bodily Health]]
 - Rare
 	- [[Mantle of Spell Resistance]]
-	- Figurine of Wondrous Power (Bronze Griffon)
-	- Book of Weapon Papers
+	- [[Figurine of Wondrous Power|Figurine of Wondrous Power (Bronze Griffon)]]
+	- [[Book of Weapon Papers]]
 - Uncommon
-	- Ring of Find Familiar 
-	- Implant of Goggles of Night
-	- Implant of Revealing Lantern
-	- Peacekeeper Communication Device (Earing)
+	- [[Alchemy Jug]]
+	- [[Goggles of Night|Implant of Nightvision]]
+	- [[Lantern of Revealing|Implant of Revealing]]
+	- [[Peacekeeper Communication Device]] (Earing)
 - Common 
-	- Implant Earhorn of Hearing
-	- Clothes of Mending
-	- Cast off Armor
+	- [[Earhorn of Hearing|Earring of Hearing]]
+	- [[Clothes of Mending]]
+	- [[Cast off Armor]]
+
