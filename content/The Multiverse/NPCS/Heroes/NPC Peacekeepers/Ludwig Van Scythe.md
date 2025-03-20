@@ -1,5 +1,8 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Warforged/Vanguard/Juggernaut, Felwinter_Saga_Cour_2/NPC]
+tags:
+  - Hero/Peacekeeper/S-Rank
+  - Warforged/Vanguard/Juggernaut
+  - Felwinter_Saga_Cour_3/NPC
 ---
 
 ##### Brief Summary 
