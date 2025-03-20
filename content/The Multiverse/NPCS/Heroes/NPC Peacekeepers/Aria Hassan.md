@@ -341,7 +341,7 @@ reactions:
 ###### Vronos
 ```statblock
 layout: Basic 5e Layout Copy
-image: 
+image: Vronos.png
 name: Vronos 
 size: Meduim 
 type: Undead Abberation

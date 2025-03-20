@@ -94,6 +94,8 @@ reactions:
     desc: When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 ```
 
+make naked effect
+
 **Magic Items**
 - Legendary
 	- [[Weapon of Legends]]
