@@ -5,7 +5,7 @@ tags: [Hero/Peacekeeper/S-Rank, Human/Fighter/Battlemaster, Felwinter_Saga_Cour_
 ##### Brief Summary 
 Emily Sigiliph is a Human Fighter originating from Neverwinter, a S-Rank Peacekeeper, and [[Johnny Sigiliph]]'s Sister
 ##### Appearance
-![[Emily Sigiliph.png]]
+![[Emily-Sigiliph.png]]/
 ##### Personality 
 Emily Sigiliph is loyal, tactical, and disciplined but perfectionist and over-critical. Emily enjoys combat and gets decently excited over it, especially sparring new people she meets. While Emily is disciplined, she is not afraid to play dirty in mortal combat. She believes you have to use every tactic and strategy you got in order to win. However, Emily draws the line with giving up your close comrades in order to win. While she isn't extremely close with her brother, she always makes sure to give him tough sibling love. 
 ##### Brief History/Timeline 
