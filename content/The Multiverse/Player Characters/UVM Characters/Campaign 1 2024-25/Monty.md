@@ -126,7 +126,3 @@ reactions:
 - [[Red Lamp]]
 - [[Gifted Hunter's Trench Coat]]
 - [[Bottle of Boundless Coffee]]
-
-###### Runekeeper PDF reference
-![[RuneKeeper.pdf]]
-

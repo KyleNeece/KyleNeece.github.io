@@ -8,7 +8,7 @@ Yasu-2 is a Autognome Light Cleric, a Sentient creation of [[Jotor Sparklefen]],
 ##### Appearance 
 ![[Yasu-2.png]]
 ##### Personality 
-Yasu-2 is tranquill and honest, always providing insight to whatever person or situation benefits. Yasu often attempts to spread the word of Iallanis, spreading its beliefs in hopes that people will work for a kinder and more peaceful existence. Since obtaining "peace" can happen in multiple ways, Yasu-2 is not opposed to combat, as sometimes the best way to spread peace is to silence those who won't comply.
+Yasu-2 is tranquil and honest, always providing insight to whatever person or situation benefits. Yasu often attempts to spread the word of Iallanis, spreading its beliefs in hopes that people will work for a kinder and more peaceful existence. Since obtaining "peace" can happen in multiple ways, Yasu-2 is not opposed to combat, as sometimes the best way to spread peace is to silence those who won't comply.
 ##### Brief History/Timeline   
 ###### Orgins
 Yasu-2 was created by Jotor Sparklefen and is his first sentient creation. Desipte Yasu-2 being extremely young (in Autognome years), he is extremely smart and insightful, due to Jotor imbuing fragments of knowledge into Yasu-2 during its creation. He was sent to the peacekeeper academy to learn more about others religion and beliefs of the supernatural.
@@ -35,7 +35,7 @@ When war began, Yasu-2 was one of the main leaders of the main infantry force, u
 ###### Recruitment
 Yasu-2 was auto-admitted into the Peacekeeper force, as Jackson Felwinter instantly knew their capabilities due to not losing his own memory, giving them the S-class Peacekeeper title
 ##### Abilities  
-Yasu-2 is a Light Domain Cleric  
+Yasu-2 is a Light Domain Cleric of Iallanis
 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -72,15 +72,16 @@ senses: passive perception 26
 languages: Common, Gnomish
 cr: 16
 spells: 
+  - "Yasu-2 is a 16th evel spellcaster. Its spellcasting abillity is wisdom (spell save DC 21, +13 to hit with spell attacks). It has the following spells prepared and can prepare an additional 22 at the beginning of each adventuring day"
   - Cantrips: Light, Guidance, Toll The Dead, Sacred Flame, Thaumaturgy
-  - 1st level: Burning Hands, Faerie Fire, Gift of Alacrity 1x free/Long Rest, others prepared 
-  - 2nd level: Flame Sphere, Scorching Ray, Misty Step 1x free/Long Rest, others prepared
-  - 3rd level: Daylight, Fireball, others prepared
-  - 4th level: Guardian of Faith, Wall of Fire, others prepared
-  - 5th level: Flame Strike, Scying, others prepared
-  - 6th level: others prepared
-  - 7th level: others prepared
-  - 8th level: others prepared
+  - 1st level: Burning Hands, Faerie Fire, Gift of Alacrity 1x free/Long Rest 
+  - 2nd level: Flame Sphere, Scorching Ray, Misty Step 1x free/Long Rest
+  - 3rd level: Daylight, Fireball
+  - 4th level: Guardian of Faith, Wall of Fire
+  - 5th level: Flame Strike, Scying
+  - 6th level: N/A
+  - 7th level: N/A
+  - 8th level: N/A
 traits:
   - name: Potent Spellcasting
     desc: You add your Wisdom modifier to the damage you deal with any cleric cantrip.
@@ -94,19 +95,16 @@ actions:
   - name: Harness Divine Power
     desc: At 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). 2x/long rest
   - name: Channel Divinity Radiance of the Dawn
-    desc: As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
+    desc: As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected. 2x/rest
   - name: Divine Intervention
     desc: You can call on your deity to intervene on your behalf when your need is great. Imploring your deity's aid requires you to use your action. Describe the assistance you seek. Your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days.
 bonus_actions:
-  - name: Certain spells 
-    desc: See spellist 
+  - name: Final Evo - Iallanis's Prophet
+    desc: Yasu-2 becomes a lesser divine instrument of Iallanis. For 1 minute his healing spells heal for an additional 2d8 hitpoints and grants the effect of lesser restoration, blinds creatures who fail saving throws against his spells, and adds his wisdom modifier to his damage rolls. 
 reactions:
   - name: Warding Flare
-    desc: You can interpose divine light between yourself or another creature and an attacking enemy. WWhen a creature that you can see within 30 feet of you makes an attack roll, you can use your Reaction to impose Disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. 6x/Long Rest
+    desc: You can interpose divine light between yourself or another creature and an attacking enemy. When a creature that you can see within 30 feet of you makes an attack roll, you can use your Reaction to impose Disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. 6x/Long Rest
 ```
-
-half feat 
-final evo
 
 **Magic Items**
 - Legendary
@@ -118,7 +116,7 @@ final evo
 	- [[Arcane Propulsion Arm]]s
 - Rare 
 	- [[Mizzium Mortar]]
-	- [[Cape of the Mountebank]] (inscription)
+	- [[Cape of the Mountebank]] 
 	- [[Mizzium Armor|Mizzium Armor Plating]]
  - Uncommon
 	- [[Driftglobe]]

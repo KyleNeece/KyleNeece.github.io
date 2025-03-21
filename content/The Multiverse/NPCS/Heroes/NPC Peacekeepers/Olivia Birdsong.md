@@ -47,25 +47,26 @@ stats: [8, 16, 14, 12, 16, 22]
 fage_stats:
 saves:
   - Strength: -1
-  - Dexterity: +8
-  - Constitution: +7 
+  - Dexterity: +8 (+1)
+  - Constitution: +7 (+1)
   - Intelligence: +1 adv vs charmed
   - Wisdom: +3 adv vs charmed
-  - Charisma: +11 adv vs charmed
+  - Charisma: +11 (+1) adv vs charmed
 skillsaves:
-  - Perssuasion: +17
-  - Deception: +17
-  - Sleight of Hand: +8
-  - Performance: +17
-  - Insight: + 13
-  - Perception: +8
-  - Brewers: +5
-  - Pick One/long rest: X+5
+  - Perssuasion: +17 (+1)
+  - Deception: +17 (+1)
+  - Sleight of Hand: +8 (+1)
+  - Performance: +17 (+1)
+  - Insight: + 13 (+1)
+  - Perception: +8 (+1)
+  - Brewers: +5 (+1)
+  - Pick One/long rest: X+5 (+1)
   - Others: +2
 senses: Passive perception 18
 languages: Common, Elven, Sylvan
 cr: 16
 spells: 
+  - "Olivia is a 16th evel spellcaster. Her spellcasting abillity is Charisma (spell save DC 20, +12 to hit with spell attacks). It has the following spells prepared"
   - Cantrips: Vicious Mockery, Mage Hand, Minor Illusion, Prestidigitation, Dancing Lights
   - 1st level: Command, Healing Word, Speak with Animals, Silvery Barbs 1x/long rest
   - 2nd level: Hold Person, Enhance Abillity, Suggestion, Pass without trace, Misty Step 1x/Long Rest
@@ -85,8 +86,8 @@ actions:
     desc: Choose one or more creatures within 60 feet of you, up to 6 (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour. 1x/long rest or expend spell slot
   - name: Countercharm 
     desc: As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
-  - name: 
-    desc: 
+  - name: Moonblade
+    desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 1d8+6 slashing and 1d6 force damage"
 bonus_actions:
   - name: Unfailing Bardic Inspiration (and Font of Inspiration)
     desc: Choose one creature other than yourself within 60 feet of you who can hear you. Gains one d12 Bardic Inspiration die. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes (or when they are healed or dealt damage). The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled it is lost unless the creature fails. A creature can have only one Bardic Inspiration die at a time. Use 6x per rest
@@ -94,13 +95,12 @@ bonus_actions:
     desc: You can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
   - name: Starlight Step
     desc: You can magically teleport up to 30 feet to an unoccupied space you can see. 5x/Long rest
+  - name: Final Evo - Personafier of Melodies
+    desc: Oncer per day for 1 minute, Olivia becomes the pinnacle of song. When activated all creatures must succeed in a charisma saving throw or be charmed for the duration. While in this evo bardic grants an additonal bonus when rolled equal to your charisma modifer, you can once per round impose disadvantage on any d20 roll made within 60 feet of you, add half your charisma modifier to all skill checks, and can use bardic inspiration on yourself.
 reactions:
   - name: Infectious Inspiration 
     desc: When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses. 6x/Long rest
 ```
-
-fill in attack rolls
-final evo
 
 **Magic Items**
 - Legendary

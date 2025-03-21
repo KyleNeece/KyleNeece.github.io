@@ -1,4 +1,4 @@
-This spellbook, along with anything written on its pages, can't be damaged by fire or immersion in water. In addition, the spellbook doesn't deteriorate with age.
+You stop aging. You are immune to any effect that would age you, and you can't die from old age.
 
 **Known Inheritors**
 - [[Azriel Darkstar]]

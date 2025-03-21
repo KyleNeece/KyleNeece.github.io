@@ -94,7 +94,7 @@ reactions:
     desc: 
 ```
 
-final evo
+final evo and serra statblock
 
 Potential Invocations: 
 - Agonizing Blast
