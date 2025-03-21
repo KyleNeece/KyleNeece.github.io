@@ -9,7 +9,7 @@ title: Peacekeepers of the Multiverse Wiki
 For all base classes here is a **[Spells Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0PUubejT6BChmPqDHdAizsNkdfn6JsPGWC2BcaykJGzRzZc26TvOCGP_ua9R_6c3DvzIJpZa7yW49/pubhtml)** for seeing what spells have a **GP cost**
 
 In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** for classes that can cast spells 
-- Note: Does not include homebrew, some supplement, and third party spells
+- **Note**: Does not include homebrew, some supplement, and third party spells
 
 
 **2/20/25** - Website entries are fully updates except PC characters (will update after Act 2). Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
