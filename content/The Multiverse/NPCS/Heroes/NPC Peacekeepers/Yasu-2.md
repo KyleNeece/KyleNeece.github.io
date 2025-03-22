@@ -72,7 +72,7 @@ senses: passive perception 26
 languages: Common, Gnomish
 cr: 16
 spells: 
-  - "Yasu-2 is a 16th evel spellcaster. Its spellcasting abillity is wisdom (spell save DC 21, +13 to hit with spell attacks). It has the following spells prepared and can prepare an additional 22 at the beginning of each adventuring day"
+  - "Yasu-2 is a spellcaster. Its spellcasting abillity is wisdom (spell save DC 21, +13 to hit with spell attacks). It has the following spells prepared and can prepare an additional 22 at the beginning of each adventuring day"
   - Cantrips: Light, Guidance, Toll The Dead, Sacred Flame, Thaumaturgy
   - 1st level: Burning Hands, Faerie Fire, Gift of Alacrity 1x free/Long Rest 
   - 2nd level: Flame Sphere, Scorching Ray, Misty Step 1x free/Long Rest

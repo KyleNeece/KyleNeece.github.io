@@ -66,7 +66,7 @@ senses: Passive perception 18
 languages: Common, Elven, Sylvan
 cr: 16
 spells: 
-  - "Olivia is a 16th evel spellcaster. Her spellcasting abillity is Charisma (spell save DC 20, +12 to hit with spell attacks). It has the following spells prepared"
+  - "Olivia is a spellcaster. Her spellcasting abillity is Charisma (spell save DC 20, +12 to hit with spell attacks). It has the following spells prepared"
   - Cantrips: Vicious Mockery, Mage Hand, Minor Illusion, Prestidigitation, Dancing Lights
   - 1st level: Command, Healing Word, Speak with Animals, Silvery Barbs 1x/long rest
   - 2nd level: Hold Person, Enhance Abillity, Suggestion, Pass without trace, Misty Step 1x/Long Rest

@@ -131,7 +131,7 @@ Potential Invocations:
 
 **Magic Items**
 - Legendary
-	- Rakdos Riteknife 
+	- Rakdos Riteknife 2x
 	- Cloak of Consuming Dreams
 - Very Rare
 	- Ghost step tattoo?

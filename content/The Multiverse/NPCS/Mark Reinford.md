@@ -61,7 +61,7 @@ traits:
   - name: Distant Strike
     desc: When you use the Attack action, Mark can teleport up to 10 feet before each attack to an unoccupied space he can see. If he attacks at least two different creatures with the action, he can make one additional attack with it against a third creature.
 spells:
-  - "Mark Reinford is a 14th level spellcaster. Her spellcasting abillity is Wisdom (spell save DC 16, +8 to hit with spell attacks). She can cast the following spells"
+  - "Mark Reinford is a spellcaster. Her spellcasting abillity is Wisdom (spell save DC 16, +8 to hit with spell attacks). She can cast the following spells"
   - At Will: Hunter's Mark
   - 1st Level: Speak with Animals 1x free, Absorb Elements, Cure Wounds, Protection from Evil and Good
   - 2nd Level: Beast Sense 1x free, Spike Growth, Lesser Restoration, Misty Step

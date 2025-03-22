@@ -65,7 +65,7 @@ traits:
   - name: Metamagic
     desc: Can use quickened spell (2 SP), twinned spell (number SP = spell level), and Empowered spell (1 SP)
 spells:
-  - "Daliah is a 14th level spellcaster. Her spellcasting abillity is Charisma (spell save DC 18, +10 to hit with spell attacks). She can cast the following spells"
+  - "Daliah is a spellcaster. Her spellcasting abillity is Charisma (spell save DC 18, +10 to hit with spell attacks). She can cast the following spells"
   - At Will: Mage Hand, Minor Illusion, Firebolt, Mind Sliver, Green Flame Blade, Booming Blade, Darkness
   - 1st Level (4 slots): Shield, Absorb Elements, Tasha's Hideous Laughter, Silvery Barbs
   - 2nd Level (3 slots): Hold Person, Misty Step, Modified Shadow Blade
