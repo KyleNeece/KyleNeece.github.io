@@ -14,6 +14,7 @@ In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** f
 
 **2/20/25** - Website entries are fully updates except PC characters (will update after Act 2). Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
 
+
  > [!Important]
  > 
  > **3/7/25** - Depending on how much we get done next session you can view the whole vault after it
@@ -25,3 +26,6 @@ In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** f
  > 	- Gameplay mechanics also need to be balanced for the sake of playing the TTRPG and so the game does not break. Think of this like a video game, most video game characters's game mechanics act differently from that of when they are in cutscenes, make this distinction. If you want me to put a section for such differences let me know 
  > Timeline and lore 
  > 	- Once the campaign is done I will attempt to make a timeline and fill out all the nittier grittier pieces of lore. When you are viewing locations, profiles, or anything of that matter, sometimes I will purposefully leave things out. This allows for more theories and imaginative thinking to come out of DND, which is one of the main aspects as to why people play it. Embrace mystery 
+
+[DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0) here for new players to my campaigns
+
