@@ -7,4 +7,5 @@ The Arditi is a pair of dual Knife Gauntlets used by [[Akanos]] (when the finger
 ###### Abilities 
 The Ardriti is a Weapon
 - The Weapon deals 1d6 + dexterity modifier Piercing damage
-	- Whenever you deal sneak attack on your turn, you can expend a charge to inflict bleed 2 for 2 turns. You get 1 charge. Once you use this feature you cannot use it until you finish a short or long rest.
+	- Whenever you deal sneak attack on your turn, you can expend a charge to inflict bleed 2 for 2 turns. Once you use this feature you cannot use it until you finish a long rest.
+		- (A creature effected by bleed gives a penalty to attack rolls and constitution saving throws and takes damage on each of its turns equal to the number of bleed. A creature with no blood or no reliance on blood to live is immune to the effect)

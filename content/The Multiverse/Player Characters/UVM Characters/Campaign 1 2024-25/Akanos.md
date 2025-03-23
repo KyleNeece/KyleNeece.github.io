@@ -31,4 +31,13 @@ A few months after the hunt, Akanos continued his peacekeeper duty, becoming a s
 ###### Recruitment
 Akanos joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Chuck]], [[Aeris Aryndor]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
-Akanos is a level 8 Arcane Trickster Tiefling Rogue 
+Akanos is a level 12 Arcane Trickster Tiefling Rogue 
+
+**Magic Items**:
+- [[Arditi]]
+- [[Eldritch Scarab]]
+
+Scarab upgrades 
+- change the appearance of the armor at will
+- +2 to spell attack rolls and spell save dc 
+- As a bonus action can create a construct one non magical item of your choice within an unoccupied space within 10 feet of you  

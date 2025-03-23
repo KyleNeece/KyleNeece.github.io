@@ -129,3 +129,4 @@ reactions:
 	- [[Spellshard]]
 
 
+investiture of flame?
