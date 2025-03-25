@@ -17,7 +17,7 @@ Make statblocks for all important npcs of the arc
 - **Monty** --> Azriel relationship 
 	- Later, Istoria Rytsarey potential joining and temporary betrayal of party 
 		- Come up with huge combat effects (for his choosen fable if he joins them temporarilly)
-- **Aeris Aryndor** --> moonblade attunement, sees visions of Loranos when he lived and as a powerful Elven warrior 
+- **Aeris Arendor** --> moonblade attunement, sees visions of Loranos when he lived and as a powerful Elven warrior 
 	- Olivia knowledge on elven tradition and relationship advice 
 	- Loranos visions and past seeing, revelation of his family house and bloodline 
 - **Monkey/Alex** --> mom and dad return 

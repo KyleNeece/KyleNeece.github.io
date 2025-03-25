@@ -3,7 +3,7 @@ tags: [Hero, Human/Zodiac/Sign_of_the_Archer, Felwinter_Saga_Cour_3/NPC]
 ---
 
 ##### Brief Summary 
-Aeris's dad is a Sign of the Archer Human Zodiac and father of [[Aeris Aryndor]]
+Aeris's dad is a Sign of the Archer Human Zodiac and father of [[Aeris Arendor]]
 ##### Appearance 
 
 ##### Personality 

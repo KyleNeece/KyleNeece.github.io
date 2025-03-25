@@ -3,7 +3,7 @@ tags: [Abberant_Rune]
 ---
 
 *Deep Speech (Shield, Elder)* 
-*Prerequisite*: None*
+*Prerequisite*: None
 
 This rune counts as a Ward rune. The attuned creature has advantage on saving throws against effects that inflict conditions. 
 

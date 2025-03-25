@@ -1,0 +1,70 @@
+- **Scene starts**
+	- Arangol has made his reveal of impersonating Jackson Felwinter, slashed Olivia Birdsong across the body, her veins begin to slowly turn purple over time 
+		- She'll bleed out within the hour and die within the 24 hours
+	- Traps the party with his office, conjures some seats and tea 
+- **Order of explaining**
+	- Show Azriel's memories from when 20's 
+	- Then show the party their lost memories 
+		- The large battle
+			- Otto leading the Knights of Cainhurst 
+			- Aeris Arendor within the House Arendor warriors 
+			- Alex apart of the Wukong Bruisers and Skirmishers
+			- Akanos apart of the Shocktroopers of the 9th layer of hell
+			- Jaloop apart of the Harpers
+			- Monty is the exception
+				- Viewing from the planet afar, Runekeepers refuse to enter battle 
+	- Then show the end of the battle once again between Azriel and Jackson 
+		- Logic slash vs Erasure blade 
+		- Jackson won, show Jaloops Master 
+		- Show Jackson and Aria, Aria asking what he is doing and Jackson saying that he'll find her again 
+		- Big flash of light, Timeline reset 
+			- As big flash of light happening, Monty planet become invaded by a shadowy whispy man, can't see his body hidden from his memory, see two runekeepers fuse with eldritch magic and try to stop him, and large pillars of dark magic engulf all life on the planet, which was a newly formed runic planet
+				- Monty was the only one left then was enveloped in the flash of light 
+	- Show the void, and Jackson Felwinter in it 
+		- "Alright Jackson this is the last chance can't fuck this up"
+	- Montage of Jackson continuously stopping external threats from occurring
+		- Dark Wizards, Planetary Warlords, stopping all evil before they can act
+		- Also shows a montage of him slowly falling in love again with Aria 
+	- Then mention that they see the lifted memories party has already scene, the ones with Jackson being connected to each of them, talk about contingency 
+	- Fast forward, to Jackson and Aria flying on a Dragon
+		- Aria comments its been a while since she's seen this sight 
+		- Jackson gives anniversary gift 
+	- Jackson begins to fly in the air, opens a portal to the abyss 
+	- Aria flys away on the dragon 
+- **End (narrate)
+	- Someone went into the Abyss, and never returned 
+	- While the other one has gone missing, and was once one of Olivia, Azriel, Yasu-2, and Emily's friend, and the lover of the man who started it all
+- **Party gives questions and responses**
+	- Full RP 
+- Arangol continues talking about what has happened and how he is tied into each member and his manipulative mindset versus each of them 
+-  Transforms back into Jackson disguise, commands all peacekeepers to hunt the party and the former PNPCS down
+	- Chase encounter, running away, have to split up 
+	- Seelie Court, Evernight Hunters/Paladins, and uncontrolled Peacekeepers will help
+- Olivia opens random portal, party and Azriel (along with the rest of the old crew?) drops through
+	- In Avernus, maybe encounter, set up camp, end session
+		- Separate encounters for each group
+
+
+**Monsters for this session**
+- Rutterkin 
+
+Split groups (emily, olivia and azriel, (scrapped Yasu-2)
+- Emily
+	- PC's in split
+		- Akanos
+		- Aeris
+	- Encounter
+		- Boss Fight
+- Olivia 
+	- PCs in split
+		- Otto 
+		- Alex 
+	- Encounter
+		- Trio of Monsters
+- Azriel  
+	-  PCs in split
+		- Monty 
+			- Has Yasu-2's memory shard (contains all of Yasu-2's memories including blueprints and information from Jotor Sparklefen on how to create sentient robotic life)
+		- Jaloop 
+	- Encounter
+		- Hoard of Monsters

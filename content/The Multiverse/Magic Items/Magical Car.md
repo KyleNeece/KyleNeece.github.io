@@ -3,7 +3,7 @@ tags:
   - Magic_Item
 ---
 
-The INSERT NAME is a magical vehicle used by [[Monkey (Alex)]], [[Aeris Aryndor]], [[Otto]], [[Jaloop]], [[Monty]], [[Akanos]], [[Equilibrium]], [[Chuck]], and [[Gorlock (Rhulk)]] 
+The INSERT NAME is a magical vehicle used by [[Monkey (Alex)]], [[Aeris Arendor]], [[Otto]], [[Jaloop]], [[Monty]], [[Akanos]], [[Equilibrium]], [[Chuck]], and [[Gorlock (Rhulk)]] 
 
 - Description: 
 - Upgrades: 

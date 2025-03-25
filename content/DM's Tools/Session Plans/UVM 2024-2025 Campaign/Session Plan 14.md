@@ -57,8 +57,8 @@ Next day, more time to do stuff
 		- The eagle amulet transforms into a 6 foot greatsword that looks as if it weighs a lot (like a lot)
 		- It would be best to make this easy, submit your life.
 	- After fight, forefield retracts, and Emily says: 
-		- “Mr and Ms Aryndor, have you and your squad help me with the bodies, take them to Yasu and Ms Havenwood. If my suspicions are correct, these people are our hope crawling out of the dark” 
-		- Mr and Ms Arendor have moved from Zendikar to Feywild, to help with Sigliph’s research, as she needed a Fey guide and Ms Aryndor is one of the most renowned Rangers within the Fey Wanderer Conclave, and Mr Arendor was originally a member of the Star-Archer Squadron
+		- “Mr and Ms Arendor, have you and your squad help me with the bodies, take them to Yasu and Ms Havenwood. If my suspicions are correct, these people are our hope crawling out of the dark” 
+		- Mr and Ms Arendor have moved from Zendikar to Feywild, to help with Sigliph’s research, as she needed a Fey guide and Ms Arendor is one of the most renowned Rangers within the Fey Wanderer Conclave, and Mr Arendor was originally a member of the Star-Archer Squadron
 - The party wakes up within an outpost on medical beds, with Yasu tending to medical supplies
 	- Describe scene further, rp with characters
 		- Ms Havenwood (Eli’s parents) was saved in hell by 3 men, by Jackson, Alex’s father, and (insert description of Ludwig here)

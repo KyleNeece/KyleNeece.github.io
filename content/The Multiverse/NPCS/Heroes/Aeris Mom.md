@@ -3,7 +3,7 @@ tags: [Hero, Elf/Ranger/Fey_Wanderer, Felwinter_Saga_Cour_3/NPC]
 ---
 
 ##### Brief Summary 
-Aeris's mom is a Fey Wanderer High Elf Ranger and mother of [[Aeris Aryndor]]
+Aeris's mom is a Fey Wanderer High Elf Ranger and mother of [[Aeris Arendor]]
 ##### Appearance 
 
 ##### Personality 

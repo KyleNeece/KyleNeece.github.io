@@ -3,16 +3,16 @@ tags: [Hero/Peacekeeper, Elf/Druid/Circle_of_Stars, Felwinter_Saga_Cour_3/PC]
 ---
 
 ##### Brief Summary  
-Aeris Aryndor is a Circle of Stars Half-Elf Druid and [[Peacekeeper]] (played by Jackson R)
+Aeris Arendor is a Circle of Stars Half-Elf Druid and [[Peacekeeper]] (played by Jackson R)
 ##### Appearance 
 ![[Aeris.png]]
 ##### Personality 
 
 ##### Brief History/Timeline   
 ###### Adolescence
-Aeris Aryndor grew up on Zendikar in a noble family. Aeris Aryndor acted as a guide for those who passed through the plane, guiding them through the environs. He would take trips to the Feywild for vacation ofter with his mother and father, and eventually befriending [[Chuck]] during the time of his youth. Eventually, Aeris got the point where he figured that his skill of navigation combined with his druidic magic, could be of more use on a larger scale as the stars can be seen from all places. Aeris Aryndor set out for the peacekeeper force, looking to guide those who cannot guide themselves. 
+Aeris Arendor grew up on Zendikar in a noble family. Aeris Arendor acted as a guide for those who passed through the plane, guiding them through the environs. He would take trips to the Feywild for vacation ofter with his mother and father, and eventually befriending [[Chuck]] during the time of his youth. Eventually, Aeris got the point where he figured that his skill of navigation combined with his druidic magic, could be of more use on a larger scale as the stars can be seen from all places. Aeris Arendor set out for the peacekeeper force, looking to guide those who cannot guide themselves. 
 ###### The Peacekeeper Trials Arc
-Aeris Aryndor participated in the peacekeeper trials in order to become enlisted within the force. He and 7 others were assigned to [[Ludwig Van Scythe]], who oversaw their trial. Completing the trials, Aeris Aryndor was assigned the D letter peacekeeper rank, and would eventually work his way up into the higher tiers. 
+Aeris Arendor participated in the peacekeeper trials in order to become enlisted within the force. He and 7 others were assigned to [[Ludwig Van Scythe]], who oversaw their trial. Completing the trials, Aeris Arendor was assigned the D letter peacekeeper rank, and would eventually work his way up into the higher tiers. 
 ###### The Evernight Hunt Arc
 Aeris was apart of the group that was assigned to the Shadowfell with Ludwig and [[Lady Gabriella Alucard II]], for the purposes of claiming land and building influence among the plane. The party journey throughout the wilds of the Shadowfell before making it to the [[City of Evernight]]. They were able to take out one of [[Arangol]]'s researchers, the [[Landlord]], the keeper of the magical mansion. After defeating him and destorying the [[Necrowalkers]] and [[Hostwalkers]] laboratory, turning the estate into the peacekeeper force, the party continued to push forward, event ually making it to a graveyard, where one of [[Nathan Murgul]]'s estates is located. The party pushed forward into the city after a brief meeting with Nathan, learning more about the area and smaller details about The City of Evernight. Aeris and the party entered the city, after getting a taste of what true madness felt like after smelling some of the white orchids that they picked from the field leading to the bridge. After a few strange dreams, the party made it into the city, and heard church bells ring as the Evernight Hunt began. After dispatching a few monsters, a profane soul hunter lead the group back to their Workshop to meet [[Gerald, The First Hunter]], who would induct them into their hunter ranks to fight off the beasts of the night. 
 
@@ -29,6 +29,6 @@ A few months after the hunt, Aeris and Monkey (now known as Alex), returned to S
 The party was also assigned a new regiment leader, [[Emily Sigiliph]]. The party then ventured to the Feywild with her, as she said that she knew that Ludwig was trying to resurrect [[Azriel Darkstar]], and that she was willing to pick up his work where he left it off. Upon arriving to the Feywild, she entrapped the party within a barrier, and revealed that she had been working for [[Arangol]]. After Monty nearly killing everyone from an explosion (though it was later revealed that Emily didn't actually die...), he was incapacitated by Aeris's parents. Who took them to a base of operations where [[Emily Sigiliph]], [[Yasu-2]], and [[Olivia Birdsong]] additionally where awaiting their waking as well. Emily then explained that she had took part-time leave from the peacekeeper force to work for Arangol as a mercenary so that she could track his movement and plans better. Because of her temporary leave and the completing of her contract, Emily is currently in freelance, and her along with the other allies agreed to help the party with their next journey through the Feywild. 
 
 ###### Recruitment
-Aeris Aryndor joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
+Aeris Arendor joined the peacekeeper for willingly and passed the trials along with 7 others. He is in a team with [[Monty]], [[Otto]], [[Jaloop]], [[Akanos]], [[Chuck]], [[Monkey (Alex)]], [[Gorlock (Rhulk)]], and [[Equilibrium]]. He is currently a B-Rank peacekeeper
 ##### Abilities  
-Aeris Aryndor is a Circle of Stars Druid
+Aeris Arendor is a Circle of Stars Druid

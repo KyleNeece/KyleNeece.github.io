@@ -41,4 +41,8 @@ A _moonblade_ has one rune on its blade for each master it has served (typical
 
 
 - **The Arendor Moonblade**
-	- 
+	- +3 Finesse Longsword 
+	- As a action you can use your sword to surf if you are medium size or smaller. It becomes magically bound to your feet, your movement speed is increased by 10 feet and you gain a flying speed equal to your walk speed. You can only fly a number of feet upwards in the air equal to 10 times your proficiency bonus 
+	- When you cast a spell that restores hit points you can roll a d4 and add the number rolleld to the amount of hit points restored 
+	- You learn the magic missile spell and it is added to your spell list, if you are a prepared caster you always have the spell prepared 
+

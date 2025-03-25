@@ -2,7 +2,7 @@
 tags: [Peacekeeper/Equipment, Magic_Item]
 ---
 
-Tekhenu is [[Aeris Aryndor]]'s Scimitar Bowblade
+Tekhenu is [[Aeris Arendor]]'s Scimitar Bowblade
 ###### Abilities 
 Tekhenu is a Scimitar Bowblade
 - Tekhenu deals 1d6 + wisdom modifier damage and has a +1 attack and damage modifier
