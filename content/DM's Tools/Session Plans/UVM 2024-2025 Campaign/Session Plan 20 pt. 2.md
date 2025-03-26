@@ -1,3 +1,7 @@
+---
+tags: [Session_Plans]
+---
+
 Previous: [[Session Plan 20]]
 
 ###### **If Side With Daliah**

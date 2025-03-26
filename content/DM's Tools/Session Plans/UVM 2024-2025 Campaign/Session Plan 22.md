@@ -1,3 +1,7 @@
+---
+tags: [Session_Plans]
+---
+
 - **Scene starts**
 	- Arangol has made his reveal of impersonating Jackson Felwinter, slashed Olivia Birdsong across the body, her veins begin to slowly turn purple over time 
 		- She'll bleed out within the hour and die within the 24 hours
@@ -42,29 +46,3 @@
 	- Seelie Court, Evernight Hunters/Paladins, and uncontrolled Peacekeepers will help
 - Olivia opens random portal, party and Azriel (along with the rest of the old crew?) drops through
 	- In Avernus, maybe encounter, set up camp, end session
-		- Separate encounters for each group
-
-
-**Monsters for this session**
-- Rutterkin 
-
-Split groups (emily, olivia and azriel, (scrapped Yasu-2)
-- Emily
-	- PC's in split
-		- Akanos
-		- Aeris
-	- Encounter
-		- Boss Fight
-- Olivia 
-	- PCs in split
-		- Otto 
-		- Alex 
-	- Encounter
-		- Trio of Monsters
-- Azriel  
-	-  PCs in split
-		- Monty 
-			- Has Yasu-2's memory shard (contains all of Yasu-2's memories including blueprints and information from Jotor Sparklefen on how to create sentient robotic life)
-		- Jaloop 
-	- Encounter
-		- Hoard of Monsters

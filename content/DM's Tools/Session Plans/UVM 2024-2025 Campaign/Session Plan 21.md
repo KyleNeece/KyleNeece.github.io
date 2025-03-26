@@ -1,3 +1,7 @@
+---
+tags: [Session_Plans]
+---
+
 **Dialogue and events depending on what ending they got**
 give up Daliah on bridge talk to mark later
 If dont give daliah right into azriel  
@@ -70,4 +74,4 @@ if betray daliah and kill her, same scene diff dialogue
 - Olivia opens random portal, party and Azriel along with the rest of the old crew drops through
 	- In Avernus, set up camp, end session
 
-
+ 
