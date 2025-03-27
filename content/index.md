@@ -4,20 +4,16 @@ title: Peacekeepers of the Multiverse Wiki
 
 **Next Session**: TBD
 
-**3/7/25** - Act 3 now begins, **I am reinforcing GP costs now for spell components that require
-
 For all base classes here is a **[Spells Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0PUubejT6BChmPqDHdAizsNkdfn6JsPGWC2BcaykJGzRzZc26TvOCGP_ua9R_6c3DvzIJpZa7yW49/pubhtml)** for seeing what spells have a **GP cost**
 
 In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** for classes that can cast spells 
 - **Note**: Does not include homebrew, some supplement, and third party spells
 
-
-**2/20/25** - Website entries are fully updates except PC characters (will update after Act 2). Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
-
+**3/26/25** - Website entries are fully updated except PC characters for act 2. Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
 
  > [!Important]
  > 
- > **3/7/25** - Depending on how much we get done next session you can view the whole vault after it
+ > **3/26/25** - Next session after Arangol encounter you can view all entries 
  
  > [!Important]
  > **Context to how to view this website and some of its entries**
