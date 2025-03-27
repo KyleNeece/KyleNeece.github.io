@@ -7,5 +7,6 @@ sorting-spec: |-
   PDFS
   index
   sortspec
+draft: "true"
 ---
 Nothing is on this page
