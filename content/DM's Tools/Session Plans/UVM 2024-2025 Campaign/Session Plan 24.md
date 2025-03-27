@@ -1,7 +1,7 @@
 ---
 tags: [Session_Plans]
 ---
-
+- Zariel gives plan
 - Few ways to get there 
 	- River Styx
 	- Attempt to Magically Make your own Portal 
@@ -11,8 +11,8 @@ tags: [Session_Plans]
 - The NPCS will take to the frontlines of the war, distracting Degalith enough to the point where he should have to enter the battle
 	- This will allow for the party to sneak into Degalith's layer in the Abyss 
 	- Not much is known about the layer, Degalith loves wrath, and as such can infer his layer to be chaotic and "angry"
-	- The party will locate Jackson Felwinter, and free him, then leave 
-		- We know Jackson is alive, but whether or not he will be able to fight if you run into any problems is not known 
+	- The party will locate Jackson Felwinter, and free him, then leave. 
+		- We know Jackson is alive, but whether or not he will be able to fight if you run into any problems is not known. Take the Dragon Figurine to try and jumpstart his power
 - NPCS will probe if they want to bring one of them with the party 
 	- Party's choice (Will say as DM doesn't effect difficulty, just an extra body if combat arises which means more creatures in initiative)
 - The plan is set, party will set out 
@@ -37,5 +37,5 @@ tags: [Session_Plans]
 	- Boss fight on an island 
 - After his defeat, demons will begin to flood the plane, party will have to run away and get out 
 
-- Make it out, next steps 
+- Make it out the Abyss, next steps 
  

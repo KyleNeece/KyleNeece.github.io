@@ -45,4 +45,4 @@ tags: [Session_Plans]
 	- Chase encounter, running away, have to split up 
 	- Seelie Court, Evernight Hunters/Paladins, and uncontrolled Peacekeepers will help
 - Olivia opens random portal, party and Azriel (along with the rest of the old crew?) drops through
-	- In Avernus, maybe encounter, set up camp, end session
+	- In Avernus, maybe encounter, set up camp, end session (unless have time to move forward)
