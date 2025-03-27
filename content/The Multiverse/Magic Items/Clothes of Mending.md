@@ -6,5 +6,4 @@ This elegant outfit of traveler's clothes magically mends itself to counteract d
 
 **Known Possessors**
 - [[Emily Sigiliph]]
-- [[Olivia Birdsong]]
  

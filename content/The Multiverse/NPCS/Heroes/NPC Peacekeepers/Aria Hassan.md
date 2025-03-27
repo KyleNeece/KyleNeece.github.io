@@ -41,9 +41,9 @@ size: Meduim
 type: Yuan-Ti
 subtype: Warlock
 alignment: True Neutral
-ac: 
-hp: 
-hit_dice: 
+ac: 18
+hp: 118
+hit_dice: 16d8
 speed: 30
 stats: [10, 18, 14, 12, 12, 22]
 fage_stats: 
@@ -75,7 +75,7 @@ traits:
   - name: 
     desc: 
 spells:
-  - Cantrips: 
+  - Cantrips: Eldritch Blast, Mind Sliver, Minor Illusion, Prestidigitation 
   - Pact Magic 5th level: 
 actions:
   - name: 
@@ -131,28 +131,28 @@ Potential Invocations:
 
 **Magic Items**
 - Legendary
-	- Rakdos Riteknife 2x
+	- Dendar's Full Arsenal 
 	- Cloak of Consuming Dreams
 - Very Rare
-	- Ghost step tattoo?
-	- 
-	- 
+	- Ghost step tattoo
+	- Tome of Leadership and Influence 
+	- Staff of power?
 - Rare
 	- Dagger of venom or dragontooth dager?
-	- Horn of the abyss?
-	- Horn of Valhalla?
+	- Horn of the Endless Maze
 	- Serpants fang?
-	- Mind Crystal
 	- Cube of Summoning
 - Uncommon
-	- 
-	- 
-	- 
-	- 
+	- Serpent Scale Mail 
+	- Gem of the Pact Keeper
+	- Peacekeeper Communication Device (Tattoo)
+	- Boots of Elvenkind 
 - Common
+	- Horn of Silent Alarm 
 	- 
 	- 
-	- 
+
+Any amulet that their patron can see through and when even it looks through the glass the warlock gains blind sight 30ft and can't be surprised. The warlock can call their patron 3 times a day for 1 minute (each use can't be segmented no off and on) It also gives the warlock a +2 to CHA so long as attuned. A not so powerful cool magic item. Call what you want but I like, Fates Eye just sounds cool hope you enjoy the idea
 
 ##### Spirit Summons (via Cloak of Consuming Dreams)
 

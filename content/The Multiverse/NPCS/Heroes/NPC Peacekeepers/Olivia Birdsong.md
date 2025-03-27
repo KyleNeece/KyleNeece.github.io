@@ -115,14 +115,14 @@ reactions:
 	- [[Eagle Whistle]]
 	- [[Lyre of Building|Whistle of Building]]
  - Uncommon
-	- [[Ring of Find Familiar]]
+	- [[Glamerweave]]
 	- [[Helm of Comprehending Languages|Whistle of Comprehend Languages]] 
 	- [[Peacekeeper Communication Device]] (Earring)
 	- [[Wand of Magic Detection|Whistle of Magic Detection]]
 - Common 
-	- [[Clothes of Mending]]
+	- [[Instrument of Scribing|Scribing Voice]]
 	- [[Staff of Birdcalls|Voice of Birdcalls]]
-	- [[Glamerweave]]
+	- [[Instrument of Illusions|Voice of Illusions]]
 
 
 
