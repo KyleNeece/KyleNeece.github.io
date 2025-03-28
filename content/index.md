@@ -1,5 +1,5 @@
 ---
-title: Peacekeepers of the Multiverse Wiki
+title: Kyle's DND Multiverse
 ---
 
 Welcome to my DND wiki, where you can view all of the different aspects of my campaigns and multiverse.
