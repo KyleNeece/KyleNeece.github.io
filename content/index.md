@@ -2,14 +2,7 @@
 title: Peacekeepers of the Multiverse Wiki
 ---
 
-**Next Session**: TBD
-
-For all base classes here is a **[Spells Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0PUubejT6BChmPqDHdAizsNkdfn6JsPGWC2BcaykJGzRzZc26TvOCGP_ua9R_6c3DvzIJpZa7yW49/pubhtml)** for seeing what spells have a **GP cost**
-
-In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** for classes that can cast spells 
-- **Note**: Does not include homebrew, some supplement, and third party spells
-
-**3/26/25** - Waiting for players to send over their character sheet and other attachments so I can put "statblocks" in entries. 
+Welcome to my DND wiki, where you can view all of the different aspects of my campaigns and multiverse
 
 **Table of Contents**
 - [DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0)  (For those who are new to DND and my Campaigns)
@@ -19,9 +12,17 @@ In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** f
 - <a href="/Session Notes/">Session Notes</a>
 - <a href="/DM-Tools/">DM Tools</a>
 
+
+**Next Session**: TBD
+
+For all base classes here is a **[Spells Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0PUubejT6BChmPqDHdAizsNkdfn6JsPGWC2BcaykJGzRzZc26TvOCGP_ua9R_6c3DvzIJpZa7yW49/pubhtml)** for seeing what spells have a **GP cost**
+
+In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** for classes that can cast spells 
+- **Note**: Does not include homebrew, some supplement, and third party spells
+
  > [!Important]
  > 
- > **3/26/25** - Next session after Arangol encounter you can view all entries 
+ > **3/26/25** - Next session after Arangol encounter you can view all entries. I am also waiting for players to send over their character sheet and other attachments so I can put "statblocks" in entries. 
  
  > [!Important]
  > **Context to how to view this website and some of its entries**
