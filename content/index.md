@@ -4,14 +4,18 @@ title: Peacekeepers of the Multiverse Wiki
 
 **Next Session**: TBD
 
-<a href="/DM-Tools/">DM Tools</a>
-
 For all base classes here is a **[Spells Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0PUubejT6BChmPqDHdAizsNkdfn6JsPGWC2BcaykJGzRzZc26TvOCGP_ua9R_6c3DvzIJpZa7yW49/pubhtml)** for seeing what spells have a **GP cost**
 
 In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** for classes that can cast spells 
 - **Note**: Does not include homebrew, some supplement, and third party spells
 
-**3/26/25** - Website entries are fully updated except PC characters for act 2. Waiting for players to send over their character sheet and other attachments so that I can put "statblocks" in their entries. 
+**3/26/25** - Waiting for players to send over their character sheet and other attachments so I can put "statblocks" in entries. 
+
+**Table of Contents**
+- [DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0)  (For those who are new to DND and my Campaigns)
+- 
+- <a href="/DM-Tools/">DM Tools</a>
+
 
  > [!Important]
  > 
@@ -24,6 +28,4 @@ In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** f
  > 	- Gameplay mechanics also need to be balanced for the sake of playing the TTRPG and so the game does not break. Think of this like a video game, most video game characters's game mechanics act differently from that of when they are in cutscenes, make this distinction. If you want me to put a section for such differences let me know 
  > Timeline and lore 
  > 	- Once the campaign is done I will attempt to make a timeline and fill out all the nittier grittier pieces of lore. When you are viewing locations, profiles, or anything of that matter, sometimes I will purposefully leave things out. This allows for more theories and imaginative thinking to come out of DND, which is one of the main aspects as to why people play it. Embrace mystery 
-
-[DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0) here for new players to my campaigns
 

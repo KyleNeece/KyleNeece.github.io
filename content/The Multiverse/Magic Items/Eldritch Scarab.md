@@ -19,4 +19,5 @@ The Eldritch Scarab gives a +2 to spell attack rolls and spell save dc
 		- If you wish to create a more permanent object, the gp value of the item can't be more than 20 times your character level, and the item must be Medium or Smaller. Once you create such an object that lasts the same amount of time, you cannot do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do so again
 - Winged Flight 
 	- As an action you sprout wings that take the appearance of your choice. While the wings are sprouted you can use them to fly up to 4 hours, all at once or in several shorter flights, each using a minimum of 1 minute from the duration, if you are flying when the duration expires, you descend at a rate of 30 feet per round until you land. You can dismiss the wings as a action and it regains 2 hours of flying capability for every 12 hours not in use
-
+- Regeneration Ability 
+	- As a bonus action on your turn you can spend a hit die to regain hitpoints equal to the roll plus your constitution modifier

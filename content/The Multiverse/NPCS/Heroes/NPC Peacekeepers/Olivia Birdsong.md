@@ -120,9 +120,9 @@ reactions:
 	- [[Peacekeeper Communication Device]] (Earring)
 	- [[Wand of Magic Detection|Whistle of Magic Detection]]
 - Common 
-	- [[Instrument of Scribing|Scribing Voice]]
+	- [[Instrument of Scribing (2024)|Scribing Voice]]
 	- [[Staff of Birdcalls|Voice of Birdcalls]]
-	- [[Instrument of Illusions|Voice of Illusions]]
+	- [[Instrument of Illusions (2024)|Voice of Illusions]]
 
 
 

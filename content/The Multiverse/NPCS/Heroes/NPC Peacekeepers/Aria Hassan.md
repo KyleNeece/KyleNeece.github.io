@@ -131,16 +131,15 @@ Potential Invocations:
 
 **Magic Items**
 - Legendary
-	- Dendar's Full Arsenal 
+	- Dendar's Full Psychic Arsenal 
 	- Cloak of Consuming Dreams
 - Very Rare
-	- Ghost step tattoo
+	- Ghost Step Tattoo
 	- Tome of Leadership and Influence 
-	- Staff of power?
+	- Ring of Promised Return
 - Rare
-	- Dagger of venom or dragontooth dager?
 	- Horn of the Endless Maze
-	- Serpants fang?
+	- Mirror of the Past
 	- Cube of Summoning
 - Uncommon
 	- Serpent Scale Mail 
@@ -149,12 +148,12 @@ Potential Invocations:
 	- Boots of Elvenkind 
 - Common
 	- Horn of Silent Alarm 
-	- 
-	- 
+	- [[Bottle of Boundless Coffee]]
+	- Tattoo of Pleasant Dreams
 
 Any amulet that their patron can see through and when even it looks through the glass the warlock gains blind sight 30ft and can't be surprised. The warlock can call their patron 3 times a day for 1 minute (each use can't be segmented no off and on) It also gives the warlock a +2 to CHA so long as attuned. A not so powerful cool magic item. Call what you want but I like, Fates Eye just sounds cool hope you enjoy the idea
 
-##### Spirit Summons (via Cloak of Consuming Dreams)
+##### Abberation Summons (via Cloak of Consuming Dreams)
 
 ###### Ink
 ```statblock
@@ -392,10 +391,9 @@ reactions:
 ```
 
 ###### Serra the Benevolent
-Angel summoner and buffer
 ```statblock
 layout: Basic 5e Layout Copy
-image: 
+image: Serra.Png
 name: Serra the Benevolent
 size: Meduim 
 type: Human Aasimar Abberation
@@ -453,6 +451,7 @@ bonus_actions:
   - name: 
     desc: 
 ```
+
 ###### Dack, Universe's Greatest Thief
 ```statblock
 layout: Basic 5e Layout Copy
@@ -485,7 +484,7 @@ languages: Deep Speech, Infernal, Common, Draconic, Thieves Cant
 cr: 16
 traits:
   - name: Psychometry Learning
-    desc: Whenever Dack touches a item, he can absorb the knowledge and history of it. Moreover, whenever he uses or attunes to a magic item, if the magic item has a spell effect, he can permamently add it to his spell list.
+    desc: Whenever Dack touches an item, he can absorb the knowledge and history of it. Moreover, whenever he uses or attunes to a magic item, if the magic item has a spell effect, he can permamently add it to his spell list.
   - name: Magiccal Ambush 
     desc: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
   - name: Sneak Attack

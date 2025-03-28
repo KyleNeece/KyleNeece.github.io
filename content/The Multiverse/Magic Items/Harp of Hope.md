@@ -18,8 +18,10 @@ Whenever you attempt to attune to the harp, you must first make either a DC 15 C
 
 The harp contains a fragment of the Archangel Avacyn, and as such can speak, read, and understand Common and Celestial. It can also communicate telepathically with the creature attuned to it.
 
-The harp has a benevolent, altruistic and hopeful personality. She enjoys when the harp is played, and takes pride when she does so. If the harp is shorter than 6 feet tall, it bemoans its height.
+The harp has a benevolent, altruistic and hopeful personality. If the harp is shorter than 6 feet tall, it bemoans its height.
 
-**Known possessors of a Pearl of Power**
+**Known possessors of the Harp of Hope**
 - [[Jaloop]]
- 
+
+###### Appearance 
+![[Avacyn Harp.webp]]

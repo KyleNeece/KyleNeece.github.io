@@ -21,15 +21,16 @@ A _moonblade_ has one rune on its blade for each master it has served (typical
 
 **Known Possessors**
 - [[Olivia Birdsong]]
-- 
+- [[Aeris Arendor]]
 
-###### Known Moonblades 
-- **The Birdsong Moonblade**
-	- +3 Finesse Longsword 
+##### Known Moonblades 
+
+###### The Birdsong Moonblade
+- +3 Finesse Longsword 
 	- The Sword deals an additional 1d6 Force damage
 	- The Sword can shift its appearance between a functional simple instrument and a Moonblade at will (free action)
 	- The Sword takes 1 minute to attune to. Additionally whenever the item is struck or used to strike a foe, you hear a fragment of an ancient song
-	- The Sword can shrink down and function as a [wand of conducting](https://dnd5e.wikidot.com/wondrous-items:wand-of-conducting)
+	- The Sword can shrink down into a [wand of conducting](https://dnd5e.wikidot.com/wondrous-items:wand-of-conducting)
 	- The Sword functions as a [dancing sword](https://dnd5e.wikidot.com/wondrous-items:dancing-sword)
 	- The Sword can play a melody as an action, with a choice between Sing or Shriek for 5 turns
 		- **Sing**
@@ -37,12 +38,19 @@ A _moonblade_ has one rune on its blade for each master it has served (typical
 		- **Shriek**
 			- All enemies within a 20ft range of the sword have a 1d4 penalty to all saving throws and receive an extra 1d4 damage
 	- **Azriel's Rune Gift**
-		- While attuned and the sword is on your person, you have advantage on saving throws that inflict mental conditions, on a successful save versus a mental condition, once per long rest the wielder can enter rage directly after but can still cast spells as if they were not raging. Moreover the blade auto casts calm emotions no concentration depending on the trauma of the wielder. (DM's discretion)
+		- While attuned and the sword is on your person, you have advantage on saving throws that inflict mental conditions, on a successful save versus a mental condition, once per long rest the wielder can enter rage directly after. They can still cast spells as if they were not raging. Moreover the blade auto casts calm emotions no concentration depending on the trauma of the wielder. (DM's discretion)
 
-
-- **The Arendor Moonblade**
-	- +3 Finesse Longsword 
+###### The Arendor Moonblade
+- +3 Finesse Longsword 
 	- As a action you can use your sword to surf if you are medium size or smaller. It becomes magically bound to your feet, your movement speed is increased by 10 feet and you gain a flying speed equal to your walk speed. You can only fly a number of feet upwards in the air equal to 10 times your proficiency bonus 
-	- When you cast a spell that restores hit points you can roll a d4 and add the number rolleld to the amount of hit points restored 
-	- You learn the magic missile spell and it is added to your spell list, if you are a prepared caster you always have the spell prepared 
-
+	- You learn the magic missile spell and it is added to your spell list, you always have the spell prepared 
+	- You can take a bonus action to cause the item to shed a bright light in a 10-foot radius and dim light for an additional 10 feet, or to extinguish the light 
+	- As an action you can learn which way is magnetic north. Nothing happens in a location that has no magnetic north
+	- You gain one additional wildshape charge. 
+		- Additionally as an action, you can expend 2 of your wildshape charges to transform into an Starry Deva. You can stay in this form for a number of minutes equal to half your level rounded down. Once you use this feature, you cannot use it again until you finish a long rest. While in this form you can the following benefits. While in this form you gain the following benefits
+			- You can attack twice instead of once whenever you take the attack action on your turn 
+			- Your weapon attacks deal an additional 1d8 radiant damage 
+			- You can cast the spell detect evil and good at will without expending a spell slot, and commune and raise dead using spell slots. These spells only require verbal components for you while you are in this form
+			- You gain a fly speed of 50 feet 
+			- As an action you can expend a spell slot of level 2 or higher to touch another creature, the target magically regains 4d8 + 2 hit points and is freed from any curse, disease, poison, blindness, or deafness
+			- You are resistant to radiant damage and are immune to frightened and charmed 
