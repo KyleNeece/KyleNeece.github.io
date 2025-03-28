@@ -13,9 +13,11 @@ In addition, here is a **[Spell Reference](https://ephe.github.io/grimoire/)** f
 
 **Table of Contents**
 - [DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0)  (For those who are new to DND and my Campaigns)
-- 
+- <a href="/The Multiverse/">The Multiverse</a>
+- <a href="/Game Mechanics and Rules/">Game Mechanics and Rules</a>
+	- <a href="/PDFS/">PDFS</a>
+- <a href="/Session Notes/">Session Notes</a>
 - <a href="/DM-Tools/">DM Tools</a>
-
 
  > [!Important]
  > 
