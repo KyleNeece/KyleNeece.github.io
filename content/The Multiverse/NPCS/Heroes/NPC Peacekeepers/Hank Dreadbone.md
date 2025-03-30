@@ -13,7 +13,7 @@ Hank, despite the name, is actually laidback, eccentric, and a jokester. Despite
 ###### Adolescence 
 Not much is known about Hank's adolescence, all that is known is that he died at a very young age and was magically resurrected by his cursed spirit, [[Ire.png|Ire|]], for unknown reasons. 
 ###### Twin Prodigies Arc
-Hank Dreadbone was one of the main exchange students that came for a semester abroad at [[Peacekeeper Academy]], along with the rest of the party ([[Johnny Sigiliph]], [[Laila Iceburn]], [[Malatar Wütend]], [[Ryū Hoshi]], and [[Lillith Ashford]]) that would become rivals with [[Jackson Felwinter]]'s crew ([[Azriel Darkstar]], [[Aria Hassan]], [[Olivia Birdsong]], [[Emily Sigiliph]], and Yasu-2). Hank helped [[Yasu-2]] disperse the party from their pointless rivalry banter, as he found it a drag like Yasu-2 did.
+Hank Dreadbone was one of the main exchange students that came for a semester abroad at [[Peacekeeper Academy]], along with the rest of the party ([[Johnny Sigiliph]], [[Tanith Iceburn]], [[Malatar Wütend]], [[Ryū Hoshi]], and [[Lillith Ashford]]) that would become rivals with [[Jackson Felwinter]]'s crew ([[Azriel Darkstar]], [[Aria Hassan]], [[Olivia Birdsong]], [[Emily Sigiliph]], and Yasu-2). Hank helped [[Yasu-2]] disperse the party from their pointless rivalry banter, as he found it a drag like Yasu-2 did.
 ###### House Tournament Arc
 Hank Dreadbone, like the rest of Jackson's and Johnny's group, finished very high in most of the events. He however, lost to Emily Sigiliph, as her raw fighting prowess overtook his curse and antimagic abilities.
 ###### The Illithid Mage Arc

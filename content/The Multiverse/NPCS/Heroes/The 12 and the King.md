@@ -14,7 +14,7 @@ The 12 and the King are the 12 greatest [[Peacekeeper]]s within the organization
 - [[Aria Hassan]] - Warlock
 - [[Lillith Ashford]] - Dancer
 - [[Hank Dreadbone]] - Accursed
-- [[Laila Iceburn]] - Sorcerer
+- [[Tanith Iceburn]] - Sorcerer
 - [[Malatar Wütend]] - Barbarian
 - [[Johnny Sigiliph]] - Pugilist
 - [[Ryū Hoshi]] - Zodiac 
