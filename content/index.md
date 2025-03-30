@@ -2,17 +2,13 @@
 title: Kyle's DND Multiverse
 ---
 
-Welcome to my DND wiki, where you can view all of the different aspects of my campaigns and multiverse.
+Welcome to my DND wiki, where you can view all of the different aspects of my campaigns and multiverse. **You can now view the website fully**
 
 **Table of Contents**
 - [DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0)  (For those who are new to DND and my Campaigns)
 - <a href="/Game Mechanics and Rules/">Game Mechanics and Rules</a>
 - <a href="/Session Notes/">Session Notes</a>
 - <a href="/DM-Tools/">DM Tools</a>
-
- > [!Important]
- > 
- > **3/26/25** - Next session after Arangol encounter you can view all entries. I am also waiting for players to send over their character sheet and other attachments so I can put "statblocks" in entries. 
  
  > [!Important]
  > Timeline and lore 
