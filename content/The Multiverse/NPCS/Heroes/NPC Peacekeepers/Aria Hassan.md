@@ -31,7 +31,7 @@ Aria began to travel the realms to mobilize the serpentine people, showing them 
 ###### Recruitment
 Aria was auto-recruited by the peacekeeper force after her return and was assigned S-Rank
 ##### Abilities  
-Aria is a Great Old One (2024) Warlock
+Aria is a Great Old One Warlock
 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -59,32 +59,40 @@ skillsaves:
   - Indimidation: + 11
   - Stealth: + 9
   - Sleight of Hand: + 9
-  - Herbalism and Poisoners: + 5
-senses: Passive Perception 11
+  - Thieves Tools and Poisoners: + 5
+damage_resistances: Psychic, Poison, adv on saves 
+condition_immunities: adv on saving throw to end the poisoned condition on yourself
+senses: Passive Perception 11, Darkvision 60ft
 languages: Common, Deep Speech
 cr: 10
 traits:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
+  - name: Pact of the Tomb, Grimoire of the Serpant Mother
+    desc: End of Short or Long Rest Summon the Book of Shadows. When book appears, choose three cantrips, and choose two level 1 ritual spells from any spell list but you can't have them prepared already. While you have the book is on your person the chosen spells are prepared, and count as Warlock spells. The book also functions as a [Book of Ancient Secrets](https://dnd5e.wikidot.com/warlock:eldritch-invocations#:~:text=a%20long%20rest.-,Book%20of%20Ancient%20Secrets,-Prerequisite%3A%20Pact%20of) and a [Far Scribe](https://dnd5e.wikidot.com/warlock:eldritch-invocations#:~:text=read%20all%20writing.-,Far%20Scribe,-Source%3A%20Tasha%27s%20Cauldron) but only to contact Dendar. 
+  - name: Contact Parton
+    desc: You always have the contact other plane spell prepared. you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw. You can cast the spell with this feature 1x per long rest
+  - name: Psychic Spells
+    desc: When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or Illusion, you can do so without verbal or somatic components.
+  - name: Eldritch Hex
+    desc: Hex now imposes disadvantage on saving throws 
+  - name: Thought Shield
+    desc: Thoughts can't be read by telepathy or other means unless allowed. When creature deals psychic damage to you, takes the same amount of damage you do
+  - name: Create Thrall
+    desc: Can modify summon abberation to no concentration, Duration becomes 1 minute for the casting and when summoned and it has 22 hp. When it hits for first time each turn a creature under effect of hex deals additional psychic damage equal to that spell.
+  - name: Invocations 
+    desc: Aspect of the Moon, Agonizing Blast, Repelling Blast, Mask of Many Faces, Fiendish Vigor (2024), Gaze of two minds, Visions of Distant Realms, Ghostly Gaze, Witch Sight, Shroud of Shadow, Misty Visions
 spells:
-  - Cantrips: Eldritch Blast, Mind Sliver, Minor Illusion, Prestidigitation 
-  - Pact Magic 5th level: 
+  - Cantrips: Eldritch Blast, Mind Sliver, Minor Illusion, Prestidigitation, Poison Spray, Animal Friendship (only snakes)
+  - Pact Magic 5th level: Armor of Agathys, Tongues, Counterspell, Hypnotic Pattern, Hold Monster, Major Image, Shadow of Moil, Sickening Radiance, Comet, Raulothim’s Psychic Lance, Charm Monster, Synaptic Static, Fly, Vampiric Touch, Suggestion 1x free/long rest
+  - Great Old One Spells Always Prepared: Hex, Summon Abberation, Detect Thoughts, Dissnonant Whispers, Phantasmal Force, Tasha's Hideous Laughter, Clairvoyance, Hunger of Hadar, Confusion, Summon Abberation, Modify Memory, Telekensis 
+  - Mystic Arcanum: Eyebite (6th), Finger of Death (7th), Maddening Darkness (8th)
 actions:
   - name: 
     desc: 
   - name: 
     desc: 
 bonus_actions:
-  - name: 
-    desc: 
+  - name: Awakened Mind
+    desc: Choose one creature you can see within 30 feet of yourself and create a telepathic bond. You and the chosen creature can speak telepathically with each other while the two of you are within 6 miles. To understand each other, you each must speak mentally in a language the other knows. The telepathic connection lasts for a 16 minutes. It ends early if you have the Incapacitated condition or die or if you use this feature to form a connection with a different creature. Moreover, when you form a telepathic bond with a creature, you can force that creature to make a Wisdom saving throw vs your spell save DC. On a fail, the creature has Disadvantage on attack rolls against you, and you have Advantage on attack rolls against that creature for the duration of the bond. 1x per short or long rest or spend spell slot 2 or higher no action
   - name: 
     desc: 
 reactions:
@@ -94,64 +102,27 @@ reactions:
     desc: 
 ```
 
-final evo and serra statblock
-
-Potential Invocations: 
-- Agonizing Blast
-- Ascendant step
-- Aspect of the Moon 
-- Book of ancient secrets
-- Chains of carceri 
-- cloak of flies
-- Devils sight 
-- Eldritch sight?
-- New Eldritch spear 
-- Far scribe 
-- New fiendish vigor
-- New gaze of two minds
-- ghostly gaze
-- Gift of the ever living ones 
-- Gift of the protectors
-- grasp of hadar 
-- Devouring blade, lifedrinker and thirsting blade?
-- investment of the chain master 
-- lessons of the first ones 
-- pact of blade chain or tome?
-- witch sight?
-- Visions of distant realms 
-- One with shadows or shroud of shadow 
-- Master of myruad forms? 
-- mask of many faces?
-- Maddening hex?
-- misty visions?
-- relentless curse?
-- repelling blast 
-- Tomb of levestis 
-- voice of the chain master
-
 **Magic Items**
 - Legendary
-	- Dendar's Full Psychic Arsenal 
-	- Cloak of Consuming Dreams
+	- Night Serpant's Dreamweaver 
+	- [[Cloak of Consuming Dreams]]
 - Very Rare
 	- Ghost Step Tattoo
 	- Tome of Leadership and Influence 
 	- Ring of Promised Return
 - Rare
 	- Horn of the Endless Maze
-	- Mirror of the Past
-	- Cube of Summoning
+	- [[Fates Eye]]
+	- Cube of Summoning (Abberation)
 - Uncommon
 	- Serpent Scale Mail 
-	- Gem of the Pact Keeper
-	- Peacekeeper Communication Device (Tattoo)
+	- Gloves of Thievery 
+	- [[Peacekeeper Communication Device]] (Tattoo)
 	- Boots of Elvenkind 
 - Common
 	- Horn of Silent Alarm 
 	- [[Bottle of Boundless Coffee]]
 	- Tattoo of Pleasant Dreams
-
-Any amulet that their patron can see through and when even it looks through the glass the warlock gains blind sight 30ft and can't be surprised. The warlock can call their patron 3 times a day for 1 minute (each use can't be segmented no off and on) It also gives the warlock a +2 to CHA so long as attuned. A not so powerful cool magic item. Call what you want but I like, Fates Eye just sounds cool hope you enjoy the idea
 
 ##### Abberation Summons (via Cloak of Consuming Dreams)
 
@@ -211,6 +182,8 @@ cr: 1
 traits:
   - name: Voltron 
     desc: Ignores all prerequisites to attuning to magic items and can attune to 6
+  - name: Magic items held
+    desc: 
 actions:
   - name: Use magic item
     desc: +5 minimum to hit, damage or effect depends on item
@@ -256,7 +229,7 @@ actions:
 ###### Kraken 
 ```statblock
 layout: Basic 5e Layout Copy
-image: 
+image: Kraken (Mindflayer).png
 name: Kraken
 size: Meduim 
 type: Abberation 
@@ -390,127 +363,6 @@ reactions:
     desc: When you place a seal on an enemy, as a reaction you can cast a spell that normally has a casting time of 1 action
 ```
 
-###### Serra the Benevolent
-```statblock
-layout: Basic 5e Layout Copy
-image: Serra.Png
-name: Serra the Benevolent
-size: Meduim 
-type: Human Aasimar Abberation
-alignment: Neutral
-ac: 18
-hp: 225 
-hit_dice: (30d8 + 90)
-speed: 30 ft
-stats: [16, 18, 20, 18, 22, 20]
-fage_stats: 
-saves:
-  - Constitution: +11
-  - Intelligence: +10
-  - Wisdom: +12
-  - Charisma: +11
-skillsaves:
-  - Perception: +12
-  - Insight: +12
-  - Medicine: +12
-  - Religion: +10
-  - Persuasion: +11
-damage_resistances: Psychic; Bludegoning, Piercing, Slashing from Nonmagical attacks
-damage_immunities: Necrotic, Radiant, Poison
-condition_immunities: poisoned, disease
-senses: Truesight 120ft., Passive Perception 22
-languages: Deep Speech, Common, Celestial
-cr: 18
-traits:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-spells:
-  - "Serra is a blank level spellcaster. Her spellcasting ability is Wisdom (spell save DC 20, +12 to hit). She can cast the following spells without material components:"
-  - At Will: 
-  - 1st level (4 slots): 
-  - 2nd level (3 slots): 
-  - 3rd level (3 slots): 
-  - 4th level (3 slots): 
-  - 5th level (2 slots): Summon Celestial
-  - 6th level (2 slot): 
-  - 7th level (2 slot): Plane Shift
-  - 8th level (1 slot)
-  - 9th level (1 slot)
-actions:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-bonus_actions:
-  - name: 
-    desc: 
-```
-
-###### Dack, Universe's Greatest Thief
-```statblock
-layout: Basic 5e Layout Copy
-image: Dack Fayden.Png
-name: Dack, Thief Supreme
-size: Meduim 
-type: Human Abberation
-alignment: Chaotic Neutral 
-ac: 17
-hp: 136
-hit_dice: 16d8 + 95
-speed: 30 ft
-stats: [10, 20, 16, 20, 14, 18]
-fage_stats: 
-saves:
-  - Dexterity: +10
-  - Intelligence: +9
-  - Wisdom: +7
-skillsaves:
-  - Arcana: +15
-  - Deception: +9
-  - Investigation: +10
-  - Sleight of Hand: +15
-  - Stealth: +15
-  - Persuasion: +9
-damage_resistances: Poison, Psychic, Fire
-condition_immunities: poisoned, disease
-senses: Passive Perception 12
-languages: Deep Speech, Infernal, Common, Draconic, Thieves Cant 
-cr: 16
-traits:
-  - name: Psychometry Learning
-    desc: Whenever Dack touches an item, he can absorb the knowledge and history of it. Moreover, whenever he uses or attunes to a magic item, if the magic item has a spell effect, he can permamently add it to his spell list.
-  - name: Magiccal Ambush 
-    desc: If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
-  - name: Sneak Attack
-    desc: Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-spells:
-  - "Dack is a 14th level spellcaster. His spellcasting abillity is Intelligence (spell save DC 18, +10 to hit with spell attacks). He can cast the following spells"
-  - At Will: Firebolt, Mage Hand, Minor Illusion, Prestidigitation, Detect Magic, Identify
-  - 1st level (4 slots): Guiding Bolt, Magic Missile, Thunderwave
-  - 2nd level (3 slots): Invisibility, Suggestion, Mirror Image, Knock
-  - 3rd level (3 slots): Clairvoyance, Slow, Nondetection
-  - 4th level (3 slots): Arcane Eye, Greater Invisibility
-  - 5th level (2 slots): Conjure Elemental, Skill Empowerment 
-  - 6th level (1 slot): Arcane Gate
-  - 7th level (1 slot): Plane Shift
-actions:
-  - name: Multiattack
-    desc: Dack makes two dagger attacks
-  - name: Dagger (also counts as a spell storing item)
-    desc: "Melee Weapon Attack: +10 to hit, thrown or melee range 20/60, one target. Hit: 9 (1d4 + 5) piercing damage"
-  - name: Magic Item Theft (Reacharge on a 5-6)
-    desc: "As an action, Dack targets one creature within 30 feet. The target must make a DC 18 Wisdom saving throw. On a failure, Dack instantly steals one magical item the target is holding or carrying (GM’s discretion). If the item requires attunement, Dack can attune to it immediately, provided he has an open attunement slot."
-bonus_actions:
-  - name: Cunning Thief
-    desc: Dack can take a bonus action to Dash, Disengage, Hide, make a sleight of hand check, the use object interaction, or cast and control mage hand. 
-```
-
 ###### Dovin, Law Keeper 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -521,7 +373,6 @@ type: Vedalken Abberation
 alignment: Lawful Neutral 
 ac: 17
 hp: 107 (16d8 + 29)
-hit_dice: 19d8 + 95
 speed: 30 ft
 stats: [10, 16, 14, 20, 16, 16]
 fage_stats: 

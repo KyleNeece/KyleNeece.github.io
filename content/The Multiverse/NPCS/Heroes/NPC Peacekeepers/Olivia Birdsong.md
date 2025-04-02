@@ -95,8 +95,6 @@ bonus_actions:
     desc: You can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
   - name: Starlight Step
     desc: You can magically teleport up to 30 feet to an unoccupied space you can see. 5x/Long rest
-  - name: Final Evo - Personafier of Melodies
-    desc: Oncer per day for 1 minute, Olivia becomes the pinnacle of song. When activated all creatures must succeed in a charisma saving throw or be charmed for the duration. While in this evo bardic grants an additonal bonus when rolled equal to your charisma modifer, you can once per round impose disadvantage on any d20 roll made within 60 feet of you, add half your charisma modifier to all skill checks, and can use bardic inspiration on yourself.
 reactions:
   - name: Infectious Inspiration 
     desc: When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses. 6x/Long rest

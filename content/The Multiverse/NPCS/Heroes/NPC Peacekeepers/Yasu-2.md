@@ -99,8 +99,8 @@ actions:
   - name: Divine Intervention
     desc: You can call on your deity to intervene on your behalf when your need is great. Imploring your deity's aid requires you to use your action. Describe the assistance you seek. Your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days.
 bonus_actions:
-  - name: Final Evo - Iallanis's Prophet
-    desc: Yasu-2 becomes a lesser divine instrument of Iallanis. For 1 minute his healing spells heal for an additional 2d8 hitpoints and grants the effect of lesser restoration, blinds creatures who fail saving throws against his spells, and adds his wisdom modifier to his damage rolls. 
+  - name: certains spells
+    desc: see spells
 reactions:
   - name: Warding Flare
     desc: You can interpose divine light between yourself or another creature and an attacking enemy. When a creature that you can see within 30 feet of you makes an attack roll, you can use your Reaction to impose Disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. 6x/Long Rest

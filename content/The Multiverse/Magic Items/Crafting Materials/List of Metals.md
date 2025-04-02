@@ -1,0 +1,12 @@
+- Adamantine 
+- Celestial Steel
+- Darksteel 
+- Infernal Iron 
+- Mithral 
+- Bronze 
+- Silver
+- Gold 
+- Elven Steel 
+- Platinum 
+- Iron 
+- Star Metal

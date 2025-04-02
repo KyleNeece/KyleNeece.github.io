@@ -89,7 +89,7 @@ actions:
 bonus_actions:
   - name: Unarmed Strike or Grapple (or part of attack action)
     desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 1d8+7 bludgeoning"
-  - name: Final Evo - Awakened Power
+  - name: Awakened Power
     desc: See [[Sigiliph Skeletal Caraspace]]
 reactions:
   - name: Sentinel

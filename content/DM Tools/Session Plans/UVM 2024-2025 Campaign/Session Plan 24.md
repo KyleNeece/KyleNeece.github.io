@@ -1,6 +1,8 @@
 ---
 tags: [Session_Plans]
 ---
+- Party has to recraft Yasu-2 
+- Party spends the evening at Asmodeus estate
 - Zariel gives plan
 - Few ways to get there 
 	- River Styx

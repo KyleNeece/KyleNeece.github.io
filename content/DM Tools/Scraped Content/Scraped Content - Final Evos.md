@@ -1,0 +1,4 @@
+Oncer per day for 1 minute, Olivia becomes the pinnacle of song. When activated all creatures must succeed in a charisma saving throw or be charmed for the duration. While in this evo bardic grants an additonal bonus when rolled equal to your charisma modifer, you can once per round impose disadvantage on any d20 roll made within 60 feet of you, add half your charisma modifier to all skill checks, and can use bardic inspiration on yourself.
+
+
+Yasu-2 becomes a lesser divine instrument of Iallanis. For 1 minute his healing spells heal for an additional 2d8 hitpoints and grants the effect of lesser restoration, blinds creatures who fail saving throws against his spells, and adds his wisdom modifier to his damage rolls. 

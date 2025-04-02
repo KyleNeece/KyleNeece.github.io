@@ -13,4 +13,7 @@ Welcome to my DND wiki, where you can view all of the different aspects of my ca
  > [!Important]
  > Timeline and lore 
  > - Once the campaign is done I will attempt to make a timeline and fill out all the nittier grittier pieces of lore. When you are viewing locations, profiles, or anything of that matter, sometimes I will purposefully leave things out. This allows for more theories and imaginative thinking to come out of DND, which is one of the main aspects as to why people play it. Embrace mystery 
+ > - If there is something missing from the lore entries please let me know and I'll try my best to add it. You may also need to help me on this front
+ 
+ 
 

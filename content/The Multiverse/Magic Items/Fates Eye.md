@@ -1,0 +1,1 @@
+As an action you can call your patron and grant them the ability to see through the glass. You gain blind sight for 30ft and cannot be surprised. You can call your patron 3 times a day for 1 minute.
