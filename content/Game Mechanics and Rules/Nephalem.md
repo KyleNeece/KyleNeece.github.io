@@ -19,9 +19,11 @@ Nephalem's are the offspring of a Celestial Entity and a Demonic Entity, as a re
 
 **Otherwordly Resistance.** You have resistance to fire damage and radiant damage.
 
-**Healing/Killing Hands**. You can harness the inner power of your bloodline to heal or harm. As an action you can touch a creature and roll a number of d4's equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Additionally when you land an attack you can roll a number of d4's equal to your proficiency bonus and add the total to the damage roll. Once you use this trait you can't use it again until you finish a long rest. 
+**Healing/Killing Hands**. You can harness the inner power of your bloodline to heal or harm. You choose one of the following benefits. Once you use this trait you cannot use it again until you finish a long rest.
+- As an action you can touch a creature and roll a number of d4's equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. 
+- When you land an attack you can roll a number of d4's equal to your proficiency bonus and add the total to the damage roll. 
 
-**Languages.** You can speak, read, and write Common and Celestial.
+**Languages.** You can speak, read, and write Common, Infernal and Celestial.
 
-###### **Known Nephilims**
+###### **Known Nephalems**
 - [[Azriel Darkstar]] 

@@ -2,7 +2,7 @@
 title: Kyle's DND Multiverse
 ---
 
-Welcome to my DND wiki, where you can view all of the different aspects of my campaigns and multiverse. **You can now view the website fully**
+Welcome to my DND wiki, where you can view all of the different aspects of my campaigns and multiverse.
 
 **Table of Contents**
 - [DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0)  (For those who are new to DND and my Campaigns)
