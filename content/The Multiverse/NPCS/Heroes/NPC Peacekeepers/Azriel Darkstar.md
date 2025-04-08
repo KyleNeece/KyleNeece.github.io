@@ -83,7 +83,7 @@ languages: All via Polygot and Omniscience
 cr: 20
 traits:
   - name: Anchor character
-    desc: Azriel in base is always in final evolution and transcends when he adopts [[Author Abilities|True Evo]]
+    desc: Azriel in base is always in final evolution and transcends when he adopts [[The Story Teller's Power|True Evo]]
   - name: Hermetic Inuition
     desc: Action, under detect magic effect. Freely interact with magic object or surface no set off
   - name: Causal Invocation

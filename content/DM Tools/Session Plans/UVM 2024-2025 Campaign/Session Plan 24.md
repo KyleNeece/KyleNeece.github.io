@@ -19,7 +19,7 @@ tags: [Session_Plans]
 	- Party's choice (Will say as DM doesn't effect difficulty, just an extra body if combat arises which means more creatures in initiative)
 - The plan is set, party will set out 
 	- Improv whichever way they go, give skill checks as needed  
-
+		- random encounters 
 
 **Start here**
 - Once the party gets to the Plane, will see that it is pretty much empty, with the exception of a few small critters and elementals 
@@ -32,12 +32,16 @@ tags: [Session_Plans]
 		- Avoid lightning strikes 
 		- Watch out for freezing blizzards 
 		- Make it through earthquakes, boulders, etc
+		- Some combats with sacrificial demon bombers and mephits
+			- Hoard 12 of these (zombie stat block with kamikaze stuff)
+		- other combats with elementals
+			- 124 of monster manual 
+			- trio 
 - Make it to Jackson eventually, on a clear and plain island
 	- Magical chains and energy generator attached to him, party will have to find a way to save him 
 		- After freeing him, sets off Alarm 
 - Degalith will arrive 
 	- Boss fight on an island 
 - After his defeat, demons will begin to flood the plane, party will have to run away and get out 
-
 - Make it out the Abyss, next steps 
- 
+

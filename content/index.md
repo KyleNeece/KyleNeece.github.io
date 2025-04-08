@@ -6,6 +6,7 @@ Welcome to my DND wiki, where you can view all of the different aspects of my ca
 
 **Table of Contents**
 - [DND Basics](https://docs.google.com/document/d/1ciU1POVDbOPS5_y8OjiFDpQya4Zvq2M-oonqoOr3gd0/edit?tab=t.0)  (For those who are new to DND and my Campaigns)
+- [Homebrew Classes](https://drive.google.com/drive/folders/1rBjWsYmreOwwDAF8VfTeW1bPa9x2HRqy?usp=sharing)
 - <a href="/Game Mechanics and Rules/">Game Mechanics and Rules</a>
 - <a href="/Session Notes/">Session Notes</a>
 - <a href="/DM-Tools/">DM Tools</a>

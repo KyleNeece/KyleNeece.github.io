@@ -1,6 +1,6 @@
 *Deep Speech (Friend)*
 
-The creature wearing or carrying the inscribed object has advantage on Charisma checks made to interact with dragon
+The creature wearing or carrying the inscribed object has advantage on Charisma checks made to interact with Abberant Creature
 
 This rune can be inscribed on objects that are inscribed with other runes from its language. It shares those runes' translations while inscribed on the object
 

@@ -335,13 +335,13 @@ languages: Deep Speech, Infernal, Common
 cr: 16
 traits:
   - name: Magic Resistance
-    desc: Morgath has advantage on saving throws against spells and other magical effects 
+    desc: Vronos has advantage on saving throws against spells and other magical effects 
   - name: Marshal General
-    desc: Unless Morgath is incapacitated, it and all of Aria's other summons within 30 feet of it have advantage on saving throws against features that would inflict mental conditions
+    desc: Unless Vronos is incapacitated, it and all of Aria's other summons within 30 feet of it have advantage on saving throws against features that would inflict mental conditions
   - name: Herretical Smite
     desc: Whenever Morgath hits with a weapon attack, it can expend one spell slot to deal necrotic or fire damage to the target in addition to the weapons damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each level higher than the first. 
 spells:
-  - "Morgath is a 19th evel spellcaster. Its spellcasting abillity is Charisma (spell save DC 17, +9 to hit with spell attacks). It has the following spells prepared"
+  - "Vronos is a 19th evel spellcaster. Its spellcasting abillity is Charisma (spell save DC 17, +9 to hit with spell attacks). It has the following spells prepared"
   - At Will: Firebolt, Phantom Steed
   - 1st level (4 slots): Command, Compelled Duel, Arcane Weapon
   - 2nd level (3 slots): Hold person, Crown of Madness
@@ -350,7 +350,7 @@ spells:
   - 5th level (2 slots): Destructive Wave (necrotic)
 actions:
   - name: Multiattack
-    desc: Morgath makes three longsword attacks
+    desc: Vronos makes three longsword attacks
   - name: Longsword
     desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. *Hit*: 9 (1d8 + 5) slashing or 10 (1d10+5) slashing damage if used with two hands. Plus 9 (2d8) necrotic damage"
 bonus_actions:

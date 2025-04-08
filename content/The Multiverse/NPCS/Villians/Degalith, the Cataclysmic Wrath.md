@@ -23,12 +23,12 @@ ac: 19
 hp: 262
 hit_dice: 21d12 + 125
 speed: 40 ft., fly 80 ft.
-stats: [26, 15, 22, 20, 16, 22]
+stats: [24, 14, 22, 16, 14, 22]
 fage_stats:
 saves:
-  - strength: + 14
+  - strength: + 13
   - constitution: + 12
-  - wisdom: + 9
+  - wisdom: + 8
   - charisma: + 12
 damage_resistances: cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons
 damage_immunities: fire, poison
@@ -38,24 +38,36 @@ languages: Abyssal, telepathy 120 ft.
 cr: 19
 traits:
   - name: Death Throes
-    desc: When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
+    desc: When Degalith dies, he explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys Degalith's weapons.
   - name: Fire Aura
-    desc: At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+    desc: At the start of each of Degalith's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
   - name: Magic Resistance
     desc: The balor has advantage on saving throws against spells and other magical effects.
-  - name: Magic Weapons
-    desc: The balor's weapon attacks are magical.
+  - name: Legendary Resistance 3x
+    desc: If you fail a saving throw, you can choose to succeed instead.
+  - name: War magic 
+    desc: Whenever Degalith casts a spell, he can make one weapon attack as a bonus action
+spells:
+  - "Degalith is a level 16 Spellcaster. His spellcasting abillity is Charisma (spell save DC 21, +11 to hit with spell attacks). He has the following spells prepared"
+  - At Will: Lightning Beam, Booming Blade, Move Earth
+  - 1st level (4 slots): Absorb Elements, Burning Hands, Hex
+  - 2nd level (3 slots): Scorching Ray, Rimes Binding Ice, Earthbind
+  - 3rd level (3 slots): Call Lightning, Fireball, Lightning Bolt
+  - 4th level (3 slots): Ice Storm, Conjure Minor Elementals, Wall of Fire
+  - 5th level (2 slots): Conjure Elemental, Cone of Cold, Flame Strike
+  - 6th level (1 slot): Chain Lightning, Investiture Spells
+  - 7th level (1 slot): Fire Storm, Delayed Blast Fireball
+  - 8th level (1 slot): Tsunami
 actions:
   - name: Multiattack
-    desc: "The balor makes two attacks: one with its longsword and one with its whip."
-  - name: Longsword
-    desc: "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice."
-  - name: Whip
-    desc: "Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor."
+    desc: "Degalith makes two attacks with his Voidhammer."
+  - name: Voidhammer
+    desc: "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 2d8 + 7 Bludgeoning damage plus 2d8 force damage. If Degalith scores a critical hit, he rolls damage dice three times, instead of twice. Moreover, if the target dies by the hammer, their soul is absorbed into it and Degalith can use any of its abillities of the creature the hammer consumed. If the creature absorbed is somehow ressurected, they experience nightmares of Degalith for the rest of their life."
   - name: Teleport
-    desc: The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-  - name: Summon Demon (1/Day, Variant)
-    desc: The demon chooses what to summon and attempts a magical summoning. A balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+    desc: Degalith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 ```
 
-
+**List of MMORPG Actions (See Pointy Hat Dynamic Combat Video)**
+- At the end of each of his turns Degalith can cast a telegraphed spell that will go off on his next turn 
+- 5 foot radius dots appear, lesser elemental zombies will spawn on his next turn, they go last in initiative (explode when near someone, suicide bombs, 2d6 damage)
+- While under the effects of Jackson Felwinter's energy source, he can charge up and be ready to preform a spellstrike 

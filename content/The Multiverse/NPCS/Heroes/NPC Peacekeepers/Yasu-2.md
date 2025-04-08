@@ -129,4 +129,8 @@ reactions:
 	- [[Spellshard]]
 
 
+pipes of haunting 
+staff of healing 
+20 str 
+
 investiture of flame?
