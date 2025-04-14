@@ -34,7 +34,7 @@ The 6 vs 1 fight ensured, with both sides not letting the other breathe. Tartaru
 ###### Recruitment
 Jackson became the leader of the Peacekeeper force and is arguably the most powerful S-Rank
 ##### Abilities  
-Jackson is a Path of the Worthy Magus with multiple epic boons
+Jackson is a Art of the Worthy Magus with multiple epic boons
 
 ```statblock
 layout: Basic 5e Layout Copy
@@ -45,7 +45,7 @@ type: Human
 subtype: Magus
 alignment: Neutral Good
 ac: 18
-hp: 180
+hp: 
 hit_dice: 20d8
 speed: 30 walk and fly
 stats: [12, 20, 16, 24, 16, 16]
@@ -64,7 +64,7 @@ skillsaves:
   - 
   - 
 senses: 
-languages: 
+languages: Common, Celestial, Draconic
 cr: 20
 traits:
   - name: Anchor character
