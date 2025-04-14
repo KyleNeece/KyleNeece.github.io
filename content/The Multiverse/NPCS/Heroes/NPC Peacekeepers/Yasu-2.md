@@ -116,7 +116,7 @@ reactions:
 	- [[Arcane Propulsion Arm]]s
 - Rare 
 	- [[Mizzium Mortar]]
-	- [[Cape of the Mountebank]] 
+	- Ring of Fire Resistance 
 	- [[Mizzium Armor|Mizzium Armor Plating]]
  - Uncommon
 	- [[Driftglobe]]
@@ -128,9 +128,7 @@ reactions:
 	- [[HUD Display]]
 	- [[Spellshard]]
 
-
-pipes of haunting 
-staff of healing 
-20 str 
-
-investiture of flame?
+**[[4.4_Act 3 - Omnipresent War Arc]] brought Yasu-2 Upgrades**
+- Pipes of Haunting 
+- Staff of healing 
+- Belt of Hill Giant Strength No Attunement 

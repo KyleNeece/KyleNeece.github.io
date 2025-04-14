@@ -6,5 +6,5 @@ Prosthetic Limbs are mechanical limbs that magically replace a lost limb of the 
 
 **Prosthetic Limb users**
 - [[Otto]] (Forearm)
-- [[Jackson Felwinter]] (Arm, special organic technology)
+- [[Jackson Felwinter]] (Arm, special organic technology and modified)
  

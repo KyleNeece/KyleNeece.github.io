@@ -7,5 +7,5 @@ This cape smells faintly of brimstone. While wearing it, you can use it to cast 
 When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
 
 **Known Possessors**
-- [[Yasu-2]] (instead of a cape integrated as a inscription into his body armor)
+- [[Jackson Felwinter]]
  

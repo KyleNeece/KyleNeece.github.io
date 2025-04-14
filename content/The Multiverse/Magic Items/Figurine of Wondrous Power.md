@@ -49,6 +49,6 @@ actions:
 
 **Known Users**
 - [[Emily Sigiliph]]
-- [[Jackson Felwinter]] (Special Version Gifted by Bahamut, see [[Bahamuts Wonderous Figurine of Power (Dragon)]])
+- [[Jackson Felwinter]] (Special Version Gifted by Bahamut, see [[Bahamuts Mythical Figurine (Dragon)]])
 	- [[Aria Hassan]] temporarily had possession of it but could not access its fully capabilities 
  

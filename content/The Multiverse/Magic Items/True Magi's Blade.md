@@ -19,6 +19,6 @@ True Magi's Blade is a +3 weapon that can switch between a Finesse Longsword and
 
 	- **Both**
 		- **Spell Storing**: This Weapon functions as a ring of Spell Storing with 5 charges.
-		- **Tempus's Gifted Secrets**: At the beginning of each day, you may choose one spell from each level and spell list. You can cast each of these spells without expending a spell slot. Once you cast any of these spells in this way, you can't cast that spell in this way again for 24 hours. You can also cast these spells using spell slots you have of the appropriate level
+		- **Bahamut's Gifted Secrets**: At the beginning of each day, you may choose one spell from each level and spell list. You can cast each of these spells without expending a spell slot. Once you cast any of these spells in this way, you can't cast that spell in this way again for 24 hours. You can also cast these spells using spell slots you have of the appropriate level
 		- **Deletion**: 3x per day you can slash or shoot anything and permanently remove a quality from reality (DMs discretion)
 		- **Dimensional Cut and Pierce**: This Weapon can tear the fabric of reality, creating a temporary rift between planes. You can use your action to choose a different plane of existence from the one you’re on and slice or pierce through an unoccupied space within 5 feet of yourself, creating a rift to that other plane. The rift can be up to 10 feet high and 10 feet wide, and it lasts for 1 minute. Once this property is used, it can’t be used again until the next dawn.

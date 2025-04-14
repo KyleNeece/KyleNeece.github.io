@@ -107,7 +107,7 @@ reactions:
 - Very Rare
 	- [[Tome of Leadership and Influence]]
 	- [[Staff of Charming|Tattoo of Charming]]
-	- [[Chime of Exile|Whistle of Exile]]
+	- [[Lute of Thunderous Thumping|Song of Thunderous Enchantment]]
 - Rare
 	- [[Glamoured Studded Leather]]
 	- [[Eagle Whistle]]

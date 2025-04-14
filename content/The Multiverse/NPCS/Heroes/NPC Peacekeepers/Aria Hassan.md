@@ -107,22 +107,22 @@ reactions:
 	- Night Serpant's Dreamweaver 
 	- [[Cloak of Consuming Dreams]]
 - Very Rare
-	- Ghost Step Tattoo
-	- Tome of Leadership and Influence 
+	- [[Ghost Step Tattoo]]
+	- [[Tome of Leadership and Influence]]
 	- Ring of Promised Return
 - Rare
-	- Horn of the Endless Maze
+	- [[Horn of the Endless Maze]]
 	- [[Fates Eye]]
-	- Cube of Summoning (Abberation)
+	- [[Cube of Summoning]] 
 - Uncommon
-	- Serpent Scale Mail 
-	- Gloves of Thievery 
+	- [[Serpent Scale Mail]]
+	- [[Gloves of Thievery]]
 	- [[Peacekeeper Communication Device]] (Tattoo)
-	- Boots of Elvenkind 
+	- [[Boots of Elvenkind]]
 - Common
-	- Horn of Silent Alarm 
+	- [[Horn of Silent Alarm|Earring of Silent Alarm]]
 	- [[Bottle of Boundless Coffee]]
-	- Tattoo of Pleasant Dreams
+	- [[Tattoo of Pleasant Dreams]]
 
 ##### Abberation Summons (via Cloak of Consuming Dreams)
 

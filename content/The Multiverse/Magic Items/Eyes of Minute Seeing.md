@@ -6,4 +6,5 @@ These crystal lenses fit over the eyes. While wearing them, you can see much bet
 
 **Known Possessors**
 - [[Azriel Darkstar]] (minor rune)
+- [[Jackson Felwinter]] (replacement eye)
  

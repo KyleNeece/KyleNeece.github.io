@@ -58,7 +58,7 @@ name: Azriel Darkstar
 size: Meduim 
 type: Nephilim
 subtype: Runekeeper
-alignment: Neutral Good
+alignment: Lawful Good
 ac: 18
 hp: 180
 hit_dice: 20d8
