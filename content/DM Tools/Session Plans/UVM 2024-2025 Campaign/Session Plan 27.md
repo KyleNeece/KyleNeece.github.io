@@ -1,3 +1,7 @@
-Istoria Rootsery pt 2 
+Raid on Kingdom of Stories. Name: Chronicle of the Infinite Reader
 
-given ring of 3 wishes by the Outer One (Me, Kyle Neece)
+*A 6-player epic raid against the Istoria Rootsery of Nyarlathotep*
+
+Encounter List 
+1. The gate of titles  
+2. 

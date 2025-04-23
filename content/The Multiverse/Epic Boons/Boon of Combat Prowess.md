@@ -1,0 +1,1 @@
+When you miss with an attack roll, you can hit instead. Once you use this benefit, you can't use it again until the start of your next turn.

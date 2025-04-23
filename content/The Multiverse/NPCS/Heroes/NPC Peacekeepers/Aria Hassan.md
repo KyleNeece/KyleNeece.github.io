@@ -104,12 +104,12 @@ reactions:
 
 **Magic Items**
 - Legendary
-	- Night Serpant's Dreamweaver 
+	- [[Night Serpant's Dreamweaver]]
 	- [[Cloak of Consuming Dreams]]
 - Very Rare
 	- [[Ghost Step Tattoo]]
 	- [[Tome of Leadership and Influence]]
-	- Ring of Promised Return
+	- [[Ring of Promised Return]]
 - Rare
 	- [[Horn of the Endless Maze]]
 	- [[Fates Eye]]

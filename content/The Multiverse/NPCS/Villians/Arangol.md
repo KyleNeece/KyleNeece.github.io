@@ -41,4 +41,62 @@ Arangol grew his forces and prepared for the large scale battle.
  > 
 ##### Abilities  
 Arangol has the power of a lesser deity and is on a similar or equal level to Jackson Felwinter and Azriel Darkstar
- 
+
+```statblock
+layout: Basic 5e Layout Copy
+image: Arangol.png
+name: Arangol
+size: Meduim 
+type: Abberation
+subtype: Mindflayer Lich
+alignment: Lawful Evil
+ac: 17
+hp: 600
+hit_dice: 
+speed: 30 walk and fly
+stats: [16, 20, 18, 24, 20, 20]
+fage_stats: 
+saves:
+  - Strength: + 9
+  - Dexterity: + 11
+  - Constitution: + 10
+  - Intelligence: + 13
+  - Wisdom: + 11
+  - Charisma: + 11
+skillsaves:
+  - All Intellgience Skills: +19
+  - All Wisdom Skills: +11
+  - All Charisma Skills: +11
+  - Insight: +17
+  - Stealth: +11
+  - Sleight of Hand: +11
+damage_immunities: Poison, Psychic, Necrotic
+condition_immunities: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+senses: Truesight 120 ft., Passive Perception 27
+languages: All, Telepathy 120 ft
+cr: 20
+traits:
+  - name: Narrative Change
+    desc: As an action or bonus action. If Arangol understands the context of his existence in a given moment of reality (insight check), he can insert himself at any point in the past to change the past or present, which gives a determined outcome depending on the situation. If the situation effects soemone other then himslef he must make an insight check versus the targets deception check. In combat he can use it once as an action and once as a reaction each round. 
+  - name: Orb of Immortality
+    desc: Upon absorbing the Orb, Arangol has become fully immortal and an anchor being
+  - Name: Beguiling Aura
+  - desc: Whenever a creature moves within 5 feet of Arangol for the first time on their turn they become charmed. The creature must make a save of their choice between Intelligence, Wisdom or Charisma. On a fail the creature is put under the effects of the Dominate Monster spell on their next turn. After a fail, whenever they are forced to make subsequent saving throws versus this effect, they do so with advantage. On a success, nothing happens. After a success, the DC increases by 2 for each success they make until they fail. 
+spells:
+  - "Arangol is a level 20 spellcaster. His spellcasting abillity is intelligence (spell save DC 21, +12 to hit) He has the following spells prepared:"
+  - 1-9th level (4, 3, 3, 3, 3, 2, 2, 1, 1): All spells
+actions:
+  - name: Multiattack
+    desc: Arangol can either make 3 attacks, 2 attacks and cast a spell or use Mind Blast, or 1 attack and Narative Change
+  - name: Magical Construct Attack 
+    desc: "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 4d6 + 8 force damage."
+  - name: Mind Blast (Recharge 5-6)
+    desc: The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+```
+
+**List of MMORPG Actions**
+- At the end of each of his turns, Arangol can summon minions 
+- If a target is effected by Narrative Change, a clock will appear above its head, and will display a number. The number increases for every turn that passes. If the clock reaches its time goal, the target's existence is automatically effected in a way of Arangol's choosing. This can be dispelled by Lesser Restoration, Greater Restoration, Counterspell,  Dispel Magic, or the help action while making an Arcana check. 
+
+
+1 3  

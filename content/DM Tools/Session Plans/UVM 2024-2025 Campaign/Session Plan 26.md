@@ -1,1 +1,66 @@
-Istoria Rootsery pt 1
+- Session opens directly after the fight 
+- PCS to talk to 
+	- Ludwig
+	- The core 6 
+	- Chance to talk to any NPCS 
+- Party begins to help clean up the city 
+- Jackson then says he's disbanding the peacekeepers, tells them it is now going to be called The Wardens
+	- No base of operations, no ranking system, purely a freelance job. Will be notified whenever theres trouble in your designated area, and you can choose to deal with it or not because ultimately there will always be heroes wherever trouble may be, he has faith in the mortal world, have to begin to trust others to be able to handle themselves
+		- Says they do not need to partake if they don't want 
+	- Before they leave, gives a TON of gold (will let players know about how to spend it later)
+
+- Party goes into their designated downtime activities 
+	- Eli 
+		- Going back to his village, jungle plane, lawyer, talk about forest cutting down 
+	- Jackson 
+		- TBD
+	- Ben 
+		- TBD 
+		- Own runic language 
+			- Ham Sandwich
+	- Djani 
+		- TBD
+		- Full magic item replication 
+		- Degalith upgrade 
+	- Isaac
+		- TBD
+		- Can pick any 2 spells per day that can be cast at their level 
+	- Matt 
+		- Training under Jackson Felwinter
+		- Reinstate Cainhurst Knights with Arianna 
+		- Blade cantrips 2 per day and maybe can swap them out 
+		- Retraining certain spells
+
+- After designated downtime, in each location trouble appears 
+	- A Runekeeper in each designated area 
+	- After their defeat, will get a call from Emily 
+		- Call for help, invasion on Sigil 
+			- The Infinite Reader has arrived 
+			- Runekeeper invasion 
+			- Each party member will go against a certain Runekeeper 
+				- After their defeat, will race to large clashing sounds and impacts 
+				- Leads to the Omnipotent One, sealed away in a translucent Hedron, get their via teleportation device 
+- Party arrives to Jackson and Azriel getting their assess kicked 
+	- Infinite reader tells Monty to join him 
+	- Then attempts to kill the party but Jackson and Azriel in comas 
+		- He then kills the Omnipotent One, absorbs part of his power, other half scatters to Jaloop (he does not notice)
+	- Infinite Reader and Monty then teleport to Arangol 
+		- Arangol refuses to join them 
+	- Infinite Reader teleports back to the party to attempt to kill them, but runs out of time for invasion, due to Arangol putting him under Narrative change, leaves with Monty 
+		- World hasn't collapsed because Jaloop exists 
+- Aria blows of steam 
+- Olivia traumatized 
+- Emily saddened 
+- Yasu saddened 
+- All hope is lost 
+
+- Cut to Monty, Infinite Reader and Runekeepers 
+	- Ceremony inducting Monty 
+		- Given the Fable of Fortune 
+		- Monty crafts splicers and splices one part of himself (either fortune or misfortune, and sends him to party)
+			- One is named M, the other is named Y 
+- Party sees in the sky a massive floating kingdom created, from a far looks like a star
+- Ludwig said he's gonna go for a walk, and that Emily will come up with something (suggesting a raid on the Kingdom)
+	- Goes to Arangol's prison, goes to free him 
+		- Monty as one of his halves arrives and introduces himself as an ally 
+- Set up raid, any preparations/final character upgrades essentially 

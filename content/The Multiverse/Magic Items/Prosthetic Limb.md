@@ -6,5 +6,5 @@ Prosthetic Limbs are mechanical limbs that magically replace a lost limb of the 
 
 **Prosthetic Limb users**
 - [[Otto]] (Forearm)
-- [[Jackson Felwinter]] (Arm, special organic technology and modified)
+- [[Jackson Felwinter]] (Arm, special organic technology and modified. Contains a compartment for his Sunblade handle and the fingers act as a emerald pen)
  

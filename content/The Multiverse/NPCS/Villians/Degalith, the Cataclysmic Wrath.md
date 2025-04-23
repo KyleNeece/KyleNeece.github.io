@@ -67,7 +67,7 @@ actions:
     desc: Degalith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 ```
 
-**List of MMORPG Actions (See Pointy Hat Dynamic Combat Video)**
+**List of MMORPG Actions **
 - At the end of each of his turns Degalith can cast a telegraphed spell that will go off on his next turn 
 - 5 foot radius dots appear, lesser elemental zombies will spawn on his next turn, they go last in initiative (explode when near someone, suicide bombs, 2d6 damage)
 - While under the effects of Jackson Felwinter's energy source, he can charge up and be ready to preform a spellstrike 

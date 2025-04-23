@@ -1,0 +1,1 @@
+Choose one 1st-level spell that you can cast. You can now cast that spell at its lowest level without expending a spell slot.

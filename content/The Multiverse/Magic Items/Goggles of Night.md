@@ -6,4 +6,5 @@ While wearing these dark lenses, you have [darkvision](https://roll20.net/compe
 
 **Known Possessors**
 - [[Emily Sigiliph]] (permanent eye augmentation)
+- [[Jackson Felwinter]] (Eye replecement)
  

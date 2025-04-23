@@ -1,3 +1,29 @@
-Arangol Boss fight 
-
-maybe degalith before depending on how far we get 
+- The party is still in the abyss 
+- Demons begin flooding the realm 
+- Jackson Felwinter showcase 
+- Back to hell, meet up with the rest of the old party and crew 
+	- Emotional moment 
+	- Aria gains Degalith with killing Akanos 
+	- Preparations before leaving Hell
+	- Gifts of compensation, special crafting materials 
+- Leave the hells, Jackson TPs party to a old hideout on the edge of the universe, was once his fathers safehouse 
+	- Old iconic equipment, pictures, heirlooms and more
+		- Take what they need and preparations 
+	- Go over plan, rest for evening 
+- Next day, start the raid 
+	- Arangol monologue 
+		- Trust is the same as reliance it is a fault of the weak we don’t need such a thing. No, I’ve never told my subordinates to trust me. I told them to follow me, but never to trust me. I always told them never trust anyone, including me. But sadly, there aren’t any who are strong enough to do that. All living beings are unable to survive unless they trust and obey, Someone who is better than they are. To escape that pressure, Those who are better than others search for their superiors. those who are superior, search for even stronger individuals they can believe in. Thus the king of everything was born, thus the god of everything, was born. So, I plan to slay such god, and make a world where no such superiors exist, a world of power. Do you believe my cause?
+		- You’ve heard what I’ve said and infer me a liar. Now you refuse to believe what I’ve shared. You claim that I am lying right now so why do you think I was telling the truth back then. I supposed it can’t be helped, I sympathize with you. This world was never about truth or lies, there are only hard facts. Despite that, everyone who exists in this world, mistakenly believes that only facts that are favorable to them are true. They know no other way to live. But, for the powerless who make up most of the world, facts against them are the only truths. Do you know all of the facts as I do?
+		- I see, so you are ignorant to the narrative ahead. If you will not let me proceed peacefully I'll proceed with force
+	- Arangol raid boss fight 
+		- Changing environment 
+		- Minion mechanics 
+		- Damage phases 
+		- See statblock for other details 
+	- Upon defeat, reveal he's immortal, Jackson seals him away with a hedron 
+		- Arangol: Jackson Felwinter do you know how much I hate you. With that gifted intellect why do you not take independent action. Why in the world would you choose to subjugate yourself to that thing?
+		- Jackson: When you say that thing are you talking about the Omnipotent One? I see... so you saw it didn't you? Without his existence, reality would split to pieces. The Omnipotent One is the key to it all. Without such key in place, all we know as is would fall apart. That my friend is how it works 
+		- Arangol: That is a argument that only an idiotic ignorant loser would make! The winners should speak of how the universe should be rather then how the universe currently is. I refuse to live in a world ruled under it, I am the victor, I shall decide how the universe should be. 
+		- Sealed away 
+	- Post battle, cheers, and happiness. Talk with the major NPCS they were with in the beginning of session 
+		- Active downtime 

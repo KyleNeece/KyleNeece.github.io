@@ -82,9 +82,9 @@ reactions:
 
 **Epic boons**
 - [[Boon of Immortality]]
-- Boon of Combat Prowess
-- Boon of Free Casting 
-- Boon of Spell Mastery (Construct Spells)
+- [[Boon of Combat Prowess]]
+- [[Boon of Quick Casting]]
+- [[Boon of Spell Mastery]] (Construct Spells)
 
 **Magic Items**
 - Legendary
@@ -92,18 +92,18 @@ reactions:
 	- [[Bahamuts Mythical Figurine (Dragon)]]
 - Very Rare
 	- [[Tome of Clear Thought |Absolute Tome of Clear Thought]]
-	- Gift of the Serpent Mother
-	- Felwinter's Battle Armor
+	- [[Gift of the Serpent Mother]]
+	- [[Felwinter's Battle Armor]]
 - Rare 
 	- [[Mirror of the Past]]
 	- [[Cape of the Mountebank]]
-	- Multipurpose Hedron(s)
+	- [[Multipurpose Hedron]](s)
 - Uncommon 
 	- [[Peacekeeper Communication Device]] (Rune from a Runekeeper)
-	- [[Eyes of Minute Seeing]] (Eye replacement)
-	- [[Goggles of Night|Eyes of Nightvision]] (Eye replacement)
+	- [[Eyes of Minute Seeing]] 
+	- [[Goggles of Night|Eyes of Nightvision]] 
 	- [[Wildspace Orrery]]
 - Common 
-	- [[Prosthetic Limb]] (with wand sheath but for blade and finger is emerald pen)
+	- [[Prosthetic Limb]] 
 	- [[Clockwork Amulet]]
 	- [[Hat of Wizardry]]
