@@ -11,4 +11,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 **Necrotic Resistance.** You have resistance to necrotic damage.
 
 **Life Ward.** When you would be reduced to 0 hit points, you drop to 1 hit point instead. Once used, this property can't be used again until the next dawn.
- 
+
+**Known possessors**
+- [[Azriel Darkstar]]

@@ -6,6 +6,6 @@ This metal bottle carries delicious, warm coffee. The bottle comes with a stoppe
 
 Each time you drink the coffee, roll a d20. On a 1, the bottle refuses to dispense coffee for the next hour. If you pour coffee from the bottle, rather than drinking from it, the coffee vanishes the moment it leaves the bottle.
 
-**Known possessors of a Pearl of Power**
+**Known possessors**
 - [[Monty]]
 

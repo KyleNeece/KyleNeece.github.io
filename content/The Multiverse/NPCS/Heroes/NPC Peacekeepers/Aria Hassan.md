@@ -58,7 +58,7 @@ skillsaves:
   - Deception: + 11
   - Indimidation: + 11
   - Stealth: + 9
-  - Sleight of Hand: + 9
+  - Perception: + 7
   - Thieves Tools and Poisoners: + 5
 damage_resistances: Psychic, Poison, adv on saves 
 condition_immunities: adv on saving throw to end the poisoned condition on yourself
@@ -66,6 +66,8 @@ senses: Passive Perception 11, Darkvision 60ft
 languages: Common, Deep Speech
 cr: 10
 traits:
+  - name: Actor 
+    desc: You have an advantage on Deception and Performance checks when trying to pass yourself off as a different person. In addition, you can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Insight check contested by your Deception check allows a listener to determine that the effect is faked.
   - name: Pact of the Tomb, Grimoire of the Serpant Mother
     desc: End of Short or Long Rest Summon the Book of Shadows. When book appears, choose three cantrips, and choose two level 1 ritual spells from any spell list but you can't have them prepared already. While you have the book is on your person the chosen spells are prepared, and count as Warlock spells. The book also functions as a [Book of Ancient Secrets](https://dnd5e.wikidot.com/warlock:eldritch-invocations#:~:text=a%20long%20rest.-,Book%20of%20Ancient%20Secrets,-Prerequisite%3A%20Pact%20of) and a [Far Scribe](https://dnd5e.wikidot.com/warlock:eldritch-invocations#:~:text=read%20all%20writing.-,Far%20Scribe,-Source%3A%20Tasha%27s%20Cauldron) but only to contact Dendar. 
   - name: Contact Parton
@@ -84,11 +86,9 @@ spells:
   - Cantrips: Eldritch Blast, Mind Sliver, Minor Illusion, Prestidigitation, Poison Spray, Animal Friendship (only snakes)
   - Pact Magic 5th level: Armor of Agathys, Tongues, Counterspell, Hypnotic Pattern, Hold Monster, Major Image, Shadow of Moil, Sickening Radiance, Comet, Raulothim’s Psychic Lance, Charm Monster, Synaptic Static, Fly, Vampiric Touch, Suggestion 1x free/long rest
   - Great Old One Spells Always Prepared: Hex, Summon Abberation, Detect Thoughts, Dissnonant Whispers, Phantasmal Force, Tasha's Hideous Laughter, Clairvoyance, Hunger of Hadar, Confusion, Summon Abberation, Modify Memory, Telekensis 
-  - Mystic Arcanum: Eyebite (6th), Finger of Death (7th), Maddening Darkness (8th)
+  - Mystic Arcanum: Mass Suggestion (6th), Power Word Pain (7th), Maddening Darkness (8th)
 actions:
-  - name: 
-    desc: 
-  - name: 
+  - name: Rakdos RiteSwords
     desc: 
 bonus_actions:
   - name: Awakened Mind
@@ -96,10 +96,8 @@ bonus_actions:
   - name: 
     desc: 
 reactions:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
+  - name: Certain Spells
+    desc: See spells
 ```
 
 **Magic Items**

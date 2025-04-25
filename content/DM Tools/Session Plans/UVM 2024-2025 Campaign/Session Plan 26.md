@@ -17,7 +17,7 @@
 	- Ben 
 		- TBD 
 		- Own runic language 
-			- Ham Sandwich
+			- Ham Sandwich 
 	- Djani 
 		- TBD
 		- Full magic item replication 
@@ -39,28 +39,35 @@
 			- Runekeeper invasion 
 			- Each party member will go against a certain Runekeeper 
 				- After their defeat, will race to large clashing sounds and impacts 
-				- Leads to the Omnipotent One, sealed away in a translucent Hedron, get their via teleportation device 
-- Party arrives to Jackson and Azriel getting their assess kicked 
-	- Infinite reader tells Monty to join him 
-	- Then attempts to kill the party but Jackson and Azriel in comas 
-		- He then kills the Omnipotent One, absorbs part of his power, other half scatters to Jaloop (he does not notice)
-	- Infinite Reader and Monty then teleport to Arangol 
-		- Arangol refuses to join them 
-	- Infinite Reader teleports back to the party to attempt to kill them, but runs out of time for invasion, due to Arangol putting him under Narrative change, leaves with Monty 
-		- World hasn't collapsed because Jaloop exists 
-- Aria blows of steam 
-- Olivia traumatized 
-- Emily saddened 
-- Yasu saddened 
+				- Leads to the Omnipotent One, sealed away in a translucent Hedron, get there via teleportation device 
+- Party arrives to Jackson and Azriel kicking ass 
+	- But then he activates his Story Recall skill --> the power to use any ability within the story 
+		- Infinite reader tells Monty to join him 
+		- Then attempts to kill the party but Jackson and Azriel in comas 
+			- He then kills the Omnipotent One, absorbs part of his power, other half scatters to Jaloop (he does not notice)
+		- Infinite Reader and Monty then teleport to Arangol 
+			- Arangol refuses to join them 
+		- Infinite Reader teleports back to the party to attempt to kill them, but runs out of time for invasion, due to Arangol putting him under Narrative change, leaves with Monty 
+			- World hasn't collapsed because Jaloop exists 
+- Aria blows off steam 
+	- Some soldiers attempt to hold her back, others turn to the party and speak on her mental estate
+- Olivia traumatized, hugging knees against wall and sitting down 
+- Emily saddened, storms off 
+- Yasu leaves to try and get Emily to come back 
 - All hope is lost 
+	- Ludwig deep in thought
 
 - Cut to Monty, Infinite Reader and Runekeepers 
 	- Ceremony inducting Monty 
 		- Given the Fable of Fortune 
 		- Monty crafts splicers and splices one part of himself (either fortune or misfortune, and sends him to party)
 			- One is named M, the other is named Y 
-- Party sees in the sky a massive floating kingdom created, from a far looks like a star
+- Cuts back to party sees in the sky a massive floating kingdom created, from a far looks like a star
 - Ludwig said he's gonna go for a walk, and that Emily will come up with something (suggesting a raid on the Kingdom)
 	- Goes to Arangol's prison, goes to free him 
 		- Monty as one of his halves arrives and introduces himself as an ally 
+			- Name is M or Y 
+				- M = Fortune 
+				- Y = Misfortune 
 - Set up raid, any preparations/final character upgrades essentially 
+	- Will have to workshop this with players after 
