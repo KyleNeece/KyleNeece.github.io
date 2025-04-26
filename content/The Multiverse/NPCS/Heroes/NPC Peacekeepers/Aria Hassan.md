@@ -89,12 +89,10 @@ spells:
   - Mystic Arcanum: Mass Suggestion (6th), Power Word Pain (7th), Maddening Darkness (8th)
 actions:
   - name: Rakdos RiteSwords
-    desc: 
+    desc: "Melee Weapon Attack: +13 to hit, reach 5 ft. or thrown 20/60 ft., one target. Hit: 1d6+8 piercing damage and 1d4 necrotic for each soul imprisoned Damage"
 bonus_actions:
   - name: Awakened Mind
     desc: Choose one creature you can see within 30 feet of yourself and create a telepathic bond. You and the chosen creature can speak telepathically with each other while the two of you are within 6 miles. To understand each other, you each must speak mentally in a language the other knows. The telepathic connection lasts for a 16 minutes. It ends early if you have the Incapacitated condition or die or if you use this feature to form a connection with a different creature. Moreover, when you form a telepathic bond with a creature, you can force that creature to make a Wisdom saving throw vs your spell save DC. On a fail, the creature has Disadvantage on attack rolls against you, and you have Advantage on attack rolls against that creature for the duration of the bond. 1x per short or long rest or spend spell slot 2 or higher no action
-  - name: 
-    desc: 
 reactions:
   - name: Certain Spells
     desc: See spells

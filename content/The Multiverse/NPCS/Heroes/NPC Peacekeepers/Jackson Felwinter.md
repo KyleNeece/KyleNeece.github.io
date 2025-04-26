@@ -58,26 +58,58 @@ saves:
   - Wisdom: + 3
   - Charisma: + 3
 skillsaves:
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Religion: + 13
+  - Acrobatics: + 11
+  - Arcana: + 19
+  - History: + 19
+  - Stealth: +11
+  - Sleight of Hand: + 11
+  - Convincing Bahamut Teachings: X+6
 senses: 
 languages: Common, Celestial, Draconic
 cr: 20
 traits:
   - name: Anchor character
     desc: Jackson Felwinter in base is always in final evolution and transcends when he adopts [[The Story Teller's Power|True Evo]]
+  - name: Channel Die
+    desc: After spell is cast gain channel die. Can spend on Arcane Strike, Warding Glyph or Tempo Shift. 
+  - name: Blessed Magi
+    desc: Channel die lasts until long rest. As action can spend hit die to heal a creature equal to amount rolled. As a reaction when someone is healed boost the healing by spending and roll result of channel die
+  - name: Celestial Warrior
+    desc: Change damage of spells to radiant or necrotic. When hit with a weapon can use Arcane Strike Feature twice and can change weapon damage to radiant or necrotic 
+  - name: Heart of the Empyrean
+    desc: Create 2 channel die, spend hit die as channel die and vice versa, no limit to how many channel die held 
+  - name: Sweeping strike 
+    desc: You can now Spell Strike with spells that deal damage over an area, as long as the spell does not continue affecting that area after the initial casting. When you do so the spell only affects the target of your spell strike. If the Spell Strike hits, any creature within a 15ft cone emanating from you in the direction of the target of the Spell Strike is also affected by the spell. All attack rolls or saving throws caused by the spell are rolled normally as per the spells description for any creature other than the Spell Strikes original target.
+  - name: Arcane Wellspring 
+    desc: When you roll initiative you can roll 1D4 and regain a missing spell slot, the level of which is equal to the number you rolled.
+  - name: True Magi 
+    desc: You have advantage on all saving throws against spells and magical effects, and you have resistance against any damage caused by Spells and magical effects.
+  - name: Telekenetic, Gift of the Metallic Dragon, Keen Mind, Telepathic, and Warcaster
+    desc: see feats 
+  - 
+spells:
+  - Cantrips: Prestidigitation, Voltaic Blade, Mage Hand, Glacier Blade, Arcane Shove, Lightning Beam, Construct Shot and Strike
+  - 1st level (4 slots): Shield, Absorb Elements, Catapault, Chromatic Orb, Detect Magic, Thumderwave, Bless
+  - 2nd level (3 slots): Invisibility, Misty Step, Hold Person, Scorching Ray, Scholars Weaponry, Eldritch Phalanx, Spiritual Weapon
+  - 3rd level (3 slots): Comet, Hypnotic Pattern, Phantom Steed, Dispel Magic, Crystal Barrage, Revivify
+  - 4th level (3 slots): Rock Sling, Greater Invisibility, Banishment, Fireshield, Elemental Bane, Deathward
+  - 5th level (2 slots): Steel Wind Strike, Lesser Meteorite, Hold Monster, Telekinesis, Cone of Cold, Commune
 actions:
   - name: Multiattack
-    desc: Jackson Felwinter makes a spell strike and one attack
+    desc: Jackson Felwinter can make a spell strike and one attack or two attacks or sustain 1 spell and make 1 weapon attack
+  - name: True Magi's Blade 
+    desc: "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 1d8+8 and 2d6 force Damage"
+  - name: Spellstrike
+    desc: Spend one Channel Die to perform a spell strike when casting level 1 or higher Magus spell. As part of the spell casting action you make 1 weapon attack. If the weapon attack hits, the target takes any damage and additional effects from the weapon and the spell that you have cast as part of this action. If the spell requires any attack roll that attack roll automatically hits if the weapon attack hits. If the spell requires a saving throw, the target has to make that saving throw with disadvantage if the weapon attack hits. If you score a critical hit with your weapon attack roll you don't double the damage of the spell, instead you add your intelligence modifier to the spell's damage roll if the spell does damage. If the spell requires a saving throw the first saving throw automatically fails as the result of a critical hit. If the weapon attack misses, the spell takes no effect and the spell slot is wasted.
+  - name: Esoteric Eye 
+    desc: Until the end of your next turn, you know if each creature you can see within 60 feet of you has the Spellcasting or Innate Spellcasting feature or trait. You learn each of those creatures’ spellcasting ability, if they have one. You can use this 8 times per long rest.
 bonus_actions:
-  - name: Channe Die
-    desc: 
+  - name: Channel Die cantrips
+    desc: After casting cantrip gain chanel die 6x Long Rest
 reactions:
-  - name: 
-    desc:
+  - name: Spell Absorption
+    desc: When take damage from spell gain one Channel Die
 ```
 
 **Epic boons**

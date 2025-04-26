@@ -6,7 +6,7 @@ tags: [Villian]
 ###### **General Information**
 The Istoria Rytsarey were created with the purpose of taking Fables, which are events and occurrences that an individual holds when they accomplish something significant. These stories originate from the Omnipotent One, who is the writer of stories. 
 
-Each Istoria Rytsarey is assigned a Fable by Nyarlathotep (The Infinite Reader) which gives them unique abilities. These Fable are based off of a Word and the meaning of it within a Story.  
+Each Istoria Rytsarey is assigned a Fable by Nyarlathotep ([[The Infinite Reader]]) which gives them unique abilities. These Fable are based off of a Word and the meaning of it within a Story.  
 
  The hierarchy within the organization is very notable. 
  - Mob 1 - Nyarlathotep and his elite company, consisting of 5 other elites

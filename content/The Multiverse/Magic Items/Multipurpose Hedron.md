@@ -8,6 +8,8 @@ Jackson Felwinter's heavily modified Hedron he created. He has multiple Hedrons 
 - Functions as a bag of holding
 **Detonating Hedron**
 - Functions as a glyph or warding 
+**Spell Hedron**
+- Functions as a ring of spell storing
 
 So long as the user knows how to harness its power within a certain conditional context, Hedrons can be used for almost anything 
 

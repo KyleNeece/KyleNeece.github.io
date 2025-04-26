@@ -19,11 +19,21 @@
 		- Own runic language 
 			- Ham Sandwich 
 	- Djani 
-		- TBD
+		- Missions for Jackson Felwinter
+			- Freelancer now
 		- Full magic item replication 
 		- Degalith upgrade 
+			- Can roll half the amount of sneak attack dice to give a status effect 
+				- Burning 
+				- Eroding 
+				- Chilled 
+				- Wet 
+				- Electrocuted
+				- Deafened
 	- Isaac
-		- TBD
+		- Learning power word
+			- Learned powerword dance 
+			- learned command 
 		- Can pick any 2 spells per day that can be cast at their level 
 	- Matt 
 		- Training under Jackson Felwinter
@@ -33,7 +43,7 @@
 
 - After designated downtime, in each location trouble appears 
 	- A Runekeeper in each designated area 
-	- After their defeat, will get a call from Emily 
+	- After their defeat, will get a call from Emily or some will be on sigil 
 		- Call for help, invasion on Sigil 
 			- The Infinite Reader has arrived 
 			- Runekeeper invasion 
