@@ -2,7 +2,12 @@
 ##### Brief Summary 
 The Infinite Reader, also known as Nyarlathotep, is a great old one Runekeeper. 
 ##### Appearance 
-
+**Human Form**
+![[Pasted image 20250426164033.png]]
+**Dream Form**
+![[Pasted image 20250426164050.png]]
+**True Form**
+![[Pasted image 20250426164104.png]]
 ##### Personality 
 
 ##### Brief History/Timeline   

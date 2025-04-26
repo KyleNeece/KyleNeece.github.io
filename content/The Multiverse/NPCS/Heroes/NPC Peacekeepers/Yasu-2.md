@@ -4,7 +4,6 @@ tags: [Hero/Peacekeeper/S-Rank, Autognome/Cleric/Peace_Domain, Felwinter_Saga_Co
 
 ##### Brief Summary 
 Yasu-2 is a Autognome Light Cleric, a Sentient creation of [[Jotor Sparklefen]], and S-Rank [[Peacekeeper]]
-
 ##### Appearance 
 ![[Yasu-2.png]]
 ##### Personality 

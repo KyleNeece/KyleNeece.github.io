@@ -21,3 +21,11 @@ The Eldritch Scarab gives a +2 to spell attack rolls and spell save dc
 	- As an action you sprout wings that take the appearance of your choice. While the wings are sprouted you can use them to fly up to 4 hours, all at once or in several shorter flights, each using a minimum of 1 minute from the duration, if you are flying when the duration expires, you descend at a rate of 30 feet per round until you land. You can dismiss the wings as a action and it regains 2 hours of flying capability for every 12 hours not in use
 - Knive Barrage 
 	- Whenever you use your uncanny dodge, evasion, or reduce any damage dealt to you, you gain one charge, you can hold up to a maximum of 5 charges. As a reaction on your turn, you can expend all the charges to make a number of knife weapon attacks against any number of creatures within a 10 foot radius originating from you equal to the amount of charges you stored. 
+- Degaltih's Elemental Control 
+	- Can roll half the amount of damage dice to give a status effect for 2 turns 
+		- Burning --> takes fire damage equal to your intelligence modifier at the start of its turn
+		- Eroding --> has a -2 to armor 
+		- Chilled --> becomes vulnerable to cold damage
+		- Wet --> becomes vulnerable to lightning damage
+		- Electrocuted --> has a -2 to dexterity saving throws
+		- Deafened --> disadvantage on checks relying on sound

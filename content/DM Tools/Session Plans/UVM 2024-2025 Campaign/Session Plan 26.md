@@ -12,27 +12,27 @@
 - Party goes into their designated downtime activities 
 	- Eli 
 		- Going back to his village, jungle plane, lawyer, talk about forest cutting down 
+		- Proficiency in Persuasion and Deception
 	- Jackson 
-		- TBD
+		- You can prepare spells from both the Druid Spell List and the Zodiac Spell List
 	- Ben 
-		- TBD 
-		- Own runic language 
-			- Ham Sandwich 
+		- Learned runes and created a runic robot 
 	- Djani 
 		- Missions for Jackson Felwinter
 			- Freelancer now
 		- Full magic item replication 
 		- Degalith upgrade 
-			- Can roll half the amount of sneak attack dice to give a status effect 
-				- Burning 
-				- Eroding 
-				- Chilled 
-				- Wet 
-				- Electrocuted
-				- Deafened
+			- Can roll half the amount of damage dice to give a status effect for 2 turns 
+				- Burning --> takes fire damage equal to your intelligence modifier at the start of its turn
+				- Eroding --> has a -2 to armor 
+				- Chilled --> becomes vulnerable to cold damage
+				- Wet --> becomes vulnerable to lightning damage
+				- Electrocuted --> has a -2 to dexterity saving throws
+				- Deafened --> disadvantage on checks relying on sound
 	- Isaac
 		- Learning power word
 			- Learned powerword dance 
+				- Under 100 hp ottos irresistible dance always works for the first time
 			- learned command 
 		- Can pick any 2 spells per day that can be cast at their level 
 	- Matt 
