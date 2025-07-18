@@ -127,7 +127,7 @@ reactions:
 	- [[HUD Display]]
 	- [[Spellshard]]
 
-**[[4.4_Act 3 - Omnipresent War Arc]] brought Yasu-2 Upgrades**
+**[[4.4_Act 3 - Omnipresent War Arc]]  Brought Yasu-2 Upgrades**
 - Pipes of Haunting 
 - Staff of healing 
 - Belt of Hill Giant Strength No Attunement 
