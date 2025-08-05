@@ -14,10 +14,6 @@ Write a well-organized, clearly articulated and effectively argued paper that of
 
 How many sources should you cite? Let me put it this way. We read fifteen academic journals articles in this class. If your paper cites only two of them, for example, clearly that would not even come close to demonstrating a sincere attempt to derive an interpretative position from your deep consideration of all that research. That said, it would be absurd for me to expect you to cite evidence from twelve articles, for example, in an essay of only six pages. In other words, your aim in this paper is not to summarize everything we have explored together in this course. Instead, you should identify and explain one or two key concepts/themes/ideas that can meaningfully address the paper topic prompt and do so by drawing evidence from across a **wide range** of topics and time periods as represented by our readings.
 
-
-
-**Final Paper**
-
 ###### **Manifest Destiny and the man of the frontier** 
 - **Manifest Destiny and the man of the frontier** 
 	- First came the American Missionaries who were representatives from the American Board of Commissioners for Foreign Missions. E.C. Bridgman, the leader of such group, arrived at the Canton Port, which began the earliest of Sino-American cultural and political relations (pp.2-3 pdf.)
