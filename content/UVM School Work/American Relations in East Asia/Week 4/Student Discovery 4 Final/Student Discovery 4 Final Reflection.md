@@ -17,32 +17,32 @@ How many sources should you cite? Let me put it this way. We read fifteen academ
 
 
 **Themes**
-- Manifest Destiny and the man of the frontier 
+- **Manifest Destiny and the man of the frontier** 
 	- First came the American Missionaries who were representatives from the American Board of Commissioners for Foreign Missions. E.C. Bridgman, the leader of such group, arrived at the Canton Port, which began the earliest of Sino-American cultural and political relations pp.2-3 pdf. 
-- A momentum that starts in the US with the black people and taking land away from the Indian people 
-	- Show two of the prime examples of this 
-		- Perry [[Talks with Ning - Week 1 Long Readings]]
-			- We also took a look at Commodore Perry, the US naval officer who led an expedition to China in 1853. Perry's diplomacy succeeded primarily because of the imposing fleet of warships (the black ships). But he also packed the ships with gifts and festive supplies that showed a presumptuous mission of cultural enlightenment. Perry and his crew's trip was in the spirit of Manifest Destiny: the idea that the US greatness was foreordained up to its West Coast and even beyond to the Western Pacific. It is the concept that the seat of civilization progressed westward at the urging of a dominant power, the US, also called the arc of civilization (pp 4-5 pdf). Perry and his crew sought to impose cultural, societal and even political values from Western culture and society onto the "'semi-barbarous' Japanese" (pp.6 pdf). 
-				- In the spirit they worked westward 
-					- The opening of commerce with Japan is demanded by reason, civilization, progress and religion. 
-			- Perry and his crew-mates's perceptions of the Japanese influenced their actions in Japan regarding cultural diplomacy pp3
-			- Reference the progression of the Cartoons, and how manifest destiny plays into it 
-		- Caldwell [[Reading 2 - Chan 2019 notes]]
-			- "As an ideal, frontier masculinity was based on the active subordination of nature, autonomous individualism, courage, romanticized understandings of wilderness, rugged self-sufficiency, and masculine bodily strength." pp6
-			- "In defining China for American museums, material culture, rather than animal specimens, was more significant. Colonial Americans began to trade in—and use—Chinese commodities, such as lacquer, porcelain, and tea" pp8
--  Cultural superiority 
+	- A momentum that starts in the US with the black people and taking land away from the Indian people 
+		- Show two of the prime examples of this 
+			- Perry [[Talks with Ning - Week 1 Long Readings]]
+				- We also took a look at Commodore Perry, the US naval officer who led an expedition to China in 1853. Perry's diplomacy succeeded primarily because of the imposing fleet of warships (the black ships). But he also packed the ships with gifts and festive supplies that showed a presumptuous mission of cultural enlightenment. Perry and his crew's trip was in the spirit of Manifest Destiny: the idea that the US greatness was foreordained up to its West Coast and even beyond to the Western Pacific. It is the concept that the seat of civilization progressed westward at the urging of a dominant power, the US, also called the arc of civilization (pp 4-5 pdf). Perry and his crew sought to impose cultural, societal and even political values from Western culture and society onto the "'semi-barbarous' Japanese" (pp.6 pdf). 
+					- In the spirit they worked westward 
+						- The opening of commerce with Japan is demanded by reason, civilization, progress and religion. 
+				- Perry and his crew-mates's perceptions of the Japanese influenced their actions in Japan regarding cultural diplomacy pp3
+				- Reference the progression of the Cartoons, and how manifest destiny plays into it 
+			- Caldwell [[Reading 2 - Chan 2019 notes]]
+				- "As an ideal, frontier masculinity was based on the active subordination of nature, autonomous individualism, courage, romanticized understandings of wilderness, rugged self-sufficiency, and masculine bodily strength." pp6
+				- "In defining China for American museums, material culture, rather than animal specimens, was more significant. Colonial Americans began to trade in—and use—Chinese commodities, such as lacquer, porcelain, and tea" pp8
+- **Cultural superiority** 
 	- Pervasive, momentum from North America as well. Not just race but culture 
 	- Perry and his ships [[Talks with Ning - Week 1 Long Readings]]
 		- Much of the scholarly literature on the Perry expedition focuses on either America's policy motivations for sending such a large flotilla to Japan or the relevance of the commodore's character to the missions success, but such work fails to analyze perhaps the most remarkable element of the expedition - its reliance upon a highly symbolic style of cultural diplomacy. pp. 3 of the pdf 2 of week 1
 		- Perry and his crew literally viewed commerce as the handmaiden of civilization and saw their mission as an opportunity to "kindly" impose this cultural value upon the "semi-barbarous" Japanese pp 6 of pdf 2 week1
-- Orientalism 
+- **Orientalism** 
 	- Columbia University Saed - definition 
 	- Korea is the prime example of this [[Reading 5 - Jin 2024]]
 		- In Korea, U.S advisors felt superiority over the Korean people and as such, whenever there was a "mistake or weakness" during Korean training or assignments, Orientalism came into play.  Sometimes this resulted in a required change of behavior, e.g. no more banzai charges. But sometimes it resulted in permissiveness towards questionable behavior (“that’s just the way they are”) like corporal punishment of subordinates. 
 		- By returning to a language of strict cultural difference, Americans could maintain a form of imperial overseer- ship where the assumed inferiority of supposedly non-American behaviors would not prompt action to change them. Lingering elements of vulgar racism, combined with the polite racisms which framed peoples as differing based on culture and not blood, could then assert expedient margins in U.S. responsibility by eliminating the idea that Americans could change ingrained tradition. U.S. advisors in the Korean War were not entirely wrong that there was a cultural barrier between their norms and Korean forms of discipline, and that beating was likely not something that they could eradicate like they did with banzai charges. But it was the justifications and reasoning for their inaction which expose the particularities of how U.S. global power operated in this moment.
 	- Briefly mention it went on in China, but no need to expand on it 
 		- American servicemen expressed Orientalist views (in China as well)
-- First American missionaries in China 
+- **First American missionaries in China** 
 	- Immoral opium to legalizing opium, keep working at their mission while letting the opium stay [[Talks with Ning - Week 1 Long Readings]]
 		- At first, the missionaries were concerned about the opium problem in China. It was stated to be "one of the greatest evils afflicting Chinese society" pp.4 pdf. However, to further their Christian conversion mission the American Missionaries went so far as to favor legalizing opium to eliminate the charge that as Westerners they were associated with an illegal activity.  (The legalization did not diminish the demand for Opium; it rather increased it instead (pp27 of pdf). 
 	- Missionary articles
@@ -53,7 +53,7 @@ How many sources should you cite? Let me put it this way. We read fifteen academ
 			- YMCA 
 				- We also have the YMCA in Japan, which at first looked at budding Japanese colonialism as an enlightening positive force. But the Japanese, taking their cue from Perry’s military might and Western imperialism had begun to grow their nation to ultimately become nationalistic imperialists themselves. The situation was aggravated by western U.S. racial prejudice against Japanese immigrants, even extending to their exclusion. The result is Japan going to war with the US in 1941.
 				- 
-- Identity of Americans is how we show ourselves in Asia 
+- **Identity of Americans is how we show ourselves in Asia** 
 	- Bad start 
 		- US base system [[Reading 4 - Miller 2014]]
 			- In Japan, the U.S. base expansion angered many not just because of the noise, bad soldier behavior and taking of land. It also seemed like Japan's government began representing the interests of U.S. anticommunism over their own people, which caused protests among the citizens. In the end, Eisenhower decided to withdraw more than fifty percent of US troops from the country.
@@ -70,7 +70,7 @@ How many sources should you cite? Let me put it this way. We read fifteen academ
 		- Black men article [[Reading 2 - Li 2018]]
 			- These African-American activists were willing to challenge the U.S. government and travel to the PRC mostly because they desperately needed international support and inspiration in their intensified fight against racial discrimination in the 1950s and 1960s.
 			- All the African-American activists were carefully chosen by the Chinese authorities based mostly on three criteria: their favorable attitudes toward the PRC, their hostile relations with the U.S. government, and their level of influence in their communities and professions.
-		- How much better does it get by the 1964 life magazine issue
+		- **How much better does it get by the 1964 life magazine issue**
 			- The withdrawal of the American troops from Japan was a turning point which showed that the Americans had begun to realize that their approach with the bases was a problem. The U.S. began to realize that their superior mindset and what they were bringing to the table regarding the development of East countries was not all good. Thus it would appear that the U.S. policy makers had become more sensitive to local feelings and were starting to change course in an attempt to build relations in a more mutually cooperative way. 
 				- As Eisenhower stated in a meeting with Kishi, “We are aware of the problems created for Japan, and for the United States, by the presence of our troops in Japan. We do not like to be anywhere where we are not wanted.”
 				- He presented these force withdrawals and the future discussions over the security treaty as a “major change” toward “developing a relationship of real mutuality and real cooperation.”
