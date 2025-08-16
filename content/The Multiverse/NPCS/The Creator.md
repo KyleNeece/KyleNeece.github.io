@@ -1,0 +1,1 @@
+The creator is the Dungeon Master, also known as Kyle Neece. It is his personal avatar and how he is able to directly influence the story without breaking the world

@@ -5,8 +5,6 @@ tags:
   - Felwinter_Saga_Cour_2/FPC_NNPC
   - Villian
 ---
-**update runes today**
-
 ##### Brief Summary 
 Azriel Darkstar was a [[Nephalem]] who attended [[Peacekeeper Academy]], who later ascended to godhood by the multiversal runes, becoming Tartarus enslaver of worlds. After his rebirth and purification, he is arguably considered the strongest in the [[Peacekeeper]]
 ##### Appearance 
