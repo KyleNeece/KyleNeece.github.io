@@ -1,0 +1,2 @@
+Previous: [[Session 21]]
+ - Too much has happened and we are too far out. See **THIS LINK** for a video explaining the entire timeline of not only the UVM 2024-2025 campaign, but the important timeline of my world that is PC interacted with

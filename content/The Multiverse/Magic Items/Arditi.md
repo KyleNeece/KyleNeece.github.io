@@ -2,6 +2,7 @@
 tags:
   - Peacekeeper/Equipment
 ---
+*A Pair of Gauntlets used by a Tiefling Rogue. Akanos ran from home until he realized the comforts of it*
 
 The Arditi is a pair of dual Knife Gauntlets used by [[Akanos]] (when the fingers are together, it creates a longer blade, when they are not, they are smaller individual knives)
 ###### Abilities 

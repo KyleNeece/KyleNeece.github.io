@@ -1,0 +1,31 @@
+- **"PreOrder" Bonus Items (Depending on what you answered in the survey, will be available in shops but can start with them)**
+	- Shield of Berry Delight
+	- Construct of Lethality 
+	- Book of Many Poems 
+	- Lee-Cerberus
+		- Nunchucks
+		- Sansekuton 
+		- Bo Staff
+	- Hat of Risky Coin
+	- Shield of Everlasting Pizza
+	- Foe-Breaker
+	- Tactical-PastaForker
+	- Punching-Missile
+
+- **Magic Items** 
+	- Chair of Daunting Aura - Legendary, Special
+	- Dormant Junk Warforged - Artifact, Special
+	- Great-Power Saw - Common, Upgradeable
+	- CraftBlock of Platforming  - Uncommon
+	- Cup of Endless Hot Tea - Common
+	- Seed of the Tree - Unknown
+	- Floatation Greatsword - Common
+	- Hammer of Squeaky Noise - Common
+	- Tentacle Boots - Common
+	- The Great Eepy-Shleepy - Common
+	- Self Cleaning Toilet Paper - Common
+	- Portable Crafting Kit - Uncommon
+	- Bag of Holding - Uncommon 
+	- Broken Sunblade - Artifact, Special 
+	- Sword in the Dirt Hammer - Common
+	- 

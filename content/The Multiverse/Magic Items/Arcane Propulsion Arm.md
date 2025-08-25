@@ -1,6 +1,7 @@
 ---
 tags: [Magic_Item]
 ---
+*Need a Hand? How about a projectile One*
 
 This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.
 
