@@ -19,7 +19,7 @@ Tokka was in the stands when [[Arangol]] launched his first invasion on sigil. T
 ###### Betrayal Arc
 Tokka was training Ryū when Azriel invaded, seeking the last needed rune of the multiverse that was within Will Felwinter's Blade in order to complete his ascension to godhood. Tokka stood before Azriel himself and the two squared off. However, the fight did not last long or end well, as without backup Tokka was defeated by Darkstar as he continued to dominate Sigil's many warriors and make his way to central Sigil. Ryū rushed to the scene, just in time for Tokka to speak his last words of wisdom to him before his death
 ###### Panmnesia Arc
-Tokka's spirit was reincarnated back into a new body (where his life was left off) by Jackson Felwinter's request to the Spirit Emperor, with the downside of Jackson's secret punishment
+Tokka's spirit was reincarnated back into a new body (where his life was left off) by Jackson Felwinter's request to [[The Omnipotent One]]
 ###### Recruitment
 While Tokka is not technically on the S-Rank roster, he is still considered one, as he tends to have and continues to do so help the peacekeeper organization ever since training Ryū
 ##### Abilities  

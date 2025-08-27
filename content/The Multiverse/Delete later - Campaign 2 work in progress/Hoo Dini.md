@@ -1,4 +1,4 @@
-Hoo Dini is a Owlin Chronurgy Wizard
+Hoo Dini is a Owlin Divination Wizard
 
 ##### Brief Summary
 Hoo Dini is a Owlin Wizard and originates from Waterdeep 
@@ -17,4 +17,4 @@ Hoo Dini's origins are unknown, and he likes to tease about it and keep them tha
 ###### Campaign 2
 
 ##### Abilities
-Hoo Dini is a Chronurgy Wizard
+Hoo Dini is a Divination Wizard

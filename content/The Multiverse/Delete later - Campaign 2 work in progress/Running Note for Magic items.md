@@ -1,3 +1,7 @@
+---
+tags: [DMs_Tools]
+---
+
 - **"PreOrder" Bonus Items (Depending on what you answered in the survey, will be available in shops but can start with them)**
 	- Shield of Berry Delight
 	- Construct of Lethality 
@@ -27,5 +31,4 @@
 	- Portable Crafting Kit - Uncommon
 	- Bag of Holding - Uncommon 
 	- Broken Sunblade - Artifact, Special 
-	- Sword in the Dirt Hammer - Common
-	- 
+	- Sword in the Dirt - Common
