@@ -1,0 +1,86 @@
+---
+tags: [East_Asian_History, Discussion_Board_Post, HST2270OL1_Americans_In_East_Asia]
+---
+
+**Introduction Section**
+- Note - Look for Edward
+- Repairs and quality checks and tests on battle aircrafts
+	- It was a role that reflected the prerogatives of military aid that simply delivering weapons to U.S. allies was not sufficient. Materiel instead needed to be intertwined with spreading industrial knowledge and mechanical expertise.
+- However, there was an attendant question that merited a deeper examination of the role of U.S. military advisors embedded in the South Korean Armed Forces: to what extent should Americans interfere in ROK Army practices off the battlefield, and what responsibility did the United States have for the conduct of allied militaries sustained by U.S. resources?
+- The U.S. Military Advisory Group to the Republic of Korea, known as “KMAG,” was a relatively small unit of U.S. officers and enlisted men who were supposed to assist, advise, and train the ROK Armed Forces.
+- The nature of the U.S. mission in Korea positioned Koreans as the students of imperial tutelage, as the poor battlefield performance of ROK military units at the outset of the war aligned with an array of what Americans believed were inferior Korean norms, practices, and cultural traits
+- At first glance, U.S. advisory efforts appear to fit the mold of orientalist mindsets.
+	- “did the oriental way of thinking offer problems and to what extent?”
+	- "Quick in the oriental mind"
+		- Instinctively meant that 
+			- “conceding equality to a person wearing another type of uniform or civilian clothing.”
+- Oriental contrasted Western idealized rational management and leadership 
+- The expansion of U.S. global power ran in parallel to the rise of a politics of sentimentality that could render U.S. imperialism in a maternal, almost literally adoptive frame
+- Regardless of the lack of self-reflection, U.S. advisors frequently saw Korean shortcomings in various aspects of warfighting—such as familiarity with administrative procedures or record keeping, technical knowledge, and battlefield performance—as part of a broader orientalist framework.
+- This article takes one of those issues—corporal punishment—to investigate the improvisational decisions which Americans made when attempting to implement imperial blueprints, and instead demonstrated their discomfort as military overseers.
+	- In U.S. eyes, the array of behavior and practices of ROK officers occasionally fell into a category that only made sense from an exclusionary mentality—not an orientalist framing of possible melting of cultural difference.
+- U.S. advisors often made the decision “not to know,” or to close one’s eyes, but the consequence of their inaction was similar to Krylova’s chosen subjects.
+	- As KMAG advisors chose to turn their gaze away in cases involving corporal punishment and physical abuse, they rejected their own agency as U.S. advisors which, in turn, supported an emergent model of how the United States could manage war on a global scale.
+- The very same orientalist framework that justified U.S. superiority as a military tutelary leader had to be modified once more to enable its sustainment
+	- By turning away from action, through passivity, U.S. military advisors supported a Cold War framework of U.S. power in Korea that could export models of management, organization, warfare, and violence while also sidestepping issues that posed a challenge to the justifications for its military-building mission.
+		- Orientalism in action
+
+**You have every control section**
+- U.S. advisors before and during the Korean War functioned as more than super- visors or sources of impuissant suggestion
+- Much of the rest of the handbook does entreat its readers to respect Korean culture or to not change all Korean behaviors into American ones.
+	- And, yet, nevertheless, U.S. policy required advisors to build an effective ROK military that could maintain the integrity of a non-communist state.
+- U.S. tutelage was undergirded by tension between the justification for U.S. leadership in Korea and basic assumptions about the cultural inferiority of the Korean people.
+- But a residual disciplinary power remained, and advisors still tactfully exerted control over their assigned units.
+- U.S. advisors in Korea were not the progenitors of military-building
+	- European empire in the nineteenth century also relied on the training and build- ing of indigenous security forces which could take over the labor of maintaining hegemony, while non-European powers solicited foreign military missions to resist imperial incursion.
+		- British and French 
+- The U.S. military presence in the Korean War, and KMAG’s role within it, was premised on the assumption that the ROK Armed Forces needed guidance to become effective on the battlefield.
+	- But the U.S. impulse to explain the deficiencies of South Korean soldiers reflected orientalist impulses, even as U.S. troops also struggled in the opening months of the war.
+	- Confucian culture vs US military ethos 
+- Left to their own prerogatives and under extreme conditions, U.S. advisors often took decisive action.
+- US criticizing Confucian culture 
+	- Confucian culture became an explanation for why Korean officers were passive, with one U.S. advisor summarizing the problem as: “Their 5,000 years of culture is based on a slow, contemplative and introspective approach to a problem. The 180 years of U.S. existence is premised upon a fast and decisive attack.”
+- The solution was to import U.S. training methods and send Korean officers to U.S. schools.
+- Although Far East Command would be careful in other internal reports not to suggest that U.S. influence was absolute, and even publicly argue that “western criteria” may not be applicable for “oriental” governmental institutions, the analogy of childhood and paternal guidance was telling.
+- Decolonization and South Korean sovereignty meant that the United States was erecting a postcolonial form of imperialism, with its military assistance fundamentally premised on the consensual invitation of its Asian ally.
+
+
+**The Advisor at the Margins Section**
+- Four were women employed as switchboard operators, and the fifth was the male telephone technician, Lee, who had been questioned earlier. Their ages ranged from six- teen to twenty-four.
+- The officers were unsatisfied with the answers of the KNR employees about the issue of third-party voices on telephone lines.
+	- Major Chi and Captain Kim, the interpreter, proceeded to beat the five civilians for over half an hour.
+- In turn, the investigators had to answer a question with ill-defined boundaries: were Americans responsible for the actions of their foreign allies, and where did their mission of changing their counterparts end?
+- The shifting fortunes of the early months of the war and the contested fields of loyalty, nationalism, and identity made violence against civil- ians especially rampant.
+- U.S. advisors in some cases actively contributed to coverups and helped direct ROK officers in campaigns that led to mass killings. U.S. troops committed massacres, and the United States denied knowledge about killings for decades after the war
+- Americans did not universally deny the existence of corporal punishment but instead demonstrated a willingness to reflect both internally and with others over whether they should advise against it.
+- The employment of beatings as discipline was a highly visible example of the differences in institutional and social norms in the Korean Army compared to the idealized U.S. Army.
+- Official perceptions of oriental brutality contrasting with Western sophistication ignored the reality that beatings persisted in Western contexts
+- While many early U.S. advisors complained of Korean inexperience in warfare, they often found reasons to be unhappy with Korean veterans of the Imperial Japanese Army as well.
+- Officers readily meted out corporal punishment. Beating was a feature of everyday life and regulation within military academies.
+- Veterans of the Imperial Japanese Army were also sometimes resistant to U.S. suggestions because of their experience.
+- Banzai had no place in a U.S.-trained military or a modern battlefield, but the U.S. effort to eradicate it also operated on a cultural playing field
+- Forms of violence stemming from Imperial Japanese experiences were thus not an uncommon form of discipline in the ROK Army
+- Americans consequently framed corporal punishment in orientalist frame- works. Advisors regularly mentioned “oriental discipline” as a key point of difference from “American methods.”
+- Even with no structure, many advisors organically chose not to involve themselves with issues of beating and abuse in the ROK military.
+- See discipline and beating as more closely tied to internal Korean affairs, more culturally alien, and far more fraught in terms of the U.S. prerogative to step in
+- “I believe that the oriental methods of exacting discipline, if not carried to extremes, are best for orientals, Frequently, I turned my back on occasions when certain punitive incidents took place.” By invoking cultural difference, U.S. advisors on the ground could justify their own perception of the limits of what they should “fix.”
+- For an advisor, gaining “face,” or prestige, meant limiting the imposition of his cultural values.
+- “oriental methods of discipline,” was littered with qualifying language that he was still obeying “well recognized humanitarian principles.”
+- In other words, while U.S. advisors could feel confident in claiming that they were superior military professionals, admonishing Koreans for having inferior modes of managing their authority with their subordinates risked a level of interpersonal conflict that Americans felt uncomfortable with.
+- The Americans soon complained that the South Korean MPs had a “bold, obstructive attitude” that was “plainly designed to ‘whitewash’ the entire incident.”
+- “the result of unjustifiable sense of superiority as a soldier over civilians and imprudent and dishonorable conduct.”
+- He thus “paid no attention to the questioning of Korean females by the Major,” and that he “did not hear any outcry or see the abuse.”
+	- Turning a blind eye
+		- It also entailed questions not of Thornton’s active misconduct, but his potentially passive misconduct.
+			- Thornton claimed that he attempted to be respectful by avoiding a conflict of “face.”
+- His reasonings reveal much about how cultural relativism could excuse inaction, and how redeploying the idea of irreconcilable difference between Americans and Asians could work to his benefit.
+- it “seemed impossible” to only provide advice to South Koreans and he often just ordered around ROK personnel.
+- The day-to-day pressure of a working relation- ship between advisors and counterparts often took precedence over other factors, including U.S. orders.
+	- Those pressures likely contributed to the repeated decisions of advisors not to comment or interfere in matters of corporal punishment.
+- Describing the incident as informed by “oriental traditions” crucially rendered the U.S. advisor as an outsider, a not-knowing protagonist, who was unable to effect change due to the limitations of his social and cultural milieu.
+- The choice of language—that a “place of business” had been despoiled— indicates the narrowing professionalization of advisory work that offered advisors a way out of conundrums surrounding sovereignty, empire, and power.
+- By returning to a language of strict cultural difference, Americans could maintain a form of imperial overseer- ship where the assumed inferiority of supposedly non-American behaviors would not prompt action to change them. Lingering elements of vulgar racism, combined with the polite racisms which framed peoples as differing based on culture and not blood, could then assert expedient margins in U.S. responsibility by eliminating the idea that Americans could change ingrained tradition. U.S. advisors in the Korean War were not entirely wrong that there was a cultural barrier between their norms and Korean forms of discipline, and that beating was likely not something that they could eradicate like they did with banzai charges. But it was the justifications and reasoning for their inaction which expose the particularities of how U.S. global power operated in this moment.
+- More than a decade later, Americans would praise South Korean troops for their lethality when deployed to Vietnam
+	- “Vietnamization” in the waning years of the U.S. war in Vietnam also represented a return to a model of U.S. global power which sought to limit the United States’ responsibility in the conflicts it was involved in—a return trip from the boomerang of initial Americanization
+- Informed by a cultural hierarchy of oriental inferiority, U.S. advisors in Korea nevertheless established an uneven terrain of sovereignty and authority, actively dismantling Japanese legacies in tactics and organization while simultaneously constructing a new imperial scaffolding.
+- These imperial structures institutionalized passivity as much as attempted integration or assimilation, with a vernacular of cultural rela- tivism allowing many Captain Thorntons to turn their gaze away from the actions of the recipients of their military tutelage.

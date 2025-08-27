@@ -1,0 +1,28 @@
+---
+tags: [East_Asian_History, Critical_Thinking_For_School, HST2270OL1_Americans_In_East_Asia]
+---
+
+- The Foreign Devil and the significance of Orientalism
+- "A character study of the Chinese"
+- Government described as absolute autocracy and liberal democracy 
+	- Strange and singular contradictions 
+- The autocratic is based on the custom and of precedent 
+	- Either an example or until a new order establishing event occurs 
+- The democratic side shows that rank isn't hereditary and the subjects of the emperor may strive to obtain the highest place within the councils 
+- Confucius texts and essays are judgements for obtaining higher positions 
+- The most striking trait in the Chinese character is the exclusiveness 
+	- Produce great things yet only for their use 
+	- Apparently it has stopped the inward and outward reciprocal flow of resources needed to build up nations 
+- Teachings of nature are stationary 
+	- Great among of learning, but apparently not practical because it was the teachings of the 5th century Christ rather than the 19th century after 
+- Anomaly in that China has not gone through the cycles of civilization on a power and broad basis
+- China is always ready to evolve in a well environment 
+- China was uneducated by "Foreign" standards, but highly educated by their standards
+- They had ancestral temples in Shanghai where it was used as a gathering place to meet disbanded family 
+- Buddhist Faith and temples???
+- "The nation is a great mass without cohesion and inviting comparison"
+	- no patriotism 
+- Chinese flags of a local and personal purpose 
+- Chinese custom of indirectness
+- "Talk to the point, not about all the mountains and rivers"
+- Personal bearings of the upper class Chinaman interior is kindly, courteous and polite

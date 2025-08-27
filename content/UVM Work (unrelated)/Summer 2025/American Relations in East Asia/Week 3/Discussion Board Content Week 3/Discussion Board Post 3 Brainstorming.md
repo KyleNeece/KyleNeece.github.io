@@ -1,0 +1,44 @@
+---
+tags: [East_Asian_History, Discussion_Board_Post, HST2270OL1_Americans_In_East_Asia]
+---
+
+- Looked ahead at Student discovery, BS magazine 
+- List of Articles 
+	- 1st - Jeep girls and American GI's - disorganized (China)
+		- Typical of 4 of the 5 articles - we may think the US is great, democracy in ww2, etc. 
+		- Others in other countries don't think the same 
+		- Contrasts directly with what we think of ourselves 
+		- Allies with China, and look how Chinese guys looked at Americans 
+		- Tells you about Japan, China was our allies, they should have been happy to see us, but Japan had been defeated by us. Japanese men would have even more outrage 
+	- Academic Article and the racism the Chinese sensed from the soldiers
+	- **2nd - Different, talk about it at the end**
+		- Look at what they are doing outside of America 
+		- Williams go to China 
+		- Non-violence, King, President Johnson 
+		- Chinese hopes for the capital from Propaganda 
+		- Doesn't make that, kinda flops and fails 
+	- 3rd - Military presence is tied up with whore houses, black market, GI's walking with Japanese or Korean girls 
+		- Black soldiers even worse treatment then white soldiers 
+		- First brought Japanese out of poverty post war
+			- War next door in Korea and America, Japan springs into action regarding the War in Korea and the military and the men needed and wanted 
+		- Lots of military interaction with prostitutes and digging themselves out of poverty 
+			- Big side of American military that the Japanese don't like 
+		- Wasn't just sleeping with Women, Americans were treated as Kings, helps the economy in Japan and Korea 
+			- Helps jumpstart the economy, not something to want to remember though 
+	- 4th - Similar to 3rd, look at the guy who was protesting and the American comes really low to scare the people 
+		- Incredible hatred, Japanese hated them 
+		- Need an alliance with America 
+		- Anti-American demonstrations 
+		- Eisenhower knew they were hated 
+		- After lots of angst and anger, Americans decided to extract more then half the soldiers and gave up on extending the runways 
+		- Less then 10 years later, life magazine doesn't touch on this at all 
+	- 5th - About a problem the Americans had in Korea when they get there, almost fully overrun by the North Korean military 
+		- Americans push them back to the Chinese boarder, then China comes in and pushes them down to the south Korean boarder again 
+		- Tried to shape up the Korean military 
+		- Korean society had tradition of beating people and beating girls
+			- In front of a high ranking officer, and reports that 
+		- Beating stuff had come from the Japanese army 
+		- A kind of racism, this is how Asians are
+- **Was the American presence in Asia so great?**
+	- Timing of Article, before Vietnam so perceptions of America is not bad 
+	- 60s is a period of American innocence, being encouraged by a special on Japan that white washes away a whole lot of other stuff
