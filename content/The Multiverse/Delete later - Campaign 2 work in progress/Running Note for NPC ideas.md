@@ -15,4 +15,3 @@ tags: [DMs_Tools]
 - Spirit Farmers 
 - Bahamut, Jackson Felwinter and Aria reference
 - Spiritual inhabitants of Arcadia 
-- 
