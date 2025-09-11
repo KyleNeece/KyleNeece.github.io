@@ -6,7 +6,7 @@ To create a rock-paper-scissors relationship, the third ability should have a cl
 
 ---
 
-### The Third Ability: **Narrative Break**
+### The Third Ability: **Narrative Change**
 
 - **Description**: The user can disrupt or sever the narrative flow of events, creating "plot holes" that invalidate or erase parts of the story. This ability allows the user to:
     - Undo changes made by **Logic Slash**, as if they never occurred.
@@ -21,7 +21,7 @@ To create a rock-paper-scissors relationship, the third ability should have a cl
     **Logic Slash** can rewrite the rules of reality, rendering the abilities borrowed by **Author's Skill** nonsensical or unusable.
 2. **Author's Skill** > **Narrative Break**:  
     **Author's Skill** can create new rules or abilities that bypass or counteract the disruptions caused by **Narrative Break**, restoring a cohesive narrative.
-3. **Narrative Break** > **Logic Slash**:  
+3. **Narrative Change** > **Logic Slash**:  
     **Narrative Break** erases or invalidates the rewritten logic created by **Logic Slash**, leaving it powerless to alter reality.
 
 ---
@@ -31,7 +31,7 @@ This setup ensures each ability has a defined counter while maintaining its own 
 
 can intervene with story, temporarily changing things effected by logic slash, deletion blade, and Authors journal 
 
-Called 4th intervention 
+Called 4th wall intervention 
 
 
 

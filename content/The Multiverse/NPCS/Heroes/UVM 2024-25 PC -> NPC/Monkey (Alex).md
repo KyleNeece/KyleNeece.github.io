@@ -8,8 +8,12 @@ tags:
 ##### Brief Summary  
 Monkey (Alex) was a Dog and Hound (now a Hand of Dread) Riverback Wukong Pugilist and [[Peacekeeper]] (played by Eli)
 ##### Appearance 
+###### Hound and Dog
 ![[Monkey.png]]
 ![[Dog (Monkey).png]]
+![[Hound and Dog Monkey.png]]
+###### Hand of Dread
+![[Hand of Dread Alex.jpg]]
 ##### Personality 
 
 ##### Brief History/Timeline   

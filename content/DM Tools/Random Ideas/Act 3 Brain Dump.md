@@ -8,7 +8,6 @@ Find concentration camps Monkey (Alex) mom and dad.
 The party travels through the River styx, ship fighting and stuff
 
 
-
 Blood War result of Lady Pain 
 - Because of this both sides hate the peacekeepers (more specifically the plane of sigil)
 	- Not up to date with their knowledge

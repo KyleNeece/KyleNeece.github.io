@@ -10,12 +10,11 @@ Welcome to my DND wiki, where you can view all of the different aspects of my ca
 - <a href="/Game Mechanics and Rules/">Game Mechanics and Rules</a>
 - <a href="/Session Notes/">Session Notes</a>
 - <a href="/DM-Tools/">DM Tools</a>
- 
+
+**Here is a "Quest Journal"**
+- [[Always-Changing Quest Board]]
+
  > [!Important]
  > Timeline and lore 
  > - If there is something missing from the lore entries please let me know and I'll try my best to add it. You may also need to help me on this front
- > - **New Characters!** - See [[Unnamed One]], [[Veronica Vileblood]], [[Hoo Dini]], [[The Fool]]. These will be in the upcoming campaign
- > - For less relevant, but still interesting to know, see Nicole Silvermetal and [[Nyleth Darkstar]]
- 
- 
-
+ > - Will make the Hag entry more detailed, and will make some session note summaries 
