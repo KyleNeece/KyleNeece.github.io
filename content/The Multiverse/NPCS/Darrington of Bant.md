@@ -1,1 +1,0 @@
-![[Darrington Bant.png]]

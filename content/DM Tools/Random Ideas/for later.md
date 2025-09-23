@@ -1,6 +1,9 @@
 ---
 tags: [DMs_Tools]
 ---
+![[Orius Dryden Final Form.png]]
+
+
 
 To create a rock-paper-scissors relationship, the third ability should have a clear strength and weakness against the other two, forming a dynamic cycle of advantage. Here's the concept:
 

@@ -11,10 +11,12 @@ Welcome to my DND wiki, where you can view all of the different aspects of my ca
 - <a href="/Session Notes/">Session Notes</a>
 - <a href="/DM-Tools/">DM Tools</a>
 
-**Here is a "Quest Journal"**
-- [[Always-Changing Quest Board]]
+**Here is the current "Quest Journal"**
+- [[Quest Board (Changes Overtime)]]
 
  > [!Important]
  > Timeline and lore 
  > - If there is something missing from the lore entries please let me know and I'll try my best to add it. You may also need to help me on this front
- > - Will make the Hag entry more detailed, and will make some session note summaries 
+ > - Will make some session note summaries at some point 
+ 
+ 
