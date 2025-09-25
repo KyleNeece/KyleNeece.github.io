@@ -17,7 +17,7 @@ Ludwig found her, and brought her to an orphanage away from Evernight, as it was
 Veronica was one of Ludwigs trainees during his younger years of life. However, when Ludwig left her, she sought to find him once again. On her journey, she passed away in an unknown fashion, becoming only bones for the longest time. 
 
 ###### Campaign 2
-Veronica was revived from a few drops of spilled blood when [[Night Hag]]'s and a few forces of unknown descent invaded [[Sigil]] during the yearly fair. Upon her revival, she ran into the party, and became a traveling companion with them. Because of this, she found her way to the Dryden estate, and now searches for her old teacher, [[Ludwig Van Scythe]], either through adventure, or the Sword of History. 
+Veronica was revived from a few drops of spilled blood when [[Putrid Ola Fleshstealer]]'s and a few forces of unknown descent invaded [[Sigil]] during the yearly fair. Upon her revival, she ran into the party, and became a traveling companion with them. Because of this, she found her way to the Dryden estate, and now searches for her old teacher, [[Ludwig Van Scythe]], either through adventure, or the Sword of History. 
 
 ##### Abilities
 Veronica is a Dhampir Echo Knight Fighter

@@ -33,7 +33,7 @@ Much later (after Jackson backtracks Nyleths entire path during this event) Jack
 
 Nyleth finally defeats the Pope inside the statue. In a final bid for victory, Sanctus implores the statue or power, but his request remains unfulfilled. Nyleth saves [[Girlfriend name here]] and kills the Pope, and they escape the Savior. Although it seems that all is finally over, the Pope suddenly transforms into the form of the False statue, taking on the pope's appearance. Nyleth asks to fight in Jackson's stead, and Jackson acquiesces. Nyleth offers a quick prayer to God, during which he explains how he's come to terms with his runic power, and destroys the False statue and the Pope once and for all by using it.
 
-Nyleth meets up with Dante, with whom he exchanges thanks and friendship. With Jackson about to leave, Nyleth tries to return Heaven and Hell back to him, but he refuses to take it, saying it's now entrusted to Nyleth. In their final moments together, Nyleth asks Jackson if they'll meet again, but Jackson just vaguely waves in answer.
+Nyleth meets up with Jackson, with whom he exchanges thanks and friendship. With Jackson about to leave, Nyleth tries to return Heaven and Hell back to him, but he refuses to take it, saying it's now entrusted to Nyleth. In their final moments together, Nyleth asks Jackson if they'll meet again, but Jackson just vaguely waves in answer.
 
 
 Things to write for the next part 
