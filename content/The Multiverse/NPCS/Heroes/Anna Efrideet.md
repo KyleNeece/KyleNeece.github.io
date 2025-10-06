@@ -1,5 +1,10 @@
 ---
-tags: [Hero, Human/Paladin/Oath_of_Crown, Felwinter_Saga_Cour_3/NPC]
+tags:
+  - Hero
+  - Human/Paladin/Oath_of_Crown
+  - Felwinter_Saga_Cour_3/NPC
+image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdp65ZFucJzgXmAzAQqfQPkDsNvw2Fr3UZuuz0SVUFjGyyGxn5dASzglRIdy09VWGg-xZToBU5LmOiJOmdCAL6zreinvxWPrzIyyxtt3dY_TmO9L1GrMltCkWowItn7iqgobwfTQ?key=EnPk9fkUSHjQjRDw6ceNMxvt
+level:
 ---
 
 ##### Brief Summary 

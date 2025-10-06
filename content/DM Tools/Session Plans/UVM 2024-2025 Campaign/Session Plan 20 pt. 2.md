@@ -101,7 +101,7 @@ Previous: [[Session Plan 20]]
 	- Daliah limps to the terminal, "Port control, heading there, gonna bring the train to this station, watch for threats"
 		- Wave combat encounter, vehicles too
 	- Daliah: "Its done, get back in" (can only do so after party isn't threatened or engaged (condition))
-	- "We are fucked, I have to reach into Abberant magic and the Far Realm, beyond the weave, no other way"
+	- "We are fucked, I have to reach into Abberant magic and the Far Realm, beyond the veil, no other way"
 		- "I've magically attuned myself to you guys to share this power, ready?"
 			- **Whole party can reality warp**
 				- Vehicle crashes into terminal area, hurts Daliah and party

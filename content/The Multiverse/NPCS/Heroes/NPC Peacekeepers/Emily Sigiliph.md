@@ -1,5 +1,9 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Human/Fighter/Battlemaster, Felwinter_Saga_Cour_2/FPC_NNPC]
+tags:
+  - Hero/Peacekeeper/S-Rank
+  - Human/Fighter/Battlemaster
+  - Felwinter_Saga_Cour_2/FPC_NNPC
+image: "[[Emily-Sigiliph.png]]"
 ---
 
 ##### Brief Summary 

@@ -82,7 +82,7 @@ Make an effort to not stop roleplaying when you're going through the motions of 
 	- Isaac → Sees Jackson Felwinter talking to the Omnitemporal one about finding a new subject, in case he were to perish, which would disrupt the balance of the multiverse eventually 
 	- Ben → You see the Eldritch Horror, but instead of it attacking the planet, you see it die at the last minute as beams of magical envelope your comrades as they die around you, and your planets life was drained 
 	- Chiccory → You see a young small Furbolg, smiling and learning/playing with magic with a little half elf. As an elven mom and human dad spectate.  
-	- Will → You see a Minotour in a test tube, along with thousands of other specimens within tubes. You see a mysterious cloaked, hooded, and hovering entity break open the test tube and say: Be free, Rhulk the Weavebender
+	- Will → You see a Minotour in a test tube, along with thousands of other specimens within tubes. You see a mysterious cloaked, hooded, and hovering entity break open the test tube and say: Be free, Rhulk the Veilbender
   
 The hunt and dreaming 
 - Growth, human evolution 

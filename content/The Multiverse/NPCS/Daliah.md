@@ -18,7 +18,7 @@ Daliah was focused protecting the Seelie court during the Felwinter Saga. During
  >She knows of the events that happened before the panmnesia spell was cast, causing her to not lose her memory of the previous timeline due to her corrupted magic. 
  >To fight for her autonomy and her own life, Daliah devised a plan (and waited for the right time to execute it) to exchange Queen Titania to [[Kindrack Diablo]] for a Celestial Soul Cleanser leading to the attack on The Arrowing (Queen Titania's Ship). She did not expect Kindrack to take a lethal swipe at the Queen.
 ##### Abilities  
-Daliah is a Phantom Rogue Aberrant Mind Sorcerer features granted by a fraction of the Shadow weave corrupted by Aberrant Rune Magic (but only in her uncontrolled state), which originated from an unknown Great Old One. Uncorrupted she is a Arcane Trickster Rogue with Shadow Sorcerer features
+Daliah is a Phantom Rogue Aberrant Mind Sorcerer features granted by a fraction of the Shadow Veil corrupted by Aberrant Rune Magic (but only in her uncontrolled state), which originated from an unknown Great Old One. Uncorrupted she is a Arcane Trickster Rogue with Shadow Sorcerer features
 
 ```statblock
 layout: Basic 5e Layout Copy

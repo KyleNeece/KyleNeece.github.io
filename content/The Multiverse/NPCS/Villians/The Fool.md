@@ -18,7 +18,7 @@ Nothing is known about The Fool.
 > [!Warning]- Spoilers Here DO NOT CLICK
  > He is the alter ego of [[Orius Dryden]], so in reality Orius watches every move. 
 
-After the attempted assassination of [[Darrington Bant]], the Fool challenged the party to combat, and after toying with them, disappeared in a puff of smoke. The fool then appears before the party again, this time giving them information about the Elemental Plane of water, and then disappearing. After this, he then meets them after the defeat of [[Putrid Ola Fleshstealer]], says a few cryptic lines and leaves. 
+After the attempted assassination of [[Darrington Bant]], the Fool challenged the party to combat, and after toying with them, disappeared in a puff of smoke. The fool then appears before the party again, this time giving them information about the Elemental Plane of water, and then disappearing. After this, he then meets them after the defeat of [[Putrid Ola Fleshstealer]], says a few cryptic lines and leaves. The party begins to wonder who The Fool really is and why he keeps being a nuisance and following them. 
 
 ##### Abilities
 The Fool is a mysterious clown and possesses the Schrödinger's Cat paradox applied as well as some strange niche form of omnipotence. 

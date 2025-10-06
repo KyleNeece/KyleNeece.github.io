@@ -1,5 +1,9 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Human/Pugilist/Sweet_Science, Felwinter_Saga_Cour_2/NPC]
+tags:
+  - Hero/Peacekeeper/S-Rank
+  - Human/Pugilist/Sweet_Science
+  - Felwinter_Saga_Cour_2/NPC
+image: "[[Johnny Sigiliph.png]]"
 ---
 
 ##### Brief Summary 

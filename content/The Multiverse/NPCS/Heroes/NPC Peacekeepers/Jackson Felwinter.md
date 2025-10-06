@@ -1,5 +1,9 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Human/Magus/Path_of_the_Worthy, Felwinter_Saga_Cour_2/FPC_NNPC]
+tags:
+  - Hero/Peacekeeper/S-Rank
+  - Human/Magus/Path_of_the_Worthy
+  - Felwinter_Saga_Cour_2/FPC_NNPC
+image: "[[Jackson Felwinter.png]]"
 ---
 
 ##### Brief Summary 

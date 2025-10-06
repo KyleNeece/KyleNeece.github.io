@@ -1,5 +1,9 @@
 ---
-tags: [Hero, Human/Druid/Circle_of_Stars, Felwinter_Saga_Cour_2/NPC]
+tags:
+  - Hero
+  - Human/Druid/Circle_of_Stars
+  - Felwinter_Saga_Cour_2/NPC
+image: "[[Tokka.png]]"
 ---
 
 ##### Brief Summary 

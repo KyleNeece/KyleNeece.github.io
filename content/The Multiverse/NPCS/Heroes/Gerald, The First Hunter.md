@@ -1,5 +1,8 @@
 ---
-tags: [Human/Blood_Hunter/Order_of_the_Profane_Soul, Felwinter_Saga_Cour_3/NPC]
+tags:
+  - Human/Blood_Hunter/Order_of_the_Profane_Soul
+  - Felwinter_Saga_Cour_3/NPC
+image: "[[Gerald the First Hunter.png]]"
 ---
 
 Gerald is the leader of the Order of the Profane souls within the [[City of Evernight]]

@@ -33,13 +33,13 @@ Previous: [[Session Plan 18 (might be 19)]]
 - After some time Daliah will tell one of them to look up, but only send 1-3 people to not look suspicious. Daliah will be seen in the flesh for the first time. The part will notice however that she has lots of markings (similar to the language of the book from Evernight) on her back and implants of magical metal. Wearing a beautiful dress
 	- She says its good to see them in the flesh, don't know what she would do without them. Ran out of time to explain everything fist time. 
 	- See's Mark and he approaches, says she's made many mistakes but Mark replies with saying its not her fault. Mark says its everyone and Titania pushed and pushed but Mark wasn't there to help. Says he can get her out
-	- Daliah can't leave, Kindrack has the cure and Jaloop and Monty are dying, Daliah leaves now, all three die. Imbalance of soul is killing Monty and Jaloop, the weaves poison is killing Daliah she can't bow out
+	- Daliah can't leave, Kindrack has the cure and Jaloop and Monty are dying, Daliah leaves now, all three die. Imbalance of soul is killing Monty and Jaloop, the veil's poison is killing Daliah she can't bow out
 		- After party response, she needs help again. Kindrack pulled **insert item here** that could cure both Daliah and monty and jaloop. Need to steal it, stay close be the prisoner
 		- Mark will think its crazy
 - Daliah inside, wait to pounce and can help. Flee once she has the item
 	- Kindrack grabs Daliah, then Daliah leaves and reinserts herself into the souls of the party
 	- Mark leaves, Daliah begins to explain. Doing what she needs to do to survive, can't explain all and its too much really needs help, really wants cure. She doesn't like the plan and its varried shit for everyone
-	- Need the special Orb, incorporates GOOs essence from beyond the universe and weave. Nested in a box that Kindrack obtained, but he doesn't have the key which is the problem. 
+	- Need the special Orb, incorporates GOOs essence from beyond the universe and the veil. Nested in a box that Kindrack obtained, but he doesn't have the key which is the problem. 
 		- She explains that Kindrack needs Daliah and a duo of magical twins who discovered the orb in the past. They have the key and are willing to give it for a price. They are giving key, Daliah is extracting the essence, working side by side. Get the key and the twins out the way
 			- Impersonate the two, give the party magic item tech to help, Freya and Mark know. Daliah didn't imagine the two to be helping
 				- Drinking glass that holds more intel
@@ -60,7 +60,7 @@ Previous: [[Session Plan 18 (might be 19)]]
 			- RP while playing, a card a dialogue
 
 - After a big question to complete scan 
-	- Kindrack come over to talk to party and tell them to leave. And he knows what they are and what they have done. Propoganda, news, can put it all behind. Says they can walk from his good will. Daliah went to Kindrack on her own and was tired of breaking all of the universes political laws under titania so she ran away. Breaching the weave and fabric of the universe for the GOO's, putting the unvierse at stake, wonder what Jackson Felwinter or Azriel Darkstar when he was alive before his descent to Arangol as Tartarus would say. "Yeah I know the past fully, I wasn't effected." Pass this on to Titania, that her mass weapon of destruction Daliah is in Kindracks hands and that Titania should get out his turf or the universe will learn about her games. "I have meetings to attend to, find mark downstairs."
+	- Kindrack come over to talk to party and tell them to leave. And he knows what they are and what they have done. Propoganda, news, can put it all behind. Says they can walk from his good will. Daliah went to Kindrack on her own and was tired of breaking all of the universes political laws under titania so she ran away. Breaching the veil and fabric of the universe for the GOO's, putting the unvierse at stake, wonder what Jackson Felwinter or Azriel Darkstar when he was alive before his descent to Arangol as Tartarus would say. "Yeah I know the past fully, I wasn't effected." Pass this on to Titania, that her mass weapon of destruction Daliah is in Kindracks hands and that Titania should get out his turf or the universe will learn about her games. "I have meetings to attend to, find mark downstairs."
 
 - Party leaves and takes elevator while talking to Freya
 	- Mark will ask if the party was able to get thorough data of the twins

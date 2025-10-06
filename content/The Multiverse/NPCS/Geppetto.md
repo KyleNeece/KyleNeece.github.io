@@ -10,7 +10,7 @@ Geppetto is a caring and reflective father. He learns from his wrong doings as b
 ##### Brief History/Timeline
 
 ###### Origins
-Giuseppe Geppetto was a genius engineer. By creating a mechanical heart that harnessed the power of the cosmic weave itself, Geppetto became the father of Warforged puppet design. Geppetto's work brought a golden age for Ebberon, turning it into a thriving metropolis after the Runekeeper war destroyed a lot of it make it impoverished. However, this metamorphosis was not without its sacrifices.
+Giuseppe Geppetto was a genius engineer. By creating a mechanical heart that harnessed the power of the cosmic veil itself, Geppetto became the father of Warforged puppet design. Geppetto's work brought a golden age for Ebberon, turning it into a thriving metropolis after the Runekeeper war destroyed a lot of it make it impoverished. However, this metamorphosis was not without its sacrifices.
 
 Regrettably, Geppetto lost his direction following the death of his wife Katherine, in an accident (was a staged plot by [[Orius Dryden]]). Throwing himself into his work to escape his grief, he neglected his son, Carson (became the puppet [[Unnamed One]]). Consumed by his ceaseless tinkering and invention, Geppetto sent Carson away to Bardic orphanage (established by [[Jaloop]]). This was an act that sowed the seeds of resentment within the young boy; a festering animosity that reached a boiling point when Geppetto failed to attend Carson graduation ceremony, leaving the boy emotionally scarred and openly resentful toward his father. Caron's bitter words expressed his deep-seated hatred, to the point where he declared that he did not care if his father died. In a poignant act of defiance and resentment, Carson gave away the Philosopher's stone necklace Geppetto had gifted him to his dear friend, Rowan.  
 
@@ -23,7 +23,7 @@ As the Madness Disease continued its devastating spread throughout Ebberon from 
 > Aria knew about [[Orius Dryden]]'s secret, which made him a opposition to her because of her marriage to [[Jackson Felwinter]]. 
 
 ###### Campaign 2
-After becoming cornered by the Night Had, Geppetto was forced to work on a machine, along side [[Puppeteer Witch Iris Mindstring]], that had large amount of unknown power, and would be able to pinpoint certain points of interests for [[Orius Dryden]]. 
+After becoming cornered by the Night Had, Geppetto was forced to work on a machine, along side [[Puppeteer Witch Iris Mindstring]], that had large amount of unknown power, and would be able to pinpoint certain points of interests for [[Orius Dryden]]. The party finds Geppetto in the Elemental Plane of Water Kingdom, Oceador. The party is able to help him thwart the Hags plans, and retake the kingdom. Geppetto now works with [[Shek Kai Yun]], learning about his philosophies. 
 
 ##### Abilities
-Geppetto is a mid level spellcaster and is considered one of the smartest men in the universe 
+Geppetto is a mid level spellcaster and is considered one of the smartest men in the universe. 
