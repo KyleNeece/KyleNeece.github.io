@@ -17,5 +17,11 @@ The Unnamed One originated from Ebberon as one of the first prototypes of Machin
 ##### Abilities
 The Unnamed One is a Wechselkind Warforged and will mold and adapt to however he is trained and taught  
 
+13 str 
+13 dex
 14 con 
 Religion Skill Prof 
+13 int 
+13 wis 
+13 cha 
+absorb elements 1x per short rest

@@ -12,7 +12,7 @@ Blood War result of Lady Pain
 - Because of this both sides hate the peacekeepers (more specifically the plane of sigil)
 	- Not up to date with their knowledge
 		- They don't like the Lady of Pain, therefore they don't like Sigil, therefore they don't like the Peacekeepers 
-- The devils and demons don't like Azriel, and the angels and celestials don't like him either (due to Nephilim heritage) 
+- The devils and demons don't like Azriel, and the angels and celestials don't like him either (due to Nephalem heritage) 
 	- His allegiance to the party causes unrest with whoever they meet 
 	- **INSERT HB CHA HERE** and Arangol want the same thing, create an alliance 
 		- Arangol needs the hells rule over it, **INSERT HB CHA HERE** needs **INSERT REASONS HERE**

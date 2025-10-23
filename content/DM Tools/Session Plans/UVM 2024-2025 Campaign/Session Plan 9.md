@@ -63,9 +63,9 @@ Puzzle Mechanics:  
 Clue Integration:  
 Encourage players to write down fragments of the whispers they decipher. Provide clues like:
 - “The fangs of the deceiver beckon, but the wings of the protector shield.”
-	- Nephilim
+	- Nephalem
 - “In darkness, find light, in the wicked, find virtue.”
-	- Nephilim
+	- Nephalem
 
 Upon correctly identifying the shadow, it dissipates, revealing a path forward, bathed in a warm light.
 

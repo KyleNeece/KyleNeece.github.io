@@ -54,7 +54,7 @@ layout: Basic 5e Layout Copy
 image: Azriel Darkstar.png
 name: Azriel Darkstar
 size: Meduim 
-type: Nephilim
+type: Nephalem
 subtype: Runekeeper
 alignment: Lawful Good
 ac: 18
