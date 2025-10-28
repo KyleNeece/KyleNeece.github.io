@@ -1,5 +1,9 @@
 ---
-tags: [Hero/Peacekeeper, Felwinter_Saga_Cour_3/PC, Human/Warlock/Hexblade]
+tags:
+  - Hero/Peacekeeper
+  - Felwinter_Saga_Cour_3/PC
+  - Human/Warlock/Hexblade
+image: Otto the Forgotten.png
 ---
 
 ##### Brief Summary  
@@ -141,4 +145,5 @@ reactions:
 - [[Pearl of Power]]
 - [[Prosthetic Limb]]
 - [[Gifted Hunter's Trench Coat]]
-
+- [[Upgrade Sunblade Crystal]]
+- [[Blood Fury Tattoo]]

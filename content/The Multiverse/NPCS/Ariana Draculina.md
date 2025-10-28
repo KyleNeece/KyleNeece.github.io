@@ -1,5 +1,8 @@
 ---
-tags: [Vampire/Sorcerer/Aberrant, Felwinter_Saga_Cour_3/NPC]
+tags:
+  - Vampire/Sorcerer/Aberrant
+  - Felwinter_Saga_Cour_3/NPC
+image: Ariana Draculina.png
 ---
 
 ##### Brief Summary 

@@ -1,5 +1,8 @@
 ---
-tags: [Human, Felwinter_Saga_Cour_3/NPC]
+tags:
+  - Human
+  - Felwinter_Saga_Cour_3/NPC
+image: Queen of Evernight.png
 ---
 
 ##### Brief Summary 

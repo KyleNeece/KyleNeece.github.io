@@ -29,3 +29,5 @@ The Eldritch Scarab gives a +2 to spell attack rolls and spell save dc
 		- Wet --> becomes vulnerable to lightning damage
 		- Electrocuted --> has a -2 to dexterity saving throws
 		- Deafened --> disadvantage on checks relying on sound
+- Regenerative Symbiote 
+	- As a bonus action can spend a hit die and heal equal to the roll plus your constitution modifer

@@ -144,3 +144,4 @@ reactions:
 - [[Fonn]]
 - [[Harp of Hope]]
 - [[Gifted Hunter's Trench Coat]]
+- [[Mending Strings]]

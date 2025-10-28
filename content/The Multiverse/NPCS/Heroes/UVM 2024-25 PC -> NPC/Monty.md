@@ -168,3 +168,5 @@ reactions:
 - [[Red Lamp]]
 - [[Gifted Hunter's Trench Coat]]
 - [[Bottle of Boundless Coffee]]
+**Abilities**
+- [[Fable of Fortune]]

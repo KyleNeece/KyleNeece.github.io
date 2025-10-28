@@ -17,11 +17,36 @@ The Unnamed One originated from Ebberon as one of the first prototypes of Machin
 ##### Abilities
 The Unnamed One is a Wechselkind Warforged and will mold and adapt to however he is trained and taught  
 
-13 str 
+
+**Make Statblock and have players control**
+
+13 str 
 13 dex
-14 con 
-Religion Skill Prof 
-13 int 
-13 wis 
-13 cha 
+14 con 
+13 int 
+13 wis 
+13 cha 
+
 absorb elements 1x per short rest
+Religion Skill Prof 
+
+Bebop 
+- Warden level 3 Verdant Protector
+Equipment 
+- Shield 
+- Breast Plate 
+- 3 health potions 
+- Morningstar  
+
+Con saves 
+Athletics 
+Intimidation
++1 hp/level 
+Prof in a sav: wisdom 
+BA to stay locked within another
+Defense
+Warden mark, agro pulling 
+Less then max bludgeoning
+10 feet increase agro 
+No difficult terrain affect
++1 ac

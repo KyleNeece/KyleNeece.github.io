@@ -1,5 +1,8 @@
 ---
-tags: [Human/Ranger/Hunter, Felwinter_Saga_Cour_3/NPC]
+tags:
+  - Human/Ranger/Hunter
+  - Felwinter_Saga_Cour_3/NPC
+image: Mark Reinford.png
 ---
 
 ##### Brief Summary 

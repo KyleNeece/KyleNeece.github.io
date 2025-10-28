@@ -1,0 +1,1 @@
+Shield spell 1rx per LR - Parry Bracer

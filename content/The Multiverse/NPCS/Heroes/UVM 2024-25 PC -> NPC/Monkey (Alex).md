@@ -82,6 +82,8 @@ Monkey is a Riverback Wukong Dog and Hound Pugilist
 **Magic items**
 - [[Fist and Collar]]
 - [[Eldritch Claw Tattoo]]
+- [[Mechanical Dog]]
+- [[Tattoo of Fiendish Fists]]
 
 **Unique abilities:**
 - **Spiritual hound transformation:** As an action, you can spend all of your Moxie Points to take on a new form. Your Hound becomes an incorporeal spirit and is absorbed into Alex's soul temporarily. Alex's hair turns smoke grey and gold, his eyes turn red and his body steams

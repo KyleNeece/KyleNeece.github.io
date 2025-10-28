@@ -1,0 +1,15 @@
+
+- **THE NPC** - Has a rifle, knife, associated tools
+	- Perception, Stealth, Athletics, Survival, Intimidation
+		- Perception to gain bonus to hit on weak spots
+		- Stealth to hit more reliably from stealth
+		- Athletics to pin on ground 
+		- Survival to gain bonus to defense
+		- Intimidation to limit enemy’s action economy
+	- Tinkers, Herbalists
+		- Can create prof bonus healing stims 
+		- Grenades to throw as BA = prof, damage = prof bonus # d6
+	- Dungeoneer’s Pack: choose one  
+		- Breaching 
+		- Movement
+		- Cover
