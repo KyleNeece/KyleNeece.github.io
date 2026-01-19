@@ -1,24 +1,46 @@
 
   > [!Important]
  > **Main Quest**
- > - Find the Mysterious Man (Danger Level, N/A)
- > - Talk with [[Orius Dryden]] (Danger Level, ?, urgent)
+ > - Unravel the secret to the Wise Harbinger 
+ > - Gather info, find and defeat the Court of the Wise Harbinger
+ > 	- Completed: [[Putrid Ola Fleshstealer]]
+ > 	- TD: 
+ > 		- Decimus 
+ > 		- Gelirrcho 
+ > 		- Gleh-el 
+ > 		- Omegalith
+ > 		- Rowan 
+ > 		- Zutse
+ > 			- Requirement to hunt the rest: Talk to John Price
+ > - Claim your rewards and discounts at the magic item shop
+ > - A new mysterious nest has opened up that is not Hoo Dini's, use the nest and unravel old mysteries (Danger level: N/A)
 
   > [!Important]
 **Side Quests**
- > - ! Slay a heretic (Danger Level, Medium)
- > - ! Steal a robe of Stars (Danger Level, Medium)
- > - ! Speak with one who may know more about the Madness disease (Danger Level, Low) 
- > 	- (Party members know more about other NPCS then you, leverage that)
- > - ! Talk with [[Hoo Dini]] (Danger Level, None)
- > - ! Travel to Icewind Dale (Danger Level, Medium)
- > - ! Learn more about who separated [[Grimli the great, Gatree the Magnificent, Gord the Rotund]] (Danger Level, Low)
- > - Talk with [[Shek Kai Yun]] (Danger Level, None)
- > - Talk with [[Hughie Goldsmith]] (Danger Level, None)
- > - Talk with [[Alexander the Wayfayerer]] (Danger Level, None)
+ > - !Search for the shattered multiversal runes and decipher their new notations (Danger level: low)
+ > - !Return to the silver church (Danger level: low)
+ > - !Seek fellowship from the hunters guild and John Price (Danger level: low)
+ > - !Find out more about Abyss plunging (Danger level: low)
+ > - !Find the way to repair the sunblade or obtain the sword of history (Danger level: N/A)
+ > - !Find the glory that calls to you (Danger level: Low)
  > - Explore different planes of existence (Optional, Danger Level N/A)
- > -  Find [[Jackson Felwinter]] (Danger Level, ?)
- >
- > *!: Personal quest(s) interconnected with others may lie here*
+ > - Mask Vileblood lineage
+ > -  *!: Personal quest(s) interconnected with others may lie here*
+
+ > [!NPCS]
+ > - [[Shek Kai Yun]] 
+ > - [[Hughie Goldsmith]] 
+ > - [[Hoo Dini]]
+ > - [[Alexander the Wayfarer]] 
+ > - [[Veronica Vileblood]]
+ > - [[Lucian Wyrmhart]]
+ > - [[Unnamed One]] (Bebop/Carson)
+ > - [[Geppetto]]
+ > - [[Puppeteer Witch Iris Mindstring]]
+ > - [[Orius Dryden]]
+ > - [[The Fool]]
+ > - [[Aria Hassan]]
+ > - [[John Price]]
+
  
  

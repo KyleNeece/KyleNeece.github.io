@@ -1,0 +1,11 @@
+---
+tags:
+  - Magic_Item
+---
+- 12+dex 
+- While wearing add your proficiency bonus to any physical skill check when partaking in a sport 
+- Whenever you make a strength or dexterity check you may choose what ability score to use instead of strength. Uses = prof bonus refresh rest  
+- Declare start of turn + BA: Defensive Stance
+	- Remove prof bonus from attack rolls 
+	- Gain temp hp equal to prof bonus each turn 
+	- Increase AC = prof bonus 
