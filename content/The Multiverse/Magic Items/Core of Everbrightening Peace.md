@@ -1,5 +1,6 @@
 ---
-tags: [Peacekeeper/Equipment]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 The Core of Everbrightening Peace is [[Yasu-2]]'s heart and signature magic item

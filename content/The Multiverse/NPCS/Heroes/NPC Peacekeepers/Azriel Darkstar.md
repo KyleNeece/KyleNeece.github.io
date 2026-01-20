@@ -1,10 +1,19 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Runekeeper
+race:
+  - Nephalem
+occupation: Adventurer
+status: Alive
+affiliation: None
+image: "[[Azriel Darkstar.png]]"
 tags:
-  - Hero/Peacekeeper/S-Rank
-  - "#Nephalem/Runekeeper/Fiendish"
-  - Felwinter_Saga_Cour_2/FPC_NNPC
-  - Villian
+  - Character/NPC
+  - Character/Player
 ---
+
 ##### Brief Summary 
 Azriel Darkstar was a [[Nephalem]] who attended [[Peacekeeper Academy]], who later ascended to godhood by the multiversal runes, becoming Tartarus enslaver of worlds. After his rebirth and purification, he is arguably considered the strongest in the [[Peacekeeper]]
 ##### Appearance 

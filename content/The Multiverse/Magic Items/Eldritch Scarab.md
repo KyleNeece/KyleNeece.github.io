@@ -1,3 +1,8 @@
+---
+date created: Sunday, March 23rd 2025, 12:17:23 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 The Eldritch Scarab is a sentient parasite that attached itself to [[Akanos]]. The user has to be bonded to the Scarab 
 ###### Abilities 
 The Eldritch Scarab gives a +2 to spell attack rolls and spell save dc

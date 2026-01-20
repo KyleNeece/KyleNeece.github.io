@@ -1,5 +1,6 @@
 ---
-tags: [Peacekeeper/Equipment, Magic_Item]
+date created: Wednesday, March 19th 2025, 12:05:46 am
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 The Peacekeeper Communication Device is a variable magic item that can take the form of any accessory per the wearers choice 

@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 1:03:45 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the [Dimension Door](http://dnd5e.wikidot.com/spell:dimension-door) spell as an action. This property of the cape can't be used again until the next dawn.

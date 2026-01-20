@@ -1,3 +1,8 @@
+---
+date created: Friday, March 21st 2025, 11:14:42 am
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 *Deep Speech (Friend)*
 
 The creature wearing or carrying the inscribed object has advantage on Charisma checks made to interact with Abberant Creature

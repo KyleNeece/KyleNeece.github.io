@@ -1,5 +1,6 @@
 ---
-tags: [Hero, Human/Zodiac/Sign_of_the_Archer, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 ##### Brief Summary 

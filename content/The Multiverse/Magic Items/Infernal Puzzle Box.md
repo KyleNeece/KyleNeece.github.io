@@ -1,3 +1,8 @@
+---
+date created: Wednesday, March 19th 2025, 5:01:46 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 An _infernal puzzle box_ is a cube-shaped container 5 to 6 inches on a side, composed of airtight, interlocking parts made from materials found in the Nine Hells. Most of these boxes are made of infernal iron, though some are carved from bone or horn. _Infernal puzzle boxes_ are used to safeguard diabolical contracts signed between devils and mortals, even after the terms of these contracts are fulfilled. An empty _infernal puzzle box_ weighs 3 pounds regardless of the materials used to fashion it.
 
 When an object small enough to fit inside an _infernal puzzle box_ is placed in it, the container magically seals shut around the object, and no magic can force the box open. The sealed box becomes immune to all damage as well. Every _infernal puzzle box_ is constructed with a unique means of opening it. The trick to solving the puzzle is always mundane, never magical. Once a creature figures out the trick or sequence of steps needed to open a particular _infernal puzzle box_, that creature can open the box as an action, allowing access to the box's contents.

@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Gnome/Artificer/Battlesmith, Felwinter_Saga_Cour_1/Felwinter_Saga_Cour_2/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Artificer
+race:
+  - Gnome
+occupation: Artificer
+status: Dead
+affiliation: None
+image: "[[Jotor Sparklefen.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

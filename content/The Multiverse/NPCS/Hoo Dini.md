@@ -1,3 +1,18 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Wizard
+race:
+  - Owlin
+occupation: None
+status: Alive
+affiliation: None
+image: "[[Hoo Dini.png]]"
+tags:
+  - "#Character/NPC"
+---
+
 ##### Brief Summary
 Hoo Dini is a Owlin Divination Wizard and originates from Waterdeep 
 

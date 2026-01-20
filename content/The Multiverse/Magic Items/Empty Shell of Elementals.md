@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Tuesday, March 18th 2025, 8:48:49 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Empty Shell of Elementals is a magical shell

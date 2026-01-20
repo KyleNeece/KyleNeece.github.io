@@ -1,3 +1,7 @@
+---
+date created: Thursday, September 11th 2025, 2:02:55 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+---
 
   > [!Important]
  > **Main Quest**
@@ -40,7 +44,7 @@
  > - [[Orius Dryden]]
  > - [[The Fool]]
  > - [[Aria Hassan]]
- > - [[John Price]]
+ > - [[Joshua Price]]
 
  
  

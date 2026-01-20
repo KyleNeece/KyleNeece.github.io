@@ -1,3 +1,19 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: None
+race:
+  - Fey
+  - Night-Hag
+occupation: Court of the Wise Harbinger
+status: Dead
+affiliation: Darkness
+tags:
+  - Character/NPC
+  - villain
+---
+
 ##### Brief Summary
 Putrid Ola Fleshstealer is a evil fey who enjoys the suffering of others.
 > [!Warning]- Spoilers Here DO NOT CLICK

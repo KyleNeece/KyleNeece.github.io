@@ -1,5 +1,6 @@
 ---
-tags: [DMs_Tools]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 More non combat encounters, I want some nice descriptions with large rooms full of people and things for the team to just interact with, without an overall goal or combat direction.

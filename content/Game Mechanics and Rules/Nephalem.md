@@ -1,6 +1,8 @@
 ---
-tags: [DMs_Tools]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
+
 Nephalem's are the offspring of a Celestial Entity and a Demonic Entity, as a result, they are usually treated as an abomination. This is because they mainly have the traits of the human, but inherit traits of both Celestial and Demonic. They live up to 150 years and potentially beyond, and their heritage is hinted at by the features they bear. 
 
 ###### **Features**

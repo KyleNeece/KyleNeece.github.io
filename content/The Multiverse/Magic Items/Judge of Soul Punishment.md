@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 4:35:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Judge of Soul Punishment is a magic item that turns souls into soul coins 

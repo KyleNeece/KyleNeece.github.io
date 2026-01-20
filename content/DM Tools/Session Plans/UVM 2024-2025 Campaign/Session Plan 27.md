@@ -1,3 +1,13 @@
+---
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Session-Notes
+tags:
+  - DMS-Tools/Session-Plan
+---
+
 Raid on Kingdom of Stories. Name: Chronicle of the Infinite Reader
 
 *A 6-player epic raid against the Istoria Rootsery of Nyarlathotep*

@@ -1,5 +1,16 @@
 ---
-tags: [Villian]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Wizard
+race:
+  - Human
+occupation: Villain
+status: Dead
+affiliation: Arangol
+tags:
+  - Character/NPC
+  - villain
 ---
 
 ##### Brief Summary 

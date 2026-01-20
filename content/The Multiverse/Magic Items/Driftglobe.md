@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 12:35:22 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the [Light](http://dnd5e.wikidot.com/spell:light) or [Daylight](http://dnd5e.wikidot.com/spell:daylight) spell. Once used, the Daylight effect can't be used again until the next dawn.

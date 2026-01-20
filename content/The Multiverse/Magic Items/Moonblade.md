@@ -1,6 +1,8 @@
 ---
-tags: [Magic_Item]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
+
 Of all the magic items created by the elves, one of the most prized and jealously guarded is a _moonblade_. In ancient times, nearly all elven noble houses claimed one such blade. Over the centuries, some blades have faded from the world, their magic lost as family lines have become extinct. Other blades have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
 
 A _moonblade_ passes down from parent to child. The sword chooses its bearer and remains bonded to that person for life. If the bearer dies, another heir can claim the blade. If no worthy heir exists, the sword lies dormant. It functions like a normal longsword until a worthy soul finds it and lays claim to its power.

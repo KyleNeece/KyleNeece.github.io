@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Pandaren/Zodiac/Sign_of_the_Dragon, Felwinter_Saga_Cour_2/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Zodiac
+race:
+  - Pandaren
+occupation: Adventurer
+status: Dead
+affiliation: None
+image: "[[Ryū Hoshi.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

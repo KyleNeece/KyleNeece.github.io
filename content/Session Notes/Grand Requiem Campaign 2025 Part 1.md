@@ -1,3 +1,14 @@
+---
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Session-Notes
+tags:
+  - DMS-Tools/Intro
+---
+Previous (after hundreds of years): [[Session 22-End]]
+
 **Intro**
 We start out with [[Nyleth Darkstar]] approaching the [[Aeris Arendor]] household. After beefing with some of the guards, Aeris comes outside to see the ruckus, for Nyleth to say that his uncle ([[Jackson Felwinter]]) sent him on a quest to find the [[Sword of History]]. It has gone missing and some of the Dryden clan was murdered as a result. Aeris invites him into his home, and the two are ambushed by Assassins who are able to sneak in. 
 At the same time, a mysterious man harnessed the Sword of History, and turned the universe into The Grand Requiem setting, releasing evil and dark forces that slowly take effect over time on the planes of existence in this specific Universe. 
@@ -9,7 +20,7 @@ After they disperse, a mysterious force put a special golden ticket in their poc
 
 Short after, before the party goes to Bant, [[Putrid Ola Fleshstealer]] travels to Ebberon and manipulates [[Puppeteer Witch Iris Mindstring]] to help her organization's cause to build a weapon that can destroy planes of existence and find the Sword of History. She unwillingly agrees, and the two then take [[Geppetto]] to do the same. 
 
-The party then makes their way to Bant, and shop around for rumors of the Sword of History. [[Quoric Neckelo]] who picked up a mysterious broken weapon at the Sigil fair ([[True Magi's Blade]], owned originally by Jackson Felwinter), is looking for information on how to repair it. The party is directed to a dungeon, and after defeating a few skeletons and a huge wurm, the party finds spoils and the correct crystal to fix the blade somewhat. The party returns to [[Plane of Alara Starting Location]], more specifically, the Kingdom of Bant, and send a letter to the King for Audience. They are also able to fix the Sunblade to make it work again. The party waits a day, then heads to the King's estate for their meeting. He gives them Japanese Tea, and the party brings [[Shek Kai Yun]] along and he gives the king a special painting as a gift. The King then hires the party as security for his anniversary as king. 
+The party then makes their way to Bant, and shop around for rumors of the Sword of History. [[Quoric Neckelo]] who picked up a mysterious broken weapon at the Sigil fair ([[True Magi's Blade]], owned originally by Jackson Felwinter), is looking for information on how to repair it. The party is directed to a dungeon, and after defeating a few skeletons and a huge wurm, the party finds spoils and the correct crystal to fix the blade somewhat. The party returns to [[A Kingdom within Bant]], more specifically, the Kingdom of Bant, and send a letter to the King for Audience. They are also able to fix the Sunblade to make it work again. The party waits a day, then heads to the King's estate for their meeting. He gives them Japanese Tea, and the party brings [[Shek Kai Yun]] along and he gives the king a special painting as a gift. The King then hires the party as security for his anniversary as king. 
 
 Tomorrow comes, and the party is at security. During his speech, the party is crashed by the hag and her forces, and the party along with the president begin combat. They are able to drive the hag away again, and the party is left wondering who is the hag. After, [[The Fool]] appears, and begins his many times of trolling them. He then takes them to combat, and retreats while laughing. Bant thanks them for their service, and the party then gets whim that [[Gabe (Gortat) and Andy the Stork]]'s kingdom has been relocated to the [[Elemental Plane of Water]]. The party then travels to this location, and find that [[Puppeteer Witch Iris Mindstring]] has been busy. They run into a few of fish people from the kingdom who were being controlled by magic puppet strings. The party then defeats them by cutting the strings, and they return to allied status. The party then find out that the hag and Iris are controlling the kingdom. The party sneaks into the kingdom, and free Geppetto. The party then retreats to the outskirts of the main capital City of Oceador, and learn a lot about [[Geppetto]]'s history (see his page). They also learn that [[Unnamed One]] is actually his son being reincarnated. The party and him then make a plan to disrupt the hag and stop her machine. Upon arrival, the party is able to execute the plan, but provokes combat from Iris. [[Veronica Vileblood]] stays behind, and combats Iris as the party retreats from destroying the machine, making it to a safe house.
 

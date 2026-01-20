@@ -1,5 +1,17 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Elf/Bard/College_of_Eloquence, Felwinter_Saga_Cour_2/FPC_NNPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Bard
+race:
+  - Elf/Wood
+occupation: Adventurer
+status: Dead
+affiliation: Birdsong Elven House
+image: "[[Olivia Birdsong]]"
+tags:
+  - Character/NPC
+  - Character/Player
 ---
 
 ##### Brief Summary 

@@ -1,7 +1,8 @@
 ---
-tags:
-  - Magic_Item
+date created: Tuesday, January 13th 2026, 1:29:19 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
+
 - 12+dex 
 - While wearing add your proficiency bonus to any physical skill check when partaking in a sport 
 - Whenever you make a strength or dexterity check you may choose what ability score to use instead of strength. Uses = prof bonus refresh rest  

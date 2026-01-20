@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 12:02:44 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Glowing cinders orbit the flanged head of this black iron rod.

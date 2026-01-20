@@ -1,6 +1,8 @@
 ---
-tags: [Magic_Item]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
+
 Produced by a special needle, this magic tattoo depicts clawlike forms and other jagged shapes.
 
 **Tattoo Attunement.** To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.

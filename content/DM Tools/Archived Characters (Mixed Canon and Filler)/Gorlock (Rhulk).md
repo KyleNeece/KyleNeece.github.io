@@ -1,8 +1,15 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Barbarian
+race:
+  - Minotaur
+occupation: Peacekeepers
+status: Dead
+affiliation: Peacekeepers
 tags:
-  - Hero/Peacekeeper
-  - Minotaur/Barbarian/Path_of_the_RageMage
-  - Felwinter_Saga_Cour_3/PC
+  - Character/Player
 ---
 
 ##### Brief Summary  

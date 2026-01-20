@@ -1,5 +1,16 @@
 ---
-tags: [Runekeeper, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Runekeeper
+race:
+  - Aberration
+  - Aasimar
+occupation: None
+status: Dead
+affiliation: Far Realm
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

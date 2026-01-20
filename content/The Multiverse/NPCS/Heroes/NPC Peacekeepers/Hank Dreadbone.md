@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Skeleton/Accursed/Curse_of_Possession, Felwinter_Saga_Cour_2/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Accursed
+race:
+  - Undead/Skeleton
+occupation: Adventurer
+status: Dead
+affiliation: None
+image: "[[Hank Dreadbone.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

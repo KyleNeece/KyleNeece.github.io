@@ -1,3 +1,8 @@
+---
+date created: Friday, March 28th 2025, 2:24:41 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 - Gameplay in some instances (common sense) is separate from lore. For example 10 rounds is one minute of fighting in DND, but in true fantasy vision, a fight would last probably longer then that. Look at any show with combat (Examples: Invincible, Naruto, Etc.), the fights last way longer 
 
 - Gameplay mechanics also need to be balanced for the sake of playing the TTRPG and so the game does not break. Think of this like a video game, most video game characters's game mechanics act differently from that of when they are in cutscenes, make this distinction. If you want me to put a section for such differences let me know 

@@ -1,11 +1,20 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Goblin/Merchant/, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Merchant
+race:
+  - Goblin
+occupation: Shopkeeper
+status: Dead
+affiliation: None
+image: "[[Sprocket McGob.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 
 Sprocket McGob is a Goblin Merchant and S-Rank [[Peacekeeper]]
-
-give subclass
 ##### Appearance 
 ![[Sprocket McGob.png]]
 ##### Personality 

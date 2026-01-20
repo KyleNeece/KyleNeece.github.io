@@ -1,3 +1,18 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: None
+race:
+  - Fiend/Demon
+occupation: 54th Layer of the Abyss Demon Lord
+status: Dead
+affiliation: Arendor Elven House
+tags:
+  - Character/NPC
+  - villain
+---
+
 ##### Brief Summary 
 Degalith, formerly known as the Human, Loranos Arendor, is a Demon Lord that resides within the 54th layer of the Abyss.
 ##### Appearance

@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Orc/Barbarian/Berserker, Felwinter_Saga_Cour_2/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Barbarian
+race:
+  - Orc
+occupation: Adventurer
+status: Dead
+affiliation: None
+image: "[[Malatar Wütend.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

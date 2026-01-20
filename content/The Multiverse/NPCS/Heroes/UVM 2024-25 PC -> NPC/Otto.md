@@ -1,9 +1,17 @@
 ---
-tags:
-  - Hero/Peacekeeper
-  - Felwinter_Saga_Cour_3/PC
-  - Human/Warlock/Hexblade
 image: Otto the Forgotten.png
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Warlock
+race:
+  - Human
+occupation: Evernight King
+status: Dead
+affiliation: Evernight
+tags:
+  - Character/Player
+  - Character/NPC
 ---
 
 ##### Brief Summary  

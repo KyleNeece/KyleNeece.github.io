@@ -1,5 +1,6 @@
 ---
-tags: [Peacekeeper/Equipment]
+date created: Wednesday, March 5th 2025, 5:22:40 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 The Weapon of Legends is [[Emily Sigiliph]]'s magical eagle necklace that can transform into any weapon she chooses

@@ -1,5 +1,16 @@
 ---
-tags: [Hero, Umbral_Human/Psion/Unleashed, Felwinter_Saga_Cour_3/NPC]
+class: character
+character-class: Psion
+race:
+  - Human/Umbral
+occupation: None
+status: Dead
+affiliation: Chaotic Good
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+image: "[[Nathan Murgal.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

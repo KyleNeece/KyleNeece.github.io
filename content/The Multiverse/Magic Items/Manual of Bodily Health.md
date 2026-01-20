@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Tuesday, March 18th 2025, 9:42:22 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 The Manual of Bodily Health is a magical book 

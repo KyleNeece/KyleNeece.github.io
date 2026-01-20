@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Elf/Dancer/Bladed_Bravado, Felwinter_Saga_Cour_2/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Dancer
+race:
+  - Elf/High
+occupation: Adventurer
+status: Dead
+affiliation: Ashford Elven House
+image: "[[Lillith Ashford.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

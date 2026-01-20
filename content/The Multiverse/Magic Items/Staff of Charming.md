@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 1:41:05 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 While holding this staff, you can use an action to expend 1 of its 10 charges to cast [Charm Person](http://dnd5e.wikidot.com/spell:charm-person), [Command](http://dnd5e.wikidot.com/spell:command), or [Comprehend Languages](http://dnd5e.wikidot.com/spell:comprehend-languages) from it using your spell save DC. The staff can also be used as a magic quarterstaff.

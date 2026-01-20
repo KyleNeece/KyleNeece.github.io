@@ -1,5 +1,17 @@
 ---
-tags: [Villian]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Special
+race:
+  - Deity
+  - Elf/High
+occupation: Ruler of Seelie Court
+status: Alive
+affiliation: Seelie Court
+tags:
+  - "#Character/NPC"
+  - "#villain"
 ---
 
 ##### Brief Summary 

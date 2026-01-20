@@ -1,8 +1,17 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Rogue
+race:
+  - Tiefling
+occupation: Adventurer
+status: Dead
+affiliation: N/A
+image: "[[Akanos.png]]"
 tags:
-  - Hero/Peacekeeper
-  - Tiefling/Rogue/Arcane_Trickster
-  - Felwinter_Saga_Cour_3/PC
+  - Character/NPC
+  - Character/Player
 ---
 
 ##### Brief Summary  

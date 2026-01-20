@@ -4,8 +4,7 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
 class:
   - Location
 tags:
-  - Location/The-Abyss
+  - Location/Alara/Bant-Sector
 ---
 
-![[Layer 54 of the Abyss.png]]
-
+![[Alara Plane Opening Image.png]]

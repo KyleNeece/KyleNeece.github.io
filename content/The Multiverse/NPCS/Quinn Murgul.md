@@ -1,5 +1,15 @@
 ---
-tags: [Hero, Umbral_Human/Psion/Unleashed, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Merchant
+race:
+  - Human/Umbral
+occupation: Himself
+status: Dead
+affiliation: Himself
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Goliath/Paladin/Oath_of_Heroism, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Paladin
+race:
+  - Goliath
+occupation: Evernight Healing Church
+status: Dead
+affiliation: Evernight
+image: "[[Maui Rockheart.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

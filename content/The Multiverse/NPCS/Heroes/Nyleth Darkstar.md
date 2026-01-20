@@ -1,3 +1,18 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Bard
+race:
+  - Human
+occupation: Adventurer
+status: Alive
+affiliation: N/A
+image: "[[Nyleth Darkstar.png]]"
+tags:
+  - Character/NPC
+---
+
  > [!Important]
  >This section is in progress and is somewhat important to background purposes but not the entirety of the lore is applicable to the campaign. So you don't need to know everything about this character, only his blood relation and why he's around in the prologue
 

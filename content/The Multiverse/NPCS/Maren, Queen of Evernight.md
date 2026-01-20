@@ -1,8 +1,16 @@
 ---
-tags:
-  - Human
-  - Felwinter_Saga_Cour_3/NPC
 image: Queen of Evernight.png
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Sovereign
+race:
+  - Undead
+occupation: Evernight Queen
+status: Dead
+affiliation: Evernight
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

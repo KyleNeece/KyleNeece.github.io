@@ -1,8 +1,19 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Bard (later all)
+race:
+  - Halfling (previous disembodied)
+  - Deity
+occupation: Grand Requiem Creator
+status: N/A
+affiliation: The Creator (previously Peacekeepers)
+image: "[[Jaloop.png]]"
 tags:
-  - Hero/Peacekeeper
-  - "#Halfling/Bard/Lore"
-  - Felwinter_Saga_Cour_3/PC
+  - Character/Player/DM/Avatar
+  - Character/NPC
+  - Character/Player
 ---
 
 ##### Brief Summary  

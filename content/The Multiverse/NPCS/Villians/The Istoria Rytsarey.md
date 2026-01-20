@@ -1,6 +1,14 @@
 ---
-tags: [Villian]
+date created: Monday, January 19th 2026, 2:44:54 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Lore
+character-class: Runekeeper
+tags:
+  - "#villain"
+  - Character/NPC
 ---
+
  The Istoria Rytsarey (istoria-root-sery. rough translation: Story Knights) are an organization of powerful unique Runekeeper's who serve as the bane of [[The Omnipotent One]]
 
 ###### **General Information**

@@ -1,9 +1,16 @@
 ---
-tags:
-  - Hero
-  - Human/Druid/Circle_of_Stars
-  - Felwinter_Saga_Cour_2/NPC
 image: "[[Tokka.png]]"
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Druid
+race:
+  - Tortle
+occupation: None
+status: Dead
+affiliation: N/A
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

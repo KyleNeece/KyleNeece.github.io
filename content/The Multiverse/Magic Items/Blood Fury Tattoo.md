@@ -1,3 +1,8 @@
+---
+date created: Tuesday, October 28th 2025, 3:11:54 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 ###### Abilities 
 Produced by a special needle, this magic tattoo evokes fury in its form and colors.
 

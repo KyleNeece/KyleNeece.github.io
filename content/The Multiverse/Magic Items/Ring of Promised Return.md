@@ -1,3 +1,8 @@
+---
+date created: Friday, April 18th 2025, 12:00:37 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 A magical ring gifted to Aria Hassan as a gift from Jackson Felwinter 
 ###### Abilities 
 - Once per short rest you may preform a Spellstrike using a spell you know

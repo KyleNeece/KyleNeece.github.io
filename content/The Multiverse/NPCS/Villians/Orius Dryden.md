@@ -1,3 +1,20 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: All
+race:
+  - Fiend/Demon
+  - Human
+occupation: Dryden Noble Family
+status: Alive
+affiliation: Darkness
+tags:
+  - Character/NPC
+  - "#villain"
+  - BBEG
+---
+
 ##### Brief Summary
 Orius Dryden is the main head of the house Dryden, one of the four powerful human bloodline clans 
 

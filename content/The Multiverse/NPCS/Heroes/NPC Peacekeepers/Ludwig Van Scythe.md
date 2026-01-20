@@ -1,8 +1,16 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Blood Hunter
+race:
+  - Symic Hybrid
+occupation: Adventurer
+status: Dead
+affiliation: None
+image: "[[Ludwig Van Scythe.png]]"
 tags:
-  - Hero/Peacekeeper/S-Rank
-  - Warforged/Vanguard/Juggernaut
-  - Felwinter_Saga_Cour_3/NPC
+  - Character/NPC
 ---
 
 ##### Brief Summary 

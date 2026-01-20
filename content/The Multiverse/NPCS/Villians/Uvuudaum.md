@@ -1,3 +1,20 @@
+---
+date created: Monday, January 19th 2026, 2:44:54 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Lore
+  - character
+character-class: None
+race:
+  - Great Old One
+occupation: None
+status: N/A
+affiliation: Far Realm
+tags:
+  - Character/NPC
+  - "#villain"
+---
+
 ##### Brief Summary 
 A Uvuudaum is a Abberant creature originating from the Far Realm 
 ##### Appearance

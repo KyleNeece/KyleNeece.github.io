@@ -1,5 +1,12 @@
 ---
-tags: [Session_Notes]
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Session-Notes
+tags:
+  - Session-Notes
+  - Quests
 ---
 
 Welcome to [[Sigil]], aka the center of the multiverse. Sigil is the main hub for interplanar travel. You’ll meet all kinds of exotic creatures and experience all kinds of exotic cultures, and travel to many different planes, exploring the cosmology of the dnd (and potentially other) multiverse. Let’s take a look at the brief history of the situation: When Lady of Pain, Sigil’s ruler and founder, went corrupt and threatened the safety of the multiverse, a group of 6 adventurers took swift action to rebel and put her down for good. A battle between heroes and tyrants Will, with heavy losses on each side. After the dust settled, only one man survived… Will Felwinter, a Human Eldritch Knight Fighter who was a part of the powerful but now endangered Felwinter bloodline. To ensure the safety of the multiverse, Will Felwinter established an academy for young aspiring adventurers located on Sigil, with its goal being to prepare them for the worst threats possible. 2 childhood friends known as the The Twin Prodigies; Jackson Felwinter the Human Magus; and Azriel Darkstar the Nephelm Runekeeper, stood at the top of the class, holding a level of power that has never been seen before. Despite their promising ability to potentially bring peace to all of the multiverse, tragedy occurred, as the invasion of Tartarus, Enslaver of Worlds almost destroyed the planet. The war lost great assets that day, with Will Felwinter and Azriel Darkstar perishing in the process, with Jackson Felwinter landing a lucky ace in the hole blow against Tartarus, ending the invasion. Jackson Felwinter, along with the rest of his friends, established a new force called the Peacekeepers, an interplanar covert force that works in secret behind the scenes of the cosmos to eliminate both big and small threats to ensure the safety of the multiverse. Ever since this program was created, millions of adventurers and even common folk rushed to sign up for the test in hopes of achieving their lifelong dream of becoming a peacekeeper. Our story begins with eight individuals, with enormous potential, enrolling and beginning their trials to become a Peacekeeper so they can set out on adventure and uncover the mysteries of the reality they live in….

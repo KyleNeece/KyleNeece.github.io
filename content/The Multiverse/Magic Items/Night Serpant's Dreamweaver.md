@@ -1,3 +1,8 @@
+---
+date created: Friday, April 18th 2025, 12:00:44 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 Night Serpant's Dreamweaver is a patron gift from Dendar, the Night Serpent
 ###### Abilities 
 - The user can cast Phantasmal Force at will, without expending a spell slot. 

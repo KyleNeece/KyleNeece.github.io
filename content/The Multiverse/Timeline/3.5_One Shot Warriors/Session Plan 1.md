@@ -1,3 +1,13 @@
+---
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Session-Notes
+tags:
+  - DMS-Tools/Session-Plan
+---
+
 **PREMISE (5–10 minutes)**
 
 In the outer underground shadow of a small district within the city of Sigil within **Thespira**, a string of disappearances has drawn quiet panic. The victims share a pattern: vulnerable, marginalized, and forgotten by official channels. The district is attempting to quell the rising afford public fear. How do they do this? They hire adventurers, known as actors. Our party has been contracted by a mysterious masked intermediary known only as 

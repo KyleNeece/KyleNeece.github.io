@@ -1,8 +1,17 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Pugilist
+race:
+  - Wukong
+occupation: Zariel and the 9 Devils of Hell
+status: Alive
+affiliation: Zariel
+image: "[[Hand of Dread Alex.jpg]]"
 tags:
-  - Hero/Peacekeeper
-  - Wukong/Pugilist/Dog_Hound
-  - Felwinter_Saga_Cour_3/PC
+  - Character/NPC
+  - Character/Player
 ---
 
 ##### Brief Summary  

@@ -1,3 +1,8 @@
+---
+date created: Wednesday, October 15th 2025, 6:38:16 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 1. NPCs Knowing too much, use rumors!
 	1. Mysteries to stay engaged, reveal slowly 
 	2. 3 things remain mysterious 

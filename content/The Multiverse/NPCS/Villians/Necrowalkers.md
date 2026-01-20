@@ -1,5 +1,17 @@
 ---
-tags: [Villian]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: None
+race:
+  - Undead
+occupation: Darkness
+status: N/A
+affiliation: Darkness
+tags:
+  - "#villain"
+  - "#DMS-Tools/Statblocks"
+  - "#Character/NPC"
 ---
 
 Necrowalkers are mutated abomination humanoids that serve as [[Arangol]]'s personal army.

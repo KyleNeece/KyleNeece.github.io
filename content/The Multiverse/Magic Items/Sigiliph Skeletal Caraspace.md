@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Tuesday, March 18th 2025, 8:36:11 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Sigiliph Skeletal Caraspace is [[Emily Sigiliph]] and [[Johnny Sigiliph]]'s human skeleton

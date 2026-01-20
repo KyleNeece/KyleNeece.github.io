@@ -1,3 +1,20 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Special
+race:
+  - Warforged
+  - Wechselkind
+  - Hybrid
+occupation: Adventurer
+status: Alive
+affiliation: The Felwinters
+image: "[[Unnamed One.png]]"
+tags:
+  - Character/NPC
+---
+
 ##### Brief Summary
 The Unnamed One (later given the name Bebop, original name Carson) is a Warforged who originates from the plane of Ebberon 
 

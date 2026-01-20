@@ -1,3 +1,8 @@
+---
+date created: Tuesday, March 25th 2025, 11:00:06 am
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 The Mysterious Magical Car is a vehicle owned by [[Otto]], [[Monkey (Alex)]], [[Akanos]], [[Jaloop]], [[Monty]], [[Aeris Arendor]]
 ###### Appearance 
 ![[Mysterious Magical Car.png]]

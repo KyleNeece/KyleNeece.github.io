@@ -1,6 +1,20 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Yuan-Ti/Warlock/Great_Old_One_Walock, Felwinter_Saga_Cour_2/FPC_NNPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Warlock
+race:
+  - Yuan-Ti
+  - Great Old One
+occupation: Patron and Adventurer
+status: Alive
+affiliation: The Felwinters
+image: "[[Aria Hassan.png]]"
+tags:
+  - Character/NPC
+  - Character/Player
 ---
+
  
 ##### Brief Summary 
 Aria Hassan is a Great Old One Warlock originating from the Serpent Hills, S-Rank [[Peacekeeper]], and engaged to [[Jackson Felwinter]]

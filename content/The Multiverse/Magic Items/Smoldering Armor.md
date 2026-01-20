@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 2:23:58 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Wisps of harmless, odorless smoke rise from this armor while it is worn.

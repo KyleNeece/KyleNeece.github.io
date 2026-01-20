@@ -1,5 +1,22 @@
 ---
-tags: [Hero/Peacekeeper, Felwinter_Saga_Cour_3/PC, Wukong/Runekeeper/Jotun]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Runekeeper (Later All)
+race:
+  - Wukong (Previously Human)
+  - Great Old One
+  - Deity
+occupation: Adventurer and Grand Requiem Creator
+status: N/A
+affiliation: The Creator (previously Peacekeepers)
+image: "[[Monty 2.png]]"
+tags:
+  - Character/NPC
+  - Character/Player
+  - BBEG
+  - villain
+  - Character/Player/DM/Avatar
 ---
 
 ##### Brief Summary  

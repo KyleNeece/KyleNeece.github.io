@@ -1,3 +1,8 @@
+---
+date created: Monday, April 14th 2025, 12:59:19 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 Produced by a special needle, this tattoo shifts and wavers on the skin, parts of it appearing blurred.
 
 **Tattoo Attunement.** To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.

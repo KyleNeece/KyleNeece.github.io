@@ -1,3 +1,8 @@
+---
+date created: Friday, March 21st 2025, 12:31:32 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 The Story Teller's Power is the power of [[Jackson Felwinter]] and [[Azriel Darkstar]]'s final forms which were obtained after their youth. This power is also in possession of Arangol and ⏁⊑⟒ ⟟⋏⎎⟟⋏⟟⏁⟒ ⍀⟒⏃⎅⟒⍀
 
 ###### Abilities, Lore and General Info 

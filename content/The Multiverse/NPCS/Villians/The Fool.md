@@ -1,3 +1,19 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Accursed
+race:
+  - Fiend/Demon
+occupation: Villain
+status: N/A
+affiliation: Darkness
+tags:
+  - Character/NPC
+  - "#BBEG"
+  - "#villain"
+---
+
 ##### Brief Summary
 The Fool is a mysterious clown.
 > [!Warning]- Spoilers Here DO NOT CLICK

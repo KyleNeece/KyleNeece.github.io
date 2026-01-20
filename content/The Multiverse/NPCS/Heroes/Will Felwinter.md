@@ -1,5 +1,17 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Human/Fighter/Eldritch_Knight, Felwinter_Saga_Cour_1/Felwinter_Saga_Cour_2/Felwinter_Saga_Cour_3]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Fighter
+race:
+  - Human
+occupation: Adventurer
+status: Dead
+affiliation: The Felwinters
+image:
+tags:
+  - Character/Player
+  - Character/NPC
 ---
 
 Human Eldritch Knight Fighter

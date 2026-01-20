@@ -1,5 +1,17 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Autognome/Cleric/Peace_Domain, Felwinter_Saga_Cour_2/FPC_NNPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Cleric
+race:
+  - Autognome
+occupation: Adventurer
+status: Dead
+affiliation: None
+image: "[[Yasu-2.png]]"
+tags:
+  - Character/NPC
+  - Character/Player
 ---
 
 ##### Brief Summary 

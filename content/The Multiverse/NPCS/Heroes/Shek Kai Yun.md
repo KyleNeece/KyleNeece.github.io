@@ -1,3 +1,18 @@
+---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Fighter
+race:
+  - Pandaren
+occupation: Adventurer
+status: Alive
+affiliation: N/A
+image: "[[Shek Kai Yun.png]]"
+tags:
+  - Character/NPC
+---
+
 ##### Brief Summary
  Shek Kai Yun is a Samurai Fighter originating from Kara-Tur 
 

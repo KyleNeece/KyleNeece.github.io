@@ -1,9 +1,16 @@
 ---
-tags:
-  - Hero/Peacekeeper/S-Rank
-  - Human/Pugilist/Sweet_Science
-  - Felwinter_Saga_Cour_2/NPC
 image: "[[Johnny Sigiliph.png]]"
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Pugilist
+race:
+  - Human
+occupation: Adventurer
+status: Dead
+affiliation: None
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

@@ -1,3 +1,8 @@
+---
+date created: Friday, April 18th 2025, 12:00:18 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 Felwinter's Battle Armor is a battle armor passed through the Felwinter family 
 ###### Abilities 
 - Your AC is equal to 14 + your dexterity modifier 

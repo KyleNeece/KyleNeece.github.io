@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 2:14:33 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Produced by a special needle, this magic tattoo features symbols of life and rebirth.

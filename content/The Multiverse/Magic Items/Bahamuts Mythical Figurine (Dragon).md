@@ -1,6 +1,8 @@
 ---
-tags: [Magic_Item]
+date created: Tuesday, March 18th 2025, 9:52:39 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
+
 Bahamuts Mythical Figurine (Dragon) is a gift from Bahamut to Jackson Felwinter. It is a representation of Jackson's power that was split off from him
 ###### Abilities 
 - The item serves as a Figurine of Wondrous Power. A _Figurine of Wondrous Power_ is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes an Ancient Silver Dragon. See the *Monster Manual* for the creature's statistics. 

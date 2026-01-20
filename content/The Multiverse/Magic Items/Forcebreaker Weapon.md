@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Tuesday, March 18th 2025, 9:37:40 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 A Force Breaker Weapon is a Magical Weapon 

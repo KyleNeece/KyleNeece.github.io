@@ -1,3 +1,8 @@
+---
+date created: Friday, April 18th 2025, 12:00:26 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 Gift of the Serpent Mother is a magic Amulet given to Jackson Felwinter as an anniversary gift from Aria Hassan. 
 ###### Abilities 
 - While you wear the amulet you know and can cast Eldritch Blast. You add your spellcasting modifier to the damage rolls 

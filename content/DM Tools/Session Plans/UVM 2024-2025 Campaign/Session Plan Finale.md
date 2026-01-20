@@ -1,3 +1,8 @@
+---
+date created: Wednesday, March 26th 2025, 1:06:00 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 4 more sessions 
 
 - Have order in obsidian 

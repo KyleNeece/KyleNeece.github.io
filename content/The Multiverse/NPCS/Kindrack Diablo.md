@@ -1,5 +1,16 @@
 ---
-tags: [Elf/Sovereign/Warrior_Dynasty, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Sovereign
+race:
+  - Elf/High
+occupation: Leader of Thieves Metropolis
+status: Dead
+affiliation: Thieves Metropolis
+image: "[[Kindrack Diablo.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

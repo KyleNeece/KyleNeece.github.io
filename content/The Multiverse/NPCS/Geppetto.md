@@ -1,3 +1,8 @@
+---
+date created: Friday, September 12th 2025, 10:56:30 am
+date modified: Monday, January 19th 2026, 3:27:55 pm
+---
+
 ##### Brief Summary
 Geppetto is a genius engineer and invented Warforged that are able to gradually understand what it means to be human and can become one. His design is the finality of [[Jotor Sparklefen]] and [[Puppeteer Witch Iris Mindstring]]'s Warforged designs. 
 

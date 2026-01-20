@@ -1,3 +1,13 @@
+---
+date created: Monday, January 19th 2026, 2:44:13 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Event
+tags:
+  - Timeline
+  - DMS-Tools
+---
+
 **Note**: This campaign (cour 1) happened my Jr year and it lasted for a year. Since it was a decent amount of time ago, I do not remember majority of the events except for bits and pieces of my character, [[Will Felwinter]] (Eldritch Knight Fighter). If you want more on his character it'll come from a discussion from me rather then the "wiki", which will only have his ending to his character and his events within the Cour 2 and within the story I run, as the other campaign was run by friend and he's now at the special NYU music branch for prodigies and shi so he doesn't have time to give me all the notes lol. 
 
 Other Tags 

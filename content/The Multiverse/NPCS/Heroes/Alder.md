@@ -1,5 +1,16 @@
 ---
-tags: [Hero, Human/Paladin/Oath_of_Devotion, Felwinter_Saga_Cour_3/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Paladin
+race:
+  - Human
+occupation: Evernight Healing Church
+status: Dead
+affiliation: Evernight
+image:
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

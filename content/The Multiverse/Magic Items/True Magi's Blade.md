@@ -1,6 +1,8 @@
 ---
-tags: [Peacekeeper/Equipment]
+date created: Monday, March 3rd 2025, 3:48:07 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
+
 True Magi's Blade is [[Jackson Felwinter]]'s modified Energy BowBlade
 ###### Abilities 
 True Magi's Blade is a +3 weapon that can switch between a Finesse Longsword and a Longbow

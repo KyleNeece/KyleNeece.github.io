@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 12:09:28 am
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 *This Jar gives the most accessible of liquids to all, just don't mistake the Poison for Mayo*

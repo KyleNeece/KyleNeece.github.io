@@ -1,5 +1,16 @@
 ---
-tags: [Hero/Peacekeeper/S-Rank, Dragonborn/Sorcerer/Draconic, Felwinter_Saga_Cour_2/NPC]
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Sorcerer
+race:
+  - Dragonborn/Red
+occupation: Adventurer
+status: Dead
+affiliation: None
+image: "[[Tanith Iceburn.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

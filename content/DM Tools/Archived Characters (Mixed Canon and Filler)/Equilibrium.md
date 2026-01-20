@@ -1,8 +1,15 @@
 ---
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Monk
+race:
+  - Dwarf
+occupation: Peacekeepers
+status: Dead
+affiliation: Peacekeepers
 tags:
-  - Hero/Peacekeeper
-  - Dwarf/Monk/Open_Hand
-  - Felwinter_Saga_Cour_3/PC
+  - Character/Player
 ---
 
 ##### Brief Summary  

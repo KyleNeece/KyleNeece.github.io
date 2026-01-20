@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Tuesday, March 18th 2025, 9:44:44 pm
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 A Figurine of Wondrous Power is a magical figurine 

@@ -1,5 +1,11 @@
 ---
-tags: [Hero, Felwinter_Saga_Cour_1/Felwinter_Saga_Cour_2/Felwinter_Saga_Cour_3]
+date created: Monday, January 19th 2026, 2:44:54 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - character
+  - Lore
+tags:
+  - "#Character/NPC"
 ---
 
 A peacekeeper is a soldier of the peacekeeper force, who are the invisible protectors of the multiverse. The [[Peacekeeper Main Base of Operations]] is located on [[Sigil]]

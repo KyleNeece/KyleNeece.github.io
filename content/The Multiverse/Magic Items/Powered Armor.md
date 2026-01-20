@@ -1,5 +1,6 @@
 ---
-tags: [Magic_Item]
+date created: Wednesday, March 19th 2025, 11:16:38 am
+date modified: Monday, January 19th 2026, 3:27:55 pm
 ---
 
 Powered Armor is a magical Plate suit of armor 
