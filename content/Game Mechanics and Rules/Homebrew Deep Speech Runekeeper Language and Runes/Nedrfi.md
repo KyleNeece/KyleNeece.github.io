@@ -1,6 +1,12 @@
 ---
-date created: Friday, March 21st 2025, 11:14:42 am
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Class-Homebrew
+tags:
+  - DMS-Tools/Brainstorm
+  - Equipment
 ---
 
 *Deep Speech (Friend)*

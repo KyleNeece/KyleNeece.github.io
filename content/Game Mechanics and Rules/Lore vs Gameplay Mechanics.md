@@ -1,6 +1,12 @@
 ---
-date created: Friday, March 28th 2025, 2:24:41 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Reference-Notes
+tags:
+  - DMS-Tools/Guidelines
+  - DMS-Tools/Brainstorm
 ---
 
 - Gameplay in some instances (common sense) is separate from lore. For example 10 rounds is one minute of fighting in DND, but in true fantasy vision, a fight would last probably longer then that. Look at any show with combat (Examples: Invincible, Naruto, Etc.), the fights last way longer 

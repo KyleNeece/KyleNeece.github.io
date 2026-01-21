@@ -1,6 +1,13 @@
 ---
-date created: Friday, April 18th 2025, 12:00:44 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Cloak
+rarity: Legendary
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 Night Serpant's Dreamweaver is a patron gift from Dendar, the Night Serpent

@@ -1,6 +1,11 @@
 ---
-date created: Tuesday, April 1st 2025, 10:10:14 am
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Misc
+tags:
+  - DMS-Tools/Brainstorm
 ---
 
 Oncer per day for 1 minute, Olivia becomes the pinnacle of song. When activated all creatures must succeed in a charisma saving throw or be charmed for the duration. While in this evo bardic grants an additonal bonus when rolled equal to your charisma modifer, you can once per round impose disadvantage on any d20 roll made within 60 feet of you, add half your charisma modifier to all skill checks, and can use bardic inspiration on yourself.

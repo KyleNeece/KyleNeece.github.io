@@ -1,6 +1,13 @@
 ---
-date created: Friday, April 18th 2025, 12:00:10 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Hedron
+rarity: Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Jackson Felwinter's heavily modified Hedron he created. He has multiple Hedrons and can use them for the following benefits (a few examples)

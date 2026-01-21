@@ -1,6 +1,13 @@
 ---
-date created: Tuesday, March 18th 2025, 8:36:11 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Special
+rarity: Legendary
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 Sigiliph Skeletal Caraspace is [[Emily Sigiliph]] and [[Johnny Sigiliph]]'s human skeleton

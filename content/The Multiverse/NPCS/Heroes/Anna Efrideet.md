@@ -1,8 +1,18 @@
 ---
 image: https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdp65ZFucJzgXmAzAQqfQPkDsNvw2Fr3UZuuz0SVUFjGyyGxn5dASzglRIdy09VWGg-xZToBU5LmOiJOmdCAL6zreinvxWPrzIyyxtt3dY_TmO9L1GrMltCkWowItn7iqgobwfTQ?key=EnPk9fkUSHjQjRDw6ceNMxvt
 level:
-date created: Monday, March 3rd 2025, 3:48:07 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Paladin
+race:
+  - Aasimar
+  - Human
+occupation: Evernight Healing Church
+status: Dead
+affiliation: Evernight
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 

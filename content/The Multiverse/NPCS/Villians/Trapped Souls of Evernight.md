@@ -8,9 +8,10 @@ race:
 occupation: None
 status: Dead
 affiliation: None
+image: "[[Trapped Souls of Evernight.png]]"
 tags:
   - Character/NPC
-  - "#villain"
+  - "#Villain"
 ---
 
 ##### Brief Summary 

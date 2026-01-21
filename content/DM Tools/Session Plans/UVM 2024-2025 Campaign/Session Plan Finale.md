@@ -1,6 +1,12 @@
 ---
-date created: Wednesday, March 26th 2025, 1:06:00 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Session-Notes
+tags:
+  - DMS-Tools/Session-Plan
+  - DMS-Tools/Brainstorm
 ---
 
 4 more sessions 

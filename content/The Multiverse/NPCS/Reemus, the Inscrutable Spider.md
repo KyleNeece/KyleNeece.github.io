@@ -10,7 +10,7 @@ status: Dead
 affiliation: Far Realm
 tags:
   - Character/NPC
-  - "#villain"
+  - "#Villain"
 ---
 
 ##### Brief Summary 

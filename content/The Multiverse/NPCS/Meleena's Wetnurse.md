@@ -9,7 +9,7 @@ occupation: None
 status: Dead
 affiliation: Far Realm
 tags:
-  - villain
+  - Villain
   - "#Character/NPC"
 ---
 

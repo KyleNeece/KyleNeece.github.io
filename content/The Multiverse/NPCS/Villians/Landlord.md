@@ -10,7 +10,7 @@ status: Dead
 affiliation: Arangol
 tags:
   - Character/NPC
-  - villain
+  - Villain
 ---
 
 ##### Brief Summary 

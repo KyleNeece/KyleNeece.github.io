@@ -8,9 +8,10 @@ race:
 occupation: None
 status: Dead
 affiliation: Far Realm
+image: "[[Shadow of Ancient Evernight.png]]"
 tags:
   - Character/NPC
-  - villain
+  - Villain
 ---
 
 ##### Brief Summary 

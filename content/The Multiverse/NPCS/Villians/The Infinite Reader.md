@@ -11,11 +11,12 @@ race:
 occupation: Grand Requiem Creator
 status: N/A
 affiliation: The Creator
+image: "[[Infinite Reader Dream Form.png]]"
 tags:
   - Character/NPC
   - BBEG
   - Character/Player/DM/Avatar
-  - "#villain"
+  - "#Villain"
 ---
 
 ##### Brief Summary 

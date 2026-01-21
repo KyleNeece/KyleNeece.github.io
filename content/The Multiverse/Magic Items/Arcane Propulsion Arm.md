@@ -1,10 +1,14 @@
 ---
-date created: Wednesday, March 19th 2025, 12:06:35 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Prosthetic
+rarity: Very Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
-
-*Need a Hand? How about a projectile One*
-
 This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.
 
 While attached, the prosthetic provides these benefits:
@@ -15,4 +19,6 @@ While attached, the prosthetic provides these benefits:
 
 **Known Possessors**
 - [[Yasu-2]] 
+
+*Need a Hand? How about a projectile one*
  

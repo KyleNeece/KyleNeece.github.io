@@ -5,7 +5,7 @@ class:
   - Lore
 character-class: Runekeeper
 tags:
-  - "#villain"
+  - "#Villain"
   - Character/NPC
 ---
 

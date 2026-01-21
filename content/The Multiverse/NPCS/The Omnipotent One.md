@@ -10,6 +10,7 @@ race:
 occupation: Grand Requiem Creator
 status: N/A
 affiliation: The Creator
+image: "[[The Omnitemporal One.png]]"
 tags:
   - Character/NPC
   - Character/Player/DM/Avatar

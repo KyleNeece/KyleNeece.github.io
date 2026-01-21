@@ -8,10 +8,11 @@ race:
 occupation: Villain
 status: N/A
 affiliation: Darkness
+image: "[[The Fool.png]]"
 tags:
   - Character/NPC
   - "#BBEG"
-  - "#villain"
+  - "#Villain"
 ---
 
 ##### Brief Summary

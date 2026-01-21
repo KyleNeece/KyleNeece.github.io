@@ -8,6 +8,7 @@ race:
 occupation: None
 status: N/A
 affiliation: Far Realm
+image: "[[The Amorphous Shifter.png]]"
 tags:
   - Character/NPC
 ---

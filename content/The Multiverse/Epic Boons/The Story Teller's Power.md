@@ -1,6 +1,11 @@
 ---
-date created: Friday, March 21st 2025, 12:31:32 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:44:54 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Lore
+tags:
+  - Equipment/Permament
+  - DMS-Tools
 ---
 
 The Story Teller's Power is the power of [[Jackson Felwinter]] and [[Azriel Darkstar]]'s final forms which were obtained after their youth. This power is also in possession of Arangol and ⏁⊑⟒ ⟟⋏⎎⟟⋏⟟⏁⟒ ⍀⟒⏃⎅⟒⍀
@@ -23,7 +28,7 @@ The "True Evo's" origins stems from that of a creator (Aka a absolute being/a ob
 	- [[The Omnipotent One]] possesses the power of the writer. 
 		- The possessor is responsible for the progression of a story, and makes sure it is constantly moving forward. The Writer's job is to make sure there is always a story being written, as if a story does not exist, nothing exists. He is partially responsible for the existence of fiction (along with the other possessors of The Story Teller's Power). The Writer typically exists outside of the multiverse in a place called The Library Studio, where they writes infinite amounts of stories and looks over all of reality. Their power within a fictional setting is unknown as it is not supposed to be used within it and as such is supposed to live in The Library Studio forever. The Omnipotent One was irresponsible however and directly aided Jackson Felwinter, causing the events of Cour 3 which could be considered for better or worse depending on which of the possessors of The Story Teller's Power you ask or anyone beyond such a tier. They also has the ability to view certain things as fiction (but does not possess the power to change or delete anything, only create)
 - The power of the Reader 
-	- ⏁⊑⟒ ⟟⋏⎎⟟⋏⟟⏁⟒ ⍀⟒⏃⎅⟒⍀, also know as [[The Infinite Reader]] possesses the power of the reader 
+	- ⏁⊑⟒ ⟟⋏⎎⟟⋏⟟⏁⟒ ⍀⟒⏃⎅⟒⍀, also known as [[The Infinite Reader]] possesses the power of the reader 
 		- The possessor is responsible for the reading of all stories, and makes sure that such stories he reads are always told and read. If stories are not read, they do not exist and hence (in a meta sense) nothing exists. He is partially responsible for the existence of fiction (along with the other possessors of The Story Teller's Power). The Reader also typically exists outside of the multiverse in the Library Studio (in a different part then the reader), where they read infinite amounts of stories and looks over all of reality. Their power within a fictional setting was supposed unknown and unused, but as a result of ⏁⊑⟒ ⟟⋏⎎⟟⋏⟟⏁⟒ ⍀⟒⏃⎅⟒⍀ having disputes with the writer's stories, they attempted to change the story himself and overtake the writer's power and duty for himself. They also has the ability to view certain things as fiction (but does not possess the power to change or delete anything, only recall and tell)
 			- The power of the reader within the fictional world is represented as a book. While using the power, a large spectral intangible book appears behind the user, and allows for the user to go to any part of the story and use a power that was used within it, including author powers (though at a lesser level and tier)
 

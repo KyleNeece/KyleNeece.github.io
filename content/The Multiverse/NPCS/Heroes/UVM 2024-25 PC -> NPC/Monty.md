@@ -15,7 +15,7 @@ tags:
   - Character/NPC
   - Character/Player
   - BBEG
-  - villain
+  - Villain
   - Character/Player/DM/Avatar
 ---
 

@@ -10,7 +10,7 @@ status: N/A
 affiliation: Far Realm
 tags:
   - Character/NPC
-  - villain
+  - Villain
 ---
 
 ##### Brief Summary 

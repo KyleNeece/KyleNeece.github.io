@@ -1,6 +1,11 @@
 ---
-date created: Wednesday, October 15th 2025, 6:38:16 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Reference-Notes
+tags:
+  - DMS-Tools/Brainstorm
 ---
 
 1. NPCs Knowing too much, use rumors!

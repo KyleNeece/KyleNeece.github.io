@@ -10,7 +10,7 @@ status: N/A
 affiliation: Darkness
 tags:
   - Character/NPC
-  - villain
+  - Villain
   - DMS-Tools/Statblocks
 ---
 

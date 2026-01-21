@@ -11,7 +11,7 @@ status: Dead
 affiliation: Darkness
 tags:
   - Character/NPC
-  - villain
+  - Villain
 ---
 
 ##### Brief Summary

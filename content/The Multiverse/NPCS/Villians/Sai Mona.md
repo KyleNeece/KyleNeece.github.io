@@ -8,9 +8,10 @@ race:
 occupation: None
 status: Dead
 affiliation: Far Realm
+image: "[[Sai Mona The Moon Pressence.png]]"
 tags:
   - "#Character/NPC"
-  - villain
+  - Villain
 ---
 
 ##### Brief Summary 

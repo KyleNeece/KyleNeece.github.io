@@ -1,6 +1,11 @@
 ---
-date created: Monday, March 3rd 2025, 3:48:07 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Misc
+tags:
+  - DMS-Tools/Brainstorm
 ---
 
 More non combat encounters, I want some nice descriptions with large rooms full of people and things for the team to just interact with, without an overall goal or combat direction.

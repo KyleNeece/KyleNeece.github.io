@@ -9,9 +9,10 @@ race:
 occupation: Ruler of Seelie Court
 status: Alive
 affiliation: Seelie Court
+image: "[[Queen Titania.png]]"
 tags:
   - "#Character/NPC"
-  - "#villain"
+  - "#Villain"
 ---
 
 ##### Brief Summary 

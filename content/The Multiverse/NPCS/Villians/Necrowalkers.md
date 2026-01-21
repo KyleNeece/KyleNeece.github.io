@@ -9,7 +9,7 @@ occupation: Darkness
 status: N/A
 affiliation: Darkness
 tags:
-  - "#villain"
+  - "#Villain"
   - "#DMS-Tools/Statblocks"
   - "#Character/NPC"
 ---

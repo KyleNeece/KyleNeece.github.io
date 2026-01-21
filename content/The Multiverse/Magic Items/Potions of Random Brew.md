@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 5th 2025, 5:20:43 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Vials
+rarity: Very Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 The Vials of Random Brew are 3 magical potion vials used by [[Emily Sigiliph]]. 

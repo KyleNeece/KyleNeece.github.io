@@ -1,6 +1,12 @@
 ---
-date created: Friday, August 22nd 2025, 12:57:20 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 3:21:30 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - DMs-Tools
+Tool Type: Misc
+tags:
+  - DMS-Tools/Brainstorm
+  - DMS-Tools/Shop-List
 ---
 
 - **"PreOrder" Bonus Items (Depending on what you answered in the survey, will be available in shops but can start with them)**

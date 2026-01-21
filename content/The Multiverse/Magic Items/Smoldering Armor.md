@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 2:23:58 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Armor
+rarity: Common
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Wisps of harmless, odorless smoke rise from this armor while it is worn.

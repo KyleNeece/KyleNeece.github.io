@@ -1,6 +1,13 @@
 ---
-date created: Monday, April 14th 2025, 12:59:48 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Tattoo
+rarity: Common
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Magically imbued with the energies of the positive energy plane to give the wearer good dreams

@@ -1,13 +1,23 @@
 ---
-date created: Friday, September 12th 2025, 10:56:30 am
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Artificer
+race:
+  - Human
+occupation: Artificer
+status: Alive
+affiliation: None
+image: "[[Geppetto (Grand Requiem).png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary
 Geppetto is a genius engineer and invented Warforged that are able to gradually understand what it means to be human and can become one. His design is the finality of [[Jotor Sparklefen]] and [[Puppeteer Witch Iris Mindstring]]'s Warforged designs. 
 
 ##### Appearance
-![[Geppetto (Explorerers of the Multiverse).png]]
+![[Geppetto (Grand Requiem).png]]
 
 ##### Personality
 Geppetto is a caring and reflective father. He learns from his wrong doings as both and engineer and a human, and wishes for a world of utilitarianism. He loves his son, and hopes that he can become the model for all. Geppetto is a smart and calculating man, always thinking of his next invention while at the same time learning different philosophies.   

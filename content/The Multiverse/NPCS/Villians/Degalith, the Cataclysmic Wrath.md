@@ -10,7 +10,7 @@ status: Dead
 affiliation: Arendor Elven House
 tags:
   - Character/NPC
-  - villain
+  - Villain
 ---
 
 ##### Brief Summary 

@@ -1,6 +1,13 @@
 ---
-date created: Monday, March 3rd 2025, 3:48:07 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Special/Weapon
+rarity: Legendary
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 Of all the magic items created by the elves, one of the most prized and jealously guarded is a _moonblade_. In ancient times, nearly all elven noble houses claimed one such blade. Over the centuries, some blades have faded from the world, their magic lost as family lines have become extinct. Other blades have vanished with their bearers during great quests. Thus, only a few of these weapons remain.

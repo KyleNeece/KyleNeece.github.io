@@ -1,6 +1,10 @@
 ---
-date created: Saturday, April 26th 2025, 12:34:00 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:29:13 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Fable
+tags:
+  - "#Equipment/Permament"
 ---
 
 The Fable of Fortune is the fable given to Monty by the Infinite Reader. 

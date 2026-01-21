@@ -12,7 +12,7 @@ affiliation: Arangol
 tags:
   - BBEG
   - Character/NPC
-  - villain
+  - Villain
   - DMS-Tools/Statblocks
 ---
 

@@ -9,6 +9,7 @@ race:
 occupation: None
 status: Dead
 affiliation: Far Realm
+image: "[[Sisters of the Fallen Sanctity.png]]"
 tags:
   - Character/NPC
 ---

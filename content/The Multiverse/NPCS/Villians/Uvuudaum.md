@@ -10,9 +10,10 @@ race:
 occupation: None
 status: N/A
 affiliation: Far Realm
+image: "[[Uvuudaum.png]]"
 tags:
   - Character/NPC
-  - "#villain"
+  - "#Villain"
 ---
 
 ##### Brief Summary 

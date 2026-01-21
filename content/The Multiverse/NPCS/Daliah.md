@@ -1,12 +1,23 @@
 ---
-date created: Monday, March 3rd 2025, 3:48:07 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:21:26 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class: character
+character-class: Sorcerer
+race:
+  - Aberration
+  - Human
+occupation: Seelie Court Agent
+status: Dead
+affiliation: Seelie Court
+image: "[[Pasted image 20260120183107.png]]"
+tags:
+  - Character/NPC
 ---
 
 ##### Brief Summary 
 Daliah is a Aberrant Mind Sorcerer Phantom Rogue Changeling originating from the poorer parts of Waterdeep and former Agent of the Seelie Court
 ##### Appearance 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_DmkJI8PuLfH2uXXfUkmF2uM3f9nqUp4ejiff0tnPbOm42PIoE-LK3EF8452ZEncDemgA_IYQ2XVgn-_vMzUJP_LYtOQaIZNSWAwQ-expVuySvDIcbFCfcd5d_4zRy0oG8dguAg?key=EnPk9fkUSHjQjRDw6ceNMxvt)
+![[Pasted image 20260120183107.png]]
 ##### Personality 
 Daliah is deceptive, charismatic, and two faced yet reflective. She originally was caring and kind. Under the service of [[Titania, Queen of Seelie Court]], in combination with her unique obtained power, she lost all kindness and caring that she had. Since her disease started to take a toll on her body, she became very self centered and used others as a way to leverage herself until she can obtain the cure. 
 ##### Brief History/Timeline   

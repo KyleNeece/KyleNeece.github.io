@@ -11,7 +11,7 @@ status: Alive
 affiliation: Darkness
 tags:
   - Character/NPC
-  - "#villain"
+  - "#Villain"
   - BBEG
 ---
 

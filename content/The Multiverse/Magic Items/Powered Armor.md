@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 11:16:38 am
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Armor
+rarity: Legendary
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 Powered Armor is a magical Plate suit of armor 
