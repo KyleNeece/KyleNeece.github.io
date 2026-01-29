@@ -8,6 +8,7 @@ race:
 occupation: None
 status: N/A
 affiliation: Far Realm
+image: "[[Lullaby Lanterns.png]]"
 tags:
   - Character/NPC
   - Villain

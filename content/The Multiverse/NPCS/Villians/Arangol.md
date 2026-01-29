@@ -9,11 +9,11 @@ race:
 occupation: Himself
 status: Alive
 affiliation: Arangol
+image: "[[Arangol.png]]"
 tags:
   - BBEG
   - Character/NPC
   - Villain
-  - DMS-Tools/Statblocks
 ---
 
 ##### Brief Summary 

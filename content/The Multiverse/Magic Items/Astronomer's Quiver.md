@@ -1,6 +1,13 @@
 ---
-date created: Monday, March 3rd 2025, 3:48:07 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Quiver
+rarity: Very Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Astronomer's Quiver is a Quiver that produces special arrows that align with 12 Zodiac Signs on embroidered the Quiver. 

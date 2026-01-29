@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 12:26:31 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Mortar
+rarity: Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 This short tube, about 2 feet long and 6 inches in diameter, is made from mizzium, a magically enhanced metal alloy forged by the lzzet League. The end that's pointed toward a target is open, and a glowing ball of molten metal can be seen at the other end as long as the mortar has at least 1 charge remaining.

@@ -1,6 +1,13 @@
 ---
-date created: Monday, April 14th 2025, 1:00:51 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Cube
+rarity: Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 This Tiny cube looks like a jack-in-the-box. When you wind its crank as a [Magic](https://5e.tools/actions.html#magic_xphb) action, a merry tune emits from the box, the lid pops open, a creature appears in the nearest unoccupied space, and the lid closes. The lid can't otherwise be opened.

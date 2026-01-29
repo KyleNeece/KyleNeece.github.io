@@ -38,8 +38,8 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
  > - [[Alexander the Wayfarer]] 
  > - [[Veronica Vileblood]]
  > - [[Lucian Wyrmhart]]
- > - [[Unnamed One]] (Bebop/Carson)
- > - [[Geppetto]]
+ > - [[Carson Collodi]] (Bebop/Carson)
+ > - [[Giuseppe Geppetto]]
  > - [[Puppeteer Witch Iris Mindstring]]
  > - [[Orius Dryden]]
  > - [[The Fool]]

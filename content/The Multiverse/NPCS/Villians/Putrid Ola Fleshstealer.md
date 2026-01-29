@@ -9,6 +9,7 @@ race:
 occupation: Court of the Wise Harbinger
 status: Dead
 affiliation: Darkness
+image: "[[Night Hag.png]]"
 tags:
   - Character/NPC
   - Villain

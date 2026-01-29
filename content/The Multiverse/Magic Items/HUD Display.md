@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 12:42:18 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Armor
+rarity: Uncommon
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 HUD Display is Yasu-2's custom magic item upgrade to his body 

@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 4:35:07 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Equipment
+rarity: Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Judge of Soul Punishment is a magic item that turns souls into soul coins 

@@ -1,25 +1,32 @@
 ---
-date created: Wednesday, March 19th 2025, 2:03:18 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Lantern
+rarity: Common
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 This hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot-radius and dim light for an additional 30 feet.
 
 Each _Lantern of Tracking_ is designed to track down a certain type of creature, which is determined by rolling this creature type on the Lantern of Tracking table. Once determined, this creature type can't be changed. While the lantern is within 300 feet of any creature of that type, its flame turns bright green. The lantern doesn't pinpoint the creature's exact location, however.
 
-|Lantern of Tracking|   |
-|---|---|
-|d10|Creature Type|
-|1|Aberrations|
-|2|Celestials|
-|3|Constructs|
-|4|Dragons|
-|5|Elementals|
-|6|Fey|
-|7|Fiends|
-|8|Giants|
-|9|Monstrosities|
-|10|Undead|
+| Lantern of Tracking |               |
+| ------------------- | ------------- |
+| d10                 | Creature Type |
+| 1                   | Aberrations   |
+| 2                   | Celestials    |
+| 3                   | Constructs    |
+| 4                   | Dragons       |
+| 5                   | Elementals    |
+| 6                   | Fey           |
+| 7                   | Fiends        |
+| 8                   | Giants        |
+| 9                   | Monstrosities |
+| 10                  | Undead        |
 **Known Possessors**
 - [[Azriel Darkstar]] (Custom minor Rune, doesn't require oil, Fiends)
  

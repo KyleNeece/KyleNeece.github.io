@@ -99,7 +99,6 @@ traits:
     desc: You have advantage on all saving throws against spells and magical effects, and you have resistance against any damage caused by Spells and magical effects.
   - name: Telekenetic, Gift of the Metallic Dragon, Keen Mind, Telepathic, and Warcaster
     desc: see feats 
-  - 
 spells:
   - Cantrips: Prestidigitation, Voltaic Blade, Mage Hand, Glacier Blade, Arcane Shove, Lightning Beam, Construct Shot and Strike
   - 1st level (4 slots): Shield, Absorb Elements, Catapault, Chromatic Orb, Detect Magic, Thumderwave, Bless

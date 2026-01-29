@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 1:28:21 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Lyre
+rarity: Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 While holding this lyre, you can cast [Mending](http://dnd5e.wikidot.com/spell:mending) as an action. You can also play the lyre as a reaction when an object or a structure you can see within 300 feet of you takes damage, causing it to be immune to that damage and any further damage of the same type until the start of your next turn.

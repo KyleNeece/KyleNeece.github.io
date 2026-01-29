@@ -8,7 +8,7 @@ race:
 occupation: Adventurer
 status: Dead
 affiliation: Birdsong Elven House
-image: "[[Olivia Birdsong]]"
+image: "[[Olivia Birdsong.png]]"
 tags:
   - Character/NPC
   - Character/Player

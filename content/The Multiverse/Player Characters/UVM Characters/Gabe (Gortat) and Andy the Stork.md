@@ -8,6 +8,7 @@ race:
 occupation: Adventurer
 status: Dead
 affiliation: Oceador Kingdom
+image: "[[Gabe and Andy.jpeg]]"
 tags:
   - Character/Player
   - Character/NPC

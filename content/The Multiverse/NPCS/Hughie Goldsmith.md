@@ -8,6 +8,7 @@ race:
 occupation: Adventurer
 status: Alive
 affiliation: N/A
+image: "[[Hughie Goldsmith.png]]"
 tags:
   - Character/NPC
 ---

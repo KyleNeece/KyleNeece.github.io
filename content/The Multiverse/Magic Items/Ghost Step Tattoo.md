@@ -1,6 +1,13 @@
 ---
-date created: Monday, April 14th 2025, 12:59:19 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Tattoo
+rarity: Very Rare
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 Produced by a special needle, this tattoo shifts and wavers on the skin, parts of it appearing blurred.

@@ -7,7 +7,8 @@ race:
   - Fiend/Demon
 occupation: 54th Layer of the Abyss Demon Lord
 status: Dead
-affiliation: Arendor Elven House
+affiliation: Arendor Elven House (Former)
+image: "[[Degalith, the Catalysmic Wrath.png]]"
 tags:
   - Character/NPC
   - Villain

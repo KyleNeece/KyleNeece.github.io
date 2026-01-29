@@ -8,6 +8,7 @@ race:
 occupation: Darkness
 status: N/A
 affiliation: Darkness
+image: "[[Necrowalker.png]]"
 tags:
   - "#Villain"
   - "#DMS-Tools/Statblocks"

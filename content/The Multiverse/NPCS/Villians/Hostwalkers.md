@@ -8,6 +8,7 @@ race:
 occupation: Darkness
 status: N/A
 affiliation: Darkness
+image: "[[Hostwalker.png]]"
 tags:
   - Character/NPC
   - Villain

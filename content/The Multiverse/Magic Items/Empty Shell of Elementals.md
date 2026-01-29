@@ -1,6 +1,13 @@
 ---
-date created: Tuesday, March 18th 2025, 8:48:49 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Equipment
+rarity: Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Empty Shell of Elementals is a magical shell

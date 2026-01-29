@@ -1,6 +1,13 @@
 ---
-date created: Monday, April 14th 2025, 12:58:45 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Helmet
+rarity: Common
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 This antiquated, cone-shaped hat is adorned with gold crescent moons and stars. While you are wearing it, you gain the following benefits:

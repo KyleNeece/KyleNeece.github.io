@@ -9,6 +9,7 @@ race:
 occupation: Dryden Noble Family
 status: Alive
 affiliation: Darkness
+image: "[[Orius Dryden.png]]"
 tags:
   - Character/NPC
   - "#Villain"

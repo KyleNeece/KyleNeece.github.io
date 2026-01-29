@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 5:01:46 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Box
+rarity: Uncommon
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 An _infernal puzzle box_ is a cube-shaped container 5 to 6 inches on a side, composed of airtight, interlocking parts made from materials found in the Nine Hells. Most of these boxes are made of infernal iron, though some are carved from bone or horn. _Infernal puzzle boxes_ are used to safeguard diabolical contracts signed between devils and mortals, even after the terms of these contracts are fulfilled. An empty _infernal puzzle box_ weighs 3 pounds regardless of the materials used to fashion it.

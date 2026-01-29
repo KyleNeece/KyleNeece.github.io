@@ -8,6 +8,7 @@ race:
 occupation: None
 status: Dead
 affiliation: Far Realm
+image: "[[Reemus the inscrutable spider.png]]"
 tags:
   - Character/NPC
   - "#Villain"

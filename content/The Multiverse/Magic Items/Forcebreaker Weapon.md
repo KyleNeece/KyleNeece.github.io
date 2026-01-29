@@ -1,6 +1,13 @@
 ---
-date created: Tuesday, March 18th 2025, 9:37:40 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Weapon
+rarity: Very Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 A Force Breaker Weapon is a Magical Weapon 

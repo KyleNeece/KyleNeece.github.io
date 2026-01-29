@@ -1,6 +1,13 @@
 ---
-date created: Friday, April 18th 2025, 12:00:26 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Amulet
+rarity: Very Rare
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 Gift of the Serpent Mother is a magic Amulet given to Jackson Felwinter as an anniversary gift from Aria Hassan. 

@@ -1,6 +1,13 @@
 ---
-date created: Friday, April 11th 2025, 12:11:09 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Lute
+rarity: Very Rare
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 This reinforced lute be wielded as a magic Club that deals an extra 2d8 Thunder damage on a hit.

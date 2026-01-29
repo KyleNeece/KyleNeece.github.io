@@ -141,5 +141,5 @@ reactions:
 
 **[[4.4_Act 3 - Omnipresent War Arc]]  Brought Yasu-2 Upgrades**
 - Pipes of Haunting 
-- Staff of healing 
+- Staff of Healing 
 - Belt of Hill Giant Strength No Attunement 

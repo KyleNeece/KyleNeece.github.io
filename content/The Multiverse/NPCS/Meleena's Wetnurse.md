@@ -8,6 +8,7 @@ race:
 occupation: None
 status: Dead
 affiliation: Far Realm
+image: "[[Meleena's Wetnurse.png]]"
 tags:
   - Villain
   - "#Character/NPC"

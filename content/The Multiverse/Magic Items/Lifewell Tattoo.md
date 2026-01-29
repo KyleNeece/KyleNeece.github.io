@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 2:14:33 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type:
+rarity:
+Attunement:
+tags:
+  - "#Equipment"
 ---
 
 Produced by a special needle, this magic tattoo features symbols of life and rebirth.

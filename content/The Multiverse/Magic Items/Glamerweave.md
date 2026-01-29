@@ -1,6 +1,13 @@
 ---
-date created: Wednesday, March 19th 2025, 1:17:56 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Clothing
+rarity: Uncommon
+Attunement: None
+tags:
+  - "#Equipment"
 ---
 
 _Glamerweave_ is clothing imbued with harmless illusory magic. While wearing the common version of these clothes, you can use a bonus action to create a moving illusory pattern within the cloth.

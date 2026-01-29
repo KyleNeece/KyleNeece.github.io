@@ -1,6 +1,13 @@
 ---
-date created: Sunday, March 23rd 2025, 12:17:23 pm
-date modified: Monday, January 19th 2026, 3:27:55 pm
+date created: Monday, January 19th 2026, 2:25:41 pm
+date modified: Monday, January 19th 2026, 3:27:54 pm
+class:
+  - Item
+item-type: Symbiote
+rarity: Artifact
+Attunement: Yes
+tags:
+  - "#Equipment"
 ---
 
 The Eldritch Scarab is a sentient parasite that attached itself to [[Akanos]]. The user has to be bonded to the Scarab 

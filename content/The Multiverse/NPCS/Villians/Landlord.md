@@ -8,6 +8,7 @@ race:
 occupation: Villain
 status: Dead
 affiliation: Arangol
+image: "[[The Landlord.png]]"
 tags:
   - Character/NPC
   - Villain
