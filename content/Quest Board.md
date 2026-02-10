@@ -13,14 +13,13 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
  > 		- Gelirrcho 
  > 		- Gleh-el 
  > 		- Omegalith
- > 		- Rowan 
- > 		- Zutse
- > 			- Requirement to hunt the rest: Talk to John Price
- > - Claim your rewards and discounts at the magic item shop
- > - A new mysterious nest has opened up that is not Hoo Dini's, use the nest and unravel old mysteries (Danger level: N/A)
+ > 		- Rowan, Monarch of Puppets 
+ > 		- Zutse Toxinfang
+ > 			- Requirements: to hunt the rest, and talk to John Price
 
   > [!Important]
 **Side Quests**
+ > - !Talk to Joshua Price
  > - !Search for the shattered multiversal runes and decipher their new notations (Danger level: low)
  > - !Return to the silver church (Danger level: low)
  > - !Seek fellowship from the hunters guild and John Price (Danger level: low)
