@@ -6,9 +6,10 @@ class:
 tags:
   - Timeline
   - DMS-Tools
+  - "#Sigil-Academy-Rising-Heroes"
 ---
 
-The House Tournament Arc is a part of the second cour of the Felwinter Saga taking place after the [[2.3_The Illithid Mage Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
+The House Tournament Arc is a part of the second cour of the Felwinter Saga taking place after the [[Sigil Academy, Rising Heroes Arc 3 - The Illithid Mage Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
 
 ###### Prelude 
 The Peacekeeper Academy students took their final final exams for the year, and finished their first year of [[Peacekeeper Academy]]. 

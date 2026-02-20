@@ -9,7 +9,7 @@ Attunement: None
 tags:
   - "#Equipment"
 ---
-The Elixir of Sanity is a **theoretical** brew that supposedly can cure the madness disease. 
+The Elixir of Sanity is a **theoretical** brew that is the only supposeded cure tha can eliminate madness disease. 
 
 ## Steps to craft 
 

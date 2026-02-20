@@ -6,9 +6,10 @@ class:
 tags:
   - Timeline
   - DMS-Tools
+  - "#Sigil-Academy-Rising-Heroes"
 ---
 
-The Declaration of War Arc is a part of the second cour of the Felwinter Saga taking place after the [[2.4_Betrayal Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
+The Declaration of War Arc is a part of the second cour of the Felwinter Saga taking place after the [[Sigil Academy, Rising Heroes Arc 4 - Betrayal Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
 
 ###### Prelude 
 Following the events of [[Azriel Darkstar]] and [[Arangol]]'s invasion, Sigil had to rebuild their city and peoples faith in protection of the universe. Multiple characters departed on personal journeys. 

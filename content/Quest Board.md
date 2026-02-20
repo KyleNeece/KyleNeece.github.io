@@ -6,29 +6,28 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
   > [!Important]
  > **Main Quest**
  > - Unravel the secret to the Wise Harbinger 
+ > 	- Search for the shattered multiversal runes and decipher their new notations
+ > 		- Found: 
+ > 			- Yellow 
+ > 			- Blue
  > - Gather info, find and defeat the Court of the Wise Harbinger
  > 	- Completed: [[Putrid Ola Fleshstealer]]
- > 	- TD: 
- > 		- Decimus 
- > 		- Gelirrcho 
- > 		- Gleh-el 
- > 		- Omegalith
- > 		- Rowan, Monarch of Puppets 
- > 		- Zutse Toxinfang
- > 			- Requirements: to hunt the rest, and talk to John Price
+ > 	- To do (In order): 
+ > 		- [[Gleh-el ]]
+ > 		- [[Erzirichio]]
+ > 		- [[Omegalith]]
+ > 		- [[Decimus]]
+ > 		- [[Rowan, Monarch of Puppets]]
+ > 		- [[Zutse Toxinfang]]
+ > 			- Requirements: to hunt the rest
+
 
   > [!Important]
 **Side Quests**
- > - !Talk to Joshua Price
- > - !Search for the shattered multiversal runes and decipher their new notations (Danger level: low)
- > - !Return to the silver church (Danger level: low)
- > - !Seek fellowship from the hunters guild and John Price (Danger level: low)
  > - !Find out more about Abyss plunging (Danger level: low)
- > - !Find the way to repair the sunblade or obtain the sword of history (Danger level: N/A)
+ > - !Cure Madness (Danger level: N/A)
  > - !Find the glory that calls to you (Danger level: Low)
  > - Explore different planes of existence (Optional, Danger Level N/A)
- > - Mask Vileblood lineage
- > -  *!: Personal quest(s) interconnected with others may lie here*
 
  > [!NPCS]
  > - [[Shek Kai Yun]] 

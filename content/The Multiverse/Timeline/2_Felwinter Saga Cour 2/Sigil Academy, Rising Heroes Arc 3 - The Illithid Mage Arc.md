@@ -6,9 +6,10 @@ class:
 tags:
   - Timeline
   - DMS-Tools
+  - "#Sigil-Academy-Rising-Heroes"
 ---
 
-The House Tournament Arc is a part of the second cour of the Felwinter Saga taking place after the [[2.2_House Tournament Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
+The House Tournament Arc is a part of the second cour of the Felwinter Saga taking place after the [[Sigil Academy, Rising Heroes Arc 2 - House Tournament Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
 ###### Prelude
 Within the next few days, a planar wide funeral was held for [[Will Felwinter]]. With [[Arangol]]'s invasion turning the heads of the higher ups, confirming their suspicions of a high level threat to Sigil, the [[Peacekeeper Academy]] was given a break, in order to begin to figure out the situation at hand without the students getting in the way. 
 ###### Early 

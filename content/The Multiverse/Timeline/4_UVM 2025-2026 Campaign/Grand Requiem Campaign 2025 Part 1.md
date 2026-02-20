@@ -13,7 +13,7 @@ Previous (after hundreds of years): [[Session 22-End]]
 We start out with [[Nyleth Darkstar]] approaching the [[Aeris Arendor]] household. After beefing with some of the guards, Aeris comes outside to see the ruckus, for Nyleth to say that his uncle ([[Jackson Felwinter]]) sent him on a quest to find the [[Sword of History]]. It has gone missing and some of the Dryden clan was murdered as a result. Aeris invites him into his home, and the two are ambushed by Assassins who are able to sneak in. 
 At the same time, a mysterious man harnessed the Sword of History, and turned the universe into The Grand Requiem setting, releasing evil and dark forces that slowly take effect over time on the planes of existence in this specific Universe. 
 
-**Act 1**
+**Part 1**
 We then get to our heroes. [[Malakus???]], [[Hodor]], [[Gabe (Gortat) and Andy the Stork]], [[Grimli the great, Gatree the Magnificent, Gord the Rotund]], [[Geo Rockstiff]], and [[Quoric Neckelo]]. They are each surveying the yearly Sigil fair, when an invasion occurred. Each of our heroes began running towards the source as citizens run away. Upon arriving, they fight off shadows and a mysterious hag ([[Putrid Ola Fleshstealer]]). In doing so, a drop of blood awakens [[Veronica Vileblood]], and she helps them fight. Driving off the hag, she retreats, and the party comes together. 
 
 After they disperse, a mysterious force put a special golden ticket in their pockets, and transported them to the [[Dryden Estate]]. They meet [[Orius Dryden]], along with the many other members of the Estate: [[Hoo Dini]], [[Shek Kai Yun]], [[Carson Collodi]], [[Hughie Goldsmith]], and [[The Fool]]. The party are enlisted under Dryden's team to find his noble house's Sword of History. 
@@ -29,7 +29,7 @@ They then make a plan, and invade the Kingdom again after they freed most of the
 **Setting Change**
 As this happens, the spell from the Sword of History finally takes effect, and the entire Universe has become The Grand Requiem (see in progress setting document). 
 
-**Act 1 Continued**
+**Part 1 Continued**
 The party makes their way back to the Dryden estate after the event and reinstating the city. Dryden says that there has been a change in the Universe, and that there is a greater evil plaguing the land. The party then follow the rumors he found about the sword, and also find out more about his sadistic personality and worldview. 
 
 They then head to [[Arcadia]], and travel to [[The Lightning Storm King]]'s city. They seek information about [[Jackson Felwinter]]'s disappearance. They find his journal and the Sword of History, and find out that when he was on the plane, he was seeking the Sword as well, and was friends with the King. The party then moves around the City, and Malakus disrespects the king, who executes him for the three strike rule. He then gets an offer from [[Grimli the great, Gatree the Magnificent, Gord the Rotund]]'s patron, [[Aria Hassan]], who offers him to maintain his life but at the cost of being her slave as one of her Nightmare soldiers. He accepts, and becomes a nightmare soldier, resurrecting him and giving him more power. 

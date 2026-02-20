@@ -19,8 +19,10 @@ tags:
 Carson Collodi (given the nickname Bebop) is a Warforged who originates from the plane of Ebberon 
 
 ##### Appearance
+###### **Carson as a Warforged Puppet**
 ![[Unnamed One.png]]
-
+###### **Carson mid-post human transformation**
+![[Carson post transformation.png]]
 ##### Personality
 The Unnamed One was one of the first original prototypes for the making Machine's that were alive and autonomous. He possesses no personality traits, but is willing to learn what emotions and states of beings are. He hopes to be able to become more human and do good and adventures to learn more as such. 
 
@@ -40,11 +42,11 @@ name: Carson (Bebop) Collodi
 size: Meduim
 type: Warforged
 alignment: Neutral 
-ac: 21 (Shield, Breastplate, and Warforged)
-hp: 53
+ac: 21 (Shield, Plate Armor)
+hp: 74
 hit_dice: 5d8
 speed: 30
-stats: [13, 13, 14, 20, 13, 13]
+stats: [19, 13, 14, 20, 13, 13]
 fage_stats: 
 saves:
   - Strength: +4
@@ -60,18 +62,17 @@ cr: 6
 traits:
   - name: Mysterious Potential 
     desc: Carson does not adhere to all character class and abillity rules having to do with progression 
-  - name: Equipment (THIS IS JUST A LIST OF WHAT HE HAS)
-    desc: 3x healing potions, Morningstar, Breastplate, Shield, 1500
   - name: Warden's resolve 
     desc: when below half hp of your maximum, resistence to standard weapon damage types
+  - name: Portent 
+    desc: Roll 2x d20 per day and record numbers, can replace d20 dice rolls with them before they are rolled
 spells: 
-  - Cantrip: 
-  - 1st (2 Spell Slots): Absorb elements
+  - Cantrips: Mage hand, Ray of Frost, Resistance, Mending 
+  - 1st (4 Spell Slots): Absorb elements, Shield, Feather Fall, Silent Image, Silvery Barbs, Detect Magic, Charm Person, Jump, Cure Wounds (1x free)
+  - 2nd (2 Spell Slots): Shatter, Invisibility, Enhance ability 
 actions:
-  - name: Morning Star
-    desc: 1 attack, +4 to hit, melee weapon attack, 1d8+3 damage
-  - name: 
-    desc: 
+  - name: Ivy Felwinter's Blade (extra attack)
+    desc: +10 to hit, melee weapon attack, 1d8+4 damage
   - name: 
     desc: 
 bonus_actions:
@@ -82,8 +83,15 @@ bonus_actions:
 reactions:
   - name: Aegis
     desc: Whenever an attack roll misses, as a reaction you may deal 3d6 force damage to them. Can use this featue a number of times equal to your proficiency bonus per long rest
-  - name: protection 
+  - name: Protection 
     desc: When a creature you see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. 
+  - name: Gift of the Metallic Dragon
+    desc: When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. 3x/Long rest
 ```
 
-**Mention this: Party can distribute, 3 feats, a set of uncommon magic items (2) and a rare magic item, and 4 features
+**Items**
+- Gauntlets of Ogre Power 
+- 4x healing poitons 
+- Ivy Felwinters Blade 
+- Aegis Shield 
+- Boots of Striding and Springing 

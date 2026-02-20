@@ -32,7 +32,7 @@ Due to rumors of Lady Pains actions combined with the broken Sunblade, Jotor ins
 ###### Prelude Continued
 Jotor helped participate in the final battle versus Lady Pain and her army. Jotor played a key roll in figuring our how to attack the center of Sigil. 
 ###### The Twin Prodigies Arc
-After the events of the [[Epilogue to Cour 1 and Upbringing]] and before the [[2.1_Twin Prodigies Arc]], Jotor created Will's son, Jackson, a special Sunblade. 
+After the events of the [[Epilogue to Cour 1 and Upbringing]] and before the [[Sigil Academy, Rising Heroes Arc 1 - Twin Prodigies Arc]], Jotor created Will's son, Jackson, a special Sunblade. 
 Through his research after the battle for Sigil, Jotor found that new and different types of magic users began to appear across the multiverse. Curious about the phenomena, Jotor set out on an adventure to investigate. Under unfortunate circumstances, Jotor became lost, unable to find his way back to [[Sigil]].
 ###### Panmnesia Arc
  > [!Warning]- Spoilers Ahead

@@ -6,9 +6,10 @@ class:
 tags:
   - Timeline
   - DMS-Tools
+  - "#Sigil-Academy-Rising-Heroes"
 ---
 
-The House Tournament Arc is a part of the second cour of the Felwinter Saga taking place after the [[2.1_Twin Prodigies Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
+The House Tournament Arc is a part of the second cour of the Felwinter Saga taking place after the [[Sigil Academy, Rising Heroes Arc 1 - Twin Prodigies Arc]], following Jackson Felwinter and his party through their adventures in [[Sigil]]
 ###### Prelude
 The adventurers return back to [[Peacekeeper Academy]] in [[Sigil]] for semester 2 from their respective trips. At this point [[Jackson Felwinter]] and [[Aria Hassan]] are in a full on relationship, [[Azriel Darkstar]] and [[Olivia Birdsong]] are nearing one, [[Yasu-2]] invented [[Kabe-34]] with his creators blueprints, and [[Emily Sigiliph]] has become second in command in their family's army. In addition, each member of the party created a personalized magic item tailored to each of their styles. 
 
