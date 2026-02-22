@@ -15,7 +15,7 @@ tags:
   - DMS-Tools/Statblocks
 ---
 
-Hostwalkers are mutated abomination humanoids that serve as [[Arangol]]'s personal army and are the upgraded versions of Necrowalkers. 
+Hostwalkers are mutated abomination humanoids and are the upgraded versions of Necrowalkers. 
 ###### Appearance 
 ![[Hostwalker.png]]
 ###### Hostwalkers

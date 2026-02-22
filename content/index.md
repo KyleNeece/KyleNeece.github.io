@@ -21,5 +21,6 @@ Welcome to my DND wiki, where you can view all of the different aspects of my ca
  > - If there is something missing from the lore entries please let me know and I'll try my best to add it. You may also need to help me on this front
  > - See the new summary, [[Grand Requiem Campaign 2025 Part 1]]
  > - Here is the new in progress [Setting Document](https://docs.google.com/document/d/1TkP80bmKvUU6KzrvECmDwyb2h0Uum-TmbLu4PrNyVYE/edit?usp=sharing)
+ > - Here is the new [Question document](https://docs.google.com/document/d/17NOfgeRaIQ1GI5IxgJ_xNY08eqN5du2IcL4tTL53ucw/edit?tab=t.0)
  
  

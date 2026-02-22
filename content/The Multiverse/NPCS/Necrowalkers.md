@@ -15,7 +15,7 @@ tags:
   - "#Character/NPC"
 ---
 
-Necrowalkers are mutated abomination humanoids that serve as [[Arangol]]'s personal army.
+Necrowalkers are mutated abomination humanoids.
 ###### Appearance
 ![[Necrowalker.png]]
 
