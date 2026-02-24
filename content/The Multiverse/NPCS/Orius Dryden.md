@@ -45,4 +45,4 @@ He then publicly put out a search for the sword, and eventually recruited multip
 
 ##### Abilities
 > [!Warning]- Spoilers Here DO NOT CLICK
- > Orius possess all abilities of [[The Fool]], his family bloodline, and the Sword of History. He posses the abilities of The Fool because he is the main ego of him
+ > Orius possess all abilities of [[The Fool]], his family bloodline, and the Sword of History. He posses the abilities of The Fool because he is the alternate ego of him

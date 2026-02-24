@@ -18,7 +18,7 @@ tags:
 ##### Brief Summary
 The Fool is a mysterious clown.
 > [!Warning]- Spoilers Here DO NOT CLICK
- > He is the alter ego of [[Orius Dryden]]
+ > He is the main ego of [[Orius Dryden]]
 
 ##### Appearance
 ![[The Fool.png]]
