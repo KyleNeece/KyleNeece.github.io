@@ -13,7 +13,6 @@ image: "[[Orius Dryden.png]]"
 tags:
   - Character/NPC
   - "#Villain"
-  - BBEG
 ---
 
 ##### Brief Summary
