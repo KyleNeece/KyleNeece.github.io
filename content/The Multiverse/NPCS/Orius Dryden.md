@@ -32,10 +32,14 @@ While generally polite in conversation, Orius is openly and very sadistic, and e
 ###### Origins/Adolescence
 Orius is the incarnation of his ancestor that murdered the 4 noble human clans (with exceptions of [[Jackson Felwinter]] and [[Anna Efrideet]]). 
 
-At some point in the past, a young Orius Dryden asked his father about [[The Omnipotent One]]. The father replied that [[The Omnipotent One]] is one of the main lynchpins that holds the planes of existence together and that without it, they would collapse on each other, self-imploding. When Orius asked what the world was before [[The Omnipotent One]], his father got furious and says that there was no history prior to the Omnipotent One's birth, and that everyone should be happy a being so wise and powerful exists in the first place. Orius pretended to be satisfied, but secretly bided his time, crafting a plan to destroy him.
+At some point in the past, a young Orius Dryden asked his father about [[The Omnipotent One]]. The father replied that [[The Omnipotent One]] is one of the main lynchpins that holds the planes of existence together and that without it, they would collapse on each other, self-imploding. When Orius asked what the world was before [[The Omnipotent One]], his father got furious and says that there was no history prior to the Omnipotent One's birth, and that everyone should be happy a being so wise and powerful exists in the first place. 
+> [!Warning]- Spoilers Here DO NOT CLICK
+> Orius pretended to be satisfied, but secretly bided his time, crafting a plan to destroy him.
 
 ###### Omnipresent War Arc
-Orius along with the rest of the nobles, stayed away from the dangers of the [[The Istoria Rytsarey]] invasion. He waited to make his move years later, with the sword effectively keeping him alive. 
+Orius along with the rest of the nobles, stayed away from the dangers of the [[The Istoria Rytsarey]] invasion. 
+> [!Warning]- Spoilers Here DO NOT CLICK 
+> He waited to make his move years later, with the sword effectively keeping him alive. 
 
 ###### Campaign 2
 > [!Warning]- Spoilers Here DO NOT CLICK
