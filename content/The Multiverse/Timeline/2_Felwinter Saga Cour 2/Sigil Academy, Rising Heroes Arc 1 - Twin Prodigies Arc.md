@@ -4,9 +4,8 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
 class:
   - Event
 tags:
-  - Timeline
   - DMS-Tools
-  - "#Sigil-Academy-Rising-Heroes"
+  - "#Timeline/Sigil-Academy-Rising-Heroes"
 ---
 
 The Twin Prodigies Arc is a part of the second cour of the Felwinter Saga and sequel to the first cour (See [[Epilogue to Cour 1 and Upbringing]]), following Jackson Felwinter and his party through their adventures in [[Sigil]]

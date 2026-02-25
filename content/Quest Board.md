@@ -11,9 +11,8 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
  > 			- Yellow 
  > 			- Blue
  > - Gather info, find and defeat the Court of the Wise Harbinger
- > 	- Completed: [[Putrid Ola Fleshstealer]]
+ > 	- Completed: [[Putrid Ola Fleshstealer]], [[Gleh-el]]
  > 	- To do (In order): 
- > 		- [[Gleh-el ]]
  > 		- [[Erzirichio]]
  > 		- [[Omegalith]]
  > 		- [[Decimus]]
