@@ -35,7 +35,6 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
 - Excuse me after you reflection mirror 
 - 5 ghosts 2 wights 3 vampires 6 zombie picture answer is time
 - Sacrifice blood to enter secret room and elevator 
-- A passing room of lust, need two virgins to do the deed
 
 **Social**
 - Guards at the front, says that they are not supposed to be here, party must convince them they belong 
