@@ -11,11 +11,8 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
  > 			- Yellow 
  > 			- Blue
  > - Gather info, find and defeat the Court of the Wise Harbinger
- > 	- Completed: [[Putrid Ola Fleshstealer]], [[Gleh-el]]
+ > 	- Completed: [[Putrid Ola Fleshstealer]], [[Gleh-el]], [[Decimus]]
  > 	- To do (In order): 
- > 		- [[Erzirichio]]
- > 		- [[Omegalith]]
- > 		- [[Decimus]]
  > 		- [[Rowan, Monarch of Puppets]]
  > 		- [[Zutse Toxinfang]]
  > 			- Requirements: to hunt the rest

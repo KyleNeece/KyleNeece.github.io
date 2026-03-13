@@ -16,7 +16,7 @@ tags:
 		- Location: Abyss 
 	- Orange 
 		- Joy, Warmth, Creativity
-		- Location: Far Realm
+		- Location: Rowan 
 	- Yellow 
 		- Happy, Energy, Desire
 		- Location: Pendant
