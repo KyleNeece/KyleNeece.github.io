@@ -43,38 +43,53 @@ size: Meduim
 type: Warforged
 alignment: Neutral 
 ac: 21 (Shield, Plate Armor)
-hp: 74
-hit_dice: 5d8
+hp: 124 (Warden + Tough)
+hit_dice: 12d8
 speed: 30
 stats: [19, 13, 14, 20, 13, 13]
 fage_stats: 
 saves:
-  - Strength: +4
-  - Constitution: +5
-  - Wisdom: +4
+  - Strength: +8
+  - Constitution: +6
+  - Wisdom: +5
 skillsaves:
-  - Religion: +8
-  - Arcana: +8
-  - Medicine: +4
+  - Religion: +9
+  - Arcana: +9
+  - Medicine: +5
+  - Stealth: +5
 senses: passive Perception 11
 languages: Common
-cr: 6
+cr: 11
 traits:
   - name: Mysterious Potential 
-    desc: Carson does not adhere to all character class and abillity rules having to do with progression 
+    desc: Carson does not adhere to any and all character class and abillity rules having to do with progression 
   - name: Warden's resolve 
     desc: when below half hp of your maximum, resistence to standard weapon damage types
   - name: Portent 
     desc: Roll 2x d20 per day and record numbers, can replace d20 dice rolls with them before they are rolled
+  - name: Thundering Charge 
+    desc: First round of combat speed increase 30 feet and first weapon attack has advantage 
+  - name: Undying
+    desc: 1x per long rest if drop to 0 hit points and not killed outright drop to 1 instead
+  - name: Interrupt 
+    desc: When a creature hits you with an attack, you can use your reaction to prevent one of its subsequent strikes. If the creature could make additional attacks before the end of the turn, it can make one fewer than normal
+  - name: expert diviner 
+    desc: When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level
 spells: 
   - Cantrips: Mage hand, Ray of Frost, Resistance, Mending 
   - 1st (4 Spell Slots): Absorb elements, Shield, Feather Fall, Silent Image, Silvery Barbs, Detect Magic, Charm Person, Jump, Cure Wounds (1x free)
-  - 2nd (2 Spell Slots): Shatter, Invisibility, Enhance ability 
+  - 2nd (2 Spell Slots): Shatter, Invisibility, Enhance ability, Blur, Spiritual Weapon 
+  - 3rd (3 Spell slots): Lightning Bolt, Haste, Fly
+  - 4th (3 Spell slots): Divination, Arcane Eye, Summon Construct
+  - 5th (2 Spell slots): Animate Objects, Legend Lore, Steel Wind Strike
+  - 6th (1 Spell slots): Tenser's Transformation, Tahsa's Otherwordly Guise
 actions:
   - name: Ivy Felwinter's Blade (extra attack)
-    desc: +10 to hit, melee weapon attack, 1d8+4 damage
-  - name: 
-    desc: 
+    desc: +11 to hit, melee weapon attack, 1d8+7 slashing plus 1d6 force damage
+  - name: Justice Strike
+    desc: You can cast Steel Wind Strike 1x per long rest. Whenever you cast Steel Wind Strike, you can target the same target twice and add your weapon damage to the damage rolls once per target. 
+  - name: Verdant Skin 
+    desc: You can use your action to draw a thick mass of vines and leaves to conceal you. Until you move, you have advantage on Dexterity (Stealth) checks you make to hide among vegetation
 bonus_actions:
   - name: Warden's Grasp
     desc: Until the start of your next turn, you can’t move, and each Large or smaller creature you choose within 5 feet of you can’t willingly move away from you unless it first takes the Disengage action.
@@ -95,3 +110,12 @@ reactions:
 - Ivy Felwinters Blade 
 - Aegis Shield 
 - Boots of Striding and Springing 
+- Bracer of Flying Daggers 
+
+**Fables**
+- Fable of the Eternal Youth 
+	- Whenever you are hit with a given damage type, gain immunity to that damage type
+	- When you take the attack action on your turn, you may forgo each of your immunities to make a number of attacks equal to the amount of immunities you gained. Once you use this feature you cannot use it again for the next 7 days 
+- Fable of the puppet who became a boy 
+	- You age slower and are considered human for the purposes of your race 
+	- As an action you may expend all the magic stored from the transformation to cure one condition. Once you use this feature it cannot be used again.  

@@ -6,16 +6,13 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
   > [!Important]
  > **Main Quest**
  > - Unravel the secret to the Wise Harbinger 
- > 	- Search for the shattered multiversal runes and decipher their new notations
+ > 	- !Search for the shattered multiversal runes and decipher their new notations
  > 		- Found: 
  > 			- Yellow 
  > 			- Blue
- > - Gather info, find and defeat the Court of the Wise Harbinger
- > 	- Completed: [[Putrid Ola Fleshstealer]], [[Gleh-el]], [[Decimus]]
- > 	- To do (In order): 
- > 		- [[Rowan, Monarch of Puppets]]
- > 		- [[Zutse Toxinfang]]
- > 			- Requirements: to hunt the rest
+ > 			- Red
+ > 			- Purple
+ > 	- Abyss Dive
 
 
   > [!Important]
@@ -23,7 +20,6 @@ date modified: Monday, January 19th 2026, 3:27:54 pm
  > - !Find out more about Abyss plunging (Danger level: low)
  > - !Cure Madness (Danger level: N/A)
  > - !Find the glory that calls to you (Danger level: Low)
- > - Explore different planes of existence (Optional, Danger Level N/A)
 
  > [!NPCS]
  > - [[Shek Kai Yun]] 

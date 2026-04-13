@@ -319,6 +319,45 @@ reactions:
   - name: Reflective Scales 3x/day
     desc: Whenever Jurlungur takes fire, lightning, ice, thunder, or acid damage, as a reaction can reduce the damage to zero and deal damage to another target with 60 feet equal to the amount of damage reduced.
 ```
+###### Berserker Barbarian 
+```statblock
+name: Berserker
+source: 5e SRD
+size: Medium
+type: humanoid
+subtype: any race
+alignment: any chaotic alignment
+ac: 13
+hp: 67
+hit_dice: 9d8 + 26
+speed: 30 ft.
+stats:
+  - 16
+  - 12
+  - 17
+  - 9
+  - 11
+  - 9
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+languages: any one language (usually Common)
+cr: "2"
+bestiary: true
+traits:
+  - name: Reckless
+    desc: At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+    attack_bonus: 0
+actions:
+  - name: Greataxe
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage."
+    attack_bonus: 5
+    damage_dice: 1d12
+    damage_bonus: 3
+
+```
 
 ###### Vronos
 ```statblock
@@ -349,7 +388,7 @@ traits:
   - name: Marshal General
     desc: Unless Vronos is incapacitated, it and all of Aria's other summons within 30 feet of it have advantage on saving throws against features that would inflict mental conditions
   - name: Herretical Smite
-    desc: Whenever Morgath hits with a weapon attack, it can expend one spell slot to deal necrotic or fire damage to the target in addition to the weapons damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each level higher than the first. 
+    desc: Whenever Vronos hits with a weapon attack, it can expend one spell slot to deal necrotic or fire damage to the target in addition to the weapons damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each level higher than the first. 
 spells:
   - "Vronos is a 19th evel spellcaster. Its spellcasting abillity is Charisma (spell save DC 17, +9 to hit with spell attacks). It has the following spells prepared"
   - At Will: Firebolt, Phantom Steed
@@ -365,10 +404,10 @@ actions:
     desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. *Hit*: 9 (1d8 + 5) slashing or 10 (1d10+5) slashing damage if used with two hands. Plus 9 (2d8) necrotic damage"
 bonus_actions:
   - name: Baneful Interdect (4x/rest)
-    desc: As a bonus action, Morgath places a seal on a creature within 30 feet of it that it can see. When Morgath or one of it's allies hits a target with at least one seal with a melee attack, it can consume the seals to deal an extra 10 (3d6) necrotic damage per seal consumed. 
+    desc: As a bonus action, Vronos places a seal on a creature within 30 feet of it that it can see. When Vronos or one of it's allies hits a target with at least one seal with a melee attack, it can consume the seals to deal an extra 10 (3d6) necrotic damage per seal consumed. 
 reactions:
   - name: Parry
-    desc: Morgath adds 6 to its AC against one melee attack that would it it. To do so, Morgath must see the attacker and be wielding a melee weapon 
+    desc: Vronos adds 6 to its AC against one melee attack that would it it. To do so, Morgath must see the attacker and be wielding a melee weapon 
   - name: Loaded Seal
     desc: When you place a seal on an enemy, as a reaction you can cast a spell that normally has a casting time of 1 action
 ```

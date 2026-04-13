@@ -26,26 +26,23 @@ tags:
 	- Black/White 
 		- Balance must be maintained through optimal suffering so an observer is satisfied 
 
-
-**The 7 deadly court members**
-- [[Zutse Toxinfang]] (Yuan Ti and Dragon)
-- [[Rowan, Monarch of Puppets]] (Warforged)
-- [[Putrid Ola Fleshstealer]] (Deceased) 
-- [[Omegalith]] (Mind flayer) 
-- [[Decimus]] (Vampire)
-- [[Erzirichio]] (Gelatinous Plasmoid) 
-- [[Gleh-el]] (Hobgoblin, deceased) 
-
 **Abyss Plunging**
-- Talk to the Hunters guild
-- Talk to Aeris 
-- Talk to Nyleth and Georgia  
-- Talk to Aria 
-- Go to church beforehand 
-- Reach and clear floor 10 
-- Reach and clear floor 100
-- Reach final floor before the realm of absolute evil  
 - Defeat Zutse Toxicfang 
+- Daniel report to hoodini 
+	- Writes the fool is orius but orius isn't the fool 
+	- The fool is listening 
+- Carson return: "for the... both of us.... thats right... youre gonna... (hand on head)... live... you'll be... my living legacy... (hand goes away)... (hands a pair of shortswords)... My honor, my dreams, theyre yours now..."
+	- Embrace your dreams, if you want to be a hero, you need to have dreams
+	- MAKE SHORTSWORDS FOR NEXT TIME 
+	- LEGENDARY MAGIC ITEMS FOR BEN, ELI, DANIEL 
+		- Scarab of protection for Ben 
+		- Illusionists Bracers for Daniel 
+		- Stonebreaker Breastblade for Ben 
 - Harvest motes of darkness 
+- The scene, the fool is the bbeg reveal 
+- Meteor, large battle scene, final dungeon and fight 
 
-**AT SOMEPOINT WANT MANUAL OF QUICKNESS ACTION**
+
+
+epilogue  - church becomes a shelter for women 
+

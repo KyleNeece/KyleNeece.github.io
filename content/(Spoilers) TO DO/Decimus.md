@@ -13,6 +13,9 @@ tags:
 date created: Monday, January 19th 2026, 2:21:26 pm
 date modified: Monday, January 19th 2026, 3:27:54 pm
 ---
+![[Pasted image 20260412154645.png]]
+
+
 **Dungeon Format**
 - An abandoned mansion, old fashioned vampiric mansion 
 - Doors swing open 

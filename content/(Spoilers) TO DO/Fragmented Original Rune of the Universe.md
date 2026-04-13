@@ -16,19 +16,20 @@ tags:
 		- Location: Abyss 
 	- Orange 
 		- Joy, Warmth, Creativity
-		- Location: Rowan 
+		- Location: Rowan (found)
 	- Yellow 
 		- Happy, Energy, Desire
-		- Location: Pendant
+		- Location: Pendant (found)
 	- Green 
 		- Health, Wealth, Growth 
 		- Location: John Price Secret Stash
 	- Blue 
 		- Calm, Trust, Stability 
-		- Location: In old Sunblade
+		- Location: In old Sunblade (found)
 	- Purple 
 		- Ambition, Royalty, Power
-		- Location: Church
+		- Location: Church 9found)
 	- Black/White 
 		- Death, Life, Balance 
 		- Location: Bebop
+

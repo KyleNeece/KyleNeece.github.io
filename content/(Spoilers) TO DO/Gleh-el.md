@@ -13,6 +13,8 @@ tags:
 date created: Monday, January 19th 2026, 2:21:26 pm
 date modified: Monday, January 19th 2026, 3:27:54 pm
 ---
+![[Pasted image 20260412144700.png]]
+
 **Dungeon Format**
 - A huge moving continent in the sky 
 	- med center 
